@@ -295,31 +295,34 @@ def build_cobertura(numerador: pd.DataFrame, denominador: pd.DataFrame) -> dict[
 def build_cobertura_sex(numerador: pd.DataFrame, denominador_sex: pd.DataFrame) -> dict[str, dict[str, pd.DataFrame]]:
     """Build cobertura by sex: returns dict[level][sexo] -> DataFrame.
     sexo values: 'Hombre', 'Mujer'
-    The numerador has total_hombres/total_mujeres (total 15+ by sex, no age breakdown).
-    The denominador has full age-sex breakdown. We use total_hombres/total_mujeres
-    as the numerador for total_15_mas, and leave age-specific cols as NaN.
+    The numerador includes total 15+ by sex and, when available, age-by-sex columns
+    such as 20_24_hombres / 20_24_mujeres.
     """
     numerador = numerador[numerador["es_aps"].eq(True)].copy()
     denominador_sex = denominador_sex[denominador_sex["es_aps"].eq(True)].copy()
 
     sex_map = {
-        "Hombre": {"num_col": "total_hombres", "den_suffix": "Hombre"},
-        "Mujer": {"num_col": "total_mujeres", "den_suffix": "Mujer"},
+        "Hombre": {"num_total_col": "total_hombres", "num_suffix": "hombres", "den_suffix": "Hombre"},
+        "Mujer": {"num_total_col": "total_mujeres", "num_suffix": "mujeres", "den_suffix": "Mujer"},
     }
 
     outputs: dict[str, dict[str, pd.DataFrame]] = {}
     for level in ["establecimiento", "comuna", "servicio_salud", "rm"]:
         outputs[level] = {}
         for sexo, mapping in sex_map.items():
-            # 1) Numerador: aggregate total_hombres/total_mujeres by geography
-            num_agg = aggregate_by_level(numerador, level, [mapping["num_col"]])
-            num_agg = num_agg.rename(columns={mapping["num_col"]: "total_15_mas_numerador_sex"})
+            num_value_cols = [mapping["num_total_col"]]
+            num_rename = {mapping["num_total_col"]: "total_15_mas_numerador"}
+            for age_col in AGE_COLS:
+                if age_col == "total_15_mas":
+                    continue
+                src_col = f"{age_col}_{mapping['num_suffix']}"
+                if src_col in numerador.columns:
+                    num_value_cols.append(src_col)
+                    num_rename[src_col] = f"{age_col}_numerador"
+            num_agg = aggregate_by_level(numerador, level, num_value_cols).rename(columns=num_rename)
 
-            # 2) Denominador sex-specific columns
             den_suffix = mapping["den_suffix"]
             den_cols = [f"{c}_{den_suffix}" for c in AGE_COLS]
-            den_cols_keep = geo_columns(level) + den_cols
-            # Need to re-aggregate denominador_sex to the level
             den_renamed = {c: c.replace(f"_{den_suffix}", "") for c in den_cols}
             den_agg = aggregate_by_level(denominador_sex, level, den_cols)
             den_agg = den_agg.rename(columns=den_renamed)
@@ -330,18 +333,17 @@ def build_cobertura_sex(numerador: pd.DataFrame, denominador_sex: pd.DataFrame) 
             out["sexo"] = sexo
 
             for age_col in AGE_COLS:
-                if age_col == "total_15_mas":
-                    num_val = out["total_15_mas_numerador_sex"].fillna(0)
-                    out[f"{age_col}_numerador"] = num_val
-                else:
-                    out[f"{age_col}_numerador"] = 0
+                num_col = f"{age_col}_numerador"
+                if num_col not in out.columns:
+                    out[num_col] = 0
+                out[num_col] = pd.to_numeric(out[num_col], errors="coerce").fillna(0)
                 den_col_val = out[age_col] if age_col in out.columns else 0
                 out[f"{age_col}_denominador"] = pd.to_numeric(den_col_val, errors="coerce").fillna(0)
                 out[f"{age_col}_cobertura_pct"] = (
-                    out[f"{age_col}_numerador"] / out[f"{age_col}_denominador"] * 100
+                    out[num_col] / out[f"{age_col}_denominador"] * 100
                 ).where(out[f"{age_col}_denominador"].gt(0))
 
-            out = out.drop(columns=[c for c in ["total_15_mas_numerador_sex"] + AGE_COLS if c in out.columns], errors="ignore")
+            out = out.drop(columns=[c for c in AGE_COLS if c in out.columns], errors="ignore")
             outputs[level][sexo] = out.sort_values(join_cols)
     return outputs
 
@@ -466,13 +468,24 @@ def build_risk_prevalence(riesgo: pd.DataFrame, cobertura: dict[str, pd.DataFram
 
 def build_risk_prevalence_sex(riesgo: pd.DataFrame, cobertura_sex: dict[str, dict[str, pd.DataFrame]]) -> dict[str, dict[str, pd.DataFrame]]:
     riesgo = riesgo[riesgo["es_aps"].eq(True)].copy()
-    sex_map = {"Hombre": "total_hombres", "Mujer": "total_mujeres"}
+    sex_map = {
+        "Hombre": {"total_col": "total_hombres", "suffix": "hombres"},
+        "Mujer": {"total_col": "total_mujeres", "suffix": "mujeres"},
+    }
     outputs: dict[str, dict[str, pd.DataFrame]] = {}
     for level in ["establecimiento", "comuna", "servicio_salud", "rm"]:
         outputs[level] = {}
-        for sexo, sex_col in sex_map.items():
-            agg = aggregate_by_level(riesgo, level, [sex_col], ["factor_riesgo"])
-            agg = agg.rename(columns={sex_col: "sex_count"})
+        for sexo, mapping in sex_map.items():
+            risk_value_cols = [mapping["total_col"]]
+            risk_rename = {mapping["total_col"]: "total_15_mas"}
+            for age_col in AGE_COLS:
+                if age_col == "total_15_mas":
+                    continue
+                src_col = f"{age_col}_{mapping['suffix']}"
+                if src_col in riesgo.columns:
+                    risk_value_cols.append(src_col)
+                    risk_rename[src_col] = age_col
+            agg = aggregate_by_level(riesgo, level, risk_value_cols, ["factor_riesgo"]).rename(columns=risk_rename)
             cov = cobertura_sex[level][sexo]
             cov_cols = [col for col in cov.columns if col.endswith("_numerador")]
             cov_slim = cov[geo_columns(level) + cov_cols]
@@ -481,14 +494,14 @@ def build_risk_prevalence_sex(riesgo: pd.DataFrame, cobertura_sex: dict[str, dic
             out["sexo"] = sexo
             for age_col in AGE_COLS:
                 num_col = f"{age_col}_numerador"
-                if age_col == "total_15_mas":
-                    out["total_15_mas"] = out["sex_count"].fillna(0)
-                else:
+                if age_col not in out.columns:
                     out[age_col] = 0
+                if num_col not in out.columns:
                     out[num_col] = 0
+                out[age_col] = pd.to_numeric(out[age_col], errors="coerce").fillna(0)
+                out[num_col] = pd.to_numeric(out[num_col], errors="coerce").fillna(0)
                 base_total = out[num_col].fillna(0)
                 out[f"{age_col}_prevalencia_pct"] = (out[age_col] / base_total * 100).where(base_total.gt(0))
-            out = out.drop(columns=["sex_count"], errors="ignore")
             outputs[level][sexo] = out.sort_values(geo_columns(level) + ["factor_riesgo"])
     return outputs
 
@@ -510,13 +523,24 @@ def build_nutrition_distribution(nutricion: pd.DataFrame, cobertura: dict[str, p
 
 def build_nutrition_distribution_sex(nutricion: pd.DataFrame, cobertura_sex: dict[str, dict[str, pd.DataFrame]]) -> dict[str, dict[str, pd.DataFrame]]:
     nutricion = nutricion[nutricion["es_aps"].eq(True)].copy()
-    sex_map = {"Hombre": "total_hombres", "Mujer": "total_mujeres"}
+    sex_map = {
+        "Hombre": {"total_col": "total_hombres", "suffix": "hombres"},
+        "Mujer": {"total_col": "total_mujeres", "suffix": "mujeres"},
+    }
     outputs: dict[str, dict[str, pd.DataFrame]] = {}
     for level in ["establecimiento", "comuna", "servicio_salud", "rm"]:
         outputs[level] = {}
-        for sexo, sex_col in sex_map.items():
-            agg = aggregate_by_level(nutricion, level, [sex_col], ["categoria_estado_nutricional"])
-            agg = agg.rename(columns={sex_col: "sex_count"})
+        for sexo, mapping in sex_map.items():
+            nut_value_cols = [mapping["total_col"]]
+            nut_rename = {mapping["total_col"]: "total_15_mas"}
+            for age_col in AGE_COLS:
+                if age_col == "total_15_mas":
+                    continue
+                src_col = f"{age_col}_{mapping['suffix']}"
+                if src_col in nutricion.columns:
+                    nut_value_cols.append(src_col)
+                    nut_rename[src_col] = age_col
+            agg = aggregate_by_level(nutricion, level, nut_value_cols, ["categoria_estado_nutricional"]).rename(columns=nut_rename)
             cov = cobertura_sex[level][sexo]
             cov_cols = [col for col in cov.columns if col.endswith("_numerador")]
             cov_slim = cov[geo_columns(level) + cov_cols]
@@ -525,14 +549,14 @@ def build_nutrition_distribution_sex(nutricion: pd.DataFrame, cobertura_sex: dic
             out["sexo"] = sexo
             for age_col in AGE_COLS:
                 num_col = f"{age_col}_numerador"
-                if age_col == "total_15_mas":
-                    out["total_15_mas"] = out["sex_count"].fillna(0)
-                else:
+                if age_col not in out.columns:
                     out[age_col] = 0
+                if num_col not in out.columns:
                     out[num_col] = 0
+                out[age_col] = pd.to_numeric(out[age_col], errors="coerce").fillna(0)
+                out[num_col] = pd.to_numeric(out[num_col], errors="coerce").fillna(0)
                 base_total = out[num_col].fillna(0)
                 out[f"{age_col}_distribucion_pct"] = (out[age_col] / base_total * 100).where(base_total.gt(0))
-            out = out.drop(columns=["sex_count"], errors="ignore")
             outputs[level][sexo] = out.sort_values(geo_columns(level) + ["categoria_estado_nutricional"])
     return outputs
 
