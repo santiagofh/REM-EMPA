@@ -449,7 +449,7 @@ def make_bar_chart(
         alt.Chart(df)
         .mark_bar(cornerRadiusTopLeft=5, cornerRadiusTopRight=5)
         .encode(
-            x=alt.X(f"{category_col}:N", sort=None, title=None, axis=alt.Axis(labelAngle=-45)),
+            x=alt.X(f"{category_col}:N", sort=None, title=None, axis=alt.Axis(labelAngle=-45, labelLimit=300)),
             y=alt.Y(f"{value_col}:Q", title=None),
             tooltip=tooltip,
         )
