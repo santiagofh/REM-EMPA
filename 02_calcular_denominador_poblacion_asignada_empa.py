@@ -123,7 +123,7 @@ def standardize_denominator_frame(year: str, df: pd.DataFrame) -> pd.DataFrame:
             }
         )
         renamed["RegionCodigo"] = "13"
-        renamed["RegionGlosa"] = "Region Metropolitana"
+        renamed["RegionGlosa"] = "Región Metropolitana"
         renamed["IdServicio_den"] = pd.NA
     else:
         renamed = df.rename(
@@ -139,7 +139,7 @@ def standardize_denominator_frame(year: str, df: pd.DataFrame) -> pd.DataFrame:
             }
         )
         renamed["RegionCodigo"] = "13"
-        renamed["RegionGlosa"] = "Region Metropolitana"
+        renamed["RegionGlosa"] = "Región Metropolitana"
         renamed["IdServicio_den"] = pd.NA
 
     required = [

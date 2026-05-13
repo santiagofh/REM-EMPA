@@ -320,10 +320,10 @@ def metadata_frame(config: dict) -> pd.DataFrame:
     rows = [
         ("region_objetivo", config["region_objetivo"]),
         ("periodo", "2023-2025"),
-        ("numerador_cobertura", "REM A02 seccion B, suma anual de categorias Normal/Bajo peso/Sobrepeso/Obesidad"),
-        ("denominador", "Bases FONASA de poblacion inscrita en APS disponibles localmente, usadas como aproximacion operativa de poblacion inscrita y validada"),
-        ("grupos_etarios", "15-24, 25-34, 35-44, 45-54, 55-64, 65 y mas"),
-        ("factores_riesgo", "Glicemia alterada, colesterol elevado, tabaquismo, presion arterial elevada"),
+        ("numerador_cobertura", "REM A02 sección B, suma anual de categorías Normal/Bajo peso/Sobrepeso/Obesidad"),
+        ("denominador", "Bases FONASA de población inscrita y validada en APS"),
+        ("grupos_etarios", "15-24, 25-34, 35-44, 45-54, 55-64, 65 y más"),
+        ("factores_riesgo", "Glicemia alterada, colesterol elevado, tabaquismo, presión arterial elevada"),
     ]
     # Fecha de corte por ano: modificacion de cada archivo REM fuente
     for year, raw_path in config["input_paths"]["series_a"].items():

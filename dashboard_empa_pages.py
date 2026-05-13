@@ -17,7 +17,7 @@ SECTIONS = {
     "nutricion": "Estado nutricional",
     "riesgo": "Factores de riesgo",
     "profesional": "Profesional que realiza EMPA",
-    "metodologia": "Metodologia",
+    "metodologia": "Metodología",
 }
 
 SECTION_FILES = {
@@ -31,14 +31,14 @@ SEXO_OPTIONS = ["Ambos sexos", "Hombre", "Mujer"]
 SEXO_FILE_MAP = {"Hombre": "hombre", "Mujer": "mujer"}
 
 SECTION_DESCRIPTIONS = {
-    "cobertura": "Cobertura anual de EMPA sobre poblacion inscrita y validada.",
-    "nutricion": "Distribucion del estado nutricional en personas con EMPA realizado.",
+    "cobertura": "Cobertura anual de EMPA sobre población inscrita y validada.",
+    "nutricion": "Distribución del estado nutricional en personas con EMPA realizado.",
     "riesgo": "Prevalencia observada de factores de riesgo en personas con EMPA.",
-    "profesional": "Participacion por profesional que realiza el EMPA.",
+    "profesional": "Participación por profesional que realiza el EMPA.",
 }
 
 LEVEL_LABELS = {
-    "rm": "Region Metropolitana",
+    "rm": "Región Metropolitana",
     "servicio_salud": "Servicio de Salud",
     "comuna": "Comuna",
     "establecimiento": "Establecimiento",
@@ -47,13 +47,14 @@ LEVEL_LABELS = {
 LEVEL_ORDER = ["rm", "servicio_salud", "comuna", "establecimiento"]
 
 AGE_LABELS = {
-    "total_15_mas": "15 y mas",
+    "total_15_mas": "15 y más",
+
     "15_24": "15 a 24",
     "25_34": "25 a 34",
     "35_44": "35 a 44",
     "45_54": "45 a 54",
     "55_64": "55 a 64",
-    "65_mas": "65 y mas",
+    "65_mas": "65 y más",
 }
 
 AGE_ORDER = list(AGE_LABELS.keys())
@@ -72,7 +73,7 @@ TEXT_TOKENS = (
     "valor",
 )
 
-RM_LABEL = "Region Metropolitana"
+RM_LABEL = "Región Metropolitana"
 
 
 def _file_path(section: str, level: str, sexo: str | None = None) -> Path:
@@ -153,14 +154,14 @@ def format_int(value: float | int | None) -> str:
 def format_pct(value: float | int | None) -> str:
     if value is None or pd.isna(value):
         return "-"
-    return f"{float(value):.1f}%"
+    return f"{float(value):.1f}%".replace(".", ",")
 
 
 def format_pp_delta(current: float | int | None, previous: float | int | None) -> str | None:
     if current is None or previous is None or pd.isna(current) or pd.isna(previous):
         return None
     delta = float(current) - float(previous)
-    return f"{delta:+.1f} pp"
+    return f"{delta:+.1f} pp".replace(".", ",")
 
 
 def slugify(text: str) -> str:
@@ -327,7 +328,7 @@ def age_profile_from_coverage(agg: pd.Series) -> pd.DataFrame:
         rows.append(
             {
                 "Grupo etario": label,
-                "Cobertura pct": agg.get(pct_col, pd.NA),
+                "Cobertura (%)": agg.get(pct_col, pd.NA),
             }
         )
     return pd.DataFrame(rows)
@@ -432,7 +433,7 @@ def make_bar_chart(
     title: str,
     horizontal: bool = False,
 ) -> alt.Chart:
-    tooltip = [alt.Tooltip(f"{category_col}:N", title="Categoria"), alt.Tooltip(f"{value_col}:Q", title="Valor", format=".2f")]
+    tooltip = [alt.Tooltip(f"{category_col}:N", title="Categoría"), alt.Tooltip(f"{value_col}:Q", title="Valor", format=".2f")]
     if horizontal:
         return (
             alt.Chart(df)
@@ -475,11 +476,11 @@ def rename_geo_columns(df: pd.DataFrame) -> pd.DataFrame:
             "establecimiento_master": "Establecimiento",
             "dependencia_master": "Dependencia",
             "tipo_establecimiento_master": "Tipo establecimiento",
-            "categoria_estado_nutricional": "Categoria",
+            "categoria_estado_nutricional": "Categoría",
             "factor_riesgo": "Factor de riesgo",
             "profesional": "Profesional",
             "total_ambos_sexos": "Total EMPA",
-            "proporcion_profesional_pct": "Proporcion profesional pct",
+            "proporcion_profesional_pct": "Proporción profesional (%)",
         }
     )
 
@@ -496,7 +497,6 @@ def render_download_button(section: str, year: int, scope: str, sheets: dict[str
 
 def render_home_page() -> None:
     st.title("Dashboard REM EMPA")
-    st.caption("Dashboard regional de EMPA para la Region Metropolitana, basado en salidas 2023-2025 ya procesadas.")
 
     metadata = load_metadata()
     if not metadata.empty:
@@ -507,63 +507,63 @@ def render_home_page() -> None:
             fechas.append(f"{year}: {fecha}")
         st.markdown("**Fecha de corte:** " + " | ".join(fechas))
 
-    st.markdown("### Informacion disponible")
+    st.markdown("### Información disponible")
     for key in [k for k in SECTIONS if k != "metodologia"]:
         st.markdown(f"- **{SECTIONS[key]}**: {SECTION_DESCRIPTIONS[key]}")
 
     st.markdown(
         """
-### Como navegar
-- Usa el menu lateral para seleccionar la seccion de interes.
-- Filtra por año, nivel geografico, grupo etario y sexo segun corresponda.
-- Los graficos y tablas se actualizan automaticamente con los filtros aplicados.
+### Cómo navegar
+- Usa el menú lateral para seleccionar la sección de interés.
+- Filtra por año, nivel geográfico, grupo etario y sexo según corresponda.
+- Los gráficos y tablas se actualizan automáticamente con los filtros aplicados.
         """
     )
 
 
 def render_metodologia_page() -> None:
-    st.title("Metodologia")
-    st.caption("Descripcion de la metodologia utilizada para la construccion de indicadores REM EMPA en la Region Metropolitana, periodo 2023-2025.")
+    st.title("Metodología")
+    st.caption("Descripción de la metodología utilizada para la construcción de indicadores REM EMPA en la Región Metropolitana, período 2023-2025.")
 
     metadata = load_metadata()
     if metadata.empty:
-        st.error("No se encontro el archivo de metadatos.")
+        st.error("No se encontró el archivo de metadatos.")
         st.stop()
 
     meta = dict(zip(metadata["campo"].astype(str).str.strip(), metadata["valor"].astype(str).str.strip()))
 
-    st.markdown("### Periodo y alcance")
-    st.markdown(f"- **Region**: Metropolitana ({meta.get('region_objetivo', 'N/A')})")
-    st.markdown(f"- **Periodo**: {meta.get('periodo', 'N/A')}")
+    st.markdown("### Período y alcance")
+    st.markdown(f"- **Región**: Metropolitana ({meta.get('region_objetivo', 'N/A')})")
+    st.markdown(f"- **Período**: {meta.get('periodo', 'N/A')}")
     fechas = []
     for year in ["2023", "2024", "2025"]:
         fecha = meta.get(f"fecha_corte_{year}", "N/A")
         fechas.append(f"{year}: {fecha}")
     st.markdown(f"- **Fechas de corte**: {', '.join(fechas)}")
 
-    st.markdown("### Construccion de indicadores")
+    st.markdown("### Construcción de indicadores")
     st.markdown(f"- **Numerador de cobertura**: {meta.get('numerador_cobertura', 'N/A')}.")
     st.markdown(f"- **Denominador**: {meta.get('denominador', 'N/A')}.")
     st.markdown(f"- **Grupos etarios considerados**: {meta.get('grupos_etarios', 'N/A')}.")
     st.markdown(f"- **Factores de riesgo monitoreados**: {meta.get('factores_riesgo', 'N/A')}.")
 
-    st.markdown("### Notas metodologicas")
+    st.markdown("### Notas metodológicas")
     st.markdown("- La cobertura anual se calcula sumando los registros mensuales del REM A02 dentro de cada año calendario.")
-    st.markdown("- El numerador de cobertura utiliza las categorias de la seccion B del REM A02 (Normal, Bajo peso, Sobrepeso, Obesidad), que corresponden al EMP con resultado de estado nutricional y entregan el desglose etario requerido.")
-    st.markdown("- El denominador se construye a partir de las bases de poblacion inscrita en APS de FONASA disponibles localmente, utilizadas como aproximacion operativa de la poblacion inscrita y validada.")
-    st.markdown("- Los establecimientos de atencion primaria se identifican mediante el maestro local de establecimientos, a traves del campo NivelAtencionEstabglosa.")
+    st.markdown("- El numerador de cobertura utiliza las categorías de la sección B del REM A02 (Normal, Bajo peso, Sobrepeso, Obesidad), que corresponden al EMP con resultado de estado nutricional y entregan el desglose etario requerido.")
+    st.markdown("- El denominador se construye a partir de las bases de población inscrita y validada en APS de FONASA.")
+    st.markdown("- Los establecimientos de atención primaria se identifican mediante el maestro local de establecimientos, no mediante la base de establecimientos del DEIS.")
 
 
 def render_cobertura_page() -> None:
     st.title("Dashboard REM EMPA · Cobertura")
-    st.caption("Cobertura anual de EMPA sobre poblacion inscrita y validada.")
+    st.caption("Cobertura anual de EMPA sobre población inscrita y validada.")
 
     years = list_years()
     with st.sidebar:
         st.header("Filtros")
         year = st.selectbox("Año", years, index=0, key="cob_year")
         level = st.selectbox(
-            "Desagregacion",
+            "Desagregación",
             LEVEL_ORDER,
             index=0,
             format_func=lambda value: LEVEL_LABELS[value],
@@ -586,7 +586,7 @@ def render_cobertura_page() -> None:
     sexo_param = sexo if sexo != "Ambos sexos" else None
     data = load_section_data("cobertura", level, sexo_param)
     if data.empty:
-        st.error("No se encontro el archivo de cobertura para el nivel seleccionado.")
+        st.error("No se encontró el archivo de cobertura para el nivel seleccionado.")
         st.stop()
 
     year_df = data[data["Ano"].eq(year)].copy()
@@ -598,7 +598,7 @@ def render_cobertura_page() -> None:
     filtered_all_years = apply_geo_filters(data, filters)
 
     if filtered_year.empty:
-        st.warning("No hay registros para la combinacion seleccionada.")
+        st.warning("No hay registros para la combinación seleccionada.")
         st.stop()
 
     scope = selected_scope_label(level, filters)
@@ -612,7 +612,7 @@ def render_cobertura_page() -> None:
     c1.metric("Cobertura EMPA", format_pct(current.get(pct_col)), delta=format_pp_delta(current.get(pct_col), previous_pct))
     c2.metric("Numerador", format_int(current.get(num_col)))
     c3.metric("Denominador", format_int(current.get(den_col)))
-    st.caption(f"Ambito actual: {scope}")
+    st.caption(f"Ámbito actual: {scope}")
 
     left, right = st.columns([1.2, 1])
     with left:
@@ -620,12 +620,12 @@ def render_cobertura_page() -> None:
             trend[[col for col in ["Ano", pct_col] if col in trend.columns]].dropna(),
             "Ano",
             pct_col,
-            f"Evolucion {AGE_LABELS[age_key].lower()}",
+            f"Evolución {AGE_LABELS[age_key].lower()}",
         )
         st.altair_chart(chart, use_container_width=True)
     with right:
         age_profile = age_profile_from_coverage(current)
-        chart = make_bar_chart(age_profile, "Grupo etario", "Cobertura pct", f"Perfil por edad · {year}")
+        chart = make_bar_chart(age_profile, "Grupo etario", "Cobertura (%)", f"Perfil por edad · {year}")
         st.altair_chart(chart, use_container_width=True)
 
     ranking_level = "servicio_salud" if level == "rm" else level
@@ -640,16 +640,16 @@ def render_cobertura_page() -> None:
         columns={
             num_col: "Numerador",
             den_col: "Denominador",
-            pct_col: "Cobertura pct",
+            pct_col: "Cobertura (%)",
         }
     )
     ranking_display = display_table(
         ranking_view,
-        percent_cols=["Cobertura pct"],
+        percent_cols=["Cobertura (%)"],
         int_cols=["Numerador", "Denominador"],
     )
 
-    st.markdown("### Ranking territorial")
+    st.markdown("### Tabla EMPA Cobertura")
     st.dataframe(ranking_display, use_container_width=True, height=380)
 
     summary_table = pd.DataFrame(
@@ -657,10 +657,10 @@ def render_cobertura_page() -> None:
             "Grupo etario": [AGE_LABELS[item] for item in AGE_ORDER],
             "Numerador": [current.get(f"{item}_numerador") for item in AGE_ORDER],
             "Denominador": [current.get(f"{item}_denominador") for item in AGE_ORDER],
-            "Cobertura pct": [current.get(f"{item}_cobertura_pct") for item in AGE_ORDER],
+            "Cobertura (%)": [current.get(f"{item}_cobertura_pct") for item in AGE_ORDER],
         }
     )
-    summary_display = display_table(summary_table, percent_cols=["Cobertura pct"], int_cols=["Numerador", "Denominador"])
+    summary_display = display_table(summary_table, percent_cols=["Cobertura (%)"], int_cols=["Numerador", "Denominador"])
 
     with st.expander("Resumen por grupo etario"):
         st.dataframe(summary_display, use_container_width=True, height=320)
@@ -691,7 +691,7 @@ def render_category_page(
         st.header("Filtros")
         year = st.selectbox("Año", years, index=0, key=f"{section}_year")
         level = st.selectbox(
-            "Desagregacion",
+            "Desagregación",
             LEVEL_ORDER,
             index=0,
             format_func=lambda value: LEVEL_LABELS[value],
@@ -714,7 +714,7 @@ def render_category_page(
     sexo_param = sexo if sexo != "Ambos sexos" else None
     data = load_section_data(section, level, sexo_param)
     if data.empty:
-        st.error("No se encontro el archivo esperado para la seccion seleccionada.")
+        st.error("No se encontró el archivo esperado para la sección seleccionada.")
         st.stop()
 
     year_df = data[data["Ano"].eq(year)].copy()
@@ -726,7 +726,7 @@ def render_category_page(
     filtered_all_years = apply_geo_filters(data, filters)
 
     if filtered_year.empty:
-        st.warning("No hay registros para la combinacion seleccionada.")
+        st.warning("No hay registros para la combinación seleccionada.")
         st.stop()
 
     current_summary = summarize_category_section(filtered_year, category_col, pct_suffix)
@@ -735,7 +735,7 @@ def render_category_page(
     with st.sidebar:
         options = current_summary[category_col].dropna().astype(str).tolist()
         selected_category = st.selectbox(
-            "Categoria",
+            "Categoría",
             options,
             index=0,
             key=f"{section}_category",
@@ -743,7 +743,7 @@ def render_category_page(
 
     current_row = current_summary[current_summary[category_col].astype(str) == selected_category]
     if current_row.empty:
-        st.warning("No fue posible resumir la categoria seleccionada.")
+        st.warning("No fue posible resumir la categoría seleccionada.")
         st.stop()
     current_row = current_row.iloc[0]
 
@@ -762,21 +762,21 @@ def render_category_page(
     c1, c2, c3 = st.columns(3)
     c1.metric(selected_category, format_pct(current_row.get(pct_col)), delta=format_pp_delta(current_row.get(pct_col), previous_pct))
     c2.metric("Casos observados", format_int(current_row.get(age_key)))
-    c3.metric("Poblacion evaluada", format_int(total_evaluados))
-    st.caption(f"Ambito actual: {scope} | Categoria lider total 15 y mas: {leader[category_col]} ({format_pct(leader.get(total_pct_col))})")
+    c3.metric("Población evaluada", format_int(total_evaluados))
+    st.caption(f"Ámbito actual: {scope} | Categoría líder total 15 y más: {leader[category_col]} ({format_pct(leader.get(total_pct_col))})")
 
     composition = current_summary[[category_col, age_key, pct_col]].copy().sort_values(pct_col, ascending=False)
-    composition = composition.rename(columns={category_col: "Categoria", age_key: "Casos", pct_col: "Porcentaje"})
+    composition = composition.rename(columns={category_col: "Categoría", age_key: "Casos", pct_col: "Porcentaje"})
 
     trend_chart_df = trend_summary[trend_summary[category_col].astype(str) == selected_category][["Ano", pct_col]].dropna()
     trend_chart_df = trend_chart_df.rename(columns={pct_col: "Porcentaje"})
 
     left, right = st.columns([1.15, 1])
     with left:
-        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolucion de {selected_category.lower()}")
+        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolución de {selected_category.lower()}")
         st.altair_chart(chart, use_container_width=True)
     with right:
-        chart = make_bar_chart(composition, "Categoria", "Porcentaje", f"Distribucion {year}")
+        chart = make_bar_chart(composition, "Categoría", "Porcentaje", f"Distribución {year}")
         st.altair_chart(chart, use_container_width=True)
 
     ranking_level = "servicio_salud" if level == "rm" else level
@@ -792,39 +792,40 @@ def render_category_page(
     ranking_view = rename_geo_columns(ranking_view).rename(
         columns={
             age_key: "Casos",
-            f"{age_key}_numerador": "Poblacion evaluada",
+            f"{age_key}_numerador": "Población evaluada",
             ranking_pct_col: "Porcentaje",
         }
     )
     ranking_display = display_table(
         ranking_view,
         percent_cols=["Porcentaje"],
-        int_cols=["Casos", "Poblacion evaluada"],
+        int_cols=["Casos", "Población evaluada"],
     )
 
-    st.markdown("### Ranking territorial")
+    table_title = "Tabla Estados nutricionales" if section == "nutricion" else "Tabla Factores de riesgo"
+    st.markdown(f"### {table_title}")
     st.dataframe(ranking_display, use_container_width=True, height=380)
 
     summary_columns = [category_col]
     summary_rename_map = {
-        "total_15_mas": "Casos total 15 y mas",
-        "total_15_mas_numerador": "Poblacion total 15 y mas",
-        total_pct_col: "Porcentaje total 15 y mas",
+        "total_15_mas": "Casos total 15 y más",
+        "total_15_mas_numerador": "Población total 15 y más",
+        total_pct_col: "Porcentaje total 15 y más",
     }
-    summary_percent_cols = ["Porcentaje total 15 y mas"]
-    summary_int_cols = ["Casos total 15 y mas", "Poblacion total 15 y mas"]
+    summary_percent_cols = ["Porcentaje total 15 y más"]
+    summary_int_cols = ["Casos total 15 y más", "Población total 15 y más"]
 
     if age_key != "total_15_mas":
         summary_columns += [age_key, f"{age_key}_numerador", pct_col]
         summary_rename_map.update(
             {
                 age_key: "Casos grupo etario",
-                f"{age_key}_numerador": "Poblacion grupo etario",
+                f"{age_key}_numerador": "Población grupo etario",
                 pct_col: "Porcentaje grupo etario",
             }
         )
         summary_percent_cols.insert(0, "Porcentaje grupo etario")
-        summary_int_cols = ["Casos grupo etario", "Poblacion grupo etario"] + summary_int_cols
+        summary_int_cols = ["Casos grupo etario", "Población grupo etario"] + summary_int_cols
 
     summary_columns += ["total_15_mas", "total_15_mas_numerador", total_pct_col]
 
@@ -837,7 +838,7 @@ def render_category_page(
         int_cols=summary_int_cols,
     )
 
-    with st.expander("Resumen por categoria"):
+    with st.expander("Resumen por categoría"):
         st.dataframe(current_display, use_container_width=True, height=320)
 
     render_download_button(
@@ -861,7 +862,7 @@ def render_professional_page() -> None:
         st.header("Filtros")
         year = st.selectbox("Año", years, index=0, key="prof_year")
         level = st.selectbox(
-            "Desagregacion",
+            "Desagregación",
             LEVEL_ORDER,
             index=0,
             format_func=lambda value: LEVEL_LABELS[value],
@@ -877,7 +878,7 @@ def render_professional_page() -> None:
     sexo_param = sexo if sexo != "Ambos sexos" else None
     data = load_section_data("profesional", level, sexo_param)
     if data.empty:
-        st.error("No se encontro el archivo de profesionales para el nivel seleccionado.")
+        st.error("No se encontró el archivo de profesionales para el nivel seleccionado.")
         st.stop()
 
     year_df = data[data["Ano"].eq(year)].copy()
@@ -889,7 +890,7 @@ def render_professional_page() -> None:
     filtered_all_years = apply_geo_filters(data, filters)
 
     if filtered_year.empty:
-        st.warning("No hay registros para la combinacion seleccionada.")
+        st.warning("No hay registros para la combinación seleccionada.")
         st.stop()
 
     current_summary = summarize_professional_section(filtered_year)
@@ -920,7 +921,7 @@ def render_professional_page() -> None:
     c2.metric("EMPA del profesional", format_int(current_row.get("total_ambos_sexos")))
     c3.metric("Total EMPA filtrados", format_int(total_empa))
     st.caption(
-        f"Ambito actual: {scope} | Profesional predominante: {leader['profesional']} ({format_pct(leader.get('proporcion_profesional_pct'))})"
+        f"Ámbito actual: {scope} | Profesional predominante: {leader['profesional']} ({format_pct(leader.get('proporcion_profesional_pct'))})"
     )
 
     distribution = current_summary.rename(
@@ -937,10 +938,10 @@ def render_professional_page() -> None:
 
     left, right = st.columns([1.15, 1])
     with left:
-        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolucion de {selected_professional.lower()}")
+        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolución de {selected_professional.lower()}")
         st.altair_chart(chart, use_container_width=True)
     with right:
-        chart = make_bar_chart(distribution, "Profesional", "Porcentaje", f"Participacion {year}")
+        chart = make_bar_chart(distribution, "Profesional", "Porcentaje", f"Participación {year}")
         st.altair_chart(chart, use_container_width=True)
 
     ranking_level = "servicio_salud" if level == "rm" else level
@@ -952,15 +953,16 @@ def render_professional_page() -> None:
     ranking_cols = [col for col in available_unit_columns(ranking_level) if col in ranking_df.columns]
     ranking_cols += ["total_ambos_sexos", "proporcion_profesional_pct"]
     ranking_view = ranking_df[ranking_cols].sort_values("proporcion_profesional_pct", ascending=False)
-    ranking_view = rename_geo_columns(ranking_view).rename(
+    ranking_view = ranking_view.rename(
         columns={
             "total_ambos_sexos": "Total EMPA",
             "proporcion_profesional_pct": "Porcentaje",
         }
     )
+    ranking_view = rename_geo_columns(ranking_view)
     ranking_display = display_table(ranking_view, percent_cols=["Porcentaje"], int_cols=["Total EMPA"])
 
-    st.markdown("### Ranking territorial")
+    st.markdown("### Tabla Profesionales")
     st.dataframe(ranking_display, use_container_width=True, height=380)
 
     summary_display = display_table(
@@ -1006,5 +1008,5 @@ def render_section_page(section: str) -> None:
     if section == "profesional":
         render_professional_page()
         return
-    st.error(f"Seccion no reconocida: {section}")
+    st.error(f"Sección no reconocida: {section}")
     st.stop()
