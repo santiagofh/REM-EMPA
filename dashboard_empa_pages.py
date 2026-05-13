@@ -972,6 +972,7 @@ def render_category_page(
     st.caption(SECTION_DESCRIPTIONS[section])
 
     years = list_years()
+    sexo_age_limited = section in {"nutricion", "riesgo"}
     with st.sidebar:
         st.header("Filtros")
         year = st.selectbox("Año", years, index=0, key=f"{section}_year")
@@ -982,18 +983,19 @@ def render_category_page(
             format_func=lambda value: LEVEL_LABELS[value],
             key=f"{section}_level",
         )
-        age_key = st.selectbox(
-            "Grupo etario",
-            AGE_ORDER,
-            index=0,
-            format_func=lambda value: AGE_LABELS[value],
-            key=f"{section}_age",
-        )
         sexo = st.selectbox(
             "Sexo",
             SEXO_OPTIONS,
             index=0,
             key=f"{section}_sexo",
+        )
+        age_options = ["total_15_mas"] if sexo_age_limited and sexo != "Ambos sexos" else AGE_ORDER
+        age_key = st.selectbox(
+            "Grupo etario",
+            age_options,
+            index=0,
+            format_func=lambda value: AGE_LABELS[value],
+            key=f"{section}_age",
         )
 
     sexo_param = sexo if sexo != "Ambos sexos" else None
@@ -1061,6 +1063,8 @@ def render_category_page(
     c2.metric("Casos observados", format_int(current_row.get(age_key)))
     c3.metric("Población evaluada", format_int(total_evaluados))
     st.caption("pp: Variación en puntos porcentuales respecto al año anterior")
+    if sexo_age_limited and sexo != "Ambos sexos":
+        st.caption("En esta vista por sexo, la fuente disponible solo permite total 15 y más; no hay desglose etario por sexo.")
 
     composition_cols = [col for col in [category_col, age_key, pct_col] if col in current_summary.columns]
     composition = current_summary[composition_cols].copy()
