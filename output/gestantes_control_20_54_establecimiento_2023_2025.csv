@@ -1,0 +1,806 @@
+﻿Ano,IdServicio_master,servicio_salud_master,IdComuna_master,comuna_master,IdEstablecimiento,establecimiento_master,tipo_establecimiento_master,dependencia_master,gestantes_20_54,mes_corte_gestantes
+2023,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109302,Centro de Salud Familiar Lucas Sierra,Centro de Salud Familiar (CESFAM),Municipal,120,12
+2023,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109308,Centro de Salud Familiar Alberto Bachelet Martínez,Centro de Salud Familiar (CESFAM),Municipal,83,12
+2023,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109309,Centro de Salud Familiar José Symon Ojeda,Centro de Salud Familiar (CESFAM),Municipal,56,12
+2023,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109314,Centro de Salud Familiar Juanita Aguirre,Centro de Salud Familiar (CESFAM),Municipal,92,12
+2023,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109709,Centro Comunitario de Salud Familiar Dr. José Symón Ojeda,Centro Comunitario de Salud Familiar (CECOSF),Municipal,44,12
+2023,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,200347,Centro Comunitario de Salud Familiar Alberto Bachelet,Centro Comunitario de Salud Familiar (CECOSF),Municipal,19,12
+2023,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109305,Centro de Salud Familiar La Pincoya,Centro de Salud Familiar (CESFAM),Municipal,97,12
+2023,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109317,Centro de Salud Familiar El Barrero,Centro de Salud Familiar (CESFAM),Municipal,58,12
+2023,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109323,Centro de Salud Familiar Dr. Salvador Allende Gossens,Centro de Salud Familiar (CESFAM),Municipal,76,12
+2023,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109718,Centro Comunitario de Salud Familiar Los Libertadores,Centro Comunitario de Salud Familiar (CECOSF),Municipal,25,12
+2023,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,200961,Centro de Salud Familiar Dr. Victor Castro Wiren,Centro de Salud Familiar (CESFAM),Municipal,16,12
+2023,09,Servicio de Salud Metropolitano Norte,13108,Independencia,109300,Centro de Salud Familiar Agustín Cruz Melo,Centro de Salud Familiar (CESFAM),Municipal,367,12
+2023,09,Servicio de Salud Metropolitano Norte,13108,Independencia,109321,Centro de Salud Familiar Juan Antonio Ríos,Centro de Salud Familiar (CESFAM),Municipal,109,12
+2023,09,Servicio de Salud Metropolitano Norte,13108,Independencia,200554,Centro Comunitario de Salud Familiar Las Enredaderas,Centro Comunitario de Salud Familiar (CECOSF),Municipal,19,12
+2023,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109313,Centro de Salud Familiar Irene Frei de Cid,Centro de Salud Familiar (CESFAM),Municipal,205,12
+2023,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109315,Centro de Salud Familiar Manuel Bustos Huerta,Centro de Salud Familiar (CESFAM),Municipal,117,12
+2023,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109324,Centro de Salud Familiar Presidente Salvador Allende Gossens,Centro de Salud Familiar (CESFAM),Municipal,196,12
+2023,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109713,Centro Comunitario de Salud Familiar La Foresta,Centro Comunitario de Salud Familiar (CECOSF),Municipal,10,12
+2023,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109715,Centro Comunitario de Salud Familiar Pucara de Lasana,Centro Comunitario de Salud Familiar (CECOSF),Municipal,21,12
+2023,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,200304,Centro Comunitario de Salud Familiar Beato Padre Hurtado,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2023,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,201091,Centro de Salud Familiar Marta Ugarte Román,Centro de Salud Familiar (CESFAM),Municipal,186,12
+2023,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109301,Centro de Salud Familiar Recoleta,Centro de Salud Familiar (CESFAM),Municipal,236,12
+2023,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109303,Centro de Salud Familiar Quinta Bella,Centro de Salud Familiar (CESFAM),Municipal,133,12
+2023,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109304,Centro de Salud Familiar Valdivieso,Centro de Salud Familiar (CESFAM),Municipal,38,12
+2023,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109307,Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie),Centro de Salud Familiar (CESFAM),Municipal,102,12
+2023,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109390,Centro de Salud Familiar Cristo Vive (ONG),Centro de Salud Familiar (CESFAM),Otra Institución,84,12
+2023,09,Servicio de Salud Metropolitano Norte,13301,Colina,109310,Centro de Salud Familiar Colina,Centro de Salud Familiar (CESFAM),Municipal,249,12
+2023,09,Servicio de Salud Metropolitano Norte,13301,Colina,109316,Centro de Salud Familiar Esmeralda,Centro de Salud Familiar (CESFAM),Municipal,207,12
+2023,09,Servicio de Salud Metropolitano Norte,13301,Colina,109416,Posta de Salud Rural Colorado,Posta de Salud Rural (PSR),Municipal,2,12
+2023,09,Servicio de Salud Metropolitano Norte,13301,Colina,109417,Posta de Salud Rural Los Ingleses,Posta de Salud Rural (PSR),Municipal,3,12
+2023,09,Servicio de Salud Metropolitano Norte,13301,Colina,109418,Posta de Salud Rural Las Canteras,Posta de Salud Rural (PSR),Municipal,5,12
+2023,09,Servicio de Salud Metropolitano Norte,13301,Colina,109419,Posta de Salud Rural Santa Marta de Liray,Posta de Salud Rural (PSR),Municipal,6,12
+2023,09,Servicio de Salud Metropolitano Norte,13301,Colina,109420,Posta de Salud Rural Chacabuco (Colina),Posta de Salud Rural (PSR),Municipal,1,12
+2023,09,Servicio de Salud Metropolitano Norte,13301,Colina,109716,Centro Comunitario de Salud Familiar Esmeralda,Centro Comunitario de Salud Familiar (CECOSF),Municipal,23,12
+2023,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109311,Centro de Salud Familiar José Bauza Frau,Centro de Salud Familiar (CESFAM),Municipal,216,12
+2023,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109312,Centro de Salud Familiar Batuco,Centro de Salud Familiar (CESFAM),Municipal,57,12
+2023,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109711,Centro Comunitario de Salud Familiar Sol de Septiembre,Centro Comunitario de Salud Familiar (CECOSF),Municipal,43,12
+2023,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109712,Centro Comunitario de Salud Familiar Batuco,Centro Comunitario de Salud Familiar (CECOSF),Municipal,40,12
+2023,09,Servicio de Salud Metropolitano Norte,13302,Lampa,201212,Centro de Salud Familiar Juan Pablo II de Lampa,Centro de Salud Familiar (CESFAM),Municipal,69,12
+2023,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109104,Hospital de Til Til,Hospital,Servicio de Salud,30,12
+2023,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109320,Centro de Salud Familiar Huertos Familiares,Centro de Salud Familiar (CESFAM),Municipal,54,12
+2023,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109412,Posta de Salud Rural Montenegro,Posta de Salud Rural (PSR),Municipal,1,12
+2023,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109413,Posta de Salud Rural Rungue,Posta de Salud Rural (PSR),Municipal,4,12
+2023,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109414,Posta de Salud Rural Polpaico,Posta de Salud Rural (PSR),Municipal,9,12
+2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110330,Centro de Salud Familiar Dr. Adalberto Steeger,Centro de Salud Familiar (CESFAM),Municipal,179,12
+2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110331,Centro de Salud Familiar Lo Amor,Centro de Salud Familiar (CESFAM),Municipal,123,12
+2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110335,Centro de Salud Familiar Cerro Navia,Centro de Salud Familiar (CESFAM),Municipal,129,12
+2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110355,Centro de Salud Familiar Dr. Arturo Albertz,Centro de Salud Familiar (CESFAM),Municipal,139,12
+2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110735,Centro Comunitario de Salud Familiar Los Lagos (Unidad Vecinal Nº 33),Centro Comunitario de Salud Familiar (CECOSF),Municipal,13,12
+2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110315,Centro de Salud Familiar Santa Anita,Centro de Salud Familiar (CESFAM),Municipal,112,12
+2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110316,Centro de Salud Familiar Pablo Neruda,Centro de Salud Familiar (CESFAM),Municipal,102,12
+2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110340,Centro de Salud Familiar Dr. Raúl Yazigi,Centro de Salud Familiar (CESFAM),Municipal,105,12
+2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110345,Centro de Salud Familiar Dr. Carlos Avendaño,Centro de Salud Familiar (CESFAM),Municipal,107,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110350,Centro de Salud Familiar Pudahuel Estrella,Centro de Salud Familiar (CESFAM),Municipal,187,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110351,Centro de Salud Familiar Pudahuel Poniente,Centro de Salud Familiar (CESFAM),Municipal,88,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110352,Centro de Salud Familiar Dr. Gustavo Molina,Centro de Salud Familiar (CESFAM),Municipal,114,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110353,Centro de Salud Familiar Cardenal Raúl Silva Henríquez,Centro de Salud Familiar (CESFAM),Municipal,116,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110354,Centro de Salud Familiar Violeta Parra,Centro de Salud Familiar (CESFAM),Municipal,179,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110410,Centro Comunitario de Salud Familiar Irene Frei Montalva,Centro Comunitario de Salud Familiar (CECOSF),Municipal,19,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110750,Centro Comunitario de Salud Familiar Concejal Guillermo Flores O.,Centro Comunitario de Salud Familiar (CECOSF),Municipal,5,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110752,Centro Comunitario de Salud Familiar Padre Félix Gutiérrez Donoso,Centro Comunitario de Salud Familiar (CECOSF),Municipal,19,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110754,Centro Comunitario de Salud Familiar Río Claro,Centro Comunitario de Salud Familiar (CECOSF),Municipal,11,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110756,Centro Comunitario de Salud Familiar Mar Caribe,Centro Comunitario de Salud Familiar (CECOSF),Municipal,11,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110758,Centro Comunitario de Salud Familiar Santa Corina,Centro Comunitario de Salud Familiar (CECOSF),Municipal,7,12
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,201353,Centro Comunitario de Salud Familiar Unión y Esfuerzo Rural,Centro Comunitario de Salud Familiar (CECOSF),Municipal,4,12
+2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110310,Centro de Salud Familiar Andes,Centro de Salud Familiar (CESFAM),Servicio de Salud,412,12
+2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110320,Centro de Salud Familiar Lo Franco,Centro de Salud Familiar (CESFAM),Municipal,109,12
+2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110325,Centro de Salud Familiar Garín,Centro de Salud Familiar (CESFAM),Municipal,74,12
+2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110720,Centro Comunitario de Salud Familiar Catamarca,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110725,Centro Comunitario de Salud Familiar Antumalal,Centro Comunitario de Salud Familiar (CECOSF),Municipal,7,12
+2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,200342,Centro Comunitario de Salud Familiar Plaza México,Centro Comunitario de Salud Familiar (CECOSF),Municipal,19,12
+2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110360,Centro de Salud Familiar Renca,Centro de Salud Familiar (CESFAM),Municipal,213,12
+2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110361,Centro de Salud Familiar Bicentenario,Centro de Salud Familiar (CESFAM),Municipal,194,12
+2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110362,Centro de Salud Familiar Dr. Hernán Urzúa Merino,Centro de Salud Familiar (CESFAM),Municipal,138,12
+2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110364,Centro de Salud Familiar Huamachuco,Centro de Salud Familiar (CESFAM),Municipal,146,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110378,Centro de Salud Familiar Dr. Edelberto Elgueta,Centro de Salud Familiar (CESFAM),Municipal,139,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110379,Centro de Salud Familiar Dr. Francisco Boris Soler,Centro de Salud Familiar (CESFAM),Municipal,180,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110380,Centro de Salud Familiar San Manuel,Centro de Salud Familiar (CESFAM),Municipal,30,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110381,Centro de Salud Familiar Alfarera Rosa Reyes Vilches,Centro de Salud Familiar (CESFAM),Municipal,30,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110440,Posta de Salud Rural Bollenar,Posta de Salud Rural (PSR),Municipal,36,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110445,Posta de Salud Rural Pahuilmo,Posta de Salud Rural (PSR),Municipal,19,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110455,Posta de Salud Rural Pabellón,Posta de Salud Rural (PSR),Municipal,10,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110778,Centro Comunitario de Salud Familiar Padre Demetrio Bravo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,29,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110781,Centro Comunitario de Salud Familiar Obispo Pablo Lizama,Centro Comunitario de Salud Familiar (CECOSF),Municipal,11,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110783,Centro Comunitario de Salud Familiar Codigua,Centro Comunitario de Salud Familiar (CECOSF),Municipal,9,12
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,200965,Centro de Salud Familiar Florencia,Centro de Salud Familiar (CESFAM),Municipal,109,12
+2023,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,110393,Centro de Salud Familiar Villa Alhué,Centro de Salud Familiar (CESFAM),Municipal,17,12
+2023,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,110503,Centro Comunitario de Salud Familiar Hacienda Alhué,Centro Comunitario de Salud Familiar (CECOSF),Municipal,20,12
+2023,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,110510,Posta de Salud Rural El Asiento,Posta de Salud Rural (PSR),Municipal,3,12
+2023,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,110160,Hospital de Curacaví,Hospital,Servicio de Salud,132,12
+2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110385,Centro de Salud Familiar Adriana Madrid De Costabal,Centro de Salud Familiar (CESFAM),Municipal,22,12
+2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110465,Posta de Salud Rural Santa Emilia,Posta de Salud Rural (PSR),Municipal,9,12
+2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110470,Posta de Salud Rural Las Mercedes ( María Pinto ),Posta de Salud Rural (PSR),Municipal,5,12
+2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110475,Posta de Salud Rural Chorombo,Posta de Salud Rural (PSR),Municipal,22,12
+2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110387,Centro de Salud Familiar San Pedro,Centro de Salud Familiar (CESFAM),Municipal,26,12
+2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110485,Posta de Salud Rural Loica,Posta de Salud Rural (PSR),Municipal,6,12
+2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110490,Posta de Salud Rural La Manga,Posta de Salud Rural (PSR),Municipal,2,12
+2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110492,Posta de Salud Rural Nihue,Posta de Salud Rural (PSR),Municipal,2,12
+2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110495,Posta de Salud Rural El Prado,Posta de Salud Rural (PSR),Municipal,6,12
+2023,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,110390,Centro de Salud Familiar Dr. Alberto Allende Jones,Centro de Salud Familiar (CESFAM),Municipal,324,12
+2023,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,110370,Centro de Salud Familiar El Monte,Centro de Salud Familiar (CESFAM),Municipal,130,12
+2023,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,200454,Centro Comunitario de Salud Familiar Lo Chacón,Centro Comunitario de Salud Familiar (CECOSF),Municipal,31,12
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110375,Centro de Salud Familiar Isla de Maipo,Centro de Salud Familiar (CESFAM),Municipal,44,12
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110425,Centro de Salud Familiar La Islita,Centro de Salud Familiar (CESFAM),Municipal,57,12
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110430,Posta de Salud Rural San Antonio de Naltagua,Posta de Salud Rural (PSR),Municipal,4,12
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110431,Posta de Salud Rural Gacitúa,Posta de Salud Rural (PSR),Municipal,7,12
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110432,Posta de Salud Rural Las Mercedes ( Isla de Maipo ),Posta de Salud Rural (PSR),Municipal,5,12
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110775,Centro Comunitario de Salud Familiar La Islita,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,200385,Centro Comunitario de Salud Familiar San Vicente de Naltagua,Centro Comunitario de Salud Familiar (CECOSF),Municipal,9,12
+2023,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,110366,Centro de Salud Familiar Juan Pablo II ( Padre Hurtado),Centro de Salud Familiar (CESFAM),Municipal,243,12
+2023,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,110308,Centro de Salud Familiar Peñaflor,Centro de Salud Familiar (CESFAM),Municipal,187,12
+2023,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,110369,Centro de Salud Familiar Dr. Fernando Monckeberg,Centro de Salud Familiar (CESFAM),Municipal,127,12
+2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,111300,Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo,Centro de Salud Familiar (CESFAM),Servicio de Salud,283,12
+2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,111301,Centro de Salud Familiar Nº 5,Centro de Salud Familiar (CESFAM),Servicio de Salud,166,12
+2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,111370,Centro de Salud Familiar Padre Orellana,Centro de Salud Familiar (CESFAM),Municipal,263,12
+2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,111372,Centro de Salud Familiar Arauco,Centro de Salud Familiar (CESFAM),Municipal,84,12
+2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,111376,Centro de Salud Familiar Matta Sur,Centro de Salud Familiar (CESFAM),Municipal,210,12
+2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,111381,Centro de Salud Familiar Ignacio Domeyko,Centro de Salud Familiar (CESFAM),Municipal,329,12
+2023,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,111305,Centro de Salud Familiar Dr. Norman Voulliéme,Centro de Salud Familiar (CESFAM),Servicio de Salud,128,12
+2023,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,111307,Centro de Salud Familiar Enfermera Sofía Pincheira,Centro de Salud Familiar (CESFAM),Servicio de Salud,90,12
+2023,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,200346,Centro Comunitario de Salud Familiar Buzeta,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,7,12
+2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111302,Centro de Salud Familiar Padre Vicente Irarrázabal,Centro de Salud Familiar (CESFAM),Servicio de Salud,136,12
+2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111306,Centro de Salud Familiar San José de Chuchunco,Centro de Salud Familiar (CESFAM),Servicio de Salud,115,12
+2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111310,Centro de Salud Familiar Las Mercedes,Centro de Salud Familiar (CESFAM),Servicio de Salud,355,12
+2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111781,Centro Comunitario de Salud Familiar Villa Francia,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,6,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111304,Centro de Salud Familiar Maipú,Centro de Salud Familiar (CESFAM),Servicio de Salud,102,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111308,Centro de Salud Familiar Dr. José Eduardo Ahués Salame,Centro de Salud Familiar (CESFAM),Servicio de Salud,152,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111309,Centro de Salud Familiar Dra. Ana María Juricic,Centro de Salud Familiar (CESFAM),Servicio de Salud,164,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111378,Centro de Salud Familiar Dr. Iván Insunza,Centro de Salud Familiar (CESFAM),Municipal,131,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111379,Centro de Salud Familiar Clotario Blest,Centro de Salud Familiar (CESFAM),Municipal,95,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111380,Centro de Salud Familiar Dr. Carlos Godoy,Centro de Salud Familiar (CESFAM),Municipal,183,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111382,Centro de Salud Familiar Presidenta Michelle Bachelet,Centro de Salud Familiar (CESFAM),Municipal,209,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111383,Centro de Salud Familiar Dr. Luis Ferrada,Centro de Salud Familiar (CESFAM),Municipal,95,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111704,Centro Comunitario de Salud Familiar Futramapu,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,13,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111780,Centro Comunitario de Salud Familiar Europa,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,6,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111783,Centro Comunitario de Salud Familiar Lo Errázuriz,Centro Comunitario de Salud Familiar (CECOSF),Municipal,12,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,111784,Centro Comunitario de Salud Familiar Bueras,Centro Comunitario de Salud Familiar (CECOSF),Municipal,8,12
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,201129,Centro Comunitario de Salud Familiar LUMEN,Centro Comunitario de Salud Familiar (CECOSF),Municipal,22,12
+2023,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,112317,Centro de Salud Familiar Ossandon,Centro de Salud Familiar (CESFAM),Municipal,35,12
+2023,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,112320,Centro de Salud Familiar Juan Pablo II ( La Reina),Centro de Salud Familiar (CESFAM),Municipal,56,12
+2023,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,112304,Centro de Salud Familiar Apoquindo,Centro de Salud Familiar (CESFAM),Municipal,35,12
+2023,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,112306,Centro de Salud Familiar Aníbal Ariztía,Centro de Salud Familiar (CESFAM),Municipal,104,12
+2023,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,112307,Centro de Salud Familiar Lo Barnechea,Centro de Salud Familiar (CESFAM),Municipal,119,12
+2023,12,Servicio de Salud Metropolitano Oriente,13118,Macul,112312,Centro de Salud Familiar Félix de Amesti,Centro de Salud Familiar (CESFAM),Municipal,115,12
+2023,12,Servicio de Salud Metropolitano Oriente,13118,Macul,112313,Centro de Salud Familiar Santa Julia,Centro de Salud Familiar (CESFAM),Municipal,107,12
+2023,12,Servicio de Salud Metropolitano Oriente,13118,Macul,112319,Centro de Salud Familiar Padre Alberto Hurtado,Centro de Salud Familiar (CESFAM),Municipal,88,12
+2023,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,112310,Centro de Salud Familiar Rosita Renard,Centro de Salud Familiar (CESFAM),Municipal,113,12
+2023,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,112311,Centro de Salud Familiar Salvador Bustos,Centro de Salud Familiar (CESFAM),Municipal,133,12
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112314,Centro de Salud Familiar La Faena,Centro de Salud Familiar (CESFAM),Municipal,135,12
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112315,Centro de Salud Familiar San Luis,Centro de Salud Familiar (CESFAM),Municipal,85,12
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112316,Centro de Salud Familiar Carol Urzúa Ibáñez,Centro de Salud Familiar (CESFAM),Municipal,189,12
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112318,Centro de Salud Familiar Lo Hermida,Centro de Salud Familiar (CESFAM),Municipal,149,12
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112321,Centro de Salud Familiar Cardenal Silva Henríquez,Centro de Salud Familiar (CESFAM),Municipal,101,12
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112322,Centro de Salud Familiar Padre Gerardo Whelan,Centro de Salud Familiar (CESFAM),Municipal,122,12
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,201112,Centro de Salud Familiar Las Torres,Centro de Salud Familiar (CESFAM),Municipal,142,12
+2023,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,112301,Centro de Salud Familiar Dr. Hernán Alessandri,Centro de Salud Familiar (CESFAM),Municipal,55,12
+2023,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,112302,Centro de Salud Familiar Dr. Alfonso Leng,Centro de Salud Familiar (CESFAM),Municipal,50,12
+2023,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,112303,Centro de Salud Familiar Aguilucho,Centro de Salud Familiar (CESFAM),Municipal,51,12
+2023,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,112309,Centro de Salud Familiar Vitacura,Centro de Salud Familiar (CESFAM),Municipal,24,12
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113312,Centro de Salud Familiar Dr. Carlos Lorca Tobar,Centro de Salud Familiar (CESFAM),Municipal,117,12
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113314,Centro de Salud Familiar Cóndores de Chile,Centro de Salud Familiar (CESFAM),Municipal,105,12
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113317,Centro de Salud Familiar Santa Laura,Centro de Salud Familiar (CESFAM),Municipal,89,12
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113323,Centro de Salud Familiar Dr. Mario Salcedo,Centro de Salud Familiar (CESFAM),Municipal,109,12
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113324,Centro de Salud Familiar Dra. Haydeé López Casoou,Centro de Salud Familiar (CESFAM),Municipal,115,12
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113329,Centro de Salud Familiar Canciller Orlando Letelier,Centro de Salud Familiar (CESFAM),Municipal,76,12
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113717,Centro Comunitario de Salud Familiar Santa Laura,Centro Comunitario de Salud Familiar (CECOSF),Municipal,22,12
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,200962,Centro Comunitario de Salud Familiar Los Sauces,Centro Comunitario de Salud Familiar (CECOSF),Municipal,25,12
+2023,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,113311,Centro de Salud Familiar Santa Anselma,Centro de Salud Familiar (CESFAM),Municipal,164,12
+2023,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,113326,Centro de Salud Familiar Eduardo Frei Montalva,Centro de Salud Familiar (CESFAM),Municipal,100,12
+2023,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,200360,Centro Comunitario de Salud Familiar Eduardo Frei Montalva,Centro Comunitario de Salud Familiar (CECOSF),Municipal,24,12
+2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113308,Centro de Salud Familiar Clara Estrella,Centro de Salud Familiar (CESFAM),Municipal,102,12
+2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113309,Centro de Salud Familiar Julio Acuña Pinzón,Centro de Salud Familiar (CESFAM),Municipal,87,12
+2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113310,Centro de Salud Familiar Dra. Mariela Salgado Zepeda,Centro de Salud Familiar (CESFAM),Municipal,92,12
+2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113396,Centro de Salud Familiar Pueblo Lo Espejo,Centro de Salud Familiar (CESFAM),Municipal,88,12
+2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,111303,Centro de Salud Familiar Lo Valledor Norte,Centro de Salud Familiar (CESFAM),Municipal,84,12
+2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113303,Centro de Salud Familiar Amador Neghme,Centro de Salud Familiar (CESFAM),Municipal,93,12
+2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113306,Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria),Centro de Salud Familiar (CESFAM),Municipal,80,12
+2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113331,Centro de Salud Familiar Edgardo Enríquez Fröedden,Centro de Salud Familiar (CESFAM),Municipal,76,12
+2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113703,Centro Comunitario de Salud Familiar Dr. Miguel Enríquez Espinosa,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113301,Centro de Salud Familiar San Joaquín,Centro de Salud Familiar (CESFAM),Municipal,57,12
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113305,Centro de Salud Familiar Arturo Baeza Goñi,Centro de Salud Familiar (CESFAM),Municipal,66,12
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113322,Centro de Salud Familiar Santa Teresa de Los Andes,Centro de Salud Familiar (CESFAM),Municipal,50,12
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113701,Centro Comunitario de Salud Familiar Yalta,Centro Comunitario de Salud Familiar (CECOSF),Municipal,25,12
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113702,Centro Comunitario de Salud Familiar Sierra Bella,Centro Comunitario de Salud Familiar (CECOSF),Municipal,10,12
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113722,Centro Comunitario de Salud Familiar Dr. Salvador Allende,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113753,Centro Comunitario de Salud Familiar Reverendo Javier Peró,Centro Comunitario de Salud Familiar (CECOSF),Municipal,8,12
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,200210,Centro Comunitario de Salud Familiar Coñimo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,13,12
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,200337,Centro Comunitario de Salud Familiar Martín Henríquez,Centro Comunitario de Salud Familiar (CECOSF),Municipal,34,12
+2023,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,113300,Centro de Salud Familiar Barros Luco,Centro de Salud Familiar (CESFAM),Municipal,198,12
+2023,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,113302,Centro de Salud Familiar Recreo,Centro de Salud Familiar (CESFAM),Municipal,129,12
+2023,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,200361,Centro Comunitario de Salud Familiar Atacama,Centro Comunitario de Salud Familiar (CECOSF),Municipal,41,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113313,Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo),Centro de Salud Familiar (CESFAM),Municipal,140,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113315,Centro de Salud Familiar Confraternidad,Centro de Salud Familiar (CESFAM),Municipal,137,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113316,Centro de Salud Familiar Carol Urzúa,Centro de Salud Familiar (CESFAM),Municipal,134,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113328,Centro de Salud Familiar Padre Joan Alsina,Centro de Salud Familiar (CESFAM),Municipal,181,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113330,Centro de Salud Familiar Raúl Brañes F.,Centro de Salud Familiar (CESFAM),Municipal,207,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113332,Centro de Salud Familiar Juan Pablo II ( San Bernardo),Centro de Salud Familiar (CESFAM),Municipal,157,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113394,Centro de Salud Familiar El Manzano,Centro de Salud Familiar (CESFAM),Municipal,121,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113713,Centro Comunitario de Salud Familiar Ribera del Maipo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,24,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113716,Centro Comunitario de Salud Familiar Rapa Nui,Centro Comunitario de Salud Familiar (CECOSF),Municipal,18,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113728,Centro Comunitario de Salud Familiar Lo Herrera,Centro Comunitario de Salud Familiar (CECOSF),Municipal,30,12
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,200377,Centro Comunitario de Salud Familiar Las Hortensias,Centro Comunitario de Salud Familiar (CECOSF),Municipal,28,12
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,113320,Centro de Salud Familiar Maipo,Centro de Salud Familiar (CESFAM),Municipal,98,12
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,113333,Centro de Salud Familiar Alto Jahuel,Centro de Salud Familiar (CESFAM),Municipal,42,12
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,113390,Centro de Salud Familiar Dr. Héctor García,Centro de Salud Familiar (CESFAM),Municipal,170,12
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,113402,Centro Comunitario de Salud Familiar Dr. Ramón Galindo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,24,12
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,113404,Posta de Salud Rural Valdivia de Paine,Posta de Salud Rural (PSR),Municipal,12,12
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,113405,Posta de Salud Rural Viluco,Posta de Salud Rural (PSR),Municipal,14,12
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,113406,Posta de Salud Rural El Recurso,Posta de Salud Rural (PSR),Municipal,4,12
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,113407,Posta de Salud Rural Los Morros,Posta de Salud Rural (PSR),Municipal,7,12
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,113790,Centro Comunitario de Salud Familiar Dr. Héctor García,Centro Comunitario de Salud Familiar (CECOSF),Municipal,42,12
+2023,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,113321,Centro de Salud Familiar Calera de Tango,Centro de Salud Familiar (CESFAM),Municipal,24,12
+2023,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,113334,Centro de Salud Familiar Los Bajos de San Agustín,Centro de Salud Familiar (CESFAM),Municipal,34,12
+2023,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,113413,Posta de Salud Rural Santa Inés,Posta de Salud Rural (PSR),Municipal,1,12
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,113318,Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine),Centro de Salud Familiar (CESFAM),Municipal,203,12
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,113319,Centro de Salud Familiar Dr. Raúl Moya,Centro de Salud Familiar (CESFAM),Municipal,66,12
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,113408,Posta de Salud Rural Pintué,Posta de Salud Rural (PSR),Municipal,9,12
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,113409,Posta de Salud Rural Huelquén,Posta de Salud Rural (PSR),Municipal,26,12
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,113410,Posta de Salud Rural Rangue,Posta de Salud Rural (PSR),Municipal,3,12
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,113411,Posta de Salud Rural Abrantes,Posta de Salud Rural (PSR),Municipal,9,12
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,113412,Posta de Salud Rural Chada,Posta de Salud Rural (PSR),Municipal,6,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114302,Centro de Salud Familiar Los Castaños,Centro de Salud Familiar (CESFAM),Municipal,111,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114303,Centro de Salud Familiar Bellavista,Centro de Salud Familiar (CESFAM),Municipal,157,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114304,Centro de Salud Familiar Villa O'Higgins,Centro de Salud Familiar (CESFAM),Municipal,142,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114305,Centro de Salud Familiar Los Quillayes,Centro de Salud Familiar (CESFAM),Municipal,203,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114316,Centro de Salud Familiar Dr. Fernando Maffioletti,Centro de Salud Familiar (CESFAM),Municipal,123,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114324,Centro de Salud Familiar Santa Amalia,Centro de Salud Familiar (CESFAM),Municipal,292,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114330,Centro de Salud Familiar Trinidad,Centro de Salud Familiar (CESFAM),Municipal,332,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114331,Centro de Salud Familiar La Florida,Centro de Salud Familiar (CESFAM),Municipal,145,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114334,Centro de Salud Familiar José Alvo,Centro de Salud Familiar (CESFAM),Municipal,102,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,200475,Centro Comunitario de Salud Familiar Las Lomas,Centro Comunitario de Salud Familiar (CECOSF),Municipal,6,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,113307,Centro de Salud Familiar Padre Esteban Gumucio Vives,Centro de Salud Familiar (CESFAM),Municipal,87,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114306,Centro de Salud Familiar La Granja,Centro de Salud Familiar (CESFAM),Municipal,137,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114315,Centro de Salud Familiar Malaquías Concha,Centro de Salud Familiar (CESFAM),Municipal,85,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114325,Centro de Salud Familiar Granja Sur,Centro de Salud Familiar (CESFAM),Municipal,183,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114706,Centro Comunitario de Salud Familiar Millalemu,Centro Comunitario de Salud Familiar (CECOSF),Municipal,19,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114796,Centro Comunitario de Salud Familiar San Gregorio,Centro Comunitario de Salud Familiar (CECOSF),Municipal,22,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114308,Centro de Salud Familiar San Rafael,Centro de Salud Familiar (CESFAM),Municipal,99,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114309,Centro de Salud Familiar Pablo de Rokha,Centro de Salud Familiar (CESFAM),Municipal,118,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114311,Centro de Salud Familiar Santiago de Nueva Extremadura,Centro de Salud Familiar (CESFAM),Municipal,165,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114317,Centro de Salud Familiar Santo Tomás,Centro de Salud Familiar (CESFAM),Municipal,109,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114318,Centro de Salud Familiar Flor Fernández,Centro de Salud Familiar (CESFAM),Municipal,34,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114319,Centro de Salud Familiar El Roble,Centro de Salud Familiar (CESFAM),Municipal,141,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114327,Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS,Centro de Salud Familiar (CESFAM),Delegado,138,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114307,Centro de Salud Familiar La Bandera,Centro de Salud Familiar (CESFAM),Municipal,138,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114314,Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón),Centro de Salud Familiar (CESFAM),Municipal,61,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114328,Centro de Salud Familiar Poetisa Gabriela Mistral,Centro de Salud Familiar (CESFAM),Municipal,163,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114714,Centro Comunitario de Salud Familiar Modelo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,16,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114301,Centro de Salud Familiar Dr. Alejandro del Río,Centro de Salud Familiar (CESFAM),Municipal,365,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114312,Centro de Salud Familiar San Gerónimo,Centro de Salud Familiar (CESFAM),Municipal,199,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114313,Centro de Salud Familiar Vista Hermosa,Centro de Salud Familiar (CESFAM),Municipal,130,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114320,Centro de Salud Familiar Bernardo Leighton,Centro de Salud Familiar (CESFAM),Municipal,203,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114321,Centro de Salud Familiar Cardenal Silva Henríquez,Centro de Salud Familiar (CESFAM),Municipal,203,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114322,Centro de Salud Familiar Padre Manuel Villaseca,Centro de Salud Familiar (CESFAM),Municipal,250,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114323,Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS,Centro de Salud Familiar (CESFAM),Delegado,120,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114326,Centro de Salud Familiar Karol Wojtyla,Centro de Salud Familiar (CESFAM),Municipal,199,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114329,Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS,Centro de Salud Familiar (CESFAM),Delegado,157,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114332,Centro de Salud Familiar Laurita Vicuña,Centro de Salud Familiar (CESFAM),Municipal,161,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114310,Centro de Salud Familiar Dr. José Manuel Balmaceda,Centro de Salud Familiar (CESFAM),Municipal,41,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114333,Centro de Salud Rural El Principal,Consultorio General Rural (CGR),Municipal,36,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114401,Posta de Salud Rural Puntilla,Posta de Salud Rural (PSR),Municipal,6,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,114102,Hospital San José de Maipo,Hospital,Servicio de Salud,44,12
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,114407,Posta de Salud Rural Las Vertientes,Posta de Salud Rural (PSR),Municipal,5,12
+2024,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109302,Centro de Salud Familiar Lucas Sierra,Centro de Salud Familiar (CESFAM),Municipal,104,12
+2024,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109308,Centro de Salud Familiar Alberto Bachelet Martínez,Centro de Salud Familiar (CESFAM),Municipal,88,12
+2024,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109309,Centro de Salud Familiar José Symon Ojeda,Centro de Salud Familiar (CESFAM),Municipal,58,12
+2024,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109314,Centro de Salud Familiar Juanita Aguirre,Centro de Salud Familiar (CESFAM),Municipal,86,12
+2024,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109709,Centro Comunitario de Salud Familiar Dr. José Symón Ojeda,Centro Comunitario de Salud Familiar (CECOSF),Municipal,43,12
+2024,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,200347,Centro Comunitario de Salud Familiar Alberto Bachelet,Centro Comunitario de Salud Familiar (CECOSF),Municipal,21,12
+2024,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,200609,Centro Comunitario de Salud Familiar Dr. Lucas Sierra,Centro Comunitario de Salud Familiar (CECOSF),Municipal,22,12
+2024,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109305,Centro de Salud Familiar La Pincoya,Centro de Salud Familiar (CESFAM),Municipal,87,12
+2024,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109317,Centro de Salud Familiar El Barrero,Centro de Salud Familiar (CESFAM),Municipal,37,12
+2024,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109323,Centro de Salud Familiar Dr. Salvador Allende Gossens,Centro de Salud Familiar (CESFAM),Municipal,75,12
+2024,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109718,Centro Comunitario de Salud Familiar Los Libertadores,Centro Comunitario de Salud Familiar (CECOSF),Municipal,29,12
+2024,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,200961,Centro de Salud Familiar Dr. Victor Castro Wiren,Centro de Salud Familiar (CESFAM),Municipal,18,12
+2024,09,Servicio de Salud Metropolitano Norte,13108,Independencia,109300,Centro de Salud Familiar Agustín Cruz Melo,Centro de Salud Familiar (CESFAM),Municipal,292,12
+2024,09,Servicio de Salud Metropolitano Norte,13108,Independencia,109321,Centro de Salud Familiar Juan Antonio Ríos,Centro de Salud Familiar (CESFAM),Municipal,81,12
+2024,09,Servicio de Salud Metropolitano Norte,13108,Independencia,200554,Centro Comunitario de Salud Familiar Las Enredaderas,Centro Comunitario de Salud Familiar (CECOSF),Municipal,18,12
+2024,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109313,Centro de Salud Familiar Irene Frei de Cid,Centro de Salud Familiar (CESFAM),Municipal,185,12
+2024,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109315,Centro de Salud Familiar Manuel Bustos Huerta,Centro de Salud Familiar (CESFAM),Municipal,115,12
+2024,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109324,Centro de Salud Familiar Presidente Salvador Allende Gossens,Centro de Salud Familiar (CESFAM),Municipal,172,12
+2024,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109713,Centro Comunitario de Salud Familiar La Foresta,Centro Comunitario de Salud Familiar (CECOSF),Municipal,21,12
+2024,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109715,Centro Comunitario de Salud Familiar Pucara de Lasana,Centro Comunitario de Salud Familiar (CECOSF),Municipal,17,12
+2024,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,200304,Centro Comunitario de Salud Familiar Beato Padre Hurtado,Centro Comunitario de Salud Familiar (CECOSF),Municipal,17,12
+2024,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,201091,Centro de Salud Familiar Marta Ugarte Román,Centro de Salud Familiar (CESFAM),Municipal,135,12
+2024,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109301,Centro de Salud Familiar Recoleta,Centro de Salud Familiar (CESFAM),Municipal,152,12
+2024,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109303,Centro de Salud Familiar Quinta Bella,Centro de Salud Familiar (CESFAM),Municipal,148,12
+2024,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109304,Centro de Salud Familiar Valdivieso,Centro de Salud Familiar (CESFAM),Municipal,32,12
+2024,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109307,Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie),Centro de Salud Familiar (CESFAM),Municipal,90,12
+2024,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109390,Centro de Salud Familiar Cristo Vive (ONG),Centro de Salud Familiar (CESFAM),Otra Institución,156,12
+2024,09,Servicio de Salud Metropolitano Norte,13301,Colina,109310,Centro de Salud Familiar Colina,Centro de Salud Familiar (CESFAM),Municipal,181,12
+2024,09,Servicio de Salud Metropolitano Norte,13301,Colina,109316,Centro de Salud Familiar Esmeralda,Centro de Salud Familiar (CESFAM),Municipal,155,12
+2024,09,Servicio de Salud Metropolitano Norte,13301,Colina,109416,Posta de Salud Rural Colorado,Posta de Salud Rural (PSR),Municipal,2,12
+2024,09,Servicio de Salud Metropolitano Norte,13301,Colina,109417,Posta de Salud Rural Los Ingleses,Posta de Salud Rural (PSR),Municipal,4,12
+2024,09,Servicio de Salud Metropolitano Norte,13301,Colina,109418,Posta de Salud Rural Las Canteras,Posta de Salud Rural (PSR),Municipal,6,12
+2024,09,Servicio de Salud Metropolitano Norte,13301,Colina,109419,Posta de Salud Rural Santa Marta de Liray,Posta de Salud Rural (PSR),Municipal,2,12
+2024,09,Servicio de Salud Metropolitano Norte,13301,Colina,109420,Posta de Salud Rural Chacabuco (Colina),Posta de Salud Rural (PSR),Municipal,2,12
+2024,09,Servicio de Salud Metropolitano Norte,13301,Colina,109716,Centro Comunitario de Salud Familiar Esmeralda,Centro Comunitario de Salud Familiar (CECOSF),Municipal,17,12
+2024,09,Servicio de Salud Metropolitano Norte,13301,Colina,201462,CESFAM La Reina de Colina,Centro de Salud Familiar (CESFAM),Municipal,134,12
+2024,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109311,Centro de Salud Familiar José Bauza Frau,Centro de Salud Familiar (CESFAM),Municipal,230,12
+2024,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109312,Centro de Salud Familiar Batuco,Centro de Salud Familiar (CESFAM),Municipal,88,12
+2024,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109711,Centro Comunitario de Salud Familiar Sol de Septiembre,Centro Comunitario de Salud Familiar (CECOSF),Municipal,43,12
+2024,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109712,Centro Comunitario de Salud Familiar Batuco,Centro Comunitario de Salud Familiar (CECOSF),Municipal,41,12
+2024,09,Servicio de Salud Metropolitano Norte,13302,Lampa,201212,Centro de Salud Familiar Juan Pablo II de Lampa,Centro de Salud Familiar (CESFAM),Municipal,48,12
+2024,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109104,Hospital de Til Til,Hospital,Servicio de Salud,31,12
+2024,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109320,Centro de Salud Familiar Huertos Familiares,Centro de Salud Familiar (CESFAM),Municipal,54,12
+2024,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109410,Posta de Salud Rural La Capilla de Caleu,Posta de Salud Rural (PSR),Municipal,3,12
+2024,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109412,Posta de Salud Rural Montenegro,Posta de Salud Rural (PSR),Municipal,2,12
+2024,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109413,Posta de Salud Rural Rungue,Posta de Salud Rural (PSR),Municipal,2,12
+2024,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109414,Posta de Salud Rural Polpaico,Posta de Salud Rural (PSR),Municipal,16,12
+2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110330,Centro de Salud Familiar Dr. Adalberto Steeger,Centro de Salud Familiar (CESFAM),Municipal,146,12
+2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110331,Centro de Salud Familiar Lo Amor,Centro de Salud Familiar (CESFAM),Municipal,104,12
+2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110335,Centro de Salud Familiar Cerro Navia,Centro de Salud Familiar (CESFAM),Municipal,135,12
+2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110355,Centro de Salud Familiar Dr. Arturo Albertz,Centro de Salud Familiar (CESFAM),Municipal,97,12
+2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110735,Centro Comunitario de Salud Familiar Los Lagos (Unidad Vecinal Nº 33),Centro Comunitario de Salud Familiar (CECOSF),Municipal,10,12
+2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110315,Centro de Salud Familiar Santa Anita,Centro de Salud Familiar (CESFAM),Municipal,126,12
+2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110316,Centro de Salud Familiar Pablo Neruda,Centro de Salud Familiar (CESFAM),Municipal,85,12
+2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110340,Centro de Salud Familiar Dr. Raúl Yazigi,Centro de Salud Familiar (CESFAM),Municipal,97,12
+2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110345,Centro de Salud Familiar Dr. Carlos Avendaño,Centro de Salud Familiar (CESFAM),Municipal,93,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110350,Centro de Salud Familiar Pudahuel Estrella,Centro de Salud Familiar (CESFAM),Municipal,163,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110351,Centro de Salud Familiar Pudahuel Poniente,Centro de Salud Familiar (CESFAM),Municipal,63,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110352,Centro de Salud Familiar Dr. Gustavo Molina,Centro de Salud Familiar (CESFAM),Municipal,117,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110353,Centro de Salud Familiar Cardenal Raúl Silva Henríquez,Centro de Salud Familiar (CESFAM),Municipal,90,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110354,Centro de Salud Familiar Violeta Parra,Centro de Salud Familiar (CESFAM),Municipal,150,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110410,Centro Comunitario de Salud Familiar Irene Frei Montalva,Centro Comunitario de Salud Familiar (CECOSF),Municipal,7,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110750,Centro Comunitario de Salud Familiar Concejal Guillermo Flores O.,Centro Comunitario de Salud Familiar (CECOSF),Municipal,2,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110752,Centro Comunitario de Salud Familiar Padre Félix Gutiérrez Donoso,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110754,Centro Comunitario de Salud Familiar Río Claro,Centro Comunitario de Salud Familiar (CECOSF),Municipal,11,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110756,Centro Comunitario de Salud Familiar Mar Caribe,Centro Comunitario de Salud Familiar (CECOSF),Municipal,3,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110758,Centro Comunitario de Salud Familiar Santa Corina,Centro Comunitario de Salud Familiar (CECOSF),Municipal,4,12
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,201353,Centro Comunitario de Salud Familiar Unión y Esfuerzo Rural,Centro Comunitario de Salud Familiar (CECOSF),Municipal,2,12
+2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110310,Centro de Salud Familiar Andes,Centro de Salud Familiar (CESFAM),Servicio de Salud,370,12
+2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110320,Centro de Salud Familiar Lo Franco,Centro de Salud Familiar (CESFAM),Municipal,116,12
+2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110325,Centro de Salud Familiar Garín,Centro de Salud Familiar (CESFAM),Municipal,65,12
+2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110720,Centro Comunitario de Salud Familiar Catamarca,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110725,Centro Comunitario de Salud Familiar Antumalal,Centro Comunitario de Salud Familiar (CECOSF),Municipal,7,12
+2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,200342,Centro Comunitario de Salud Familiar Plaza México,Centro Comunitario de Salud Familiar (CECOSF),Municipal,14,12
+2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110360,Centro de Salud Familiar Renca,Centro de Salud Familiar (CESFAM),Municipal,250,12
+2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110361,Centro de Salud Familiar Bicentenario,Centro de Salud Familiar (CESFAM),Municipal,152,12
+2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110362,Centro de Salud Familiar Dr. Hernán Urzúa Merino,Centro de Salud Familiar (CESFAM),Municipal,102,12
+2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110364,Centro de Salud Familiar Huamachuco,Centro de Salud Familiar (CESFAM),Municipal,228,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110378,Centro de Salud Familiar Dr. Edelberto Elgueta,Centro de Salud Familiar (CESFAM),Municipal,132,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110379,Centro de Salud Familiar Dr. Francisco Boris Soler,Centro de Salud Familiar (CESFAM),Municipal,162,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110380,Centro de Salud Familiar San Manuel,Centro de Salud Familiar (CESFAM),Municipal,25,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110381,Centro de Salud Familiar Alfarera Rosa Reyes Vilches,Centro de Salud Familiar (CESFAM),Municipal,33,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110440,Posta de Salud Rural Bollenar,Posta de Salud Rural (PSR),Municipal,14,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110445,Posta de Salud Rural Pahuilmo,Posta de Salud Rural (PSR),Municipal,16,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110455,Posta de Salud Rural Pabellón,Posta de Salud Rural (PSR),Municipal,10,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110778,Centro Comunitario de Salud Familiar Padre Demetrio Bravo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,21,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110781,Centro Comunitario de Salud Familiar Obispo Pablo Lizama,Centro Comunitario de Salud Familiar (CECOSF),Municipal,11,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110783,Centro Comunitario de Salud Familiar Codigua,Centro Comunitario de Salud Familiar (CECOSF),Municipal,2,12
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,200965,Centro de Salud Familiar Florencia,Centro de Salud Familiar (CESFAM),Municipal,112,12
+2024,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,110393,Centro de Salud Familiar Villa Alhué,Centro de Salud Familiar (CESFAM),Municipal,15,12
+2024,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,110503,Centro Comunitario de Salud Familiar Hacienda Alhué,Centro Comunitario de Salud Familiar (CECOSF),Municipal,12,12
+2024,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,110505,Posta de Salud Rural Pichi,Posta de Salud Rural (PSR),Municipal,2,12
+2024,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,110160,Hospital de Curacaví,Hospital,Servicio de Salud,78,12
+2024,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,110477,Centro Comunitario de Salud Familiar María Salas,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,11,12
+2024,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,110760,Centro Comunitario de Salud Familiar Valmi  Aguirre,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,11,12
+2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110385,Centro de Salud Familiar Adriana Madrid De Costabal,Centro de Salud Familiar (CESFAM),Municipal,24,12
+2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110465,Posta de Salud Rural Santa Emilia,Posta de Salud Rural (PSR),Municipal,10,12
+2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110470,Posta de Salud Rural Las Mercedes ( María Pinto ),Posta de Salud Rural (PSR),Municipal,2,12
+2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110475,Posta de Salud Rural Chorombo,Posta de Salud Rural (PSR),Municipal,9,12
+2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110387,Centro de Salud Familiar San Pedro,Centro de Salud Familiar (CESFAM),Municipal,48,12
+2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110485,Posta de Salud Rural Loica,Posta de Salud Rural (PSR),Municipal,5,12
+2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110490,Posta de Salud Rural La Manga,Posta de Salud Rural (PSR),Municipal,2,12
+2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110492,Posta de Salud Rural Nihue,Posta de Salud Rural (PSR),Municipal,1,12
+2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110495,Posta de Salud Rural El Prado,Posta de Salud Rural (PSR),Municipal,13,12
+2024,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,110390,Centro de Salud Familiar Dr. Alberto Allende Jones,Centro de Salud Familiar (CESFAM),Municipal,218,12
+2024,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,110400,Posta de Salud Rural Aliro Cárcarmo (Lonquén),Posta de Salud Rural (PSR),Municipal,8,12
+2024,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,200365,Centro Comunitario de Salud Familiar Villa Los Presidentes,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2024,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,110370,Centro de Salud Familiar El Monte,Centro de Salud Familiar (CESFAM),Municipal,121,12
+2024,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,200454,Centro Comunitario de Salud Familiar Lo Chacón,Centro Comunitario de Salud Familiar (CECOSF),Municipal,28,12
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110375,Centro de Salud Familiar Isla de Maipo,Centro de Salud Familiar (CESFAM),Municipal,35,12
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110425,Centro de Salud Familiar La Islita,Centro de Salud Familiar (CESFAM),Municipal,45,12
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110430,Posta de Salud Rural San Antonio de Naltagua,Posta de Salud Rural (PSR),Municipal,10,12
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110431,Posta de Salud Rural Gacitúa,Posta de Salud Rural (PSR),Municipal,4,12
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110432,Posta de Salud Rural Las Mercedes ( Isla de Maipo ),Posta de Salud Rural (PSR),Municipal,5,12
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110775,Centro Comunitario de Salud Familiar La Islita,Centro Comunitario de Salud Familiar (CECOSF),Municipal,7,12
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,200385,Centro Comunitario de Salud Familiar San Vicente de Naltagua,Centro Comunitario de Salud Familiar (CECOSF),Municipal,6,12
+2024,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,110366,Centro de Salud Familiar Juan Pablo II ( Padre Hurtado),Centro de Salud Familiar (CESFAM),Municipal,251,12
+2024,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,110308,Centro de Salud Familiar Peñaflor,Centro de Salud Familiar (CESFAM),Municipal,86,12
+2024,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,110369,Centro de Salud Familiar Dr. Fernando Monckeberg,Centro de Salud Familiar (CESFAM),Municipal,136,12
+2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,111300,Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo,Centro de Salud Familiar (CESFAM),Servicio de Salud,488,12
+2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,111301,Centro de Salud Familiar Nº 5,Centro de Salud Familiar (CESFAM),Servicio de Salud,121,12
+2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,111370,Centro de Salud Familiar Padre Orellana,Centro de Salud Familiar (CESFAM),Municipal,214,12
+2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,111372,Centro de Salud Familiar Arauco,Centro de Salud Familiar (CESFAM),Municipal,90,12
+2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,111376,Centro de Salud Familiar Matta Sur,Centro de Salud Familiar (CESFAM),Municipal,215,12
+2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,111381,Centro de Salud Familiar Ignacio Domeyko,Centro de Salud Familiar (CESFAM),Municipal,335,12
+2024,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,111305,Centro de Salud Familiar Dr. Norman Voulliéme,Centro de Salud Familiar (CESFAM),Servicio de Salud,162,12
+2024,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,111307,Centro de Salud Familiar Enfermera Sofía Pincheira,Centro de Salud Familiar (CESFAM),Servicio de Salud,98,12
+2024,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,200346,Centro Comunitario de Salud Familiar Buzeta,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,9,12
+2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111302,Centro de Salud Familiar Padre Vicente Irarrázabal,Centro de Salud Familiar (CESFAM),Servicio de Salud,86,12
+2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111306,Centro de Salud Familiar San José de Chuchunco,Centro de Salud Familiar (CESFAM),Servicio de Salud,96,12
+2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111310,Centro de Salud Familiar Las Mercedes,Centro de Salud Familiar (CESFAM),Servicio de Salud,343,12
+2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111781,Centro Comunitario de Salud Familiar Villa Francia,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,14,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111304,Centro de Salud Familiar Maipú,Centro de Salud Familiar (CESFAM),Servicio de Salud,122,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111308,Centro de Salud Familiar Dr. José Eduardo Ahués Salame,Centro de Salud Familiar (CESFAM),Servicio de Salud,160,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111309,Centro de Salud Familiar Dra. Ana María Juricic,Centro de Salud Familiar (CESFAM),Servicio de Salud,151,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111378,Centro de Salud Familiar Dr. Iván Insunza,Centro de Salud Familiar (CESFAM),Municipal,108,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111379,Centro de Salud Familiar Clotario Blest,Centro de Salud Familiar (CESFAM),Municipal,73,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111380,Centro de Salud Familiar Dr. Carlos Godoy,Centro de Salud Familiar (CESFAM),Municipal,180,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111382,Centro de Salud Familiar Presidenta Michelle Bachelet,Centro de Salud Familiar (CESFAM),Municipal,233,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111383,Centro de Salud Familiar Dr. Luis Ferrada,Centro de Salud Familiar (CESFAM),Municipal,65,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111704,Centro Comunitario de Salud Familiar Futramapu,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,10,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111780,Centro Comunitario de Salud Familiar Europa,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,2,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111783,Centro Comunitario de Salud Familiar Lo Errázuriz,Centro Comunitario de Salud Familiar (CECOSF),Municipal,16,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,111784,Centro Comunitario de Salud Familiar Bueras,Centro Comunitario de Salud Familiar (CECOSF),Municipal,13,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,200643,Centro Comunitario de Salud Familiar Los Bosquinos,Centro Comunitario de Salud Familiar (CECOSF),Municipal,17,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,201129,Centro Comunitario de Salud Familiar LUMEN,Centro Comunitario de Salud Familiar (CECOSF),Municipal,25,12
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,201674,CESFAM El Abrazo Dr. Salvador Allende Gossens,Centro de Salud Familiar (CESFAM),Municipal,18,12
+2024,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,112317,Centro de Salud Familiar Ossandon,Centro de Salud Familiar (CESFAM),Municipal,33,12
+2024,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,112320,Centro de Salud Familiar Juan Pablo II ( La Reina),Centro de Salud Familiar (CESFAM),Municipal,65,12
+2024,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,112304,Centro de Salud Familiar Apoquindo,Centro de Salud Familiar (CESFAM),Municipal,31,12
+2024,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,112306,Centro de Salud Familiar Aníbal Ariztía,Centro de Salud Familiar (CESFAM),Municipal,117,12
+2024,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,112307,Centro de Salud Familiar Lo Barnechea,Centro de Salud Familiar (CESFAM),Municipal,129,12
+2024,12,Servicio de Salud Metropolitano Oriente,13118,Macul,112312,Centro de Salud Familiar Félix de Amesti,Centro de Salud Familiar (CESFAM),Municipal,74,12
+2024,12,Servicio de Salud Metropolitano Oriente,13118,Macul,112313,Centro de Salud Familiar Santa Julia,Centro de Salud Familiar (CESFAM),Municipal,105,12
+2024,12,Servicio de Salud Metropolitano Oriente,13118,Macul,112319,Centro de Salud Familiar Padre Alberto Hurtado,Centro de Salud Familiar (CESFAM),Municipal,76,12
+2024,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,112310,Centro de Salud Familiar Rosita Renard,Centro de Salud Familiar (CESFAM),Municipal,77,12
+2024,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,112311,Centro de Salud Familiar Salvador Bustos,Centro de Salud Familiar (CESFAM),Municipal,92,12
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112314,Centro de Salud Familiar La Faena,Centro de Salud Familiar (CESFAM),Municipal,160,12
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112315,Centro de Salud Familiar San Luis,Centro de Salud Familiar (CESFAM),Municipal,84,12
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112316,Centro de Salud Familiar Carol Urzúa Ibáñez,Centro de Salud Familiar (CESFAM),Municipal,140,12
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112318,Centro de Salud Familiar Lo Hermida,Centro de Salud Familiar (CESFAM),Municipal,162,12
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112321,Centro de Salud Familiar Cardenal Silva Henríquez,Centro de Salud Familiar (CESFAM),Municipal,108,12
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112322,Centro de Salud Familiar Padre Gerardo Whelan,Centro de Salud Familiar (CESFAM),Municipal,122,12
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,201112,Centro de Salud Familiar Las Torres,Centro de Salud Familiar (CESFAM),Municipal,119,12
+2024,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,112301,Centro de Salud Familiar Dr. Hernán Alessandri,Centro de Salud Familiar (CESFAM),Municipal,83,12
+2024,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,112302,Centro de Salud Familiar Dr. Alfonso Leng,Centro de Salud Familiar (CESFAM),Municipal,40,12
+2024,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,112303,Centro de Salud Familiar Aguilucho,Centro de Salud Familiar (CESFAM),Municipal,39,12
+2024,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,112309,Centro de Salud Familiar Vitacura,Centro de Salud Familiar (CESFAM),Municipal,26,12
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113312,Centro de Salud Familiar Dr. Carlos Lorca Tobar,Centro de Salud Familiar (CESFAM),Municipal,111,12
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113314,Centro de Salud Familiar Cóndores de Chile,Centro de Salud Familiar (CESFAM),Municipal,91,12
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113317,Centro de Salud Familiar Santa Laura,Centro de Salud Familiar (CESFAM),Municipal,75,12
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113323,Centro de Salud Familiar Dr. Mario Salcedo,Centro de Salud Familiar (CESFAM),Municipal,85,12
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113324,Centro de Salud Familiar Dra. Haydeé López Casoou,Centro de Salud Familiar (CESFAM),Municipal,114,12
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113329,Centro de Salud Familiar Canciller Orlando Letelier,Centro de Salud Familiar (CESFAM),Municipal,102,12
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113717,Centro Comunitario de Salud Familiar Santa Laura,Centro Comunitario de Salud Familiar (CECOSF),Municipal,12,12
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,200962,Centro Comunitario de Salud Familiar Los Sauces,Centro Comunitario de Salud Familiar (CECOSF),Municipal,9,12
+2024,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,113311,Centro de Salud Familiar Santa Anselma,Centro de Salud Familiar (CESFAM),Municipal,162,12
+2024,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,113326,Centro de Salud Familiar Eduardo Frei Montalva,Centro de Salud Familiar (CESFAM),Municipal,175,12
+2024,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,200360,Centro Comunitario de Salud Familiar Eduardo Frei Montalva,Centro Comunitario de Salud Familiar (CECOSF),Municipal,20,12
+2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113308,Centro de Salud Familiar Clara Estrella,Centro de Salud Familiar (CESFAM),Municipal,92,12
+2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113309,Centro de Salud Familiar Julio Acuña Pinzón,Centro de Salud Familiar (CESFAM),Municipal,116,12
+2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113310,Centro de Salud Familiar Dra. Mariela Salgado Zepeda,Centro de Salud Familiar (CESFAM),Municipal,85,12
+2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113396,Centro de Salud Familiar Pueblo Lo Espejo,Centro de Salud Familiar (CESFAM),Municipal,82,12
+2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,111303,Centro de Salud Familiar Lo Valledor Norte,Centro de Salud Familiar (CESFAM),Municipal,75,12
+2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113303,Centro de Salud Familiar Amador Neghme,Centro de Salud Familiar (CESFAM),Municipal,91,12
+2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113306,Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria),Centro de Salud Familiar (CESFAM),Municipal,88,12
+2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113331,Centro de Salud Familiar Edgardo Enríquez Fröedden,Centro de Salud Familiar (CESFAM),Municipal,68,12
+2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113703,Centro Comunitario de Salud Familiar Dr. Miguel Enríquez Espinosa,Centro Comunitario de Salud Familiar (CECOSF),Municipal,14,12
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113301,Centro de Salud Familiar San Joaquín,Centro de Salud Familiar (CESFAM),Municipal,107,12
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113305,Centro de Salud Familiar Arturo Baeza Goñi,Centro de Salud Familiar (CESFAM),Municipal,127,12
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113322,Centro de Salud Familiar Santa Teresa de Los Andes,Centro de Salud Familiar (CESFAM),Municipal,58,12
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113701,Centro Comunitario de Salud Familiar Yalta,Centro Comunitario de Salud Familiar (CECOSF),Municipal,50,12
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113702,Centro Comunitario de Salud Familiar Sierra Bella,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113722,Centro Comunitario de Salud Familiar Dr. Salvador Allende,Centro Comunitario de Salud Familiar (CECOSF),Municipal,19,12
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113753,Centro Comunitario de Salud Familiar Reverendo Javier Peró,Centro Comunitario de Salud Familiar (CECOSF),Municipal,14,12
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,200210,Centro Comunitario de Salud Familiar Coñimo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,12,12
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,200337,Centro Comunitario de Salud Familiar Martín Henríquez,Centro Comunitario de Salud Familiar (CECOSF),Municipal,48,12
+2024,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,113300,Centro de Salud Familiar Barros Luco,Centro de Salud Familiar (CESFAM),Municipal,230,12
+2024,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,113302,Centro de Salud Familiar Recreo,Centro de Salud Familiar (CESFAM),Municipal,183,12
+2024,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,200361,Centro Comunitario de Salud Familiar Atacama,Centro Comunitario de Salud Familiar (CECOSF),Municipal,32,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113313,Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo),Centro de Salud Familiar (CESFAM),Municipal,127,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113315,Centro de Salud Familiar Confraternidad,Centro de Salud Familiar (CESFAM),Municipal,112,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113316,Centro de Salud Familiar Carol Urzúa,Centro de Salud Familiar (CESFAM),Municipal,117,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113328,Centro de Salud Familiar Padre Joan Alsina,Centro de Salud Familiar (CESFAM),Municipal,175,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113330,Centro de Salud Familiar Raúl Brañes F.,Centro de Salud Familiar (CESFAM),Municipal,186,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113332,Centro de Salud Familiar Juan Pablo II ( San Bernardo),Centro de Salud Familiar (CESFAM),Municipal,129,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113394,Centro de Salud Familiar El Manzano,Centro de Salud Familiar (CESFAM),Municipal,120,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113713,Centro Comunitario de Salud Familiar Ribera del Maipo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,22,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113716,Centro Comunitario de Salud Familiar Rapa Nui,Centro Comunitario de Salud Familiar (CECOSF),Municipal,23,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113728,Centro Comunitario de Salud Familiar Lo Herrera,Centro Comunitario de Salud Familiar (CECOSF),Municipal,27,12
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,200377,Centro Comunitario de Salud Familiar Las Hortensias,Centro Comunitario de Salud Familiar (CECOSF),Municipal,13,12
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,113320,Centro de Salud Familiar Maipo,Centro de Salud Familiar (CESFAM),Municipal,95,12
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,113333,Centro de Salud Familiar Alto Jahuel,Centro de Salud Familiar (CESFAM),Municipal,47,12
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,113390,Centro de Salud Familiar Dr. Héctor García,Centro de Salud Familiar (CESFAM),Municipal,143,12
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,113402,Centro Comunitario de Salud Familiar Dr. Ramón Galindo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,21,12
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,113404,Posta de Salud Rural Valdivia de Paine,Posta de Salud Rural (PSR),Municipal,12,12
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,113405,Posta de Salud Rural Viluco,Posta de Salud Rural (PSR),Municipal,21,12
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,113406,Posta de Salud Rural El Recurso,Posta de Salud Rural (PSR),Municipal,3,12
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,113407,Posta de Salud Rural Los Morros,Posta de Salud Rural (PSR),Municipal,6,12
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,113790,Centro Comunitario de Salud Familiar Dr. Héctor García,Centro Comunitario de Salud Familiar (CECOSF),Municipal,28,12
+2024,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,113321,Centro de Salud Familiar Calera de Tango,Centro de Salud Familiar (CESFAM),Municipal,28,12
+2024,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,113334,Centro de Salud Familiar Los Bajos de San Agustín,Centro de Salud Familiar (CESFAM),Municipal,31,12
+2024,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,113413,Posta de Salud Rural Santa Inés,Posta de Salud Rural (PSR),Municipal,1,12
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,113318,Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine),Centro de Salud Familiar (CESFAM),Municipal,209,12
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,113319,Centro de Salud Familiar Dr. Raúl Moya,Centro de Salud Familiar (CESFAM),Municipal,47,12
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,113408,Posta de Salud Rural Pintué,Posta de Salud Rural (PSR),Municipal,10,12
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,113409,Posta de Salud Rural Huelquén,Posta de Salud Rural (PSR),Municipal,26,12
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,113410,Posta de Salud Rural Rangue,Posta de Salud Rural (PSR),Municipal,3,12
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,113411,Posta de Salud Rural Abrantes,Posta de Salud Rural (PSR),Municipal,7,12
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,113412,Posta de Salud Rural Chada,Posta de Salud Rural (PSR),Municipal,11,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114302,Centro de Salud Familiar Los Castaños,Centro de Salud Familiar (CESFAM),Municipal,100,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114303,Centro de Salud Familiar Bellavista,Centro de Salud Familiar (CESFAM),Municipal,115,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114304,Centro de Salud Familiar Villa O'Higgins,Centro de Salud Familiar (CESFAM),Municipal,119,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114305,Centro de Salud Familiar Los Quillayes,Centro de Salud Familiar (CESFAM),Municipal,168,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114316,Centro de Salud Familiar Dr. Fernando Maffioletti,Centro de Salud Familiar (CESFAM),Municipal,109,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114324,Centro de Salud Familiar Santa Amalia,Centro de Salud Familiar (CESFAM),Municipal,144,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114331,Centro de Salud Familiar La Florida,Centro de Salud Familiar (CESFAM),Municipal,175,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114334,Centro de Salud Familiar José Alvo,Centro de Salud Familiar (CESFAM),Municipal,97,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,200475,Centro Comunitario de Salud Familiar Las Lomas,Centro Comunitario de Salud Familiar (CECOSF),Municipal,3,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,113307,Centro de Salud Familiar Padre Esteban Gumucio Vives,Centro de Salud Familiar (CESFAM),Municipal,69,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114306,Centro de Salud Familiar La Granja,Centro de Salud Familiar (CESFAM),Municipal,115,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114315,Centro de Salud Familiar Malaquías Concha,Centro de Salud Familiar (CESFAM),Municipal,72,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114325,Centro de Salud Familiar Granja Sur,Centro de Salud Familiar (CESFAM),Municipal,226,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114706,Centro Comunitario de Salud Familiar Millalemu,Centro Comunitario de Salud Familiar (CECOSF),Municipal,12,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114796,Centro Comunitario de Salud Familiar San Gregorio,Centro Comunitario de Salud Familiar (CECOSF),Municipal,12,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114308,Centro de Salud Familiar San Rafael,Centro de Salud Familiar (CESFAM),Municipal,75,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114309,Centro de Salud Familiar Pablo de Rokha,Centro de Salud Familiar (CESFAM),Municipal,78,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114311,Centro de Salud Familiar Santiago de Nueva Extremadura,Centro de Salud Familiar (CESFAM),Municipal,132,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114317,Centro de Salud Familiar Santo Tomás,Centro de Salud Familiar (CESFAM),Municipal,80,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114318,Centro de Salud Familiar Flor Fernández,Centro de Salud Familiar (CESFAM),Municipal,26,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114319,Centro de Salud Familiar El Roble,Centro de Salud Familiar (CESFAM),Municipal,123,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114327,Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS,Centro de Salud Familiar (CESFAM),Delegado,136,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114307,Centro de Salud Familiar La Bandera,Centro de Salud Familiar (CESFAM),Municipal,83,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114314,Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón),Centro de Salud Familiar (CESFAM),Municipal,56,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114328,Centro de Salud Familiar Poetisa Gabriela Mistral,Centro de Salud Familiar (CESFAM),Municipal,137,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114714,Centro Comunitario de Salud Familiar Modelo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,20,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114301,Centro de Salud Familiar Dr. Alejandro del Río,Centro de Salud Familiar (CESFAM),Municipal,307,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114312,Centro de Salud Familiar San Gerónimo,Centro de Salud Familiar (CESFAM),Municipal,211,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114313,Centro de Salud Familiar Vista Hermosa,Centro de Salud Familiar (CESFAM),Municipal,116,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114320,Centro de Salud Familiar Bernardo Leighton,Centro de Salud Familiar (CESFAM),Municipal,180,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114321,Centro de Salud Familiar Cardenal Silva Henríquez,Centro de Salud Familiar (CESFAM),Municipal,162,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114322,Centro de Salud Familiar Padre Manuel Villaseca,Centro de Salud Familiar (CESFAM),Municipal,248,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114323,Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS,Centro de Salud Familiar (CESFAM),Delegado,133,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114326,Centro de Salud Familiar Karol Wojtyla,Centro de Salud Familiar (CESFAM),Municipal,175,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114329,Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS,Centro de Salud Familiar (CESFAM),Delegado,119,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114332,Centro de Salud Familiar Laurita Vicuña,Centro de Salud Familiar (CESFAM),Municipal,148,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114310,Centro de Salud Familiar Dr. José Manuel Balmaceda,Centro de Salud Familiar (CESFAM),Municipal,39,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114333,Centro de Salud Rural El Principal,Consultorio General Rural (CGR),Municipal,30,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114401,Posta de Salud Rural Puntilla,Posta de Salud Rural (PSR),Municipal,5,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114403,Posta de Salud Rural Santa Rita,Posta de Salud Rural (PSR),Municipal,1,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114406,Posta de Salud Rural San Vicente,Posta de Salud Rural (PSR),Municipal,2,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,114102,Hospital San José de Maipo,Hospital,Servicio de Salud,33,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,114407,Posta de Salud Rural Las Vertientes,Posta de Salud Rural (PSR),Municipal,7,12
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,114410,Posta de Salud Rural San Gabriel,Posta de Salud Rural (PSR),Municipal,3,12
+2025,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109302,Centro de Salud Familiar Lucas Sierra,Centro de Salud Familiar (CESFAM),Municipal,96,12
+2025,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109308,Centro de Salud Familiar Alberto Bachelet Martínez,Centro de Salud Familiar (CESFAM),Municipal,69,12
+2025,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109309,Centro de Salud Familiar José Symon Ojeda,Centro de Salud Familiar (CESFAM),Municipal,66,12
+2025,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109314,Centro de Salud Familiar Juanita Aguirre,Centro de Salud Familiar (CESFAM),Municipal,83,12
+2025,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,109709,Centro Comunitario de Salud Familiar Dr. José Symón Ojeda,Centro Comunitario de Salud Familiar (CECOSF),Municipal,46,12
+2025,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,200347,Centro Comunitario de Salud Familiar Alberto Bachelet,Centro Comunitario de Salud Familiar (CECOSF),Municipal,19,12
+2025,09,Servicio de Salud Metropolitano Norte,13104,Conchalí,200609,Centro Comunitario de Salud Familiar Dr. Lucas Sierra,Centro Comunitario de Salud Familiar (CECOSF),Municipal,29,12
+2025,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109305,Centro de Salud Familiar La Pincoya,Centro de Salud Familiar (CESFAM),Municipal,115,12
+2025,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109317,Centro de Salud Familiar El Barrero,Centro de Salud Familiar (CESFAM),Municipal,51,12
+2025,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109323,Centro de Salud Familiar Dr. Salvador Allende Gossens,Centro de Salud Familiar (CESFAM),Municipal,81,12
+2025,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,109718,Centro Comunitario de Salud Familiar Los Libertadores,Centro Comunitario de Salud Familiar (CECOSF),Municipal,16,12
+2025,09,Servicio de Salud Metropolitano Norte,13107,Huechuraba,200961,Centro de Salud Familiar Dr. Victor Castro Wiren,Centro de Salud Familiar (CESFAM),Municipal,18,12
+2025,09,Servicio de Salud Metropolitano Norte,13108,Independencia,109300,Centro de Salud Familiar Agustín Cruz Melo,Centro de Salud Familiar (CESFAM),Municipal,312,12
+2025,09,Servicio de Salud Metropolitano Norte,13108,Independencia,109321,Centro de Salud Familiar Juan Antonio Ríos,Centro de Salud Familiar (CESFAM),Municipal,105,12
+2025,09,Servicio de Salud Metropolitano Norte,13108,Independencia,200554,Centro Comunitario de Salud Familiar Las Enredaderas,Centro Comunitario de Salud Familiar (CECOSF),Municipal,26,12
+2025,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109313,Centro de Salud Familiar Irene Frei de Cid,Centro de Salud Familiar (CESFAM),Municipal,208,12
+2025,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109315,Centro de Salud Familiar Manuel Bustos Huerta,Centro de Salud Familiar (CESFAM),Municipal,113,12
+2025,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109324,Centro de Salud Familiar Presidente Salvador Allende Gossens,Centro de Salud Familiar (CESFAM),Municipal,187,12
+2025,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109713,Centro Comunitario de Salud Familiar La Foresta,Centro Comunitario de Salud Familiar (CECOSF),Municipal,11,12
+2025,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,109715,Centro Comunitario de Salud Familiar Pucara de Lasana,Centro Comunitario de Salud Familiar (CECOSF),Municipal,24,12
+2025,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,200304,Centro Comunitario de Salud Familiar Beato Padre Hurtado,Centro Comunitario de Salud Familiar (CECOSF),Municipal,20,12
+2025,09,Servicio de Salud Metropolitano Norte,13125,Quilicura,201091,Centro de Salud Familiar Marta Ugarte Román,Centro de Salud Familiar (CESFAM),Municipal,158,12
+2025,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109301,Centro de Salud Familiar Recoleta,Centro de Salud Familiar (CESFAM),Municipal,176,12
+2025,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109303,Centro de Salud Familiar Quinta Bella,Centro de Salud Familiar (CESFAM),Municipal,161,12
+2025,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109304,Centro de Salud Familiar Valdivieso,Centro de Salud Familiar (CESFAM),Municipal,37,12
+2025,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109307,Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie),Centro de Salud Familiar (CESFAM),Municipal,73,12
+2025,09,Servicio de Salud Metropolitano Norte,13127,Recoleta,109390,Centro de Salud Familiar Cristo Vive (ONG),Centro de Salud Familiar (CESFAM),Otra Institución,118,12
+2025,09,Servicio de Salud Metropolitano Norte,13301,Colina,109310,Centro de Salud Familiar Colina,Centro de Salud Familiar (CESFAM),Municipal,203,12
+2025,09,Servicio de Salud Metropolitano Norte,13301,Colina,109316,Centro de Salud Familiar Esmeralda,Centro de Salud Familiar (CESFAM),Municipal,177,12
+2025,09,Servicio de Salud Metropolitano Norte,13301,Colina,109416,Posta de Salud Rural Colorado,Posta de Salud Rural (PSR),Municipal,3,12
+2025,09,Servicio de Salud Metropolitano Norte,13301,Colina,109417,Posta de Salud Rural Los Ingleses,Posta de Salud Rural (PSR),Municipal,3,12
+2025,09,Servicio de Salud Metropolitano Norte,13301,Colina,109418,Posta de Salud Rural Las Canteras,Posta de Salud Rural (PSR),Municipal,2,12
+2025,09,Servicio de Salud Metropolitano Norte,13301,Colina,109419,Posta de Salud Rural Santa Marta de Liray,Posta de Salud Rural (PSR),Municipal,5,12
+2025,09,Servicio de Salud Metropolitano Norte,13301,Colina,109420,Posta de Salud Rural Chacabuco (Colina),Posta de Salud Rural (PSR),Municipal,1,12
+2025,09,Servicio de Salud Metropolitano Norte,13301,Colina,109716,Centro Comunitario de Salud Familiar Esmeralda,Centro Comunitario de Salud Familiar (CECOSF),Municipal,8,12
+2025,09,Servicio de Salud Metropolitano Norte,13301,Colina,201462,CESFAM La Reina de Colina,Centro de Salud Familiar (CESFAM),Municipal,156,12
+2025,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109311,Centro de Salud Familiar José Bauza Frau,Centro de Salud Familiar (CESFAM),Municipal,216,12
+2025,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109312,Centro de Salud Familiar Batuco,Centro de Salud Familiar (CESFAM),Municipal,96,12
+2025,09,Servicio de Salud Metropolitano Norte,13302,Lampa,109712,Centro Comunitario de Salud Familiar Batuco,Centro Comunitario de Salud Familiar (CECOSF),Municipal,54,12
+2025,09,Servicio de Salud Metropolitano Norte,13302,Lampa,201212,Centro de Salud Familiar Juan Pablo II de Lampa,Centro de Salud Familiar (CESFAM),Municipal,49,12
+2025,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109104,Hospital de Til Til,Hospital,Servicio de Salud,29,12
+2025,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109320,Centro de Salud Familiar Huertos Familiares,Centro de Salud Familiar (CESFAM),Municipal,26,12
+2025,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109410,Posta de Salud Rural La Capilla de Caleu,Posta de Salud Rural (PSR),Municipal,3,12
+2025,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109412,Posta de Salud Rural Montenegro,Posta de Salud Rural (PSR),Municipal,1,12
+2025,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109413,Posta de Salud Rural Rungue,Posta de Salud Rural (PSR),Municipal,1,12
+2025,09,Servicio de Salud Metropolitano Norte,13303,Tiltil,109414,Posta de Salud Rural Polpaico,Posta de Salud Rural (PSR),Municipal,6,12
+2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110330,Centro de Salud Familiar Dr. Adalberto Steeger,Centro de Salud Familiar (CESFAM),Municipal,166,12
+2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110331,Centro de Salud Familiar Lo Amor,Centro de Salud Familiar (CESFAM),Municipal,113,12
+2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110335,Centro de Salud Familiar Cerro Navia,Centro de Salud Familiar (CESFAM),Municipal,112,12
+2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110355,Centro de Salud Familiar Dr. Arturo Albertz,Centro de Salud Familiar (CESFAM),Municipal,126,12
+2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,110735,Centro Comunitario de Salud Familiar Los Lagos (Unidad Vecinal Nº 33),Centro Comunitario de Salud Familiar (CECOSF),Municipal,9,12
+2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110315,Centro de Salud Familiar Santa Anita,Centro de Salud Familiar (CESFAM),Municipal,118,12
+2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110316,Centro de Salud Familiar Pablo Neruda,Centro de Salud Familiar (CESFAM),Municipal,91,12
+2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110340,Centro de Salud Familiar Dr. Raúl Yazigi,Centro de Salud Familiar (CESFAM),Municipal,121,12
+2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,110345,Centro de Salud Familiar Dr. Carlos Avendaño,Centro de Salud Familiar (CESFAM),Municipal,75,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110350,Centro de Salud Familiar Pudahuel Estrella,Centro de Salud Familiar (CESFAM),Municipal,141,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110351,Centro de Salud Familiar Pudahuel Poniente,Centro de Salud Familiar (CESFAM),Municipal,70,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110352,Centro de Salud Familiar Dr. Gustavo Molina,Centro de Salud Familiar (CESFAM),Municipal,105,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110353,Centro de Salud Familiar Cardenal Raúl Silva Henríquez,Centro de Salud Familiar (CESFAM),Municipal,86,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110354,Centro de Salud Familiar Violeta Parra,Centro de Salud Familiar (CESFAM),Municipal,225,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110410,Centro Comunitario de Salud Familiar Irene Frei Montalva,Centro Comunitario de Salud Familiar (CECOSF),Municipal,10,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110750,Centro Comunitario de Salud Familiar Concejal Guillermo Flores O.,Centro Comunitario de Salud Familiar (CECOSF),Municipal,5,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110752,Centro Comunitario de Salud Familiar Padre Félix Gutiérrez Donoso,Centro Comunitario de Salud Familiar (CECOSF),Municipal,16,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110754,Centro Comunitario de Salud Familiar Río Claro,Centro Comunitario de Salud Familiar (CECOSF),Municipal,14,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110756,Centro Comunitario de Salud Familiar Mar Caribe,Centro Comunitario de Salud Familiar (CECOSF),Municipal,6,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,110758,Centro Comunitario de Salud Familiar Santa Corina,Centro Comunitario de Salud Familiar (CECOSF),Municipal,6,12
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,201353,Centro Comunitario de Salud Familiar Unión y Esfuerzo Rural,Centro Comunitario de Salud Familiar (CECOSF),Municipal,3,12
+2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110310,Centro de Salud Familiar Andes,Centro de Salud Familiar (CESFAM),Servicio de Salud,336,12
+2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110320,Centro de Salud Familiar Lo Franco,Centro de Salud Familiar (CESFAM),Municipal,93,12
+2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110325,Centro de Salud Familiar Garín,Centro de Salud Familiar (CESFAM),Municipal,78,12
+2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110720,Centro Comunitario de Salud Familiar Catamarca,Centro Comunitario de Salud Familiar (CECOSF),Municipal,10,12
+2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,110725,Centro Comunitario de Salud Familiar Antumalal,Centro Comunitario de Salud Familiar (CECOSF),Municipal,13,12
+2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,200342,Centro Comunitario de Salud Familiar Plaza México,Centro Comunitario de Salud Familiar (CECOSF),Municipal,17,12
+2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110360,Centro de Salud Familiar Renca,Centro de Salud Familiar (CESFAM),Municipal,247,12
+2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110361,Centro de Salud Familiar Bicentenario,Centro de Salud Familiar (CESFAM),Municipal,167,12
+2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110362,Centro de Salud Familiar Dr. Hernán Urzúa Merino,Centro de Salud Familiar (CESFAM),Municipal,99,12
+2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,110364,Centro de Salud Familiar Huamachuco,Centro de Salud Familiar (CESFAM),Municipal,77,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110378,Centro de Salud Familiar Dr. Edelberto Elgueta,Centro de Salud Familiar (CESFAM),Municipal,120,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110379,Centro de Salud Familiar Dr. Francisco Boris Soler,Centro de Salud Familiar (CESFAM),Municipal,163,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110380,Centro de Salud Familiar San Manuel,Centro de Salud Familiar (CESFAM),Municipal,21,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110381,Centro de Salud Familiar Alfarera Rosa Reyes Vilches,Centro de Salud Familiar (CESFAM),Municipal,27,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110440,Posta de Salud Rural Bollenar,Posta de Salud Rural (PSR),Municipal,23,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110445,Posta de Salud Rural Pahuilmo,Posta de Salud Rural (PSR),Municipal,16,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110455,Posta de Salud Rural Pabellón,Posta de Salud Rural (PSR),Municipal,10,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110778,Centro Comunitario de Salud Familiar Padre Demetrio Bravo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,28,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110781,Centro Comunitario de Salud Familiar Obispo Pablo Lizama,Centro Comunitario de Salud Familiar (CECOSF),Municipal,17,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,110783,Centro Comunitario de Salud Familiar Codigua,Centro Comunitario de Salud Familiar (CECOSF),Municipal,4,12
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,200965,Centro de Salud Familiar Florencia,Centro de Salud Familiar (CESFAM),Municipal,125,12
+2025,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,110393,Centro de Salud Familiar Villa Alhué,Centro de Salud Familiar (CESFAM),Municipal,21,12
+2025,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,110503,Centro Comunitario de Salud Familiar Hacienda Alhué,Centro Comunitario de Salud Familiar (CECOSF),Municipal,31,12
+2025,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,110160,Hospital de Curacaví,Hospital,Servicio de Salud,124,12
+2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110385,Centro de Salud Familiar Adriana Madrid De Costabal,Centro de Salud Familiar (CESFAM),Municipal,29,12
+2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110465,Posta de Salud Rural Santa Emilia,Posta de Salud Rural (PSR),Municipal,5,12
+2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110470,Posta de Salud Rural Las Mercedes ( María Pinto ),Posta de Salud Rural (PSR),Municipal,3,12
+2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,110475,Posta de Salud Rural Chorombo,Posta de Salud Rural (PSR),Municipal,12,12
+2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110387,Centro de Salud Familiar San Pedro,Centro de Salud Familiar (CESFAM),Municipal,40,12
+2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110485,Posta de Salud Rural Loica,Posta de Salud Rural (PSR),Municipal,7,12
+2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110490,Posta de Salud Rural La Manga,Posta de Salud Rural (PSR),Municipal,5,12
+2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110492,Posta de Salud Rural Nihue,Posta de Salud Rural (PSR),Municipal,1,12
+2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,110495,Posta de Salud Rural El Prado,Posta de Salud Rural (PSR),Municipal,11,12
+2025,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,110390,Centro de Salud Familiar Dr. Alberto Allende Jones,Centro de Salud Familiar (CESFAM),Municipal,186,12
+2025,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,110400,Posta de Salud Rural Aliro Cárcarmo (Lonquén),Posta de Salud Rural (PSR),Municipal,12,12
+2025,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,200365,Centro Comunitario de Salud Familiar Villa Los Presidentes,Centro Comunitario de Salud Familiar (CECOSF),Municipal,13,12
+2025,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,110370,Centro de Salud Familiar El Monte,Centro de Salud Familiar (CESFAM),Municipal,98,12
+2025,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,200454,Centro Comunitario de Salud Familiar Lo Chacón,Centro Comunitario de Salud Familiar (CECOSF),Municipal,28,12
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110375,Centro de Salud Familiar Isla de Maipo,Centro de Salud Familiar (CESFAM),Municipal,55,12
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110425,Centro de Salud Familiar La Islita,Centro de Salud Familiar (CESFAM),Municipal,60,12
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110430,Posta de Salud Rural San Antonio de Naltagua,Posta de Salud Rural (PSR),Municipal,9,12
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110431,Posta de Salud Rural Gacitúa,Posta de Salud Rural (PSR),Municipal,7,12
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110432,Posta de Salud Rural Las Mercedes ( Isla de Maipo ),Posta de Salud Rural (PSR),Municipal,3,12
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,110775,Centro Comunitario de Salud Familiar La Islita,Centro Comunitario de Salud Familiar (CECOSF),Municipal,9,12
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,200385,Centro Comunitario de Salud Familiar San Vicente de Naltagua,Centro Comunitario de Salud Familiar (CECOSF),Municipal,6,12
+2025,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,110366,Centro de Salud Familiar Juan Pablo II ( Padre Hurtado),Centro de Salud Familiar (CESFAM),Municipal,237,12
+2025,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,110308,Centro de Salud Familiar Peñaflor,Centro de Salud Familiar (CESFAM),Municipal,73,12
+2025,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,110369,Centro de Salud Familiar Dr. Fernando Monckeberg,Centro de Salud Familiar (CESFAM),Municipal,135,12
+2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,111300,Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo,Centro de Salud Familiar (CESFAM),Servicio de Salud,261,12
+2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,111301,Centro de Salud Familiar Nº 5,Centro de Salud Familiar (CESFAM),Servicio de Salud,127,12
+2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,111370,Centro de Salud Familiar Padre Orellana,Centro de Salud Familiar (CESFAM),Municipal,253,12
+2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,111372,Centro de Salud Familiar Arauco,Centro de Salud Familiar (CESFAM),Municipal,85,12
+2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,111376,Centro de Salud Familiar Matta Sur,Centro de Salud Familiar (CESFAM),Municipal,237,12
+2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,111381,Centro de Salud Familiar Ignacio Domeyko,Centro de Salud Familiar (CESFAM),Municipal,327,12
+2025,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,111305,Centro de Salud Familiar Dr. Norman Voulliéme,Centro de Salud Familiar (CESFAM),Servicio de Salud,163,12
+2025,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,111307,Centro de Salud Familiar Enfermera Sofía Pincheira,Centro de Salud Familiar (CESFAM),Servicio de Salud,97,12
+2025,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,200346,Centro Comunitario de Salud Familiar Buzeta,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,19,12
+2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111302,Centro de Salud Familiar Padre Vicente Irarrázabal,Centro de Salud Familiar (CESFAM),Servicio de Salud,91,12
+2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111306,Centro de Salud Familiar San José de Chuchunco,Centro de Salud Familiar (CESFAM),Servicio de Salud,103,12
+2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111310,Centro de Salud Familiar Las Mercedes,Centro de Salud Familiar (CESFAM),Servicio de Salud,336,12
+2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,111781,Centro Comunitario de Salud Familiar Villa Francia,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,12,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111304,Centro de Salud Familiar Maipú,Centro de Salud Familiar (CESFAM),Servicio de Salud,120,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111308,Centro de Salud Familiar Dr. José Eduardo Ahués Salame,Centro de Salud Familiar (CESFAM),Servicio de Salud,168,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111309,Centro de Salud Familiar Dra. Ana María Juricic,Centro de Salud Familiar (CESFAM),Servicio de Salud,151,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111378,Centro de Salud Familiar Dr. Iván Insunza,Centro de Salud Familiar (CESFAM),Municipal,127,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111379,Centro de Salud Familiar Clotario Blest,Centro de Salud Familiar (CESFAM),Municipal,82,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111380,Centro de Salud Familiar Dr. Carlos Godoy,Centro de Salud Familiar (CESFAM),Municipal,99,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111382,Centro de Salud Familiar Presidenta Michelle Bachelet,Centro de Salud Familiar (CESFAM),Municipal,148,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111383,Centro de Salud Familiar Dr. Luis Ferrada,Centro de Salud Familiar (CESFAM),Municipal,65,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111704,Centro Comunitario de Salud Familiar Futramapu,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,10,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111780,Centro Comunitario de Salud Familiar Europa,Centro Comunitario de Salud Familiar (CECOSF),Servicio de Salud,4,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111783,Centro Comunitario de Salud Familiar Lo Errázuriz,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,111784,Centro Comunitario de Salud Familiar Bueras,Centro Comunitario de Salud Familiar (CECOSF),Municipal,9,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,200643,Centro Comunitario de Salud Familiar Los Bosquinos,Centro Comunitario de Salud Familiar (CECOSF),Municipal,14,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,201129,Centro Comunitario de Salud Familiar LUMEN,Centro Comunitario de Salud Familiar (CECOSF),Municipal,20,12
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,201674,CESFAM El Abrazo Dr. Salvador Allende Gossens,Centro de Salud Familiar (CESFAM),Municipal,87,12
+2025,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,112317,Centro de Salud Familiar Ossandon,Centro de Salud Familiar (CESFAM),Municipal,48,12
+2025,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,112320,Centro de Salud Familiar Juan Pablo II ( La Reina),Centro de Salud Familiar (CESFAM),Municipal,59,12
+2025,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,112304,Centro de Salud Familiar Apoquindo,Centro de Salud Familiar (CESFAM),Municipal,23,12
+2025,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,112306,Centro de Salud Familiar Aníbal Ariztía,Centro de Salud Familiar (CESFAM),Municipal,113,12
+2025,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,112307,Centro de Salud Familiar Lo Barnechea,Centro de Salud Familiar (CESFAM),Municipal,120,12
+2025,12,Servicio de Salud Metropolitano Oriente,13118,Macul,112312,Centro de Salud Familiar Félix de Amesti,Centro de Salud Familiar (CESFAM),Municipal,100,12
+2025,12,Servicio de Salud Metropolitano Oriente,13118,Macul,112313,Centro de Salud Familiar Santa Julia,Centro de Salud Familiar (CESFAM),Municipal,119,12
+2025,12,Servicio de Salud Metropolitano Oriente,13118,Macul,112319,Centro de Salud Familiar Padre Alberto Hurtado,Centro de Salud Familiar (CESFAM),Municipal,72,12
+2025,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,112310,Centro de Salud Familiar Rosita Renard,Centro de Salud Familiar (CESFAM),Municipal,179,12
+2025,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,112311,Centro de Salud Familiar Salvador Bustos,Centro de Salud Familiar (CESFAM),Municipal,114,12
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112314,Centro de Salud Familiar La Faena,Centro de Salud Familiar (CESFAM),Municipal,165,12
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112315,Centro de Salud Familiar San Luis,Centro de Salud Familiar (CESFAM),Municipal,98,12
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112316,Centro de Salud Familiar Carol Urzúa Ibáñez,Centro de Salud Familiar (CESFAM),Municipal,154,12
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112318,Centro de Salud Familiar Lo Hermida,Centro de Salud Familiar (CESFAM),Municipal,134,12
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112321,Centro de Salud Familiar Cardenal Silva Henríquez,Centro de Salud Familiar (CESFAM),Municipal,126,12
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,112322,Centro de Salud Familiar Padre Gerardo Whelan,Centro de Salud Familiar (CESFAM),Municipal,100,12
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,201112,Centro de Salud Familiar Las Torres,Centro de Salud Familiar (CESFAM),Municipal,105,12
+2025,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,112301,Centro de Salud Familiar Dr. Hernán Alessandri,Centro de Salud Familiar (CESFAM),Municipal,73,12
+2025,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,112302,Centro de Salud Familiar Dr. Alfonso Leng,Centro de Salud Familiar (CESFAM),Municipal,65,12
+2025,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,112303,Centro de Salud Familiar Aguilucho,Centro de Salud Familiar (CESFAM),Municipal,36,12
+2025,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,112309,Centro de Salud Familiar Vitacura,Centro de Salud Familiar (CESFAM),Municipal,25,12
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113312,Centro de Salud Familiar Dr. Carlos Lorca Tobar,Centro de Salud Familiar (CESFAM),Municipal,118,12
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113314,Centro de Salud Familiar Cóndores de Chile,Centro de Salud Familiar (CESFAM),Municipal,85,12
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113317,Centro de Salud Familiar Santa Laura,Centro de Salud Familiar (CESFAM),Municipal,89,12
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113323,Centro de Salud Familiar Dr. Mario Salcedo,Centro de Salud Familiar (CESFAM),Municipal,98,12
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113324,Centro de Salud Familiar Dra. Haydeé López Casoou,Centro de Salud Familiar (CESFAM),Municipal,92,12
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113329,Centro de Salud Familiar Canciller Orlando Letelier,Centro de Salud Familiar (CESFAM),Municipal,96,12
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,113717,Centro Comunitario de Salud Familiar Santa Laura,Centro Comunitario de Salud Familiar (CECOSF),Municipal,10,12
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,200962,Centro Comunitario de Salud Familiar Los Sauces,Centro Comunitario de Salud Familiar (CECOSF),Municipal,20,12
+2025,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,113311,Centro de Salud Familiar Santa Anselma,Centro de Salud Familiar (CESFAM),Municipal,144,12
+2025,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,113326,Centro de Salud Familiar Eduardo Frei Montalva,Centro de Salud Familiar (CESFAM),Municipal,114,12
+2025,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,200360,Centro Comunitario de Salud Familiar Eduardo Frei Montalva,Centro Comunitario de Salud Familiar (CECOSF),Municipal,16,12
+2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113308,Centro de Salud Familiar Clara Estrella,Centro de Salud Familiar (CESFAM),Municipal,93,12
+2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113309,Centro de Salud Familiar Julio Acuña Pinzón,Centro de Salud Familiar (CESFAM),Municipal,78,12
+2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113310,Centro de Salud Familiar Dra. Mariela Salgado Zepeda,Centro de Salud Familiar (CESFAM),Municipal,79,12
+2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,113396,Centro de Salud Familiar Pueblo Lo Espejo,Centro de Salud Familiar (CESFAM),Municipal,73,12
+2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,111303,Centro de Salud Familiar Lo Valledor Norte,Centro de Salud Familiar (CESFAM),Municipal,61,12
+2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113303,Centro de Salud Familiar Amador Neghme,Centro de Salud Familiar (CESFAM),Municipal,78,12
+2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113306,Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria),Centro de Salud Familiar (CESFAM),Municipal,88,12
+2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113331,Centro de Salud Familiar Edgardo Enríquez Fröedden,Centro de Salud Familiar (CESFAM),Municipal,83,12
+2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,113703,Centro Comunitario de Salud Familiar Dr. Miguel Enríquez Espinosa,Centro Comunitario de Salud Familiar (CECOSF),Municipal,16,12
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113301,Centro de Salud Familiar San Joaquín,Centro de Salud Familiar (CESFAM),Municipal,143,12
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113305,Centro de Salud Familiar Arturo Baeza Goñi,Centro de Salud Familiar (CESFAM),Municipal,123,12
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113322,Centro de Salud Familiar Santa Teresa de Los Andes,Centro de Salud Familiar (CESFAM),Municipal,42,12
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113701,Centro Comunitario de Salud Familiar Yalta,Centro Comunitario de Salud Familiar (CECOSF),Municipal,43,12
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113702,Centro Comunitario de Salud Familiar Sierra Bella,Centro Comunitario de Salud Familiar (CECOSF),Municipal,23,12
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113722,Centro Comunitario de Salud Familiar Dr. Salvador Allende,Centro Comunitario de Salud Familiar (CECOSF),Municipal,25,12
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,113753,Centro Comunitario de Salud Familiar Reverendo Javier Peró,Centro Comunitario de Salud Familiar (CECOSF),Municipal,17,12
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,200210,Centro Comunitario de Salud Familiar Coñimo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,19,12
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,200337,Centro Comunitario de Salud Familiar Martín Henríquez,Centro Comunitario de Salud Familiar (CECOSF),Municipal,31,12
+2025,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,113300,Centro de Salud Familiar Barros Luco,Centro de Salud Familiar (CESFAM),Municipal,213,12
+2025,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,113302,Centro de Salud Familiar Recreo,Centro de Salud Familiar (CESFAM),Municipal,177,12
+2025,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,200361,Centro Comunitario de Salud Familiar Atacama,Centro Comunitario de Salud Familiar (CECOSF),Municipal,57,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113313,Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo),Centro de Salud Familiar (CESFAM),Municipal,123,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113315,Centro de Salud Familiar Confraternidad,Centro de Salud Familiar (CESFAM),Municipal,132,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113316,Centro de Salud Familiar Carol Urzúa,Centro de Salud Familiar (CESFAM),Municipal,105,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113328,Centro de Salud Familiar Padre Joan Alsina,Centro de Salud Familiar (CESFAM),Municipal,169,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113330,Centro de Salud Familiar Raúl Brañes F.,Centro de Salud Familiar (CESFAM),Municipal,190,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113332,Centro de Salud Familiar Juan Pablo II ( San Bernardo),Centro de Salud Familiar (CESFAM),Municipal,108,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113394,Centro de Salud Familiar El Manzano,Centro de Salud Familiar (CESFAM),Municipal,134,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113713,Centro Comunitario de Salud Familiar Ribera del Maipo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,16,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113716,Centro Comunitario de Salud Familiar Rapa Nui,Centro Comunitario de Salud Familiar (CECOSF),Municipal,29,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,113728,Centro Comunitario de Salud Familiar Lo Herrera,Centro Comunitario de Salud Familiar (CECOSF),Municipal,23,12
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,200377,Centro Comunitario de Salud Familiar Las Hortensias,Centro Comunitario de Salud Familiar (CECOSF),Municipal,26,12
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,113320,Centro de Salud Familiar Maipo,Centro de Salud Familiar (CESFAM),Municipal,64,12
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,113333,Centro de Salud Familiar Alto Jahuel,Centro de Salud Familiar (CESFAM),Municipal,30,12
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,113390,Centro de Salud Familiar Dr. Héctor García,Centro de Salud Familiar (CESFAM),Municipal,161,12
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,113402,Centro Comunitario de Salud Familiar Dr. Ramón Galindo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,20,12
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,113404,Posta de Salud Rural Valdivia de Paine,Posta de Salud Rural (PSR),Municipal,7,12
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,113405,Posta de Salud Rural Viluco,Posta de Salud Rural (PSR),Municipal,13,12
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,113406,Posta de Salud Rural El Recurso,Posta de Salud Rural (PSR),Municipal,5,12
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,113407,Posta de Salud Rural Los Morros,Posta de Salud Rural (PSR),Municipal,7,12
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,113790,Centro Comunitario de Salud Familiar Dr. Héctor García,Centro Comunitario de Salud Familiar (CECOSF),Municipal,33,12
+2025,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,113321,Centro de Salud Familiar Calera de Tango,Centro de Salud Familiar (CESFAM),Municipal,25,12
+2025,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,113334,Centro de Salud Familiar Los Bajos de San Agustín,Centro de Salud Familiar (CESFAM),Municipal,47,12
+2025,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,113413,Posta de Salud Rural Santa Inés,Posta de Salud Rural (PSR),Municipal,1,12
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,113318,Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine),Centro de Salud Familiar (CESFAM),Municipal,200,12
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,113319,Centro de Salud Familiar Dr. Raúl Moya,Centro de Salud Familiar (CESFAM),Municipal,57,12
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,113408,Posta de Salud Rural Pintué,Posta de Salud Rural (PSR),Municipal,9,12
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,113409,Posta de Salud Rural Huelquén,Posta de Salud Rural (PSR),Municipal,19,12
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,113410,Posta de Salud Rural Rangue,Posta de Salud Rural (PSR),Municipal,10,12
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,113411,Posta de Salud Rural Abrantes,Posta de Salud Rural (PSR),Municipal,4,12
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,113412,Posta de Salud Rural Chada,Posta de Salud Rural (PSR),Municipal,6,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114302,Centro de Salud Familiar Los Castaños,Centro de Salud Familiar (CESFAM),Municipal,105,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114303,Centro de Salud Familiar Bellavista,Centro de Salud Familiar (CESFAM),Municipal,139,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114304,Centro de Salud Familiar Villa O'Higgins,Centro de Salud Familiar (CESFAM),Municipal,127,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114305,Centro de Salud Familiar Los Quillayes,Centro de Salud Familiar (CESFAM),Municipal,166,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114316,Centro de Salud Familiar Dr. Fernando Maffioletti,Centro de Salud Familiar (CESFAM),Municipal,148,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114324,Centro de Salud Familiar Santa Amalia,Centro de Salud Familiar (CESFAM),Municipal,96,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114330,Centro de Salud Familiar Trinidad,Centro de Salud Familiar (CESFAM),Municipal,85,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114331,Centro de Salud Familiar La Florida,Centro de Salud Familiar (CESFAM),Municipal,187,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,114334,Centro de Salud Familiar José Alvo,Centro de Salud Familiar (CESFAM),Municipal,99,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,200475,Centro Comunitario de Salud Familiar Las Lomas,Centro Comunitario de Salud Familiar (CECOSF),Municipal,9,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,113307,Centro de Salud Familiar Padre Esteban Gumucio Vives,Centro de Salud Familiar (CESFAM),Municipal,82,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114306,Centro de Salud Familiar La Granja,Centro de Salud Familiar (CESFAM),Municipal,112,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114315,Centro de Salud Familiar Malaquías Concha,Centro de Salud Familiar (CESFAM),Municipal,57,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114325,Centro de Salud Familiar Granja Sur,Centro de Salud Familiar (CESFAM),Municipal,207,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114706,Centro Comunitario de Salud Familiar Millalemu,Centro Comunitario de Salud Familiar (CECOSF),Municipal,11,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,114796,Centro Comunitario de Salud Familiar San Gregorio,Centro Comunitario de Salud Familiar (CECOSF),Municipal,15,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114308,Centro de Salud Familiar San Rafael,Centro de Salud Familiar (CESFAM),Municipal,116,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114309,Centro de Salud Familiar Pablo de Rokha,Centro de Salud Familiar (CESFAM),Municipal,124,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114311,Centro de Salud Familiar Santiago de Nueva Extremadura,Centro de Salud Familiar (CESFAM),Municipal,147,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114317,Centro de Salud Familiar Santo Tomás,Centro de Salud Familiar (CESFAM),Municipal,96,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114318,Centro de Salud Familiar Flor Fernández,Centro de Salud Familiar (CESFAM),Municipal,50,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114319,Centro de Salud Familiar El Roble,Centro de Salud Familiar (CESFAM),Municipal,103,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,114327,Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS,Centro de Salud Familiar (CESFAM),Delegado,116,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114307,Centro de Salud Familiar La Bandera,Centro de Salud Familiar (CESFAM),Municipal,69,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114314,Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón),Centro de Salud Familiar (CESFAM),Municipal,92,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114328,Centro de Salud Familiar Poetisa Gabriela Mistral,Centro de Salud Familiar (CESFAM),Municipal,101,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,114714,Centro Comunitario de Salud Familiar Modelo,Centro Comunitario de Salud Familiar (CECOSF),Municipal,28,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114301,Centro de Salud Familiar Dr. Alejandro del Río,Centro de Salud Familiar (CESFAM),Municipal,294,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114312,Centro de Salud Familiar San Gerónimo,Centro de Salud Familiar (CESFAM),Municipal,195,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114313,Centro de Salud Familiar Vista Hermosa,Centro de Salud Familiar (CESFAM),Municipal,117,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114320,Centro de Salud Familiar Bernardo Leighton,Centro de Salud Familiar (CESFAM),Municipal,185,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114321,Centro de Salud Familiar Cardenal Silva Henríquez,Centro de Salud Familiar (CESFAM),Municipal,178,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114322,Centro de Salud Familiar Padre Manuel Villaseca,Centro de Salud Familiar (CESFAM),Municipal,268,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114323,Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS,Centro de Salud Familiar (CESFAM),Delegado,164,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114326,Centro de Salud Familiar Karol Wojtyla,Centro de Salud Familiar (CESFAM),Municipal,174,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114329,Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS,Centro de Salud Familiar (CESFAM),Delegado,129,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,114332,Centro de Salud Familiar Laurita Vicuña,Centro de Salud Familiar (CESFAM),Municipal,155,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114310,Centro de Salud Familiar Dr. José Manuel Balmaceda,Centro de Salud Familiar (CESFAM),Municipal,38,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114333,Centro de Salud Rural El Principal,Consultorio General Rural (CGR),Municipal,27,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,114401,Posta de Salud Rural Puntilla,Posta de Salud Rural (PSR),Municipal,2,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,114102,Hospital San José de Maipo,Hospital,Servicio de Salud,41,12
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,114407,Posta de Salud Rural Las Vertientes,Posta de Salud Rural (PSR),Municipal,5,12

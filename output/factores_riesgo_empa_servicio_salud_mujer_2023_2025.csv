@@ -1,73 +1,73 @@
-﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,factor_riesgo,15_24_numerador,25_34_numerador,35_44_numerador,45_54_numerador,55_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_24,15_24_prevalencia_pct,25_34,25_34_prevalencia_pct,35_44,35_44_prevalencia_pct,45_54,45_54_prevalencia_pct,55_64,55_64_prevalencia_pct,65_mas,65_mas_prevalencia_pct,total_15_mas,total_15_mas_prevalencia_pct
-2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Colesterol elevado,0,0,0,0,0,0,67565,Mujer,0,,0,,0,,0,,0,,0,,8361,12.37475024050914
-2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Glicemia alterada,0,0,0,0,0,0,67565,Mujer,0,,0,,0,,0,,0,,0,,9066,13.418189891215867
-2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Presion arterial elevada,0,0,0,0,0,0,67565,Mujer,0,,0,,0,,0,,0,,0,,9621,14.239621105602012
-2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tabaquismo,0,0,0,0,0,0,67565,Mujer,0,,0,,0,,0,,0,,0,,13460,19.921557019166727
-2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Colesterol elevado,0,0,0,0,0,0,90951,Mujer,0,,0,,0,,0,,0,,0,,13741,15.10813514969599
-2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Glicemia alterada,0,0,0,0,0,0,90951,Mujer,0,,0,,0,,0,,0,,0,,20586,22.63416564963552
-2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Presion arterial elevada,0,0,0,0,0,0,90951,Mujer,0,,0,,0,,0,,0,,0,,16293,17.91404162681004
-2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tabaquismo,0,0,0,0,0,0,90951,Mujer,0,,0,,0,,0,,0,,0,,17556,19.302701454629414
-2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Colesterol elevado,0,0,0,0,0,0,58293,Mujer,0,,0,,0,,0,,0,,0,,8429,14.45971214382516
-2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Glicemia alterada,0,0,0,0,0,0,58293,Mujer,0,,0,,0,,0,,0,,0,,19192,32.92333556344673
-2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Presion arterial elevada,0,0,0,0,0,0,58293,Mujer,0,,0,,0,,0,,0,,0,,9396,16.118573413617415
-2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Tabaquismo,0,0,0,0,0,0,58293,Mujer,0,,0,,0,,0,,0,,0,,10349,17.753418077642255
-2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Colesterol elevado,0,0,0,0,0,0,73556,Mujer,0,,0,,0,,0,,0,,0,,4383,5.958725324922508
-2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Glicemia alterada,0,0,0,0,0,0,73556,Mujer,0,,0,,0,,0,,0,,0,,5401,7.3427048779161455
-2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Presion arterial elevada,0,0,0,0,0,0,73556,Mujer,0,,0,,0,,0,,0,,0,,10820,14.709880907064004
-2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tabaquismo,0,0,0,0,0,0,73556,Mujer,0,,0,,0,,0,,0,,0,,10693,14.537223340040242
-2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Colesterol elevado,0,0,0,0,0,0,107330,Mujer,0,,0,,0,,0,,0,,0,,9393,8.751514022174602
-2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Glicemia alterada,0,0,0,0,0,0,107330,Mujer,0,,0,,0,,0,,0,,0,,18730,17.450852510947545
-2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Presion arterial elevada,0,0,0,0,0,0,107330,Mujer,0,,0,,0,,0,,0,,0,,17430,16.239634771266186
-2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tabaquismo,0,0,0,0,0,0,107330,Mujer,0,,0,,0,,0,,0,,0,,23522,21.915587440603744
-2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Colesterol elevado,0,0,0,0,0,0,82558,Mujer,0,,0,,0,,0,,0,,0,,6867,8.317788706121757
-2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Glicemia alterada,0,0,0,0,0,0,82558,Mujer,0,,0,,0,,0,,0,,0,,11005,13.330022529615542
-2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Presion arterial elevada,0,0,0,0,0,0,82558,Mujer,0,,0,,0,,0,,0,,0,,10277,12.448218222340659
-2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tabaquismo,0,0,0,0,0,0,82558,Mujer,0,,0,,0,,0,,0,,0,,16772,20.31541461760217
-2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Colesterol elevado,0,0,0,0,0,0,73182,Mujer,0,,0,,0,,0,,0,,0,,8444,11.538356426443661
-2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Glicemia alterada,0,0,0,0,0,0,73182,Mujer,0,,0,,0,,0,,0,,0,,11347,15.505178869120822
-2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Presion arterial elevada,0,0,0,0,0,0,73182,Mujer,0,,0,,0,,0,,0,,0,,9389,12.829657566068159
-2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tabaquismo,0,0,0,0,0,0,73182,Mujer,0,,0,,0,,0,,0,,0,,13257,18.115110273017958
-2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Colesterol elevado,0,0,0,0,0,0,102712,Mujer,0,,0,,0,,0,,0,,0,,15093,14.694485551834255
-2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Glicemia alterada,0,0,0,0,0,0,102712,Mujer,0,,0,,0,,0,,0,,0,,24271,23.6301503232339
-2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Presion arterial elevada,0,0,0,0,0,0,102712,Mujer,0,,0,,0,,0,,0,,0,,17761,17.29203987849521
-2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tabaquismo,0,0,0,0,0,0,102712,Mujer,0,,0,,0,,0,,0,,0,,19127,18.621972116208426
-2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Colesterol elevado,0,0,0,0,0,0,67912,Mujer,0,,0,,0,,0,,0,,0,,9305,13.701554953469195
-2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Glicemia alterada,0,0,0,0,0,0,67912,Mujer,0,,0,,0,,0,,0,,0,,19480,28.68417952644599
-2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Presion arterial elevada,0,0,0,0,0,0,67912,Mujer,0,,0,,0,,0,,0,,0,,10565,15.556897161031923
-2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Tabaquismo,0,0,0,0,0,0,67912,Mujer,0,,0,,0,,0,,0,,0,,12076,17.781835316291673
-2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Colesterol elevado,0,0,0,0,0,0,82746,Mujer,0,,0,,0,,0,,0,,0,,4352,5.259468735648854
-2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Glicemia alterada,0,0,0,0,0,0,82746,Mujer,0,,0,,0,,0,,0,,0,,8551,10.334034273560052
-2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Presion arterial elevada,0,0,0,0,0,0,82746,Mujer,0,,0,,0,,0,,0,,0,,11182,13.513644164068353
-2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tabaquismo,0,0,0,0,0,0,82746,Mujer,0,,0,,0,,0,,0,,0,,12147,14.679863679211081
-2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Colesterol elevado,0,0,0,0,0,0,117140,Mujer,0,,0,,0,,0,,0,,0,,9262,7.906778214102783
-2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Glicemia alterada,0,0,0,0,0,0,117140,Mujer,0,,0,,0,,0,,0,,0,,17578,15.005975755506231
-2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Presion arterial elevada,0,0,0,0,0,0,117140,Mujer,0,,0,,0,,0,,0,,0,,17737,15.141710773433498
-2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tabaquismo,0,0,0,0,0,0,117140,Mujer,0,,0,,0,,0,,0,,0,,24473,20.892094929144616
-2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Colesterol elevado,0,0,0,0,0,0,91309,Mujer,0,,0,,0,,0,,0,,0,,7057,7.728701442355081
-2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Glicemia alterada,0,0,0,0,0,0,91309,Mujer,0,,0,,0,,0,,0,,0,,10362,11.348278921026404
-2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Presion arterial elevada,0,0,0,0,0,0,91309,Mujer,0,,0,,0,,0,,0,,0,,12418,13.599973715624966
-2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tabaquismo,0,0,0,0,0,0,91309,Mujer,0,,0,,0,,0,,0,,0,,18664,20.440482318281877
-2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Colesterol elevado,0,0,0,0,0,0,91730,Mujer,0,,0,,0,,0,,0,,0,,8854,9.65224027035866
-2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Glicemia alterada,0,0,0,0,0,0,91730,Mujer,0,,0,,0,,0,,0,,0,,14094,15.364657145971874
-2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Presion arterial elevada,0,0,0,0,0,0,91730,Mujer,0,,0,,0,,0,,0,,0,,12751,13.900577782622914
-2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tabaquismo,0,0,0,0,0,0,91730,Mujer,0,,0,,0,,0,,0,,0,,15868,17.29859369889894
-2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Colesterol elevado,0,0,0,0,0,0,139624,Mujer,0,,0,,0,,0,,0,,0,,20815,14.907895490746576
-2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Glicemia alterada,0,0,0,0,0,0,139624,Mujer,0,,0,,0,,0,,0,,0,,31547,22.594253136996507
-2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Presion arterial elevada,0,0,0,0,0,0,139624,Mujer,0,,0,,0,,0,,0,,0,,19588,14.029106743826276
-2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tabaquismo,0,0,0,0,0,0,139624,Mujer,0,,0,,0,,0,,0,,0,,24579,17.603707099066064
-2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Colesterol elevado,0,0,0,0,0,0,93295,Mujer,0,,0,,0,,0,,0,,0,,15173,16.263465351840935
-2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Glicemia alterada,0,0,0,0,0,0,93295,Mujer,0,,0,,0,,0,,0,,0,,30014,32.171070261000054
-2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Presion arterial elevada,0,0,0,0,0,0,93295,Mujer,0,,0,,0,,0,,0,,0,,16422,17.602229487110776
-2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Tabaquismo,0,0,0,0,0,0,93295,Mujer,0,,0,,0,,0,,0,,0,,16315,17.48753952516212
-2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Colesterol elevado,0,0,0,0,0,0,100089,Mujer,0,,0,,0,,0,,0,,0,,7306,7.299503441936676
-2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Glicemia alterada,0,0,0,0,0,0,100089,Mujer,0,,0,,0,,0,,0,,0,,8848,8.840132282268781
-2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Presion arterial elevada,0,0,0,0,0,0,100089,Mujer,0,,0,,0,,0,,0,,0,,11000,10.990218705352236
-2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tabaquismo,0,0,0,0,0,0,100089,Mujer,0,,0,,0,,0,,0,,0,,15057,15.04361118604442
-2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Colesterol elevado,0,0,0,0,0,0,148261,Mujer,0,,0,,0,,0,,0,,0,,15504,10.457234201846743
-2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Glicemia alterada,0,0,0,0,0,0,148261,Mujer,0,,0,,0,,0,,0,,0,,24008,16.19306493278745
-2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Presion arterial elevada,0,0,0,0,0,0,148261,Mujer,0,,0,,0,,0,,0,,0,,24369,16.436554454644174
-2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tabaquismo,0,0,0,0,0,0,148261,Mujer,0,,0,,0,,0,,0,,0,,30044,20.264263697128712
-2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Colesterol elevado,0,0,0,0,0,0,116968,Mujer,0,,0,,0,,0,,0,,0,,11516,9.84542780931537
-2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Glicemia alterada,0,0,0,0,0,0,116968,Mujer,0,,0,,0,,0,,0,,0,,13951,11.927193762396552
-2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Presion arterial elevada,0,0,0,0,0,0,116968,Mujer,0,,0,,0,,0,,0,,0,,17030,14.55953765132344
-2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tabaquismo,0,0,0,0,0,0,116968,Mujer,0,,0,,0,,0,,0,,0,,21212,18.134874495588537
+﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,factor_riesgo,15_19_numerador,20_24_numerador,25_29_numerador,30_34_numerador,35_39_numerador,40_44_numerador,45_49_numerador,50_54_numerador,55_59_numerador,60_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_19,15_19_prevalencia_pct,20_24,20_24_prevalencia_pct,25_29,25_29_prevalencia_pct,30_34,30_34_prevalencia_pct,35_39,35_39_prevalencia_pct,40_44,40_44_prevalencia_pct,45_49,45_49_prevalencia_pct,50_54,50_54_prevalencia_pct,55_59,55_59_prevalencia_pct,60_64,60_64_prevalencia_pct,65_mas,65_mas_prevalencia_pct,total_15_mas,total_15_mas_prevalencia_pct
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,128165,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,16214,12.650879725354036
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,128165,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,17081,13.327351461007295
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,128165,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,17278,13.481059571645925
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,128165,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,26658,20.799750321850738
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,171939,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,26476,15.398484346192545
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,171939,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,39167,22.779590436143053
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,171939,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,29302,17.042090508843252
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,171939,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,34790,20.233920169362392
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,110148,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,16111,14.62668409775938
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,110148,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,35912,32.60340632603406
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,110148,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,16963,15.400188836837708
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,110148,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,20414,18.533246177869774
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,134647,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8260,6.134559254940697
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,134647,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,9950,7.389693049232438
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,134647,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,18619,13.828009536046107
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,134647,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,20877,15.504987114454835
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,204444,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,17672,8.643931834634424
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,204444,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,35194,17.214493944552054
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,204444,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,31470,15.392968245583141
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,204444,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,46643,22.814560466435797
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,157140,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,13054,8.307241949853633
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,157140,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,20578,13.095329005981926
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,157140,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,18657,11.872852233676975
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,157140,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,33323,21.205931016927583
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,139111,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,16307,11.722293707902324
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,139111,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,21492,15.449533106655835
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,139111,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,16893,12.14354005075084
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,139111,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,26254,18.87269878011085
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,194578,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,29266,15.040754864373158
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,194578,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,46442,23.86806319316675
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,194578,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,31769,16.327128452343022
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,194578,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,37914,19.485244991725683
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,128286,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,17781,13.86043683644357
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,128286,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,36340,28.327331119529802
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,128286,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,18980,14.795067271565095
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,128286,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,23768,18.527352945761812
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,151591,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8247,5.440296587528284
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,151591,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,15930,10.508539425163763
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,151591,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,19222,12.680172305743746
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,151591,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,23791,15.694203481737043
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,222538,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,17531,7.877755709137316
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,222538,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,33279,14.954299939785564
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,222538,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,31809,14.293738597453018
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,222538,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,48529,21.80706216466401
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,173456,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,13332,7.686099068351628
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,173456,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,19268,11.10829259293423
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,173456,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,22378,12.901254496817637
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,173456,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,36940,21.29646711557974
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,175119,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,17139,9.787059085536121
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,175119,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,26874,15.34613605605331
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,175119,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,23301,13.305809192606171
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,175119,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,31428,17.94665341853254
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,267078,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,40490,15.160365136776521
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,267078,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,60788,22.760392095193165
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,267078,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,36095,13.514778454234344
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,267078,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,48774,18.262080740457844
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,177832,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,29297,16.474537765981374
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,177832,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,56943,32.02067119528544
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,177832,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,30313,17.04586351162895
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,177832,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,32204,18.10922668586081
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,184973,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,13871,7.498932276602531
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,184973,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,16514,8.927789461164602
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,184973,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,19440,10.509641947743726
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,184973,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,29586,15.994766803803797
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,283354,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,29710,10.4851175561312
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,283354,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,45890,16.19528928478158
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,283354,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,45075,15.90766320574264
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,283354,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,59586,21.0288190743734
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,223677,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,22189,9.920108012893591
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,223677,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,26465,11.83179316603853
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,223677,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,31269,13.979532987298649
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,223677,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,42114,18.82804222159632

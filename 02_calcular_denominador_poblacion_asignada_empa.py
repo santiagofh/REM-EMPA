@@ -177,11 +177,32 @@ def standardize_denominator_frame(year: str, df: pd.DataFrame) -> pd.DataFrame:
 
 def requested_age_group(age: pd.Series) -> pd.Series:
     out = pd.Series(index=age.index, dtype="object")
-    out.loc[age.between(15, 24, inclusive="both")] = "15_24"
-    out.loc[age.between(25, 34, inclusive="both")] = "25_34"
-    out.loc[age.between(35, 44, inclusive="both")] = "35_44"
-    out.loc[age.between(45, 54, inclusive="both")] = "45_54"
-    out.loc[age.between(55, 64, inclusive="both")] = "55_64"
+    out.loc[age.between(15, 19, inclusive="both")] = "15_19"
+    out.loc[age.between(20, 24, inclusive="both")] = "20_24"
+    out.loc[age.between(25, 29, inclusive="both")] = "25_29"
+    out.loc[age.between(30, 34, inclusive="both")] = "30_34"
+    out.loc[age.between(35, 39, inclusive="both")] = "35_39"
+    out.loc[age.between(40, 44, inclusive="both")] = "40_44"
+    out.loc[age.between(45, 49, inclusive="both")] = "45_49"
+    out.loc[age.between(50, 54, inclusive="both")] = "50_54"
+    out.loc[age.between(55, 59, inclusive="both")] = "55_59"
+    out.loc[age.between(60, 64, inclusive="both")] = "60_64"
+    out.loc[age.ge(65)] = "65_mas"
+    return out
+
+
+def detailed_age_group(age: pd.Series) -> pd.Series:
+    out = pd.Series(index=age.index, dtype="object")
+    out.loc[age.between(15, 19, inclusive="both")] = "15_19"
+    out.loc[age.between(20, 24, inclusive="both")] = "20_24"
+    out.loc[age.between(25, 29, inclusive="both")] = "25_29"
+    out.loc[age.between(30, 34, inclusive="both")] = "30_34"
+    out.loc[age.between(35, 39, inclusive="both")] = "35_39"
+    out.loc[age.between(40, 44, inclusive="both")] = "40_44"
+    out.loc[age.between(45, 49, inclusive="both")] = "45_49"
+    out.loc[age.between(50, 54, inclusive="both")] = "50_54"
+    out.loc[age.between(55, 59, inclusive="both")] = "55_59"
+    out.loc[age.between(60, 64, inclusive="both")] = "60_64"
     out.loc[age.ge(65)] = "65_mas"
     return out
 
@@ -204,7 +225,8 @@ def load_denominator_detail(config: dict) -> pd.DataFrame:
     detail = pd.concat(frames, ignore_index=True)
     detail = detail[detail["edad"].ge(15)].copy()
     detail["grupo_etario"] = requested_age_group(detail["edad"])
-    detail = detail[detail["grupo_etario"].notna()].copy()
+    detail["grupo_etario_detalle"] = detailed_age_group(detail["edad"])
+    detail = detail[detail["grupo_etario"].notna() & detail["grupo_etario_detalle"].notna()].copy()
     return detail
 
 
@@ -238,11 +260,20 @@ def build_denominator_output(detail: pd.DataFrame, master: pd.DataFrame) -> tupl
         .rename_axis(None, axis=1)
     )
 
-    for col in ["15_24", "25_34", "35_44", "45_54", "55_64", "65_mas"]:
+    age_value_cols_base = ["15_19", "20_24", "25_29", "30_34", "35_39", "40_44", "45_49", "50_54", "55_59", "60_64", "65_mas"]
+    for col in age_value_cols_base:
         if col not in pivot_total.columns:
             pivot_total[col] = 0
 
-    pivot_total["total_15_mas"] = pivot_total[["15_24", "25_34", "35_44", "45_54", "55_64", "65_mas"]].sum(axis=1)
+    pivot_total["total_15_mas"] = pivot_total[age_value_cols_base].sum(axis=1)
+
+    detail_age_cols = ["15_19", "20_24", "25_29", "30_34", "35_39", "40_44", "45_49", "50_54", "55_59", "60_64"]
+    pivot_total["20_64"] = pivot_total[
+        ["20_24", "25_29", "30_34", "35_39", "40_44", "45_49", "50_54", "55_59", "60_64"]
+    ].sum(axis=1)
+    pivot_total["20_54"] = pivot_total[
+        ["20_24", "25_29", "30_34", "35_39", "40_44", "45_49", "50_54"]
+    ].sum(axis=1)
 
     out_total = pivot_total.merge(
         master,
@@ -286,15 +317,27 @@ def build_denominator_output(detail: pd.DataFrame, master: pd.DataFrame) -> tupl
         .rename_axis(None, axis=1)
     )
 
-    for col in ["15_24", "25_34", "35_44", "45_54", "55_64", "65_mas"]:
+    for col in age_value_cols_base:
         if col not in pivot_sex.columns:
             pivot_sex[col] = 0
 
-    pivot_sex["total_15_mas"] = pivot_sex[["15_24", "25_34", "35_44", "45_54", "55_64", "65_mas"]].sum(axis=1)
+    pivot_sex["total_15_mas"] = pivot_sex[age_value_cols_base].sum(axis=1)
     pivot_sex["sexo"] = pivot_sex["sexo"].map({"Hombres": "Hombre", "Mujeres": "Mujer"})
 
+    pivot_sex["20_64"] = pivot_sex[
+        ["20_24", "25_29", "30_34", "35_39", "40_44", "45_49", "50_54", "55_59", "60_64"]
+    ].sum(axis=1)
+    pivot_sex["20_54"] = pivot_sex[
+        ["20_24", "25_29", "30_34", "35_39", "40_44", "45_49", "50_54"]
+    ].sum(axis=1)
+
     # Pivot sexo rows into columns so each row has both Hombre and Mujer columns
-    age_value_cols = ["15_24", "25_34", "35_44", "45_54", "55_64", "65_mas", "total_15_mas"]
+    age_value_cols = [
+        *age_value_cols_base,
+        "total_15_mas",
+        "20_64",
+        "20_54",
+    ]
     pivot_wide = pivot_sex.pivot_table(
         index=geo_cols,
         columns="sexo",

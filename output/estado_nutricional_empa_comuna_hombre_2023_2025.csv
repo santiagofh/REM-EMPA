@@ -1,625 +1,625 @@
-﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,IdComuna_master,comuna_master,categoria_estado_nutricional,15_24_numerador,25_34_numerador,35_44_numerador,45_54_numerador,55_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_24,15_24_distribucion_pct,25_34,25_34_distribucion_pct,35_44,35_44_distribucion_pct,45_54,45_54_distribucion_pct,55_64,55_64_distribucion_pct,65_mas,65_mas_distribucion_pct,total_15_mas,total_15_mas_distribucion_pct
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Bajo peso,0,0,0,0,0,0,5997,Hombre,0,,0,,0,,0,,0,,0,,369,6.153076538269135
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Normal,0,0,0,0,0,0,5997,Hombre,0,,0,,0,,0,,0,,0,,2173,36.234784058696015
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Obesidad,0,0,0,0,0,0,5997,Hombre,0,,0,,0,,0,,0,,0,,1436,23.945305986326495
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Sobrepeso,0,0,0,0,0,0,5997,Hombre,0,,0,,0,,0,,0,,0,,2019,33.66683341670835
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Bajo peso,0,0,0,0,0,0,4029,Hombre,0,,0,,0,,0,,0,,0,,192,4.7654504839910645
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Normal,0,0,0,0,0,0,4029,Hombre,0,,0,,0,,0,,0,,0,,1306,32.41499131298089
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Obesidad,0,0,0,0,0,0,4029,Hombre,0,,0,,0,,0,,0,,0,,1108,27.500620501365102
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Sobrepeso,0,0,0,0,0,0,4029,Hombre,0,,0,,0,,0,,0,,0,,1423,35.318937701662946
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Bajo peso,0,0,0,0,0,0,2143,Hombre,0,,0,,0,,0,,0,,0,,205,9.566028931404572
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Normal,0,0,0,0,0,0,2143,Hombre,0,,0,,0,,0,,0,,0,,768,35.837610825944935
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Obesidad,0,0,0,0,0,0,2143,Hombre,0,,0,,0,,0,,0,,0,,484,22.585160989267383
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Sobrepeso,0,0,0,0,0,0,2143,Hombre,0,,0,,0,,0,,0,,0,,686,32.01119925338311
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Bajo peso,0,0,0,0,0,0,4959,Hombre,0,,0,,0,,0,,0,,0,,201,4.053236539624924
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Normal,0,0,0,0,0,0,4959,Hombre,0,,0,,0,,0,,0,,0,,1542,31.094978826376284
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Obesidad,0,0,0,0,0,0,4959,Hombre,0,,0,,0,,0,,0,,0,,1406,28.35249042145594
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Sobrepeso,0,0,0,0,0,0,4959,Hombre,0,,0,,0,,0,,0,,0,,1810,36.49929421254285
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Bajo peso,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,344,6.288848263254114
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Normal,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,2059,37.6416819012797
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Obesidad,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,1272,23.254113345521024
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Sobrepeso,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,1795,32.81535648994516
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Bajo peso,0,0,0,0,0,0,5245,Hombre,0,,0,,0,,0,,0,,0,,254,4.842707340324118
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Normal,0,0,0,0,0,0,5245,Hombre,0,,0,,0,,0,,0,,0,,1506,28.713060057197332
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Obesidad,0,0,0,0,0,0,5245,Hombre,0,,0,,0,,0,,0,,0,,1547,29.49475691134414
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Sobrepeso,0,0,0,0,0,0,5245,Hombre,0,,0,,0,,0,,0,,0,,1938,36.94947569113442
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Bajo peso,0,0,0,0,0,0,2752,Hombre,0,,0,,0,,0,,0,,0,,136,4.941860465116279
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Normal,0,0,0,0,0,0,2752,Hombre,0,,0,,0,,0,,0,,0,,915,33.24854651162791
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Obesidad,0,0,0,0,0,0,2752,Hombre,0,,0,,0,,0,,0,,0,,804,29.21511627906977
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Sobrepeso,0,0,0,0,0,0,2752,Hombre,0,,0,,0,,0,,0,,0,,897,32.594476744186046
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Bajo peso,0,0,0,0,0,0,338,Hombre,0,,0,,0,,0,,0,,0,,31,9.171597633136095
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Normal,0,0,0,0,0,0,338,Hombre,0,,0,,0,,0,,0,,0,,101,29.88165680473373
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Obesidad,0,0,0,0,0,0,338,Hombre,0,,0,,0,,0,,0,,0,,86,25.443786982248522
-2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Sobrepeso,0,0,0,0,0,0,338,Hombre,0,,0,,0,,0,,0,,0,,120,35.50295857988166
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Bajo peso,0,0,0,0,0,0,3494,Hombre,0,,0,,0,,0,,0,,0,,259,7.412707498568976
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Normal,0,0,0,0,0,0,3494,Hombre,0,,0,,0,,0,,0,,0,,1187,33.97252432741843
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Obesidad,0,0,0,0,0,0,3494,Hombre,0,,0,,0,,0,,0,,0,,884,25.300515168860905
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Sobrepeso,0,0,0,0,0,0,3494,Hombre,0,,0,,0,,0,,0,,0,,1164,33.31425300515169
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Bajo peso,0,0,0,0,0,0,5812,Hombre,0,,0,,0,,0,,0,,0,,257,4.421885753613214
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Normal,0,0,0,0,0,0,5812,Hombre,0,,0,,0,,0,,0,,0,,1933,33.25877494838266
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Obesidad,0,0,0,0,0,0,5812,Hombre,0,,0,,0,,0,,0,,0,,1497,25.757054370268413
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Sobrepeso,0,0,0,0,0,0,5812,Hombre,0,,0,,0,,0,,0,,0,,2125,36.56228492773572
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Bajo peso,0,0,0,0,0,0,9602,Hombre,0,,0,,0,,0,,0,,0,,363,3.7804624036659034
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Normal,0,0,0,0,0,0,9602,Hombre,0,,0,,0,,0,,0,,0,,2877,29.962507810872737
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Obesidad,0,0,0,0,0,0,9602,Hombre,0,,0,,0,,0,,0,,0,,2852,29.702145386377836
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Sobrepeso,0,0,0,0,0,0,9602,Hombre,0,,0,,0,,0,,0,,0,,3510,36.55488439908353
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Bajo peso,0,0,0,0,0,0,4329,Hombre,0,,0,,0,,0,,0,,0,,289,6.675906675906676
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Normal,0,0,0,0,0,0,4329,Hombre,0,,0,,0,,0,,0,,0,,1699,39.24693924693924
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Obesidad,0,0,0,0,0,0,4329,Hombre,0,,0,,0,,0,,0,,0,,922,21.2982212982213
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Sobrepeso,0,0,0,0,0,0,4329,Hombre,0,,0,,0,,0,,0,,0,,1419,32.77893277893278
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Bajo peso,0,0,0,0,0,0,5143,Hombre,0,,0,,0,,0,,0,,0,,290,5.638732257437294
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Normal,0,0,0,0,0,0,5143,Hombre,0,,0,,0,,0,,0,,0,,1825,35.48512541318296
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Obesidad,0,0,0,0,0,0,5143,Hombre,0,,0,,0,,0,,0,,0,,1309,25.45207077581178
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Sobrepeso,0,0,0,0,0,0,5143,Hombre,0,,0,,0,,0,,0,,0,,1719,33.424071553567956
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Bajo peso,0,0,0,0,0,0,3823,Hombre,0,,0,,0,,0,,0,,0,,166,4.3421396808788915
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Normal,0,0,0,0,0,0,3823,Hombre,0,,0,,0,,0,,0,,0,,1191,31.15354433690819
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Obesidad,0,0,0,0,0,0,3823,Hombre,0,,0,,0,,0,,0,,0,,988,25.84357834161653
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Sobrepeso,0,0,0,0,0,0,3823,Hombre,0,,0,,0,,0,,0,,0,,1478,38.66073764059639
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Bajo peso,0,0,0,0,0,0,547,Hombre,0,,0,,0,,0,,0,,0,,16,2.9250457038391224
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Normal,0,0,0,0,0,0,547,Hombre,0,,0,,0,,0,,0,,0,,190,34.73491773308958
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Obesidad,0,0,0,0,0,0,547,Hombre,0,,0,,0,,0,,0,,0,,140,25.59414990859232
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Sobrepeso,0,0,0,0,0,0,547,Hombre,0,,0,,0,,0,,0,,0,,201,36.74588665447898
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Bajo peso,0,0,0,0,0,0,321,Hombre,0,,0,,0,,0,,0,,0,,15,4.672897196261682
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Normal,0,0,0,0,0,0,321,Hombre,0,,0,,0,,0,,0,,0,,120,37.38317757009346
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Obesidad,0,0,0,0,0,0,321,Hombre,0,,0,,0,,0,,0,,0,,77,23.98753894080997
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Sobrepeso,0,0,0,0,0,0,321,Hombre,0,,0,,0,,0,,0,,0,,109,33.95638629283489
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Bajo peso,0,0,0,0,0,0,817,Hombre,0,,0,,0,,0,,0,,0,,25,3.0599755201958385
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Normal,0,0,0,0,0,0,817,Hombre,0,,0,,0,,0,,0,,0,,312,38.188494492044065
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Obesidad,0,0,0,0,0,0,817,Hombre,0,,0,,0,,0,,0,,0,,212,25.948592411260712
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Sobrepeso,0,0,0,0,0,0,817,Hombre,0,,0,,0,,0,,0,,0,,268,32.80293757649939
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Bajo peso,0,0,0,0,0,0,618,Hombre,0,,0,,0,,0,,0,,0,,13,2.103559870550162
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Normal,0,0,0,0,0,0,618,Hombre,0,,0,,0,,0,,0,,0,,141,22.815533980582526
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Obesidad,0,0,0,0,0,0,618,Hombre,0,,0,,0,,0,,0,,0,,253,40.93851132686084
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Sobrepeso,0,0,0,0,0,0,618,Hombre,0,,0,,0,,0,,0,,0,,211,34.14239482200647
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Bajo peso,0,0,0,0,0,0,2149,Hombre,0,,0,,0,,0,,0,,0,,59,2.7454630060493255
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Normal,0,0,0,0,0,0,2149,Hombre,0,,0,,0,,0,,0,,0,,706,32.85248953001396
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Obesidad,0,0,0,0,0,0,2149,Hombre,0,,0,,0,,0,,0,,0,,592,27.5476966030712
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Sobrepeso,0,0,0,0,0,0,2149,Hombre,0,,0,,0,,0,,0,,0,,792,36.85435086086552
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Bajo peso,0,0,0,0,0,0,1252,Hombre,0,,0,,0,,0,,0,,0,,58,4.63258785942492
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Normal,0,0,0,0,0,0,1252,Hombre,0,,0,,0,,0,,0,,0,,384,30.670926517571885
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Obesidad,0,0,0,0,0,0,1252,Hombre,0,,0,,0,,0,,0,,0,,329,26.277955271565496
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Sobrepeso,0,0,0,0,0,0,1252,Hombre,0,,0,,0,,0,,0,,0,,481,38.4185303514377
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Bajo peso,0,0,0,0,0,0,1319,Hombre,0,,0,,0,,0,,0,,0,,68,5.155420773313116
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Normal,0,0,0,0,0,0,1319,Hombre,0,,0,,0,,0,,0,,0,,377,28.582259287338896
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Obesidad,0,0,0,0,0,0,1319,Hombre,0,,0,,0,,0,,0,,0,,390,29.567854435178166
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Sobrepeso,0,0,0,0,0,0,1319,Hombre,0,,0,,0,,0,,0,,0,,484,36.69446550416983
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Bajo peso,0,0,0,0,0,0,2029,Hombre,0,,0,,0,,0,,0,,0,,104,5.125677673730902
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Normal,0,0,0,0,0,0,2029,Hombre,0,,0,,0,,0,,0,,0,,614,30.26121241991129
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Obesidad,0,0,0,0,0,0,2029,Hombre,0,,0,,0,,0,,0,,0,,586,28.88122227698374
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Sobrepeso,0,0,0,0,0,0,2029,Hombre,0,,0,,0,,0,,0,,0,,725,35.73188762937408
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Bajo peso,0,0,0,0,0,0,3218,Hombre,0,,0,,0,,0,,0,,0,,187,5.811062771908017
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Normal,0,0,0,0,0,0,3218,Hombre,0,,0,,0,,0,,0,,0,,985,30.60907395898073
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Obesidad,0,0,0,0,0,0,3218,Hombre,0,,0,,0,,0,,0,,0,,845,26.258545680546924
-2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Sobrepeso,0,0,0,0,0,0,3218,Hombre,0,,0,,0,,0,,0,,0,,1201,37.32131758856433
-2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Bajo peso,0,0,0,0,0,0,9315,Hombre,0,,0,,0,,0,,0,,0,,544,5.840042941492217
-2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Normal,0,0,0,0,0,0,9315,Hombre,0,,0,,0,,0,,0,,0,,3356,36.02791196994096
-2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Obesidad,0,0,0,0,0,0,9315,Hombre,0,,0,,0,,0,,0,,0,,2126,22.823403113258188
-2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Sobrepeso,0,0,0,0,0,0,9315,Hombre,0,,0,,0,,0,,0,,0,,3289,35.30864197530864
-2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Bajo peso,0,0,0,0,0,0,1606,Hombre,0,,0,,0,,0,,0,,0,,106,6.60024906600249
-2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Normal,0,0,0,0,0,0,1606,Hombre,0,,0,,0,,0,,0,,0,,594,36.986301369863014
-2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Obesidad,0,0,0,0,0,0,1606,Hombre,0,,0,,0,,0,,0,,0,,379,23.59900373599004
-2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Sobrepeso,0,0,0,0,0,0,1606,Hombre,0,,0,,0,,0,,0,,0,,527,32.81444582814446
-2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Bajo peso,0,0,0,0,0,0,3028,Hombre,0,,0,,0,,0,,0,,0,,149,4.920739762219287
-2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Normal,0,0,0,0,0,0,3028,Hombre,0,,0,,0,,0,,0,,0,,1012,33.42140026420079
-2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Obesidad,0,0,0,0,0,0,3028,Hombre,0,,0,,0,,0,,0,,0,,741,24.471598414795245
-2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Sobrepeso,0,0,0,0,0,0,3028,Hombre,0,,0,,0,,0,,0,,0,,1126,37.18626155878468
-2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Bajo peso,0,0,0,0,0,0,13630,Hombre,0,,0,,0,,0,,0,,0,,672,4.930300807043287
-2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Normal,0,0,0,0,0,0,13630,Hombre,0,,0,,0,,0,,0,,0,,4694,34.43873807776963
-2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Obesidad,0,0,0,0,0,0,13630,Hombre,0,,0,,0,,0,,0,,0,,3424,25.121056493030082
-2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Sobrepeso,0,0,0,0,0,0,13630,Hombre,0,,0,,0,,0,,0,,0,,4840,35.50990462215701
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Bajo peso,0,0,0,0,0,0,2068,Hombre,0,,0,,0,,0,,0,,0,,166,8.027079303675048
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Normal,0,0,0,0,0,0,2068,Hombre,0,,0,,0,,0,,0,,0,,803,38.82978723404255
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Obesidad,0,0,0,0,0,0,2068,Hombre,0,,0,,0,,0,,0,,0,,436,21.08317214700193
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Sobrepeso,0,0,0,0,0,0,2068,Hombre,0,,0,,0,,0,,0,,0,,663,32.05996131528047
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Bajo peso,0,0,0,0,0,0,4204,Hombre,0,,0,,0,,0,,0,,0,,396,9.419600380589914
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Normal,0,0,0,0,0,0,4204,Hombre,0,,0,,0,,0,,0,,0,,1791,42.6022835394862
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Obesidad,0,0,0,0,0,0,4204,Hombre,0,,0,,0,,0,,0,,0,,673,16.008563273073264
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Sobrepeso,0,0,0,0,0,0,4204,Hombre,0,,0,,0,,0,,0,,0,,1344,31.969552806850622
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Bajo peso,0,0,0,0,0,0,1361,Hombre,0,,0,,0,,0,,0,,0,,79,5.804555473916238
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Normal,0,0,0,0,0,0,1361,Hombre,0,,0,,0,,0,,0,,0,,503,36.958119030124905
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Obesidad,0,0,0,0,0,0,1361,Hombre,0,,0,,0,,0,,0,,0,,314,23.0712711241734
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Sobrepeso,0,0,0,0,0,0,1361,Hombre,0,,0,,0,,0,,0,,0,,465,34.16605437178546
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Bajo peso,0,0,0,0,0,0,6739,Hombre,0,,0,,0,,0,,0,,0,,315,4.674284018400356
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Normal,0,0,0,0,0,0,6739,Hombre,0,,0,,0,,0,,0,,0,,2582,38.31428995399911
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Obesidad,0,0,0,0,0,0,6739,Hombre,0,,0,,0,,0,,0,,0,,1503,22.30301231636741
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Sobrepeso,0,0,0,0,0,0,6739,Hombre,0,,0,,0,,0,,0,,0,,2339,34.70841371123312
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Bajo peso,0,0,0,0,0,0,4319,Hombre,0,,0,,0,,0,,0,,0,,329,7.6175040518638575
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Normal,0,0,0,0,0,0,4319,Hombre,0,,0,,0,,0,,0,,0,,1782,41.259550821949524
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Obesidad,0,0,0,0,0,0,4319,Hombre,0,,0,,0,,0,,0,,0,,823,19.05533688353786
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Sobrepeso,0,0,0,0,0,0,4319,Hombre,0,,0,,0,,0,,0,,0,,1385,32.06760824264876
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Bajo peso,0,0,0,0,0,0,9921,Hombre,0,,0,,0,,0,,0,,0,,681,6.8642273964318115
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Normal,0,0,0,0,0,0,9921,Hombre,0,,0,,0,,0,,0,,0,,3126,31.508920471726643
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Obesidad,0,0,0,0,0,0,9921,Hombre,0,,0,,0,,0,,0,,0,,2698,27.19483922991634
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Sobrepeso,0,0,0,0,0,0,9921,Hombre,0,,0,,0,,0,,0,,0,,3416,34.432012901925205
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Bajo peso,0,0,0,0,0,0,4141,Hombre,0,,0,,0,,0,,0,,0,,319,7.703453272156484
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Normal,0,0,0,0,0,0,4141,Hombre,0,,0,,0,,0,,0,,0,,1882,45.447959430089355
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Obesidad,0,0,0,0,0,0,4141,Hombre,0,,0,,0,,0,,0,,0,,692,16.71093938662159
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Sobrepeso,0,0,0,0,0,0,4141,Hombre,0,,0,,0,,0,,0,,0,,1248,30.137647911132575
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Bajo peso,0,0,0,0,0,0,1039,Hombre,0,,0,,0,,0,,0,,0,,95,9.143407122232915
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Normal,0,0,0,0,0,0,1039,Hombre,0,,0,,0,,0,,0,,0,,418,40.23099133782483
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Obesidad,0,0,0,0,0,0,1039,Hombre,0,,0,,0,,0,,0,,0,,179,17.22810394610202
-2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Sobrepeso,0,0,0,0,0,0,1039,Hombre,0,,0,,0,,0,,0,,0,,347,33.39749759384023
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Bajo peso,0,0,0,0,0,0,8606,Hombre,0,,0,,0,,0,,0,,0,,594,6.902161282825936
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Normal,0,0,0,0,0,0,8606,Hombre,0,,0,,0,,0,,0,,0,,2421,28.131536137578433
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Obesidad,0,0,0,0,0,0,8606,Hombre,0,,0,,0,,0,,0,,0,,2445,28.410411340924934
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Sobrepeso,0,0,0,0,0,0,8606,Hombre,0,,0,,0,,0,,0,,0,,3146,36.5558912386707
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Bajo peso,0,0,0,0,0,0,3636,Hombre,0,,0,,0,,0,,0,,0,,152,4.180418041804181
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Normal,0,0,0,0,0,0,3636,Hombre,0,,0,,0,,0,,0,,0,,1329,36.551155115511555
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Obesidad,0,0,0,0,0,0,3636,Hombre,0,,0,,0,,0,,0,,0,,845,23.23982398239824
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Sobrepeso,0,0,0,0,0,0,3636,Hombre,0,,0,,0,,0,,0,,0,,1310,36.02860286028603
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Bajo peso,0,0,0,0,0,0,3010,Hombre,0,,0,,0,,0,,0,,0,,125,4.152823920265781
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Normal,0,0,0,0,0,0,3010,Hombre,0,,0,,0,,0,,0,,0,,921,30.59800664451827
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Obesidad,0,0,0,0,0,0,3010,Hombre,0,,0,,0,,0,,0,,0,,818,27.17607973421927
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Sobrepeso,0,0,0,0,0,0,3010,Hombre,0,,0,,0,,0,,0,,0,,1146,38.073089700996675
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Bajo peso,0,0,0,0,0,0,6269,Hombre,0,,0,,0,,0,,0,,0,,324,5.168288403254107
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Normal,0,0,0,0,0,0,6269,Hombre,0,,0,,0,,0,,0,,0,,2398,38.251714787047376
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Obesidad,0,0,0,0,0,0,6269,Hombre,0,,0,,0,,0,,0,,0,,1477,23.560376455575053
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Sobrepeso,0,0,0,0,0,0,6269,Hombre,0,,0,,0,,0,,0,,0,,2070,33.01962035412346
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Bajo peso,0,0,0,0,0,0,4722,Hombre,0,,0,,0,,0,,0,,0,,323,6.840321897501059
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Normal,0,0,0,0,0,0,4722,Hombre,0,,0,,0,,0,,0,,0,,1699,35.98051673019907
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Obesidad,0,0,0,0,0,0,4722,Hombre,0,,0,,0,,0,,0,,0,,1035,21.918678526048286
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Sobrepeso,0,0,0,0,0,0,4722,Hombre,0,,0,,0,,0,,0,,0,,1665,35.26048284625159
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Bajo peso,0,0,0,0,0,0,4586,Hombre,0,,0,,0,,0,,0,,0,,257,5.604012211077192
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Normal,0,0,0,0,0,0,4586,Hombre,0,,0,,0,,0,,0,,0,,1700,37.06934147405146
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Obesidad,0,0,0,0,0,0,4586,Hombre,0,,0,,0,,0,,0,,0,,1048,22.85215874400349
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Sobrepeso,0,0,0,0,0,0,4586,Hombre,0,,0,,0,,0,,0,,0,,1581,34.47448757086786
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Bajo peso,0,0,0,0,0,0,9459,Hombre,0,,0,,0,,0,,0,,0,,366,3.8693307960672376
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Normal,0,0,0,0,0,0,9459,Hombre,0,,0,,0,,0,,0,,0,,2984,31.546675124220318
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Obesidad,0,0,0,0,0,0,9459,Hombre,0,,0,,0,,0,,0,,0,,2714,28.692250766465797
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Sobrepeso,0,0,0,0,0,0,9459,Hombre,0,,0,,0,,0,,0,,0,,3395,35.89174331324664
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Bajo peso,0,0,0,0,0,0,4322,Hombre,0,,0,,0,,0,,0,,0,,149,3.447478019435447
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Normal,0,0,0,0,0,0,4322,Hombre,0,,0,,0,,0,,0,,0,,1435,33.20222119389172
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Obesidad,0,0,0,0,0,0,4322,Hombre,0,,0,,0,,0,,0,,0,,1196,27.672373900971774
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Sobrepeso,0,0,0,0,0,0,4322,Hombre,0,,0,,0,,0,,0,,0,,1542,35.67792688570107
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Bajo peso,0,0,0,0,0,0,1050,Hombre,0,,0,,0,,0,,0,,0,,57,5.428571428571429
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Normal,0,0,0,0,0,0,1050,Hombre,0,,0,,0,,0,,0,,0,,298,28.38095238095238
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Obesidad,0,0,0,0,0,0,1050,Hombre,0,,0,,0,,0,,0,,0,,333,31.71428571428571
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Sobrepeso,0,0,0,0,0,0,1050,Hombre,0,,0,,0,,0,,0,,0,,362,34.476190476190474
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Bajo peso,0,0,0,0,0,0,3689,Hombre,0,,0,,0,,0,,0,,0,,173,4.689617782596909
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Normal,0,0,0,0,0,0,3689,Hombre,0,,0,,0,,0,,0,,0,,1091,29.57441040932502
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Obesidad,0,0,0,0,0,0,3689,Hombre,0,,0,,0,,0,,0,,0,,1063,28.815397126592572
-2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Sobrepeso,0,0,0,0,0,0,3689,Hombre,0,,0,,0,,0,,0,,0,,1362,36.9205746814855
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Bajo peso,0,0,0,0,0,0,10074,Hombre,0,,0,,0,,0,,0,,0,,601,5.9658526900933095
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Normal,0,0,0,0,0,0,10074,Hombre,0,,0,,0,,0,,0,,0,,3928,38.991463172523325
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Obesidad,0,0,0,0,0,0,10074,Hombre,0,,0,,0,,0,,0,,0,,2238,22.21560452650387
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Sobrepeso,0,0,0,0,0,0,10074,Hombre,0,,0,,0,,0,,0,,0,,3307,32.82707961087949
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Bajo peso,0,0,0,0,0,0,4380,Hombre,0,,0,,0,,0,,0,,0,,194,4.429223744292238
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Normal,0,0,0,0,0,0,4380,Hombre,0,,0,,0,,0,,0,,0,,1518,34.657534246575345
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Obesidad,0,0,0,0,0,0,4380,Hombre,0,,0,,0,,0,,0,,0,,1115,25.45662100456621
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Sobrepeso,0,0,0,0,0,0,4380,Hombre,0,,0,,0,,0,,0,,0,,1553,35.45662100456621
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Bajo peso,0,0,0,0,0,0,5232,Hombre,0,,0,,0,,0,,0,,0,,218,4.166666666666666
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Normal,0,0,0,0,0,0,5232,Hombre,0,,0,,0,,0,,0,,0,,1773,33.887614678899084
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Obesidad,0,0,0,0,0,0,5232,Hombre,0,,0,,0,,0,,0,,0,,1503,28.727064220183486
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Sobrepeso,0,0,0,0,0,0,5232,Hombre,0,,0,,0,,0,,0,,0,,1738,33.218654434250766
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Bajo peso,0,0,0,0,0,0,3349,Hombre,0,,0,,0,,0,,0,,0,,157,4.687966557181248
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Normal,0,0,0,0,0,0,3349,Hombre,0,,0,,0,,0,,0,,0,,1167,34.846222753060616
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Obesidad,0,0,0,0,0,0,3349,Hombre,0,,0,,0,,0,,0,,0,,871,26.00776351149597
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Sobrepeso,0,0,0,0,0,0,3349,Hombre,0,,0,,0,,0,,0,,0,,1154,34.45804717826217
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Bajo peso,0,0,0,0,0,0,11481,Hombre,0,,0,,0,,0,,0,,0,,736,6.410591411897919
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Normal,0,0,0,0,0,0,11481,Hombre,0,,0,,0,,0,,0,,0,,3719,32.392648723978745
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Obesidad,0,0,0,0,0,0,11481,Hombre,0,,0,,0,,0,,0,,0,,3023,26.33045901924919
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Sobrepeso,0,0,0,0,0,0,11481,Hombre,0,,0,,0,,0,,0,,0,,4003,34.86630084487414
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Bajo peso,0,0,0,0,0,0,1145,Hombre,0,,0,,0,,0,,0,,0,,60,5.240174672489083
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Normal,0,0,0,0,0,0,1145,Hombre,0,,0,,0,,0,,0,,0,,402,35.109170305676855
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Obesidad,0,0,0,0,0,0,1145,Hombre,0,,0,,0,,0,,0,,0,,276,24.10480349344978
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Sobrepeso,0,0,0,0,0,0,1145,Hombre,0,,0,,0,,0,,0,,0,,407,35.54585152838428
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Bajo peso,0,0,0,0,0,0,61,Hombre,0,,0,,0,,0,,0,,0,,8,13.114754098360656
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Normal,0,0,0,0,0,0,61,Hombre,0,,0,,0,,0,,0,,0,,19,31.147540983606557
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Obesidad,0,0,0,0,0,0,61,Hombre,0,,0,,0,,0,,0,,0,,11,18.0327868852459
-2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Sobrepeso,0,0,0,0,0,0,61,Hombre,0,,0,,0,,0,,0,,0,,23,37.704918032786885
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Bajo peso,0,0,0,0,0,0,8408,Hombre,0,,0,,0,,0,,0,,0,,473,5.625594671741199
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Normal,0,0,0,0,0,0,8408,Hombre,0,,0,,0,,0,,0,,0,,2665,31.696003805899142
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Obesidad,0,0,0,0,0,0,8408,Hombre,0,,0,,0,,0,,0,,0,,2246,26.712654614652713
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Sobrepeso,0,0,0,0,0,0,8408,Hombre,0,,0,,0,,0,,0,,0,,3024,35.965746907706944
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Bajo peso,0,0,0,0,0,0,4379,Hombre,0,,0,,0,,0,,0,,0,,251,5.731902260790134
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Normal,0,0,0,0,0,0,4379,Hombre,0,,0,,0,,0,,0,,0,,1333,30.440739894953182
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Obesidad,0,0,0,0,0,0,4379,Hombre,0,,0,,0,,0,,0,,0,,1217,27.79173327243663
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Sobrepeso,0,0,0,0,0,0,4379,Hombre,0,,0,,0,,0,,0,,0,,1578,36.03562457182005
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Bajo peso,0,0,0,0,0,0,2832,Hombre,0,,0,,0,,0,,0,,0,,245,8.651129943502825
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Normal,0,0,0,0,0,0,2832,Hombre,0,,0,,0,,0,,0,,0,,987,34.85169491525424
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Obesidad,0,0,0,0,0,0,2832,Hombre,0,,0,,0,,0,,0,,0,,696,24.576271186440678
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Sobrepeso,0,0,0,0,0,0,2832,Hombre,0,,0,,0,,0,,0,,0,,904,31.92090395480226
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Bajo peso,0,0,0,0,0,0,6546,Hombre,0,,0,,0,,0,,0,,0,,288,4.399633363886343
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Normal,0,0,0,0,0,0,6546,Hombre,0,,0,,0,,0,,0,,0,,1964,30.003055300947146
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Obesidad,0,0,0,0,0,0,6546,Hombre,0,,0,,0,,0,,0,,0,,1984,30.308585395661474
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Sobrepeso,0,0,0,0,0,0,6546,Hombre,0,,0,,0,,0,,0,,0,,2310,35.28872593950504
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Bajo peso,0,0,0,0,0,0,5081,Hombre,0,,0,,0,,0,,0,,0,,373,7.341074591615823
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Normal,0,0,0,0,0,0,5081,Hombre,0,,0,,0,,0,,0,,0,,1891,37.21708325132848
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Obesidad,0,0,0,0,0,0,5081,Hombre,0,,0,,0,,0,,0,,0,,1176,23.14505018697107
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Sobrepeso,0,0,0,0,0,0,5081,Hombre,0,,0,,0,,0,,0,,0,,1641,32.296791970084634
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Bajo peso,0,0,0,0,0,0,6656,Hombre,0,,0,,0,,0,,0,,0,,338,5.078125
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Normal,0,0,0,0,0,0,6656,Hombre,0,,0,,0,,0,,0,,0,,1899,28.530649038461537
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Obesidad,0,0,0,0,0,0,6656,Hombre,0,,0,,0,,0,,0,,0,,1928,28.966346153846157
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Sobrepeso,0,0,0,0,0,0,6656,Hombre,0,,0,,0,,0,,0,,0,,2491,37.42487980769231
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Bajo peso,0,0,0,0,0,0,3884,Hombre,0,,0,,0,,0,,0,,0,,203,5.226570545829042
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Normal,0,0,0,0,0,0,3884,Hombre,0,,0,,0,,0,,0,,0,,1311,33.75386199794026
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Obesidad,0,0,0,0,0,0,3884,Hombre,0,,0,,0,,0,,0,,0,,1097,28.244078269824925
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Sobrepeso,0,0,0,0,0,0,3884,Hombre,0,,0,,0,,0,,0,,0,,1273,32.775489186405764
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Bajo peso,0,0,0,0,0,0,477,Hombre,0,,0,,0,,0,,0,,0,,34,7.127882599580712
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Normal,0,0,0,0,0,0,477,Hombre,0,,0,,0,,0,,0,,0,,125,26.20545073375262
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Obesidad,0,0,0,0,0,0,477,Hombre,0,,0,,0,,0,,0,,0,,132,27.67295597484277
-2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Sobrepeso,0,0,0,0,0,0,477,Hombre,0,,0,,0,,0,,0,,0,,186,38.9937106918239
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Bajo peso,0,0,0,0,0,0,5036,Hombre,0,,0,,0,,0,,0,,0,,355,7.04924543288324
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Normal,0,0,0,0,0,0,5036,Hombre,0,,0,,0,,0,,0,,0,,1548,30.73868149324861
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Obesidad,0,0,0,0,0,0,5036,Hombre,0,,0,,0,,0,,0,,0,,1439,28.57426528991263
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Sobrepeso,0,0,0,0,0,0,5036,Hombre,0,,0,,0,,0,,0,,0,,1694,33.63780778395552
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Bajo peso,0,0,0,0,0,0,7172,Hombre,0,,0,,0,,0,,0,,0,,319,4.447852760736196
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Normal,0,0,0,0,0,0,7172,Hombre,0,,0,,0,,0,,0,,0,,2194,30.591187953151145
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Obesidad,0,0,0,0,0,0,7172,Hombre,0,,0,,0,,0,,0,,0,,2107,29.378137200223094
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Sobrepeso,0,0,0,0,0,0,7172,Hombre,0,,0,,0,,0,,0,,0,,2552,35.58282208588957
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Bajo peso,0,0,0,0,0,0,12102,Hombre,0,,0,,0,,0,,0,,0,,452,3.734919847959015
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Normal,0,0,0,0,0,0,12102,Hombre,0,,0,,0,,0,,0,,0,,3495,28.8795240456123
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Obesidad,0,0,0,0,0,0,12102,Hombre,0,,0,,0,,0,,0,,0,,3701,30.581722029416625
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Sobrepeso,0,0,0,0,0,0,12102,Hombre,0,,0,,0,,0,,0,,0,,4454,36.80383407701206
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Bajo peso,0,0,0,0,0,0,5621,Hombre,0,,0,,0,,0,,0,,0,,412,7.329656644725138
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Normal,0,0,0,0,0,0,5621,Hombre,0,,0,,0,,0,,0,,0,,2191,38.978829389788295
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Obesidad,0,0,0,0,0,0,5621,Hombre,0,,0,,0,,0,,0,,0,,1185,21.081658067959438
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Sobrepeso,0,0,0,0,0,0,5621,Hombre,0,,0,,0,,0,,0,,0,,1833,32.609855897527126
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Bajo peso,0,0,0,0,0,0,6090,Hombre,0,,0,,0,,0,,0,,0,,340,5.582922824302135
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Normal,0,0,0,0,0,0,6090,Hombre,0,,0,,0,,0,,0,,0,,2094,34.38423645320197
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Obesidad,0,0,0,0,0,0,6090,Hombre,0,,0,,0,,0,,0,,0,,1561,25.632183908045974
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Sobrepeso,0,0,0,0,0,0,6090,Hombre,0,,0,,0,,0,,0,,0,,2095,34.40065681444992
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Bajo peso,0,0,0,0,0,0,5230,Hombre,0,,0,,0,,0,,0,,0,,257,4.91395793499044
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Normal,0,0,0,0,0,0,5230,Hombre,0,,0,,0,,0,,0,,0,,1621,30.994263862332694
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Obesidad,0,0,0,0,0,0,5230,Hombre,0,,0,,0,,0,,0,,0,,1354,25.889101338432123
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Sobrepeso,0,0,0,0,0,0,5230,Hombre,0,,0,,0,,0,,0,,0,,1998,38.202676864244744
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Bajo peso,0,0,0,0,0,0,661,Hombre,0,,0,,0,,0,,0,,0,,32,4.841149773071105
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Normal,0,0,0,0,0,0,661,Hombre,0,,0,,0,,0,,0,,0,,202,30.559757942511347
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Obesidad,0,0,0,0,0,0,661,Hombre,0,,0,,0,,0,,0,,0,,192,29.046898638426626
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Sobrepeso,0,0,0,0,0,0,661,Hombre,0,,0,,0,,0,,0,,0,,235,35.55219364599092
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Bajo peso,0,0,0,0,0,0,493,Hombre,0,,0,,0,,0,,0,,0,,27,5.476673427991886
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Normal,0,0,0,0,0,0,493,Hombre,0,,0,,0,,0,,0,,0,,159,32.25152129817444
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Obesidad,0,0,0,0,0,0,493,Hombre,0,,0,,0,,0,,0,,0,,133,26.97768762677485
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Sobrepeso,0,0,0,0,0,0,493,Hombre,0,,0,,0,,0,,0,,0,,174,35.294117647058826
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Bajo peso,0,0,0,0,0,0,643,Hombre,0,,0,,0,,0,,0,,0,,41,6.376360808709176
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Normal,0,0,0,0,0,0,643,Hombre,0,,0,,0,,0,,0,,0,,224,34.83670295489891
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Obesidad,0,0,0,0,0,0,643,Hombre,0,,0,,0,,0,,0,,0,,167,25.972006220839816
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Sobrepeso,0,0,0,0,0,0,643,Hombre,0,,0,,0,,0,,0,,0,,211,32.8149300155521
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Bajo peso,0,0,0,0,0,0,783,Hombre,0,,0,,0,,0,,0,,0,,27,3.4482758620689653
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Normal,0,0,0,0,0,0,783,Hombre,0,,0,,0,,0,,0,,0,,275,35.1213282247765
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Obesidad,0,0,0,0,0,0,783,Hombre,0,,0,,0,,0,,0,,0,,227,28.991060025542787
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Sobrepeso,0,0,0,0,0,0,783,Hombre,0,,0,,0,,0,,0,,0,,254,32.43933588761175
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Bajo peso,0,0,0,0,0,0,2934,Hombre,0,,0,,0,,0,,0,,0,,104,3.54464894342195
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Normal,0,0,0,0,0,0,2934,Hombre,0,,0,,0,,0,,0,,0,,923,31.458759372869803
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Obesidad,0,0,0,0,0,0,2934,Hombre,0,,0,,0,,0,,0,,0,,826,28.152692569870485
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Sobrepeso,0,0,0,0,0,0,2934,Hombre,0,,0,,0,,0,,0,,0,,1081,36.843899113837765
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Bajo peso,0,0,0,0,0,0,1733,Hombre,0,,0,,0,,0,,0,,0,,134,7.732256203115984
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Normal,0,0,0,0,0,0,1733,Hombre,0,,0,,0,,0,,0,,0,,536,30.929024812463936
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Obesidad,0,0,0,0,0,0,1733,Hombre,0,,0,,0,,0,,0,,0,,451,26.024235429890364
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Sobrepeso,0,0,0,0,0,0,1733,Hombre,0,,0,,0,,0,,0,,0,,612,35.314483554529716
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Bajo peso,0,0,0,0,0,0,1692,Hombre,0,,0,,0,,0,,0,,0,,68,4.0189125295508275
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Normal,0,0,0,0,0,0,1692,Hombre,0,,0,,0,,0,,0,,0,,524,30.969267139479907
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Obesidad,0,0,0,0,0,0,1692,Hombre,0,,0,,0,,0,,0,,0,,487,28.782505910165483
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Sobrepeso,0,0,0,0,0,0,1692,Hombre,0,,0,,0,,0,,0,,0,,613,36.22931442080378
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Bajo peso,0,0,0,0,0,0,2532,Hombre,0,,0,,0,,0,,0,,0,,135,5.33175355450237
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Normal,0,0,0,0,0,0,2532,Hombre,0,,0,,0,,0,,0,,0,,779,30.766192733017377
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Obesidad,0,0,0,0,0,0,2532,Hombre,0,,0,,0,,0,,0,,0,,757,29.89731437598736
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Sobrepeso,0,0,0,0,0,0,2532,Hombre,0,,0,,0,,0,,0,,0,,861,34.00473933649289
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Bajo peso,0,0,0,0,0,0,4324,Hombre,0,,0,,0,,0,,0,,0,,205,4.740980573543016
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Normal,0,0,0,0,0,0,4324,Hombre,0,,0,,0,,0,,0,,0,,1297,29.995374653098985
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Obesidad,0,0,0,0,0,0,4324,Hombre,0,,0,,0,,0,,0,,0,,1188,27.474560592044405
-2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Sobrepeso,0,0,0,0,0,0,4324,Hombre,0,,0,,0,,0,,0,,0,,1634,37.7890841813136
-2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Bajo peso,0,0,0,0,0,0,11153,Hombre,0,,0,,0,,0,,0,,0,,589,5.281090289608177
-2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Normal,0,0,0,0,0,0,11153,Hombre,0,,0,,0,,0,,0,,0,,4075,36.537254550345196
-2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Obesidad,0,0,0,0,0,0,11153,Hombre,0,,0,,0,,0,,0,,0,,2655,23.8052541916973
-2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Sobrepeso,0,0,0,0,0,0,11153,Hombre,0,,0,,0,,0,,0,,0,,3834,34.37640096834932
-2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Bajo peso,0,0,0,0,0,0,2739,Hombre,0,,0,,0,,0,,0,,0,,107,3.9065352318364366
-2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Normal,0,0,0,0,0,0,2739,Hombre,0,,0,,0,,0,,0,,0,,937,34.20956553486674
-2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Obesidad,0,0,0,0,0,0,2739,Hombre,0,,0,,0,,0,,0,,0,,710,25.92186929536327
-2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Sobrepeso,0,0,0,0,0,0,2739,Hombre,0,,0,,0,,0,,0,,0,,985,35.96202993793355
-2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Bajo peso,0,0,0,0,0,0,3671,Hombre,0,,0,,0,,0,,0,,0,,219,5.965676927267775
-2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Normal,0,0,0,0,0,0,3671,Hombre,0,,0,,0,,0,,0,,0,,1186,32.30727322255516
-2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Obesidad,0,0,0,0,0,0,3671,Hombre,0,,0,,0,,0,,0,,0,,999,27.213293380550258
-2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Sobrepeso,0,0,0,0,0,0,3671,Hombre,0,,0,,0,,0,,0,,0,,1267,34.513756469626806
-2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Bajo peso,0,0,0,0,0,0,17014,Hombre,0,,0,,0,,0,,0,,0,,752,4.41988950276243
-2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Normal,0,0,0,0,0,0,17014,Hombre,0,,0,,0,,0,,0,,0,,5623,33.04925355589515
-2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Obesidad,0,0,0,0,0,0,17014,Hombre,0,,0,,0,,0,,0,,0,,4395,25.83166803808628
-2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Sobrepeso,0,0,0,0,0,0,17014,Hombre,0,,0,,0,,0,,0,,0,,6244,36.69918890325614
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Bajo peso,0,0,0,0,0,0,2764,Hombre,0,,0,,0,,0,,0,,0,,184,6.657018813314037
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Normal,0,0,0,0,0,0,2764,Hombre,0,,0,,0,,0,,0,,0,,1018,36.830680173661364
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Obesidad,0,0,0,0,0,0,2764,Hombre,0,,0,,0,,0,,0,,0,,598,21.635311143270624
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Sobrepeso,0,0,0,0,0,0,2764,Hombre,0,,0,,0,,0,,0,,0,,964,34.87698986975398
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Bajo peso,0,0,0,0,0,0,5110,Hombre,0,,0,,0,,0,,0,,0,,457,8.943248532289628
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Normal,0,0,0,0,0,0,5110,Hombre,0,,0,,0,,0,,0,,0,,2146,41.99608610567515
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Obesidad,0,0,0,0,0,0,5110,Hombre,0,,0,,0,,0,,0,,0,,876,17.142857142857142
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Sobrepeso,0,0,0,0,0,0,5110,Hombre,0,,0,,0,,0,,0,,0,,1631,31.917808219178085
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Bajo peso,0,0,0,0,0,0,1877,Hombre,0,,0,,0,,0,,0,,0,,112,5.966968566862014
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Normal,0,0,0,0,0,0,1877,Hombre,0,,0,,0,,0,,0,,0,,600,31.96590303676079
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Obesidad,0,0,0,0,0,0,1877,Hombre,0,,0,,0,,0,,0,,0,,499,26.584976025572722
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Sobrepeso,0,0,0,0,0,0,1877,Hombre,0,,0,,0,,0,,0,,0,,666,35.48215237080448
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Bajo peso,0,0,0,0,0,0,7926,Hombre,0,,0,,0,,0,,0,,0,,415,5.23593237446379
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Normal,0,0,0,0,0,0,7926,Hombre,0,,0,,0,,0,,0,,0,,2795,35.263689124400706
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Obesidad,0,0,0,0,0,0,7926,Hombre,0,,0,,0,,0,,0,,0,,1947,24.564723694171082
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Sobrepeso,0,0,0,0,0,0,7926,Hombre,0,,0,,0,,0,,0,,0,,2769,34.93565480696442
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Bajo peso,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,406,7.422303473491773
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Normal,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,2173,39.725776965265084
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Obesidad,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,1019,18.62888482632541
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Sobrepeso,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,1872,34.22303473491773
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Bajo peso,0,0,0,0,0,0,12492,Hombre,0,,0,,0,,0,,0,,0,,608,4.867114953570285
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Normal,0,0,0,0,0,0,12492,Hombre,0,,0,,0,,0,,0,,0,,3799,30.411463336535384
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Obesidad,0,0,0,0,0,0,12492,Hombre,0,,0,,0,,0,,0,,0,,3522,28.194044188280497
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Sobrepeso,0,0,0,0,0,0,12492,Hombre,0,,0,,0,,0,,0,,0,,4563,36.527377521613836
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Bajo peso,0,0,0,0,0,0,4620,Hombre,0,,0,,0,,0,,0,,0,,344,7.445887445887446
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Normal,0,0,0,0,0,0,4620,Hombre,0,,0,,0,,0,,0,,0,,1928,41.73160173160173
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Obesidad,0,0,0,0,0,0,4620,Hombre,0,,0,,0,,0,,0,,0,,849,18.376623376623378
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Sobrepeso,0,0,0,0,0,0,4620,Hombre,0,,0,,0,,0,,0,,0,,1499,32.44588744588744
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Bajo peso,0,0,0,0,0,0,1283,Hombre,0,,0,,0,,0,,0,,0,,94,7.326578332034295
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Normal,0,0,0,0,0,0,1283,Hombre,0,,0,,0,,0,,0,,0,,541,42.1667965705378
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Obesidad,0,0,0,0,0,0,1283,Hombre,0,,0,,0,,0,,0,,0,,213,16.601714731098987
-2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Sobrepeso,0,0,0,0,0,0,1283,Hombre,0,,0,,0,,0,,0,,0,,435,33.90491036632891
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Bajo peso,0,0,0,0,0,0,11080,Hombre,0,,0,,0,,0,,0,,0,,577,5.2075812274368225
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Normal,0,0,0,0,0,0,11080,Hombre,0,,0,,0,,0,,0,,0,,3146,28.39350180505415
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Obesidad,0,0,0,0,0,0,11080,Hombre,0,,0,,0,,0,,0,,0,,3190,28.79061371841155
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Sobrepeso,0,0,0,0,0,0,11080,Hombre,0,,0,,0,,0,,0,,0,,4167,37.608303249097474
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Bajo peso,0,0,0,0,0,0,4727,Hombre,0,,0,,0,,0,,0,,0,,253,5.352231859530358
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Normal,0,0,0,0,0,0,4727,Hombre,0,,0,,0,,0,,0,,0,,1757,37.16945208377406
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Obesidad,0,0,0,0,0,0,4727,Hombre,0,,0,,0,,0,,0,,0,,1116,23.60905436852126
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Sobrepeso,0,0,0,0,0,0,4727,Hombre,0,,0,,0,,0,,0,,0,,1601,33.86926168817432
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Bajo peso,0,0,0,0,0,0,4102,Hombre,0,,0,,0,,0,,0,,0,,191,4.656265236470015
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Normal,0,0,0,0,0,0,4102,Hombre,0,,0,,0,,0,,0,,0,,1358,33.105802047781566
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Obesidad,0,0,0,0,0,0,4102,Hombre,0,,0,,0,,0,,0,,0,,1138,27.742564602632864
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Sobrepeso,0,0,0,0,0,0,4102,Hombre,0,,0,,0,,0,,0,,0,,1415,34.49536811311555
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Bajo peso,0,0,0,0,0,0,8240,Hombre,0,,0,,0,,0,,0,,0,,366,4.441747572815534
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Normal,0,0,0,0,0,0,8240,Hombre,0,,0,,0,,0,,0,,0,,2934,35.60679611650485
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Obesidad,0,0,0,0,0,0,8240,Hombre,0,,0,,0,,0,,0,,0,,2048,24.854368932038835
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Sobrepeso,0,0,0,0,0,0,8240,Hombre,0,,0,,0,,0,,0,,0,,2892,35.09708737864078
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Bajo peso,0,0,0,0,0,0,5523,Hombre,0,,0,,0,,0,,0,,0,,408,7.387289516567083
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Normal,0,0,0,0,0,0,5523,Hombre,0,,0,,0,,0,,0,,0,,1941,35.14394350896252
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Obesidad,0,0,0,0,0,0,5523,Hombre,0,,0,,0,,0,,0,,0,,1259,22.795582111171463
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Sobrepeso,0,0,0,0,0,0,5523,Hombre,0,,0,,0,,0,,0,,0,,1915,34.673184863298935
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Bajo peso,0,0,0,0,0,0,5828,Hombre,0,,0,,0,,0,,0,,0,,345,5.919698009608785
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Normal,0,0,0,0,0,0,5828,Hombre,0,,0,,0,,0,,0,,0,,2046,35.1063829787234
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Obesidad,0,0,0,0,0,0,5828,Hombre,0,,0,,0,,0,,0,,0,,1395,23.93617021276596
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Sobrepeso,0,0,0,0,0,0,5828,Hombre,0,,0,,0,,0,,0,,0,,2042,35.03774879890185
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Bajo peso,0,0,0,0,0,0,12473,Hombre,0,,0,,0,,0,,0,,0,,447,3.583740880301451
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Normal,0,0,0,0,0,0,12473,Hombre,0,,0,,0,,0,,0,,0,,3616,28.990619738635452
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Obesidad,0,0,0,0,0,0,12473,Hombre,0,,0,,0,,0,,0,,0,,3675,29.463641465565622
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Sobrepeso,0,0,0,0,0,0,12473,Hombre,0,,0,,0,,0,,0,,0,,4735,37.96199791549748
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Bajo peso,0,0,0,0,0,0,5876,Hombre,0,,0,,0,,0,,0,,0,,255,4.339686861810756
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Normal,0,0,0,0,0,0,5876,Hombre,0,,0,,0,,0,,0,,0,,1708,29.06739278420694
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Obesidad,0,0,0,0,0,0,5876,Hombre,0,,0,,0,,0,,0,,0,,1644,27.978216473791694
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Sobrepeso,0,0,0,0,0,0,5876,Hombre,0,,0,,0,,0,,0,,0,,2269,38.6147038801906
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Bajo peso,0,0,0,0,0,0,1385,Hombre,0,,0,,0,,0,,0,,0,,39,2.815884476534296
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Normal,0,0,0,0,0,0,1385,Hombre,0,,0,,0,,0,,0,,0,,369,26.64259927797834
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Obesidad,0,0,0,0,0,0,1385,Hombre,0,,0,,0,,0,,0,,0,,453,32.70758122743682
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Sobrepeso,0,0,0,0,0,0,1385,Hombre,0,,0,,0,,0,,0,,0,,524,37.83393501805054
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Bajo peso,0,0,0,0,0,0,5783,Hombre,0,,0,,0,,0,,0,,0,,185,3.199031644475186
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Normal,0,0,0,0,0,0,5783,Hombre,0,,0,,0,,0,,0,,0,,1635,28.2725229119834
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Obesidad,0,0,0,0,0,0,5783,Hombre,0,,0,,0,,0,,0,,0,,1748,30.22652602455473
-2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Sobrepeso,0,0,0,0,0,0,5783,Hombre,0,,0,,0,,0,,0,,0,,2215,38.301919418986685
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Bajo peso,0,0,0,0,0,0,13946,Hombre,0,,0,,0,,0,,0,,0,,822,5.894163200917825
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Normal,0,0,0,0,0,0,13946,Hombre,0,,0,,0,,0,,0,,0,,5038,36.12505377886132
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Obesidad,0,0,0,0,0,0,13946,Hombre,0,,0,,0,,0,,0,,0,,3371,24.171805535637457
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Sobrepeso,0,0,0,0,0,0,13946,Hombre,0,,0,,0,,0,,0,,0,,4715,33.808977484583394
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Bajo peso,0,0,0,0,0,0,5336,Hombre,0,,0,,0,,0,,0,,0,,258,4.835082458770615
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Normal,0,0,0,0,0,0,5336,Hombre,0,,0,,0,,0,,0,,0,,1880,35.23238380809595
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Obesidad,0,0,0,0,0,0,5336,Hombre,0,,0,,0,,0,,0,,0,,1408,26.38680659670165
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Sobrepeso,0,0,0,0,0,0,5336,Hombre,0,,0,,0,,0,,0,,0,,1790,33.545727136431786
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Bajo peso,0,0,0,0,0,0,6717,Hombre,0,,0,,0,,0,,0,,0,,368,5.478636295965461
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Normal,0,0,0,0,0,0,6717,Hombre,0,,0,,0,,0,,0,,0,,2156,32.097662647015035
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Obesidad,0,0,0,0,0,0,6717,Hombre,0,,0,,0,,0,,0,,0,,1897,28.241774601756735
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Sobrepeso,0,0,0,0,0,0,6717,Hombre,0,,0,,0,,0,,0,,0,,2296,34.18192645526277
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Bajo peso,0,0,0,0,0,0,4701,Hombre,0,,0,,0,,0,,0,,0,,219,4.6585832801531595
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Normal,0,0,0,0,0,0,4701,Hombre,0,,0,,0,,0,,0,,0,,1587,33.75877472878111
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Obesidad,0,0,0,0,0,0,4701,Hombre,0,,0,,0,,0,,0,,0,,1231,26.18591788981068
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Sobrepeso,0,0,0,0,0,0,4701,Hombre,0,,0,,0,,0,,0,,0,,1664,35.39672410125505
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Bajo peso,0,0,0,0,0,0,11617,Hombre,0,,0,,0,,0,,0,,0,,709,6.103124730997676
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Normal,0,0,0,0,0,0,11617,Hombre,0,,0,,0,,0,,0,,0,,3704,31.88430748041663
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Obesidad,0,0,0,0,0,0,11617,Hombre,0,,0,,0,,0,,0,,0,,3249,27.96763364035465
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Sobrepeso,0,0,0,0,0,0,11617,Hombre,0,,0,,0,,0,,0,,0,,3955,34.04493414823104
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Bajo peso,0,0,0,0,0,0,1323,Hombre,0,,0,,0,,0,,0,,0,,74,5.593348450491307
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Normal,0,0,0,0,0,0,1323,Hombre,0,,0,,0,,0,,0,,0,,464,35.071806500377924
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Obesidad,0,0,0,0,0,0,1323,Hombre,0,,0,,0,,0,,0,,0,,298,22.52456538170824
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Sobrepeso,0,0,0,0,0,0,1323,Hombre,0,,0,,0,,0,,0,,0,,487,36.81027966742253
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Bajo peso,0,0,0,0,0,0,95,Hombre,0,,0,,0,,0,,0,,0,,8,8.421052631578947
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Normal,0,0,0,0,0,0,95,Hombre,0,,0,,0,,0,,0,,0,,36,37.89473684210527
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Obesidad,0,0,0,0,0,0,95,Hombre,0,,0,,0,,0,,0,,0,,19,20.0
-2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Sobrepeso,0,0,0,0,0,0,95,Hombre,0,,0,,0,,0,,0,,0,,32,33.68421052631579
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Bajo peso,0,0,0,0,0,0,10924,Hombre,0,,0,,0,,0,,0,,0,,593,5.4284145001830835
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Normal,0,0,0,0,0,0,10924,Hombre,0,,0,,0,,0,,0,,0,,3182,29.128524350054924
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Obesidad,0,0,0,0,0,0,10924,Hombre,0,,0,,0,,0,,0,,0,,3307,30.272793848407176
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Sobrepeso,0,0,0,0,0,0,10924,Hombre,0,,0,,0,,0,,0,,0,,3842,35.17026730135481
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Bajo peso,0,0,0,0,0,0,6665,Hombre,0,,0,,0,,0,,0,,0,,289,4.336084021005251
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Normal,0,0,0,0,0,0,6665,Hombre,0,,0,,0,,0,,0,,0,,1848,27.726931732933235
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Obesidad,0,0,0,0,0,0,6665,Hombre,0,,0,,0,,0,,0,,0,,2255,33.833458364591145
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Sobrepeso,0,0,0,0,0,0,6665,Hombre,0,,0,,0,,0,,0,,0,,2273,34.10352588147037
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Bajo peso,0,0,0,0,0,0,4050,Hombre,0,,0,,0,,0,,0,,0,,293,7.234567901234568
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Normal,0,0,0,0,0,0,4050,Hombre,0,,0,,0,,0,,0,,0,,1330,32.839506172839506
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Obesidad,0,0,0,0,0,0,4050,Hombre,0,,0,,0,,0,,0,,0,,1112,27.45679012345679
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Sobrepeso,0,0,0,0,0,0,4050,Hombre,0,,0,,0,,0,,0,,0,,1315,32.46913580246913
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Bajo peso,0,0,0,0,0,0,9479,Hombre,0,,0,,0,,0,,0,,0,,269,2.8378520941027534
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Normal,0,0,0,0,0,0,9479,Hombre,0,,0,,0,,0,,0,,0,,2361,24.90769068467138
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Obesidad,0,0,0,0,0,0,9479,Hombre,0,,0,,0,,0,,0,,0,,3421,36.09030488448148
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Sobrepeso,0,0,0,0,0,0,9479,Hombre,0,,0,,0,,0,,0,,0,,3428,36.16415233674438
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Bajo peso,0,0,0,0,0,0,8719,Hombre,0,,0,,0,,0,,0,,0,,442,5.069388691363688
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Normal,0,0,0,0,0,0,8719,Hombre,0,,0,,0,,0,,0,,0,,3276,37.57311618304852
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Obesidad,0,0,0,0,0,0,8719,Hombre,0,,0,,0,,0,,0,,0,,2365,27.124670260350957
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Sobrepeso,0,0,0,0,0,0,8719,Hombre,0,,0,,0,,0,,0,,0,,2636,30.23282486523684
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Bajo peso,0,0,0,0,0,0,7150,Hombre,0,,0,,0,,0,,0,,0,,339,4.741258741258742
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Normal,0,0,0,0,0,0,7150,Hombre,0,,0,,0,,0,,0,,0,,1972,27.58041958041958
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Obesidad,0,0,0,0,0,0,7150,Hombre,0,,0,,0,,0,,0,,0,,2271,31.76223776223776
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Sobrepeso,0,0,0,0,0,0,7150,Hombre,0,,0,,0,,0,,0,,0,,2568,35.91608391608392
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Bajo peso,0,0,0,0,0,0,6219,Hombre,0,,0,,0,,0,,0,,0,,234,3.762662807525326
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Normal,0,0,0,0,0,0,6219,Hombre,0,,0,,0,,0,,0,,0,,1691,27.190866698826177
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Obesidad,0,0,0,0,0,0,6219,Hombre,0,,0,,0,,0,,0,,0,,2139,34.394597202122526
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Sobrepeso,0,0,0,0,0,0,6219,Hombre,0,,0,,0,,0,,0,,0,,2155,34.65187329152597
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Bajo peso,0,0,0,0,0,0,624,Hombre,0,,0,,0,,0,,0,,0,,35,5.6089743589743595
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Normal,0,0,0,0,0,0,624,Hombre,0,,0,,0,,0,,0,,0,,165,26.442307692307693
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Obesidad,0,0,0,0,0,0,624,Hombre,0,,0,,0,,0,,0,,0,,191,30.60897435897436
-2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Sobrepeso,0,0,0,0,0,0,624,Hombre,0,,0,,0,,0,,0,,0,,233,37.33974358974359
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Bajo peso,0,0,0,0,0,0,7839,Hombre,0,,0,,0,,0,,0,,0,,442,5.638474295190713
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Normal,0,0,0,0,0,0,7839,Hombre,0,,0,,0,,0,,0,,0,,2216,28.268911851001405
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Obesidad,0,0,0,0,0,0,7839,Hombre,0,,0,,0,,0,,0,,0,,2541,32.41484883275928
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Sobrepeso,0,0,0,0,0,0,7839,Hombre,0,,0,,0,,0,,0,,0,,2640,33.67776502104861
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Bajo peso,0,0,0,0,0,0,10151,Hombre,0,,0,,0,,0,,0,,0,,356,3.5070436410205894
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Normal,0,0,0,0,0,0,10151,Hombre,0,,0,,0,,0,,0,,0,,2632,25.928479952714017
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Obesidad,0,0,0,0,0,0,10151,Hombre,0,,0,,0,,0,,0,,0,,3451,33.9966505762979
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Sobrepeso,0,0,0,0,0,0,10151,Hombre,0,,0,,0,,0,,0,,0,,3712,36.56782582996749
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Bajo peso,0,0,0,0,0,0,18757,Hombre,0,,0,,0,,0,,0,,0,,562,2.996214746494642
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Normal,0,0,0,0,0,0,18757,Hombre,0,,0,,0,,0,,0,,0,,4645,24.764088073785786
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Obesidad,0,0,0,0,0,0,18757,Hombre,0,,0,,0,,0,,0,,0,,6421,34.23255318014608
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Sobrepeso,0,0,0,0,0,0,18757,Hombre,0,,0,,0,,0,,0,,0,,7129,38.00714399957349
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Bajo peso,0,0,0,0,0,0,7772,Hombre,0,,0,,0,,0,,0,,0,,388,4.992279979413278
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Normal,0,0,0,0,0,0,7772,Hombre,0,,0,,0,,0,,0,,0,,2718,34.971693257848685
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Obesidad,0,0,0,0,0,0,7772,Hombre,0,,0,,0,,0,,0,,0,,2033,26.158003088008236
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Sobrepeso,0,0,0,0,0,0,7772,Hombre,0,,0,,0,,0,,0,,0,,2633,33.8780236747298
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Bajo peso,0,0,0,0,0,0,9188,Hombre,0,,0,,0,,0,,0,,0,,376,4.092294296909012
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Normal,0,0,0,0,0,0,9188,Hombre,0,,0,,0,,0,,0,,0,,2673,29.09229429690901
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Obesidad,0,0,0,0,0,0,9188,Hombre,0,,0,,0,,0,,0,,0,,3018,32.84719198955159
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Sobrepeso,0,0,0,0,0,0,9188,Hombre,0,,0,,0,,0,,0,,0,,3121,33.96821941663038
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Bajo peso,0,0,0,0,0,0,6929,Hombre,0,,0,,0,,0,,0,,0,,311,4.488382161928128
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Normal,0,0,0,0,0,0,6929,Hombre,0,,0,,0,,0,,0,,0,,2057,29.68682349545389
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Obesidad,0,0,0,0,0,0,6929,Hombre,0,,0,,0,,0,,0,,0,,2091,30.17751479289941
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Sobrepeso,0,0,0,0,0,0,6929,Hombre,0,,0,,0,,0,,0,,0,,2470,35.647279549718576
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Bajo peso,0,0,0,0,0,0,961,Hombre,0,,0,,0,,0,,0,,0,,33,3.433922996878252
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Normal,0,0,0,0,0,0,961,Hombre,0,,0,,0,,0,,0,,0,,278,28.92819979188345
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Obesidad,0,0,0,0,0,0,961,Hombre,0,,0,,0,,0,,0,,0,,322,33.50676378772112
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Sobrepeso,0,0,0,0,0,0,961,Hombre,0,,0,,0,,0,,0,,0,,328,34.13111342351717
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Bajo peso,0,0,0,0,0,0,517,Hombre,0,,0,,0,,0,,0,,0,,36,6.963249516441006
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Normal,0,0,0,0,0,0,517,Hombre,0,,0,,0,,0,,0,,0,,145,28.04642166344294
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Obesidad,0,0,0,0,0,0,517,Hombre,0,,0,,0,,0,,0,,0,,140,27.079303675048354
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Sobrepeso,0,0,0,0,0,0,517,Hombre,0,,0,,0,,0,,0,,0,,196,37.9110251450677
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Bajo peso,0,0,0,0,0,0,1308,Hombre,0,,0,,0,,0,,0,,0,,44,3.3639143730886847
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Normal,0,0,0,0,0,0,1308,Hombre,0,,0,,0,,0,,0,,0,,344,26.299694189602445
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Obesidad,0,0,0,0,0,0,1308,Hombre,0,,0,,0,,0,,0,,0,,475,36.31498470948012
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Sobrepeso,0,0,0,0,0,0,1308,Hombre,0,,0,,0,,0,,0,,0,,445,34.02140672782875
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Bajo peso,0,0,0,0,0,0,1270,Hombre,0,,0,,0,,0,,0,,0,,37,2.9133858267716537
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Normal,0,0,0,0,0,0,1270,Hombre,0,,0,,0,,0,,0,,0,,305,24.015748031496063
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Obesidad,0,0,0,0,0,0,1270,Hombre,0,,0,,0,,0,,0,,0,,461,36.29921259842519
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Sobrepeso,0,0,0,0,0,0,1270,Hombre,0,,0,,0,,0,,0,,0,,467,36.77165354330709
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Bajo peso,0,0,0,0,0,0,5259,Hombre,0,,0,,0,,0,,0,,0,,163,3.099448564365849
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Normal,0,0,0,0,0,0,5259,Hombre,0,,0,,0,,0,,0,,0,,1533,29.1500285225328
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Obesidad,0,0,0,0,0,0,5259,Hombre,0,,0,,0,,0,,0,,0,,1633,31.051530709260316
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Sobrepeso,0,0,0,0,0,0,5259,Hombre,0,,0,,0,,0,,0,,0,,1930,36.69899220384104
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Bajo peso,0,0,0,0,0,0,2317,Hombre,0,,0,,0,,0,,0,,0,,99,4.272766508416055
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Normal,0,0,0,0,0,0,2317,Hombre,0,,0,,0,,0,,0,,0,,609,26.283987915407852
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Obesidad,0,0,0,0,0,0,2317,Hombre,0,,0,,0,,0,,0,,0,,813,35.08847647820457
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Sobrepeso,0,0,0,0,0,0,2317,Hombre,0,,0,,0,,0,,0,,0,,796,34.35476909797151
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Bajo peso,0,0,0,0,0,0,2687,Hombre,0,,0,,0,,0,,0,,0,,107,3.9821362113881653
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Normal,0,0,0,0,0,0,2687,Hombre,0,,0,,0,,0,,0,,0,,735,27.35392631187198
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Obesidad,0,0,0,0,0,0,2687,Hombre,0,,0,,0,,0,,0,,0,,918,34.16449572013398
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Sobrepeso,0,0,0,0,0,0,2687,Hombre,0,,0,,0,,0,,0,,0,,927,34.49944175660588
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Bajo peso,0,0,0,0,0,0,4526,Hombre,0,,0,,0,,0,,0,,0,,122,2.695536897923111
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Normal,0,0,0,0,0,0,4526,Hombre,0,,0,,0,,0,,0,,0,,1169,25.8285461776403
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Obesidad,0,0,0,0,0,0,4526,Hombre,0,,0,,0,,0,,0,,0,,1581,34.93150684931507
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Sobrepeso,0,0,0,0,0,0,4526,Hombre,0,,0,,0,,0,,0,,0,,1654,36.54441007512152
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Bajo peso,0,0,0,0,0,0,6507,Hombre,0,,0,,0,,0,,0,,0,,238,3.6575995082219146
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Normal,0,0,0,0,0,0,6507,Hombre,0,,0,,0,,0,,0,,0,,1614,24.804057169202398
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Obesidad,0,0,0,0,0,0,6507,Hombre,0,,0,,0,,0,,0,,0,,2275,34.96234824035654
-2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Sobrepeso,0,0,0,0,0,0,6507,Hombre,0,,0,,0,,0,,0,,0,,2380,36.57599508221915
-2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Bajo peso,0,0,0,0,0,0,15649,Hombre,0,,0,,0,,0,,0,,0,,830,5.303853281359832
-2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Normal,0,0,0,0,0,0,15649,Hombre,0,,0,,0,,0,,0,,0,,5325,34.027733401495304
-2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Obesidad,0,0,0,0,0,0,15649,Hombre,0,,0,,0,,0,,0,,0,,4115,26.295609943127356
-2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Sobrepeso,0,0,0,0,0,0,15649,Hombre,0,,0,,0,,0,,0,,0,,5379,34.37280337401751
-2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Bajo peso,0,0,0,0,0,0,4687,Hombre,0,,0,,0,,0,,0,,0,,155,3.3070194154043095
-2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Normal,0,0,0,0,0,0,4687,Hombre,0,,0,,0,,0,,0,,0,,1288,27.48026456155323
-2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Obesidad,0,0,0,0,0,0,4687,Hombre,0,,0,,0,,0,,0,,0,,1536,32.77149562620013
-2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Sobrepeso,0,0,0,0,0,0,4687,Hombre,0,,0,,0,,0,,0,,0,,1708,36.441220396842326
-2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Bajo peso,0,0,0,0,0,0,5388,Hombre,0,,0,,0,,0,,0,,0,,275,5.103934669636229
-2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Normal,0,0,0,0,0,0,5388,Hombre,0,,0,,0,,0,,0,,0,,1654,30.69784706755754
-2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Obesidad,0,0,0,0,0,0,5388,Hombre,0,,0,,0,,0,,0,,0,,1583,29.380103934669638
-2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Sobrepeso,0,0,0,0,0,0,5388,Hombre,0,,0,,0,,0,,0,,0,,1876,34.8181143281366
-2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Bajo peso,0,0,0,0,0,0,22485,Hombre,0,,0,,0,,0,,0,,0,,902,4.011563264398488
-2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Normal,0,0,0,0,0,0,22485,Hombre,0,,0,,0,,0,,0,,0,,6361,28.289971091839007
-2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Obesidad,0,0,0,0,0,0,22485,Hombre,0,,0,,0,,0,,0,,0,,7125,31.68779186124083
-2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Sobrepeso,0,0,0,0,0,0,22485,Hombre,0,,0,,0,,0,,0,,0,,8097,36.01067378252168
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Bajo peso,0,0,0,0,0,0,3627,Hombre,0,,0,,0,,0,,0,,0,,213,5.87262200165426
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Normal,0,0,0,0,0,0,3627,Hombre,0,,0,,0,,0,,0,,0,,1121,30.90708574579542
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Obesidad,0,0,0,0,0,0,3627,Hombre,0,,0,,0,,0,,0,,0,,1079,29.749103942652326
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Sobrepeso,0,0,0,0,0,0,3627,Hombre,0,,0,,0,,0,,0,,0,,1214,33.47118830989799
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Bajo peso,0,0,0,0,0,0,6243,Hombre,0,,0,,0,,0,,0,,0,,479,7.67259330450104
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Normal,0,0,0,0,0,0,6243,Hombre,0,,0,,0,,0,,0,,0,,2274,36.42479577126382
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Obesidad,0,0,0,0,0,0,6243,Hombre,0,,0,,0,,0,,0,,0,,1403,22.473169950344385
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Sobrepeso,0,0,0,0,0,0,6243,Hombre,0,,0,,0,,0,,0,,0,,2087,33.429440973890756
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Bajo peso,0,0,0,0,0,0,2249,Hombre,0,,0,,0,,0,,0,,0,,104,4.624277456647398
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Normal,0,0,0,0,0,0,2249,Hombre,0,,0,,0,,0,,0,,0,,641,28.50155624722099
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Obesidad,0,0,0,0,0,0,2249,Hombre,0,,0,,0,,0,,0,,0,,708,31.480658070253448
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Sobrepeso,0,0,0,0,0,0,2249,Hombre,0,,0,,0,,0,,0,,0,,796,35.393508225878165
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Bajo peso,0,0,0,0,0,0,9791,Hombre,0,,0,,0,,0,,0,,0,,462,4.718619140026555
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Normal,0,0,0,0,0,0,9791,Hombre,0,,0,,0,,0,,0,,0,,2905,29.670105198651825
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Obesidad,0,0,0,0,0,0,9791,Hombre,0,,0,,0,,0,,0,,0,,2871,29.322847513022165
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Sobrepeso,0,0,0,0,0,0,9791,Hombre,0,,0,,0,,0,,0,,0,,3553,36.28842814829946
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Bajo peso,0,0,0,0,0,0,7675,Hombre,0,,0,,0,,0,,0,,0,,471,6.136807817589577
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Normal,0,0,0,0,0,0,7675,Hombre,0,,0,,0,,0,,0,,0,,2497,32.534201954397396
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Obesidad,0,0,0,0,0,0,7675,Hombre,0,,0,,0,,0,,0,,0,,2049,26.697068403908798
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Sobrepeso,0,0,0,0,0,0,7675,Hombre,0,,0,,0,,0,,0,,0,,2658,34.63192182410423
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Bajo peso,0,0,0,0,0,0,16094,Hombre,0,,0,,0,,0,,0,,0,,526,3.2682987448738663
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Normal,0,0,0,0,0,0,16094,Hombre,0,,0,,0,,0,,0,,0,,4468,27.761898844289796
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Obesidad,0,0,0,0,0,0,16094,Hombre,0,,0,,0,,0,,0,,0,,5383,33.447247421399275
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Sobrepeso,0,0,0,0,0,0,16094,Hombre,0,,0,,0,,0,,0,,0,,5717,35.522554989437054
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Bajo peso,0,0,0,0,0,0,5489,Hombre,0,,0,,0,,0,,0,,0,,376,6.850063763891419
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Normal,0,0,0,0,0,0,5489,Hombre,0,,0,,0,,0,,0,,0,,1939,35.325195846237925
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Obesidad,0,0,0,0,0,0,5489,Hombre,0,,0,,0,,0,,0,,0,,1209,22.025869921661506
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Sobrepeso,0,0,0,0,0,0,5489,Hombre,0,,0,,0,,0,,0,,0,,1965,35.798870468209145
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Bajo peso,0,0,0,0,0,0,1808,Hombre,0,,0,,0,,0,,0,,0,,117,6.471238938053098
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Normal,0,0,0,0,0,0,1808,Hombre,0,,0,,0,,0,,0,,0,,692,38.27433628318584
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Obesidad,0,0,0,0,0,0,1808,Hombre,0,,0,,0,,0,,0,,0,,374,20.6858407079646
-2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Sobrepeso,0,0,0,0,0,0,1808,Hombre,0,,0,,0,,0,,0,,0,,625,34.56858407079646
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Bajo peso,0,0,0,0,0,0,15318,Hombre,0,,0,,0,,0,,0,,0,,710,4.635069852461156
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Normal,0,0,0,0,0,0,15318,Hombre,0,,0,,0,,0,,0,,0,,3502,22.861992427209817
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Obesidad,0,0,0,0,0,0,15318,Hombre,0,,0,,0,,0,,0,,0,,5432,35.46154850502676
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Sobrepeso,0,0,0,0,0,0,15318,Hombre,0,,0,,0,,0,,0,,0,,5674,37.04138921530225
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Bajo peso,0,0,0,0,0,0,6654,Hombre,0,,0,,0,,0,,0,,0,,308,4.628794709948903
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Normal,0,0,0,0,0,0,6654,Hombre,0,,0,,0,,0,,0,,0,,1976,29.69642320408777
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Obesidad,0,0,0,0,0,0,6654,Hombre,0,,0,,0,,0,,0,,0,,1987,29.861737300871656
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Sobrepeso,0,0,0,0,0,0,6654,Hombre,0,,0,,0,,0,,0,,0,,2383,35.81304478509168
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Bajo peso,0,0,0,0,0,0,6680,Hombre,0,,0,,0,,0,,0,,0,,263,3.937125748502994
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Normal,0,0,0,0,0,0,6680,Hombre,0,,0,,0,,0,,0,,0,,1791,26.811377245508982
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Obesidad,0,0,0,0,0,0,6680,Hombre,0,,0,,0,,0,,0,,0,,2271,33.99700598802396
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Sobrepeso,0,0,0,0,0,0,6680,Hombre,0,,0,,0,,0,,0,,0,,2355,35.25449101796407
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Bajo peso,0,0,0,0,0,0,11022,Hombre,0,,0,,0,,0,,0,,0,,508,4.608963890401016
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Normal,0,0,0,0,0,0,11022,Hombre,0,,0,,0,,0,,0,,0,,3263,29.604427508619125
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Obesidad,0,0,0,0,0,0,11022,Hombre,0,,0,,0,,0,,0,,0,,3388,30.738522954091817
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Sobrepeso,0,0,0,0,0,0,11022,Hombre,0,,0,,0,,0,,0,,0,,3863,35.04808564688805
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Bajo peso,0,0,0,0,0,0,7736,Hombre,0,,0,,0,,0,,0,,0,,393,5.080144777662874
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Normal,0,0,0,0,0,0,7736,Hombre,0,,0,,0,,0,,0,,0,,2340,30.248190279214064
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Obesidad,0,0,0,0,0,0,7736,Hombre,0,,0,,0,,0,,0,,0,,2302,29.756980351602895
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Sobrepeso,0,0,0,0,0,0,7736,Hombre,0,,0,,0,,0,,0,,0,,2701,34.91468459152017
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Bajo peso,0,0,0,0,0,0,8103,Hombre,0,,0,,0,,0,,0,,0,,432,5.33135875601629
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Normal,0,0,0,0,0,0,8103,Hombre,0,,0,,0,,0,,0,,0,,2475,30.544242873009996
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Obesidad,0,0,0,0,0,0,8103,Hombre,0,,0,,0,,0,,0,,0,,2387,29.458225348636308
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Sobrepeso,0,0,0,0,0,0,8103,Hombre,0,,0,,0,,0,,0,,0,,2809,34.666173022337404
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Bajo peso,0,0,0,0,0,0,17587,Hombre,0,,0,,0,,0,,0,,0,,591,3.3604366861886623
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Normal,0,0,0,0,0,0,17587,Hombre,0,,0,,0,,0,,0,,0,,4623,26.28646159094786
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Obesidad,0,0,0,0,0,0,17587,Hombre,0,,0,,0,,0,,0,,0,,6121,34.80411667709104
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Sobrepeso,0,0,0,0,0,0,17587,Hombre,0,,0,,0,,0,,0,,0,,6252,35.54898504577245
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Bajo peso,0,0,0,0,0,0,7581,Hombre,0,,0,,0,,0,,0,,0,,245,3.2317636195752537
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Normal,0,0,0,0,0,0,7581,Hombre,0,,0,,0,,0,,0,,0,,2008,26.48727080860045
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Obesidad,0,0,0,0,0,0,7581,Hombre,0,,0,,0,,0,,0,,0,,2544,33.557578155916104
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Sobrepeso,0,0,0,0,0,0,7581,Hombre,0,,0,,0,,0,,0,,0,,2784,36.72338741590819
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Bajo peso,0,0,0,0,0,0,2009,Hombre,0,,0,,0,,0,,0,,0,,54,2.687904430064709
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Normal,0,0,0,0,0,0,2009,Hombre,0,,0,,0,,0,,0,,0,,481,23.94225983076157
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Obesidad,0,0,0,0,0,0,2009,Hombre,0,,0,,0,,0,,0,,0,,767,38.178198108511694
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Sobrepeso,0,0,0,0,0,0,2009,Hombre,0,,0,,0,,0,,0,,0,,707,35.19163763066202
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Bajo peso,0,0,0,0,0,0,7743,Hombre,0,,0,,0,,0,,0,,0,,213,2.750871755133669
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Normal,0,0,0,0,0,0,7743,Hombre,0,,0,,0,,0,,0,,0,,1914,24.719101123595504
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Obesidad,0,0,0,0,0,0,7743,Hombre,0,,0,,0,,0,,0,,0,,2824,36.47165181454216
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Sobrepeso,0,0,0,0,0,0,7743,Hombre,0,,0,,0,,0,,0,,0,,2792,36.05837530672866
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Bajo peso,0,0,0,0,0,0,20553,Hombre,0,,0,,0,,0,,0,,0,,1004,4.884931640149857
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Normal,0,0,0,0,0,0,20553,Hombre,0,,0,,0,,0,,0,,0,,6076,29.562594268476623
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Obesidad,0,0,0,0,0,0,20553,Hombre,0,,0,,0,,0,,0,,0,,6185,30.092930472437114
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Sobrepeso,0,0,0,0,0,0,20553,Hombre,0,,0,,0,,0,,0,,0,,7288,35.45954361893641
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Bajo peso,0,0,0,0,0,0,7689,Hombre,0,,0,,0,,0,,0,,0,,306,3.979711275848615
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Normal,0,0,0,0,0,0,7689,Hombre,0,,0,,0,,0,,0,,0,,2084,27.10365457146573
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Obesidad,0,0,0,0,0,0,7689,Hombre,0,,0,,0,,0,,0,,0,,2584,33.60645077383275
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Sobrepeso,0,0,0,0,0,0,7689,Hombre,0,,0,,0,,0,,0,,0,,2715,35.310183378852905
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Bajo peso,0,0,0,0,0,0,9655,Hombre,0,,0,,0,,0,,0,,0,,430,4.4536509580528225
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Normal,0,0,0,0,0,0,9655,Hombre,0,,0,,0,,0,,0,,0,,2616,27.094769549456238
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Obesidad,0,0,0,0,0,0,9655,Hombre,0,,0,,0,,0,,0,,0,,3427,35.49456240290005
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Sobrepeso,0,0,0,0,0,0,9655,Hombre,0,,0,,0,,0,,0,,0,,3182,32.957017089590884
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Bajo peso,0,0,0,0,0,0,6694,Hombre,0,,0,,0,,0,,0,,0,,344,5.138930385419779
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Normal,0,0,0,0,0,0,6694,Hombre,0,,0,,0,,0,,0,,0,,1931,28.84672841350463
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Obesidad,0,0,0,0,0,0,6694,Hombre,0,,0,,0,,0,,0,,0,,2027,30.280848521063643
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Sobrepeso,0,0,0,0,0,0,6694,Hombre,0,,0,,0,,0,,0,,0,,2392,35.73349268001195
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Bajo peso,0,0,0,0,0,0,13414,Hombre,0,,0,,0,,0,,0,,0,,613,4.569852393022216
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Normal,0,0,0,0,0,0,13414,Hombre,0,,0,,0,,0,,0,,0,,3695,27.54584762188758
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Obesidad,0,0,0,0,0,0,13414,Hombre,0,,0,,0,,0,,0,,0,,4490,33.47249142686745
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Sobrepeso,0,0,0,0,0,0,13414,Hombre,0,,0,,0,,0,,0,,0,,4616,34.41180855822275
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Bajo peso,0,0,0,0,0,0,2345,Hombre,0,,0,,0,,0,,0,,0,,102,4.3496801705756925
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Normal,0,0,0,0,0,0,2345,Hombre,0,,0,,0,,0,,0,,0,,673,28.699360341151387
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Obesidad,0,0,0,0,0,0,2345,Hombre,0,,0,,0,,0,,0,,0,,715,30.49040511727079
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Sobrepeso,0,0,0,0,0,0,2345,Hombre,0,,0,,0,,0,,0,,0,,855,36.46055437100213
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Bajo peso,0,0,0,0,0,0,106,Hombre,0,,0,,0,,0,,0,,0,,5,4.716981132075472
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Normal,0,0,0,0,0,0,106,Hombre,0,,0,,0,,0,,0,,0,,37,34.90566037735849
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Obesidad,0,0,0,0,0,0,106,Hombre,0,,0,,0,,0,,0,,0,,29,27.358490566037734
-2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Sobrepeso,0,0,0,0,0,0,106,Hombre,0,,0,,0,,0,,0,,0,,35,33.0188679245283
+﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,IdComuna_master,comuna_master,categoria_estado_nutricional,15_19_numerador,20_24_numerador,25_29_numerador,30_34_numerador,35_39_numerador,40_44_numerador,45_49_numerador,50_54_numerador,55_59_numerador,60_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_19,15_19_distribucion_pct,20_24,20_24_distribucion_pct,25_29,25_29_distribucion_pct,30_34,30_34_distribucion_pct,35_39,35_39_distribucion_pct,40_44,40_44_distribucion_pct,45_49,45_49_distribucion_pct,50_54,50_54_distribucion_pct,55_59,55_59_distribucion_pct,60_64,60_64_distribucion_pct,65_mas,65_mas_distribucion_pct,total_15_mas,total_15_mas_distribucion_pct
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10964,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,609,5.554542137905874
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Normal,0,0,0,0,0,0,0,0,0,0,0,10964,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3830,34.932506384531194
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10964,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2751,25.09120758847136
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10964,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3774,34.42174388909157
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7602,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,326,4.288345172323073
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Normal,0,0,0,0,0,0,0,0,0,0,0,7602,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2418,31.80741910023678
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7602,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2153,28.32149434359379
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7602,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2705,35.582741383846354
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,3929,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,314,7.991855433952661
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Normal,0,0,0,0,0,0,0,0,0,0,0,3929,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1363,34.690761007890046
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Obesidad,0,0,0,0,0,0,0,0,0,0,0,3929,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,943,24.001018070755915
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,3929,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1309,33.31636548740137
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,9546,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,349,3.655981562958307
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Normal,0,0,0,0,0,0,0,0,0,0,0,9546,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2918,30.567777079404983
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Obesidad,0,0,0,0,0,0,0,0,0,0,0,9546,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2759,28.902157971925412
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,9546,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3520,36.874083385711295
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10125,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,578,5.708641975308642
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Normal,0,0,0,0,0,0,0,0,0,0,0,10125,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3683,36.37530864197531
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10125,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2468,24.37530864197531
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10125,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3396,33.540740740740745
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,456,4.466647076109315
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Normal,0,0,0,0,0,0,0,0,0,0,0,10209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2892,28.32794593006171
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3057,29.94416691154863
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3804,37.26124008228034
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,5255,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,231,4.39581351094196
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Normal,0,0,0,0,0,0,0,0,0,0,0,5255,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1709,32.52140818268316
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Obesidad,0,0,0,0,0,0,0,0,0,0,0,5255,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1571,29.895337773549002
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,5255,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1744,33.18744053282588
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,638,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,53,8.307210031347962
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Normal,0,0,0,0,0,0,0,0,0,0,0,638,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,191,29.93730407523511
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Obesidad,0,0,0,0,0,0,0,0,0,0,0,638,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,166,26.01880877742947
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,638,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,228,35.73667711598746
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,6481,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,431,6.650208301188089
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Normal,0,0,0,0,0,0,0,0,0,0,0,6481,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2151,33.189322635395776
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Obesidad,0,0,0,0,0,0,0,0,0,0,0,6481,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1700,26.230519981484342
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,6481,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2199,33.929949081931795
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10852,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,410,3.778105418356063
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Normal,0,0,0,0,0,0,0,0,0,0,0,10852,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3484,32.104681164762255
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10852,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2922,26.925912274235163
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10852,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4036,37.191301142646516
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,18341,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,622,3.391309088926449
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Normal,0,0,0,0,0,0,0,0,0,0,0,18341,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5364,29.24595169292841
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Obesidad,0,0,0,0,0,0,0,0,0,0,0,18341,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5578,30.41273649201243
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,18341,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6777,36.95000272613271
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7928,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,474,5.978809283551968
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,7928,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3042,38.370332996972756
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7928,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1755,22.13673057517659
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7928,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2657,33.51412714429869
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,9683,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,486,5.0191056490757
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Normal,0,0,0,0,0,0,0,0,0,0,0,9683,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3356,34.6586801611071
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Obesidad,0,0,0,0,0,0,0,0,0,0,0,9683,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2553,26.365795724465556
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,9683,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3288,33.956418465351646
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,274,3.8252128996230628
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Normal,0,0,0,0,0,0,0,0,0,0,0,7163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2152,30.043277956163617
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1917,26.762529666340917
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2820,39.3689794778724
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,1043,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,28,2.684563758389262
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Normal,0,0,0,0,0,0,0,0,0,0,0,1043,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,352,33.74880153403643
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Obesidad,0,0,0,0,0,0,0,0,0,0,0,1043,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,271,25.98274209012464
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,1043,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,392,37.58389261744966
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,595,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,27,4.53781512605042
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Normal,0,0,0,0,0,0,0,0,0,0,0,595,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,216,36.30252100840336
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Obesidad,0,0,0,0,0,0,0,0,0,0,0,595,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,145,24.369747899159663
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,595,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,207,34.78991596638655
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,1502,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,40,2.6631158455392807
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Normal,0,0,0,0,0,0,0,0,0,0,0,1502,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,556,37.017310252996005
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Obesidad,0,0,0,0,0,0,0,0,0,0,0,1502,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,407,27.097203728362185
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,1502,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,499,33.222370173102526
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,1189,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,23,1.9343986543313711
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Normal,0,0,0,0,0,0,0,0,0,0,0,1189,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,261,21.951219512195124
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Obesidad,0,0,0,0,0,0,0,0,0,0,0,1189,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,495,41.63162321278385
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,1189,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,410,34.48275862068966
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,4073,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,98,2.4060888779769214
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Normal,0,0,0,0,0,0,0,0,0,0,0,4073,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1288,31.62288239626811
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Obesidad,0,0,0,0,0,0,0,0,0,0,0,4073,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1159,28.455683771176037
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,4073,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1528,37.515344954578936
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2375,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,89,3.7473684210526317
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Normal,0,0,0,0,0,0,0,0,0,0,0,2375,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,713,30.021052631578947
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2375,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,645,27.157894736842103
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2375,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,928,39.07368421052632
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2487,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,105,4.2219541616405305
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Normal,0,0,0,0,0,0,0,0,0,0,0,2487,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,691,27.784479292320064
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2487,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,769,30.920788098110176
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2487,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,922,37.07277844792923
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,3817,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,170,4.453759496987162
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Normal,0,0,0,0,0,0,0,0,0,0,0,3817,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1124,29.447209850668067
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Obesidad,0,0,0,0,0,0,0,0,0,0,0,3817,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1144,29.971181556195965
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,3817,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1379,36.12784909614881
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,6028,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,323,5.358327803583278
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Normal,0,0,0,0,0,0,0,0,0,0,0,6028,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1776,29.462508294625085
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Obesidad,0,0,0,0,0,0,0,0,0,0,0,6028,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1649,27.355673523556735
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,6028,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2280,37.8234903782349
+2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,17662,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,894,5.061714415128525
+2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Normal,0,0,0,0,0,0,0,0,0,0,0,17662,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6267,35.482957762427816
+2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Obesidad,0,0,0,0,0,0,0,0,0,0,0,17662,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4174,23.63265768316159
+2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,17662,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6327,35.822670139282074
+2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2938,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,178,6.05854322668482
+2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Normal,0,0,0,0,0,0,0,0,0,0,0,2938,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1052,35.80667120490129
+2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2938,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,729,24.81279782164738
+2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2938,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,979,33.32198774676651
+2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,5560,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,238,4.280575539568345
+2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Normal,0,0,0,0,0,0,0,0,0,0,0,5560,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1786,32.12230215827338
+2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Obesidad,0,0,0,0,0,0,0,0,0,0,0,5560,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1432,25.755395683453237
+2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,5560,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2104,37.84172661870503
+2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,25783,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1151,4.464181825233681
+2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Normal,0,0,0,0,0,0,0,0,0,0,0,25783,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8677,33.653958034363725
+2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Obesidad,0,0,0,0,0,0,0,0,0,0,0,25783,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6678,25.900787340495672
+2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,25783,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,9277,35.98107279990692
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,3668,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,252,6.870229007633588
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Normal,0,0,0,0,0,0,0,0,0,0,0,3668,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1375,37.48636859323882
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Obesidad,0,0,0,0,0,0,0,0,0,0,0,3668,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,830,22.62813522355507
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,3668,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1211,33.01526717557252
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7326,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,592,8.080808080808081
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Normal,0,0,0,0,0,0,0,0,0,0,0,7326,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3010,41.08654108654108
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7326,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1280,17.472017472017473
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7326,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2444,33.360633360633365
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2523,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,135,5.35077288941736
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Normal,0,0,0,0,0,0,0,0,0,0,0,2523,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,909,36.02853745541022
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2523,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,611,24.217201743955606
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2523,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,868,34.40348791121681
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12460,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,516,4.141252006420546
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Normal,0,0,0,0,0,0,0,0,0,0,0,12460,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4589,36.829855537720704
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12460,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2903,23.298555377207062
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12460,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4452,35.73033707865169
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7794,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,530,6.8001026430587626
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Normal,0,0,0,0,0,0,0,0,0,0,0,7794,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3123,40.069284064665126
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7794,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1587,20.361816782140107
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7794,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2554,32.768796510136
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,18570,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1157,6.230479267635972
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Normal,0,0,0,0,0,0,0,0,0,0,0,18570,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5702,30.70543887991384
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Obesidad,0,0,0,0,0,0,0,0,0,0,0,18570,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5227,28.147549811523966
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,18570,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6484,34.91653204092622
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7539,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,490,6.499535747446611
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Normal,0,0,0,0,0,0,0,0,0,0,0,7539,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3352,44.462130256002126
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7539,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1330,17.64159702878366
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7539,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2367,31.39673696776761
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,1832,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,139,7.5873362445414845
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Normal,0,0,0,0,0,0,0,0,0,0,0,1832,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,717,39.13755458515284
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Obesidad,0,0,0,0,0,0,0,0,0,0,0,1832,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,339,18.504366812227076
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,1832,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,637,34.77074235807861
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,16305,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,970,5.9490953695185524
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Normal,0,0,0,0,0,0,0,0,0,0,0,16305,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4520,27.72155780435449
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Obesidad,0,0,0,0,0,0,0,0,0,0,0,16305,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4778,29.30389451088623
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,16305,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6037,37.02545231524073
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,6793,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,250,3.680259090239953
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Normal,0,0,0,0,0,0,0,0,0,0,0,6793,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2416,35.566023848078906
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Obesidad,0,0,0,0,0,0,0,0,0,0,0,6793,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1645,24.21610481377889
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,6793,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2482,36.53761224790225
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,5761,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,233,4.0444367297344215
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Normal,0,0,0,0,0,0,0,0,0,0,0,5761,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1715,29.76913730255164
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,5761,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1601,27.7903141815657
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,5761,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2212,38.39611178614824
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,11876,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,569,4.791175479959582
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Normal,0,0,0,0,0,0,0,0,0,0,0,11876,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4443,37.41158639272482
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Obesidad,0,0,0,0,0,0,0,0,0,0,0,11876,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2874,24.2000673627484
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,11876,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3990,33.597170764567196
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8786,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,544,6.191668563623947
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Normal,0,0,0,0,0,0,0,0,0,0,0,8786,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3061,34.839517414067835
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8786,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2001,22.774869109947645
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8786,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3180,36.19394491236058
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8624,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,426,4.9397031539888685
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Normal,0,0,0,0,0,0,0,0,0,0,0,8624,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3113,36.0969387755102
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8624,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2055,23.828849721706867
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8624,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3030,35.134508348794064
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,18152,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,626,3.448655795504628
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Normal,0,0,0,0,0,0,0,0,0,0,0,18152,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5615,30.933230498016744
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,18152,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5328,29.352137505509035
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,18152,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6583,36.26597620096959
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,238,2.89925691314411
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Normal,0,0,0,0,0,0,0,0,0,0,0,8209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2654,32.3303691070776
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2341,28.517480813741013
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2976,36.252893166037275
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2003,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,95,4.742885671492761
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Normal,0,0,0,0,0,0,0,0,0,0,0,2003,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,553,27.608587119321022
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2003,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,652,32.55117324013979
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2003,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,703,35.09735396904643
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7123,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,306,4.295942720763723
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Normal,0,0,0,0,0,0,0,0,0,0,0,7123,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2073,29.102906078899338
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7123,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2102,29.510037905376947
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7123,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2642,37.09111329495999
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,18523,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,990,5.344706581007396
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Normal,0,0,0,0,0,0,0,0,0,0,0,18523,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7035,37.97980888624953
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Obesidad,0,0,0,0,0,0,0,0,0,0,0,18523,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4320,23.322355989850458
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,18523,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6178,33.35312854289262
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8318,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,347,4.171675883625872
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Normal,0,0,0,0,0,0,0,0,0,0,0,8318,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2785,33.4816061553258
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8318,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2179,26.19620100985814
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8318,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3007,36.15051695119019
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,9958,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,388,3.89636473187387
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Normal,0,0,0,0,0,0,0,0,0,0,0,9958,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3294,33.07893151235188
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Obesidad,0,0,0,0,0,0,0,0,0,0,0,9958,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2942,29.54408515766218
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,9958,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3334,33.48061859811207
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,6262,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,263,4.199936122644522
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Normal,0,0,0,0,0,0,0,0,0,0,0,6262,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2117,33.807090386458
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Obesidad,0,0,0,0,0,0,0,0,0,0,0,6262,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1693,27.036090705844778
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,6262,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2189,34.9568827850527
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,21845,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1287,5.891508354314488
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Normal,0,0,0,0,0,0,0,0,0,0,0,21845,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6920,31.67772945754177
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Obesidad,0,0,0,0,0,0,0,0,0,0,0,21845,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5918,27.090867475394827
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,21845,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7720,35.339894712748915
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2171,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,101,4.652233993551358
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Normal,0,0,0,0,0,0,0,0,0,0,0,2171,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,748,34.454168585905116
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2171,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,539,24.827268539843388
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2171,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,783,36.06632888070014
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,117,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,15,12.82051282051282
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Normal,0,0,0,0,0,0,0,0,0,0,0,117,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,37,31.62393162393162
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,117,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,22,18.803418803418804
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,117,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,43,36.75213675213676
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,15689,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,775,4.939766715533176
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Normal,0,0,0,0,0,0,0,0,0,0,0,15689,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4800,30.59468417362483
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Obesidad,0,0,0,0,0,0,0,0,0,0,0,15689,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4362,27.802919242781567
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,15689,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5752,36.66262986806043
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8243,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,418,5.070969307291035
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Normal,0,0,0,0,0,0,0,0,0,0,0,8243,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2450,29.722188523595776
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8243,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2366,28.703142059929636
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8243,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3009,36.50370010918355
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,5298,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,403,7.606644016610041
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Normal,0,0,0,0,0,0,0,0,0,0,0,5298,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1776,33.52208380520951
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Obesidad,0,0,0,0,0,0,0,0,0,0,0,5298,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1363,25.726689316723288
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,5298,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1756,33.14458286145715
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12706,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,523,4.1161655910593415
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Normal,0,0,0,0,0,0,0,0,0,0,0,12706,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3765,29.631670077128913
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12706,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3912,30.788603809223993
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12706,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4506,35.463560522587755
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,9463,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,612,6.4672936700834835
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Normal,0,0,0,0,0,0,0,0,0,0,0,9463,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3466,36.62686251717214
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Obesidad,0,0,0,0,0,0,0,0,0,0,0,9463,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2265,23.935327063299162
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,9463,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3120,32.9705167494452
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12966,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,605,4.666049668363412
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Normal,0,0,0,0,0,0,0,0,0,0,0,12966,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3644,28.10427271325004
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12966,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3813,29.40768162887552
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12966,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4904,37.82199598951103
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7486,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,345,4.608602725086828
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Normal,0,0,0,0,0,0,0,0,0,0,0,7486,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2504,33.44910499599252
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7486,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2157,28.813785733368956
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7486,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2480,33.128506545551694
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,891,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,58,6.509539842873176
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Normal,0,0,0,0,0,0,0,0,0,0,0,891,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,227,25.476992143658812
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Obesidad,0,0,0,0,0,0,0,0,0,0,0,891,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,261,29.292929292929294
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,891,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,345,38.72053872053872
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,9456,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,583,6.165397631133672
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Normal,0,0,0,0,0,0,0,0,0,0,0,9456,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2845,30.08671742808799
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Obesidad,0,0,0,0,0,0,0,0,0,0,0,9456,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2796,29.56852791878173
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,9456,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3232,34.179357021996616
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,13433,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,517,3.8487307377354276
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Normal,0,0,0,0,0,0,0,0,0,0,0,13433,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3924,29.21164296880816
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Obesidad,0,0,0,0,0,0,0,0,0,0,0,13433,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4112,30.611181418893768
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,13433,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4880,36.32844487456264
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,23279,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,781,3.354955109755574
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Normal,0,0,0,0,0,0,0,0,0,0,0,23279,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6567,28.2099746552687
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Obesidad,0,0,0,0,0,0,0,0,0,0,0,23279,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7270,31.22986382576571
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,23279,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8661,37.20520640921002
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10468,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,687,6.562858234619793
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,10468,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3981,38.03018723729461
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10468,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2293,21.9048528849828
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10468,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3507,33.50210164310279
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,11596,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,603,5.200068989306658
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Normal,0,0,0,0,0,0,0,0,0,0,0,11596,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3896,33.59779234218696
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Obesidad,0,0,0,0,0,0,0,0,0,0,0,11596,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3068,26.45739910313901
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,11596,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4029,34.74473956536737
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,9830,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,410,4.170905391658189
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Normal,0,0,0,0,0,0,0,0,0,0,0,9830,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2950,30.010172939979658
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Obesidad,0,0,0,0,0,0,0,0,0,0,0,9830,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2650,26.95829094608342
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,9830,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3820,38.860630722278735
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,1243,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,54,4.3443282381335475
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Normal,0,0,0,0,0,0,0,0,0,0,0,1243,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,367,29.525341914722446
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Obesidad,0,0,0,0,0,0,0,0,0,0,0,1243,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,372,29.92759452936444
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,1243,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,450,36.20273531777956
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,908,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,44,4.845814977973569
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Normal,0,0,0,0,0,0,0,0,0,0,0,908,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,276,30.396475770925107
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Obesidad,0,0,0,0,0,0,0,0,0,0,0,908,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,258,28.41409691629956
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,908,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,330,36.34361233480176
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,1181,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,67,5.6731583403895005
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Normal,0,0,0,0,0,0,0,0,0,0,0,1181,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,398,33.700254022015244
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Obesidad,0,0,0,0,0,0,0,0,0,0,0,1181,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,318,26.926333615580017
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,1181,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,398,33.700254022015244
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,1517,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,47,3.0982201713909028
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Normal,0,0,0,0,0,0,0,0,0,0,0,1517,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,535,35.266974291364534
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Obesidad,0,0,0,0,0,0,0,0,0,0,0,1517,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,444,29.268292682926827
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,1517,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,491,32.36651285431773
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,5594,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,178,3.181980693600286
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Normal,0,0,0,0,0,0,0,0,0,0,0,5594,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1713,30.622095101894885
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Obesidad,0,0,0,0,0,0,0,0,0,0,0,5594,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1614,28.852341794780124
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,5594,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2089,37.3435824097247
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,3265,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,222,6.7993874425727405
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Normal,0,0,0,0,0,0,0,0,0,0,0,3265,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,989,30.29096477794793
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Obesidad,0,0,0,0,0,0,0,0,0,0,0,3265,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,883,27.04441041347626
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,3265,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1171,35.86523736600306
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,3177,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,100,3.147623544224111
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Normal,0,0,0,0,0,0,0,0,0,0,0,3177,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,959,30.18570978910922
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,3177,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,954,30.02832861189802
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,3177,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1164,36.638338054768646
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,4752,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,220,4.62962962962963
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Normal,0,0,0,0,0,0,0,0,0,0,0,4752,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1410,29.67171717171717
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Obesidad,0,0,0,0,0,0,0,0,0,0,0,4752,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1473,30.997474747474747
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,4752,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1649,34.70117845117845
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8211,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,330,4.01899890390939
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Normal,0,0,0,0,0,0,0,0,0,0,0,8211,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2397,29.19254658385093
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8211,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2327,28.34003166483985
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8211,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3157,38.448422847399826
+2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,21126,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,985,4.662501183375935
+2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Normal,0,0,0,0,0,0,0,0,0,0,0,21126,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7521,35.60068162453848
+2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Obesidad,0,0,0,0,0,0,0,0,0,0,0,21126,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5209,24.656820978888575
+2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,21126,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7411,35.079996213197006
+2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,5092,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,176,3.456402199528672
+2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Normal,0,0,0,0,0,0,0,0,0,0,0,5092,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1670,32.79654359780047
+2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Obesidad,0,0,0,0,0,0,0,0,0,0,0,5092,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1383,27.160251374705418
+2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,5092,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1863,36.586802827965435
+2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,6812,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,358,5.2554315913094545
+2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Normal,0,0,0,0,0,0,0,0,0,0,0,6812,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2111,30.989430416911333
+2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Obesidad,0,0,0,0,0,0,0,0,0,0,0,6812,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1934,28.391074574280683
+2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,6812,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2409,35.36406341749853
+2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,32221,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1253,3.888768194655659
+2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Normal,0,0,0,0,0,0,0,0,0,0,0,32221,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,10359,32.14984016635114
+2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Obesidad,0,0,0,0,0,0,0,0,0,0,0,32221,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8603,26.699978275038017
+2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,32221,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,12006,37.261413363955185
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,4978,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,283,5.685014061872238
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Normal,0,0,0,0,0,0,0,0,0,0,0,4978,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1752,35.19485737243873
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Obesidad,0,0,0,0,0,0,0,0,0,0,0,4978,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1135,22.80032141422258
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,4978,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1808,36.319807151466456
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8977,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,680,7.57491366826334
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Normal,0,0,0,0,0,0,0,0,0,0,0,8977,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3658,40.7485797036872
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8977,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1659,18.480561434777766
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8977,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2980,33.19594519327169
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,3561,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,199,5.588317888233642
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Normal,0,0,0,0,0,0,0,0,0,0,0,3561,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1104,31.002527379949452
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Obesidad,0,0,0,0,0,0,0,0,0,0,0,3561,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,975,27.379949452401007
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,3561,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1283,36.02920527941589
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,14757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,671,4.546994646608389
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Normal,0,0,0,0,0,0,0,0,0,0,0,14757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5065,34.32269431456258
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Obesidad,0,0,0,0,0,0,0,0,0,0,0,14757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3757,25.459104153960833
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,14757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5264,35.6712068848682
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,9970,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,654,6.559679037111334
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Normal,0,0,0,0,0,0,0,0,0,0,0,9970,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3843,38.54563691073219
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Obesidad,0,0,0,0,0,0,0,0,0,0,0,9970,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1967,19.729187562688065
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,9970,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3506,35.16549648946841
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,23608,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1057,4.477295831921382
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Normal,0,0,0,0,0,0,0,0,0,0,0,23608,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7005,29.67214503558116
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Obesidad,0,0,0,0,0,0,0,0,0,0,0,23608,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6818,28.88004066418163
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,23608,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8728,36.97051846831583
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8378,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,509,6.075435664836477
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Normal,0,0,0,0,0,0,0,0,0,0,0,8378,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3391,40.475053712103126
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8378,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1649,19.682501790403435
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8378,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2829,33.767008832656956
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2296,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,135,5.879790940766551
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Normal,0,0,0,0,0,0,0,0,0,0,0,2296,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,938,40.853658536585364
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2296,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,408,17.770034843205575
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2296,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,815,35.49651567944251
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,21144,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,984,4.6538024971623155
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Normal,0,0,0,0,0,0,0,0,0,0,0,21144,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5913,27.965380249716233
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Obesidad,0,0,0,0,0,0,0,0,0,0,0,21144,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6236,29.493000378357927
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,21144,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8011,37.88781687476352
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8859,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,413,4.661925725251157
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Normal,0,0,0,0,0,0,0,0,0,0,0,8859,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3202,36.14403431538548
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8859,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2184,24.652895360650188
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8859,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3060,34.541144598713174
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7880,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,339,4.302030456852792
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Normal,0,0,0,0,0,0,0,0,0,0,0,7880,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2549,32.34771573604061
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7880,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2238,28.401015228426395
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7880,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2754,34.9492385786802
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,15689,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,641,4.08566511568615
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Normal,0,0,0,0,0,0,0,0,0,0,0,15689,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5458,34.78870546242591
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Obesidad,0,0,0,0,0,0,0,0,0,0,0,15689,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3992,25.444579004397987
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,15689,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5598,35.68105041748996
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10277,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,682,6.636177872920113
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Normal,0,0,0,0,0,0,0,0,0,0,0,10277,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3516,34.21231877006909
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10277,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2441,23.752067724043982
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10277,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3638,35.39943563296682
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10892,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,558,5.123026074182886
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Normal,0,0,0,0,0,0,0,0,0,0,0,10892,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3713,34.089239809034154
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10892,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2723,25.0
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10892,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3898,35.78773411678296
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,24102,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,802,3.3275246867479873
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Normal,0,0,0,0,0,0,0,0,0,0,0,24102,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6889,28.582690233175672
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,24102,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7202,29.88133764832794
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,24102,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,9209,38.208447431748404
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,11289,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,424,3.755868544600939
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Normal,0,0,0,0,0,0,0,0,0,0,0,11289,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3221,28.53219948622553
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Obesidad,0,0,0,0,0,0,0,0,0,0,0,11289,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3234,28.647355833111877
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,11289,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4410,39.06457613606165
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2678,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,68,2.539208364451083
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Normal,0,0,0,0,0,0,0,0,0,0,0,2678,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,702,26.21359223300971
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2678,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,889,33.196415235250186
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2678,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1019,38.050784167289024
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,11192,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,330,2.9485346676197284
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Normal,0,0,0,0,0,0,0,0,0,0,0,11192,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3081,27.52859185132237
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Obesidad,0,0,0,0,0,0,0,0,0,0,0,11192,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3457,30.888134381701214
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,11192,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4324,38.634739099356686
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,25972,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1357,5.224857538888033
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Normal,0,0,0,0,0,0,0,0,0,0,0,25972,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,9144,35.207146157400274
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Obesidad,0,0,0,0,0,0,0,0,0,0,0,25972,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6547,25.20791621746496
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,25972,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8924,34.360080086246725
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10137,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,443,4.370129229555095
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Normal,0,0,0,0,0,0,0,0,0,0,0,10137,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3497,34.497385814343495
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10137,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2755,27.17766597612706
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10137,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3442,33.95481897997435
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,634,4.969820490710982
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Normal,0,0,0,0,0,0,0,0,0,0,0,12757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4012,31.449400329231008
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3700,29.003684251783334
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4411,34.57709492827467
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8837,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,372,4.209573384632794
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Normal,0,0,0,0,0,0,0,0,0,0,0,8837,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2919,33.03157180038475
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8837,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2400,27.158537965372865
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8837,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3146,35.6003168496096
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,22130,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1226,5.539990962494352
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Normal,0,0,0,0,0,0,0,0,0,0,0,22130,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6896,31.161319475824673
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Obesidad,0,0,0,0,0,0,0,0,0,0,0,22130,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6380,28.829643018526884
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,22130,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7628,34.46904654315409
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2518,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,123,4.88482922954726
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Normal,0,0,0,0,0,0,0,0,0,0,0,2518,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,873,34.670373312152506
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2518,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,581,23.07386814932486
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2518,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,941,37.37092930897538
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,180,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,11,6.111111111111111
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Normal,0,0,0,0,0,0,0,0,0,0,0,180,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,69,38.333333333333336
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,180,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,37,20.555555555555554
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,180,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,63,35.0
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,20609,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1006,4.881362511524092
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Normal,0,0,0,0,0,0,0,0,0,0,0,20609,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5783,28.060556067737398
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Obesidad,0,0,0,0,0,0,0,0,0,0,0,20609,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6466,31.37464214663497
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,20609,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7354,35.68343927410355
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12756,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,483,3.786453433678269
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Normal,0,0,0,0,0,0,0,0,0,0,0,12756,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3455,27.085293195359046
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12756,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4421,34.65820006271558
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12756,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4397,34.4700533082471
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,7591,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,486,6.402318535107364
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Normal,0,0,0,0,0,0,0,0,0,0,0,7591,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2393,31.524173363193253
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Obesidad,0,0,0,0,0,0,0,0,0,0,0,7591,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2180,28.718218943485706
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,7591,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2532,33.35528915821367
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,18535,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,485,2.616671162665228
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Normal,0,0,0,0,0,0,0,0,0,0,0,18535,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4540,24.494200161855947
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Obesidad,0,0,0,0,0,0,0,0,0,0,0,18535,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6777,36.56325869975722
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,18535,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6733,36.32586997572161
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,16561,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,723,4.365678401062738
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Normal,0,0,0,0,0,0,0,0,0,0,0,16561,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6113,36.91202222088038
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Obesidad,0,0,0,0,0,0,0,0,0,0,0,16561,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4635,27.987440371958215
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,16561,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5090,30.734859006098663
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,13919,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,604,4.339392197715354
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Normal,0,0,0,0,0,0,0,0,0,0,0,13919,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3771,27.092463539047344
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Obesidad,0,0,0,0,0,0,0,0,0,0,0,13919,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4501,32.337093181981466
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,13919,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5043,36.23105108125584
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12103,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,397,3.280178468148393
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Normal,0,0,0,0,0,0,0,0,0,0,0,12103,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3240,26.770222258944067
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12103,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4230,34.950012393621414
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12103,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4236,34.99958687928613
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,1172,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,54,4.607508532423208
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Normal,0,0,0,0,0,0,0,0,0,0,0,1172,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,300,25.597269624573375
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Obesidad,0,0,0,0,0,0,0,0,0,0,0,1172,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,368,31.399317406143346
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,1172,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,450,38.395904436860064
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,14907,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,777,5.212316361440934
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Normal,0,0,0,0,0,0,0,0,0,0,0,14907,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4112,27.584356342657813
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Obesidad,0,0,0,0,0,0,0,0,0,0,0,14907,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4944,33.165626886697524
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,14907,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5074,34.03770040920373
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,19292,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,585,3.032345013477089
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Normal,0,0,0,0,0,0,0,0,0,0,0,19292,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4755,24.647522289031723
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Obesidad,0,0,0,0,0,0,0,0,0,0,0,19292,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6792,35.20630313083144
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,19292,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7160,37.11382956665975
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,36447,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,980,2.6888358438280244
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Normal,0,0,0,0,0,0,0,0,0,0,0,36447,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8816,24.18854775427333
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Obesidad,0,0,0,0,0,0,0,0,0,0,0,36447,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,12718,34.89450434878042
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,36447,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,13933,38.228112053118224
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,14760,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,644,4.363143631436314
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,14760,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5064,34.30894308943089
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Obesidad,0,0,0,0,0,0,0,0,0,0,0,14760,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3985,26.998644986449865
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,14760,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5067,34.32926829268293
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,17650,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,667,3.7790368271954673
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Normal,0,0,0,0,0,0,0,0,0,0,0,17650,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4991,28.277620396600568
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Obesidad,0,0,0,0,0,0,0,0,0,0,0,17650,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5951,33.71671388101983
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,17650,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6041,34.226628895184135
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,13133,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,500,3.807203228508338
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Normal,0,0,0,0,0,0,0,0,0,0,0,13133,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3777,28.759613188151985
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Obesidad,0,0,0,0,0,0,0,0,0,0,0,13133,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4112,31.310439351252572
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,13133,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4744,36.12274423208711
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,1846,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,52,2.8169014084507045
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Normal,0,0,0,0,0,0,0,0,0,0,0,1846,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,526,28.494041170097507
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Obesidad,0,0,0,0,0,0,0,0,0,0,0,1846,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,631,34.182015167930665
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,1846,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,637,34.50704225352113
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,964,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,62,6.431535269709543
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Normal,0,0,0,0,0,0,0,0,0,0,0,964,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,255,26.45228215767635
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Obesidad,0,0,0,0,0,0,0,0,0,0,0,964,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,274,28.42323651452282
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,964,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,373,38.69294605809129
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2475,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,71,2.868686868686869
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Normal,0,0,0,0,0,0,0,0,0,0,0,2475,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,622,25.13131313131313
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2475,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,927,37.45454545454546
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2475,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,855,34.54545454545455
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,2450,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,61,2.489795918367347
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Normal,0,0,0,0,0,0,0,0,0,0,0,2450,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,573,23.387755102040817
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Obesidad,0,0,0,0,0,0,0,0,0,0,0,2450,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,904,36.897959183673464
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,2450,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,912,37.22448979591837
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10171,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,278,2.7332612329171173
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Normal,0,0,0,0,0,0,0,0,0,0,0,10171,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2913,28.640251695998426
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10171,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3216,31.619309802379313
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10171,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3764,37.00717726870514
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,4409,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,163,3.696983442957587
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Normal,0,0,0,0,0,0,0,0,0,0,0,4409,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1101,24.97164889997732
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Obesidad,0,0,0,0,0,0,0,0,0,0,0,4409,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1602,36.33476978906781
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,4409,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1543,34.996597867997274
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,5142,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,182,3.5394788020225594
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Normal,0,0,0,0,0,0,0,0,0,0,0,5142,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1368,26.60443407234539
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,5142,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1806,35.12252042007001
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,5142,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1786,34.73356670556203
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8733,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,209,2.3932211153097445
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Normal,0,0,0,0,0,0,0,0,0,0,0,8733,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2184,25.008588114050156
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8733,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3115,35.669300354975384
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8733,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3225,36.928890415664725
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12531,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,403,3.2160242598356077
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Normal,0,0,0,0,0,0,0,0,0,0,0,12531,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3015,24.060330380655973
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12531,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4497,35.88700023940628
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12531,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4616,36.83664512010215
+2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,29997,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1432,4.773810714404774
+2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Normal,0,0,0,0,0,0,0,0,0,0,0,29997,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,10023,33.41334133413341
+2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Obesidad,0,0,0,0,0,0,0,0,0,0,0,29997,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8100,27.002700270027002
+2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,29997,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,10442,34.81014768143481
+2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,8875,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,256,2.8845070422535213
+2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Normal,0,0,0,0,0,0,0,0,0,0,0,8875,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2329,26.242253521126763
+2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Obesidad,0,0,0,0,0,0,0,0,0,0,0,8875,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3010,33.91549295774648
+2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,8875,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3280,36.95774647887324
+2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10111,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,452,4.470378795371378
+2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Normal,0,0,0,0,0,0,0,0,0,0,0,10111,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2981,29.482741568588665
+2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10111,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3084,30.50143408169321
+2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10111,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3594,35.54544555434675
+2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,42820,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1514,3.5357309668379266
+2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Normal,0,0,0,0,0,0,0,0,0,0,0,42820,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,11691,27.30266230733302
+2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Obesidad,0,0,0,0,0,0,0,0,0,0,0,42820,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,13980,32.64829518916394
+2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,42820,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,15635,36.513311536665114
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,6693,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,319,4.766173614223816
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Normal,0,0,0,0,0,0,0,0,0,0,0,6693,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1985,29.657851486627816
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Obesidad,0,0,0,0,0,0,0,0,0,0,0,6693,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2094,31.28641864634693
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,6693,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2295,34.28955625280143
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,11198,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,710,6.340417931773532
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Normal,0,0,0,0,0,0,0,0,0,0,0,11198,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3924,35.04197178067512
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Obesidad,0,0,0,0,0,0,0,0,0,0,0,11198,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2712,24.21861046615467
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,11198,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3852,34.39899982139668
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,4257,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,175,4.11087620389946
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Normal,0,0,0,0,0,0,0,0,0,0,0,4257,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1171,27.507634484378666
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Obesidad,0,0,0,0,0,0,0,0,0,0,0,4257,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1377,32.346723044397464
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,4257,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1534,36.03476626732441
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,18456,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,739,4.004117902037278
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Normal,0,0,0,0,0,0,0,0,0,0,0,18456,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5316,28.803641092327698
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Obesidad,0,0,0,0,0,0,0,0,0,0,0,18456,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5599,30.337017771998266
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,18456,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6802,36.85522323363676
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,14163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,748,5.281366942032055
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Normal,0,0,0,0,0,0,0,0,0,0,0,14163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4398,31.052743062910398
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Obesidad,0,0,0,0,0,0,0,0,0,0,0,14163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3997,28.22142201510979
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,14163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5020,35.44446797994775
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,30718,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,891,2.900579464808907
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Normal,0,0,0,0,0,0,0,0,0,0,0,30718,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8234,26.805130542353016
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Obesidad,0,0,0,0,0,0,0,0,0,0,0,30718,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,10577,34.43258024610977
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,30718,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,11016,35.8617097467283
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,10163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,561,5.520023615074289
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Normal,0,0,0,0,0,0,0,0,0,0,0,10163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3488,34.320574633474365
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Obesidad,0,0,0,0,0,0,0,0,0,0,0,10163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2364,23.26084817475155
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,10163,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3750,36.8985535766998
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,3297,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,172,5.216863815589931
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Normal,0,0,0,0,0,0,0,0,0,0,0,3297,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1220,37.00333636639369
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Obesidad,0,0,0,0,0,0,0,0,0,0,0,3297,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,725,21.989687594783135
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,3297,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1180,35.790112223233244
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,29485,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1217,4.12752246905206
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Normal,0,0,0,0,0,0,0,0,0,0,0,29485,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6606,22.404612514838053
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Obesidad,0,0,0,0,0,0,0,0,0,0,0,29485,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,10714,36.33712056978125
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,29485,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,10948,37.13074444632864
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12692,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,519,4.08919004097069
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Normal,0,0,0,0,0,0,0,0,0,0,0,12692,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3652,28.77403088559723
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12692,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3914,30.83832335329341
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12692,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4607,36.29845572013867
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12892,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,449,3.482780018616196
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Normal,0,0,0,0,0,0,0,0,0,0,0,12892,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3367,26.11697176543593
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12892,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4493,34.85107043127521
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12892,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4583,35.549177784672665
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,21271,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,901,4.2358140190870195
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Normal,0,0,0,0,0,0,0,0,0,0,0,21271,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6171,29.011329979784684
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Obesidad,0,0,0,0,0,0,0,0,0,0,0,21271,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6663,31.324338300973153
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,21271,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,7536,35.42851770015514
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,14680,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,663,4.516348773841962
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Normal,0,0,0,0,0,0,0,0,0,0,0,14680,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4295,29.257493188010898
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Obesidad,0,0,0,0,0,0,0,0,0,0,0,14680,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4517,30.76975476839237
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,14680,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5205,35.456403269754766
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,15356,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,717,4.6691846835113315
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Normal,0,0,0,0,0,0,0,0,0,0,0,15356,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4528,29.486845532690804
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Obesidad,0,0,0,0,0,0,0,0,0,0,0,15356,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4688,30.528783537379528
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,15356,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5423,35.31518624641834
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,34049,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1043,3.063232400364181
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Normal,0,0,0,0,0,0,0,0,0,0,0,34049,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8734,25.65126729125672
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,34049,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,12091,35.51058768245763
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,34049,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,12181,35.774912625921466
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,14626,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,406,2.7758785724053054
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Normal,0,0,0,0,0,0,0,0,0,0,0,14626,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3797,25.96061807739642
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Obesidad,0,0,0,0,0,0,0,0,0,0,0,14626,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5012,34.26774237658963
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,14626,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5411,36.99576097360865
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,3910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,94,2.4040920716112533
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Normal,0,0,0,0,0,0,0,0,0,0,0,3910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,912,23.324808184143222
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Obesidad,0,0,0,0,0,0,0,0,0,0,0,3910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1522,38.925831202046034
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,3910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1382,35.345268542199484
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,15065,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,362,2.402920677066047
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Normal,0,0,0,0,0,0,0,0,0,0,0,15065,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3632,24.108861599734485
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Obesidad,0,0,0,0,0,0,0,0,0,0,0,15065,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5593,37.12578825091271
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,15065,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5478,36.362429472286756
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,38899,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1639,4.2134759248309726
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Normal,0,0,0,0,0,0,0,0,0,0,0,38899,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,11103,28.543150209516956
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Obesidad,0,0,0,0,0,0,0,0,0,0,0,38899,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,12131,31.185891668166278
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,38899,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,14026,36.0574821974858
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,14757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,527,3.571186555532967
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Normal,0,0,0,0,0,0,0,0,0,0,0,14757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3891,26.367147794267126
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Obesidad,0,0,0,0,0,0,0,0,0,0,0,14757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5087,34.47177610625466
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,14757,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5252,35.58988954394525
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,18545,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,751,4.049609059045565
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Normal,0,0,0,0,0,0,0,0,0,0,0,18545,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4914,26.497708277163657
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Obesidad,0,0,0,0,0,0,0,0,0,0,0,18545,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6738,36.333243461849555
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,18545,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6142,33.119439201941226
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,12706,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,592,4.659216118369274
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Normal,0,0,0,0,0,0,0,0,0,0,0,12706,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3561,28.026129387690858
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Obesidad,0,0,0,0,0,0,0,0,0,0,0,12706,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3967,31.221470171572484
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,12706,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4586,36.093184322367385
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,25838,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1071,4.14505766700209
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Normal,0,0,0,0,0,0,0,0,0,0,0,25838,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6930,26.820961374719403
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Obesidad,0,0,0,0,0,0,0,0,0,0,0,25838,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8856,34.275098691849216
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,25838,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,8981,34.75888226642929
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,4536,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,178,3.9241622574955906
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Normal,0,0,0,0,0,0,0,0,0,0,0,4536,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1287,28.373015873015873
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Obesidad,0,0,0,0,0,0,0,0,0,0,0,4536,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1405,30.974426807760143
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,4536,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,1666,36.7283950617284
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,9,4.30622009569378
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Normal,0,0,0,0,0,0,0,0,0,0,0,209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,72,34.44976076555024
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Obesidad,0,0,0,0,0,0,0,0,0,0,0,209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,58,27.751196172248804
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,209,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,70,33.49282296650718

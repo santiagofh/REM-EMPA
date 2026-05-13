@@ -16,6 +16,7 @@ OUTPUT_DIR = ROOT / "output"
 CONFIG_PATH = DATA_DIR / "diccionario_rem_empa_2023_2025.json"
 
 NUMERADOR_COBERTURA = OUTPUT_DIR / "numerador_empa_cobertura_establecimiento_2023_2025.csv"
+NUMERADOR_IAAPS = OUTPUT_DIR / "numerador_empa_iaaps_establecimiento_2023_2025.csv"
 NUMERADOR_PROFESIONAL = OUTPUT_DIR / "numerador_empa_profesional_establecimiento_2023_2025.csv"
 NUMERADOR_RIESGO = OUTPUT_DIR / "numerador_empa_factores_riesgo_establecimiento_2023_2025.csv"
 NUMERADOR_NUTRICION = OUTPUT_DIR / "numerador_empa_estado_nutricional_establecimiento_2023_2025.csv"
@@ -23,9 +24,35 @@ DENOMINADOR = OUTPUT_DIR / "denominador_empa_establecimiento_2023_2025.csv"
 DENOMINADOR_SEXO = OUTPUT_DIR / "denominador_empa_establecimiento_sexo_2023_2025.csv"
 
 
-AGE_COLS = ["15_24", "25_34", "35_44", "45_54", "55_64", "65_mas", "total_15_mas"]
+AGE_COLS = [
+    "15_19",
+    "20_24",
+    "25_29",
+    "30_34",
+    "35_39",
+    "40_44",
+    "45_49",
+    "50_54",
+    "55_59",
+    "60_64",
+    "65_mas",
+    "total_15_mas",
+]
 
 SEX_COLS = ["hombres", "mujeres"]
+
+
+def code_text(series: pd.Series) -> pd.Series:
+    return (
+        series.astype(str)
+        .str.replace(r"\.0$", "", regex=True)
+        .str.strip()
+        .replace({"nan": "", "None": ""})
+    )
+
+
+def to_int_series(series: pd.Series) -> pd.Series:
+    return pd.to_numeric(series, errors="coerce").fillna(0).astype("int64")
 
 
 def load_config() -> dict:
@@ -64,9 +91,48 @@ def format_excel(path: Path) -> None:
     wb.save(path)
 
 
-def load_inputs() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+def build_master_lookup(master_path: Path) -> pd.DataFrame:
+    cols = [
+        "EstablecimientoCodigoAntiguo",
+        "EstablecimientoCodigo",
+        "EstablecimientoCodigoMadreNuevo",
+        "RegionCodigo",
+        "SeremiSaludCodigo_ServicioDeSaludCodigo",
+        "SeremiSaludGlosa_ServicioDeSaludGlosa",
+        "TipoEstablecimientoGlosa",
+        "EstablecimientoGlosa",
+        "DependenciaAdministrativa",
+        "NivelAtencionEstabglosa",
+        "ComunaCodigo",
+        "ComunaGlosa",
+        "EstadoFuncionamiento",
+    ]
+    master = pd.read_csv(master_path, sep=";", dtype=str, usecols=cols)
+    for col in [
+        "EstablecimientoCodigoAntiguo",
+        "EstablecimientoCodigo",
+        "EstablecimientoCodigoMadreNuevo",
+        "RegionCodigo",
+        "SeremiSaludCodigo_ServicioDeSaludCodigo",
+        "ComunaCodigo",
+    ]:
+        master[col] = code_text(master[col])
+
+    current_codes = master.assign(IdEstablecimiento_lookup=master["EstablecimientoCodigo"])
+    old_codes = master.assign(IdEstablecimiento_lookup=master["EstablecimientoCodigoAntiguo"])
+    lookup = pd.concat([current_codes, old_codes], ignore_index=True)
+    lookup = lookup[lookup["IdEstablecimiento_lookup"].ne("")]
+    lookup = lookup.drop_duplicates("IdEstablecimiento_lookup")
+    lookup["es_aps"] = (
+        lookup["NivelAtencionEstabglosa"].fillna("").str.contains("Primario", case=False, na=False)
+    )
+    return lookup
+
+
+def load_inputs() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     required = [
         NUMERADOR_COBERTURA,
+        NUMERADOR_IAAPS,
         NUMERADOR_PROFESIONAL,
         NUMERADOR_RIESGO,
         NUMERADOR_NUTRICION,
@@ -79,12 +145,93 @@ def load_inputs() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFram
 
     return (
         pd.read_csv(NUMERADOR_COBERTURA),
+        pd.read_csv(NUMERADOR_IAAPS),
         pd.read_csv(NUMERADOR_PROFESIONAL),
         pd.read_csv(NUMERADOR_RIESGO),
         pd.read_csv(NUMERADOR_NUTRICION),
         pd.read_csv(DENOMINADOR),
         pd.read_csv(DENOMINADOR_SEXO),
     )
+
+
+def load_gestantes_control(config: dict) -> pd.DataFrame:
+    rem_p_cfg = config["rem_p"]["gestantes_control_20_54"]
+    valid_codes = set(rem_p_cfg["codigos"])
+    value_col = rem_p_cfg["columna_total"]
+    region_code = str(config["region_objetivo"])
+    usecols = [
+        "Mes",
+        "IdServicio",
+        "Ano",
+        "IdEstablecimiento",
+        "CodigoPrestacion",
+        "IdRegion",
+        "IdComuna",
+        value_col,
+    ]
+    frames = []
+    for year, raw_path in config["input_paths"]["series_p"].items():
+        env_var = f"SERIE_P_{year}_PATH"
+        serie_path = Path(os.environ.get(env_var, raw_path))
+        if not serie_path.exists():
+            continue
+        chunks = []
+        for chunk in pd.read_csv(
+            serie_path,
+            sep=";",
+            dtype=str,
+            usecols=usecols,
+            chunksize=250_000,
+            encoding="utf-8-sig",
+        ):
+            filtered = chunk[
+                chunk["CodigoPrestacion"].isin(valid_codes)
+                & chunk["IdRegion"].astype(str).str.strip().eq(region_code)
+            ].copy()
+            if not filtered.empty:
+                filtered["Ano"] = year
+                chunks.append(filtered)
+        if chunks:
+            year_df = pd.concat(chunks, ignore_index=True)
+            year_df["Mes"] = to_int_series(year_df["Mes"])
+            year_df = year_df[year_df["Mes"].eq(year_df["Mes"].max())].copy()
+            frames.append(year_df)
+
+    if not frames:
+        return pd.DataFrame(columns=geo_columns("establecimiento") + ["gestantes_20_54", "mes_corte_gestantes"])
+
+    gestantes = pd.concat(frames, ignore_index=True)
+    for col in ["Mes", "Ano", "IdServicio", "IdRegion", "IdComuna", value_col]:
+        gestantes[col] = to_int_series(gestantes[col])
+    gestantes["IdEstablecimiento"] = code_text(gestantes["IdEstablecimiento"])
+    gestantes["CodigoPrestacion"] = code_text(gestantes["CodigoPrestacion"])
+
+    master = build_master_lookup(Path(config["input_paths"]["maestro_establecimientos"]))
+    gestantes = gestantes.merge(
+        master,
+        left_on="IdEstablecimiento",
+        right_on="IdEstablecimiento_lookup",
+        how="left",
+    ).drop(columns=["IdEstablecimiento_lookup"])
+    gestantes = gestantes.rename(
+        columns={
+            "EstablecimientoCodigoMadreNuevo": "codigo_madre_master",
+            "SeremiSaludCodigo_ServicioDeSaludCodigo": "IdServicio_master",
+            "SeremiSaludGlosa_ServicioDeSaludGlosa": "servicio_salud_master",
+            "TipoEstablecimientoGlosa": "tipo_establecimiento_master",
+            "EstablecimientoGlosa": "establecimiento_master",
+            "DependenciaAdministrativa": "dependencia_master",
+            "ComunaCodigo": "IdComuna_master",
+            "ComunaGlosa": "comuna_master",
+            "EstadoFuncionamiento": "estado_funcionamiento_master",
+        }
+    )
+    gestantes["sin_match_master"] = gestantes["establecimiento_master"].isna()
+    out = (
+        gestantes.groupby(geo_columns("establecimiento"), dropna=False, as_index=False)
+        .agg(gestantes_20_54=(value_col, "sum"), mes_corte_gestantes=("Mes", "max"))
+    )
+    return out
 
 
 def geo_columns(level: str) -> list[str]:
@@ -197,6 +344,80 @@ def build_cobertura_sex(numerador: pd.DataFrame, denominador_sex: pd.DataFrame) 
             out = out.drop(columns=[c for c in ["total_15_mas_numerador_sex"] + AGE_COLS if c in out.columns], errors="ignore")
             outputs[level][sexo] = out.sort_values(join_cols)
     return outputs
+
+
+def build_cobertura_iaaps(
+    numerador_iaaps: pd.DataFrame,
+    denominador_sex: pd.DataFrame,
+    gestantes: pd.DataFrame,
+) -> tuple[dict[str, pd.DataFrame], dict[str, pd.DataFrame]]:
+    numerador_iaaps = numerador_iaaps[numerador_iaaps["es_aps"].eq(True)].copy()
+    denominador_sex = denominador_sex[denominador_sex["es_aps"].eq(True)].copy()
+
+    outputs_20_64: dict[str, pd.DataFrame] = {}
+    outputs_65_mas: dict[str, pd.DataFrame] = {}
+    for level in ["establecimiento", "comuna", "servicio_salud", "rm"]:
+        join_cols = geo_columns(level)
+        num = aggregate_by_level(
+            numerador_iaaps,
+            level,
+            ["20_64_hombres", "20_64_mujeres", "65_mas_hombres", "65_mas_mujeres", "65_mas_total"],
+        )
+        den = aggregate_by_level(
+            denominador_sex,
+            level,
+            ["20_64_Hombre", "20_64_Mujer", "65_mas_Hombre", "65_mas_Mujer"],
+        )
+        gest = aggregate_by_level(gestantes, level, ["gestantes_20_54"]) if not gestantes.empty else None
+
+        for frame in [num, den, gest]:
+            if frame is None:
+                continue
+            for col in join_cols:
+                if col in frame.columns:
+                    frame[col] = frame[col].astype(str)
+
+        base = num.merge(den.drop(columns=["nivel_geografico"]), on=join_cols, how="outer")
+        if gest is not None:
+            base = base.merge(gest[join_cols + ["gestantes_20_54"]], on=join_cols, how="left")
+        else:
+            base["gestantes_20_54"] = 0
+        base = base.fillna(0)
+
+        mujeres = base[join_cols].copy()
+        mujeres["nivel_geografico"] = level
+        mujeres["sexo"] = "Mujer"
+        mujeres["20_64_numerador"] = base["20_64_mujeres"]
+        mujeres["20_64_poblacion_inscrita_validada"] = base["20_64_Mujer"]
+        mujeres["gestantes_20_54"] = base["gestantes_20_54"]
+        mujeres["20_64_denominador"] = mujeres["20_64_poblacion_inscrita_validada"] - mujeres["gestantes_20_54"]
+        mujeres["20_64_cobertura_pct"] = (
+            mujeres["20_64_numerador"] / mujeres["20_64_denominador"] * 100
+        ).where(mujeres["20_64_denominador"].gt(0))
+
+        hombres = base[join_cols].copy()
+        hombres["nivel_geografico"] = level
+        hombres["sexo"] = "Hombre"
+        hombres["20_64_numerador"] = base["20_64_hombres"]
+        hombres["20_64_poblacion_inscrita_validada"] = base["20_64_Hombre"]
+        hombres["gestantes_20_54"] = 0
+        hombres["20_64_denominador"] = hombres["20_64_poblacion_inscrita_validada"]
+        hombres["20_64_cobertura_pct"] = (
+            hombres["20_64_numerador"] / hombres["20_64_denominador"] * 100
+        ).where(hombres["20_64_denominador"].gt(0))
+
+        outputs_20_64[level] = pd.concat([mujeres, hombres], ignore_index=True).sort_values(join_cols + ["sexo"])
+
+        empam = base[join_cols].copy()
+        empam["nivel_geografico"] = level
+        empam["65_mas_numerador"] = base["65_mas_total"]
+        empam["65_mas_denominador"] = base["65_mas_Hombre"] + base["65_mas_Mujer"]
+        empam["65_mas_cobertura_pct"] = (
+            empam["65_mas_numerador"] / empam["65_mas_denominador"] * 100
+        ).where(empam["65_mas_denominador"].gt(0))
+        outputs_65_mas[level] = empam.sort_values(join_cols)
+
+    return outputs_20_64, outputs_65_mas
 
 
 def build_professional_proportions(profesional: pd.DataFrame) -> dict[str, pd.DataFrame]:
@@ -320,9 +541,14 @@ def metadata_frame(config: dict) -> pd.DataFrame:
     rows = [
         ("region_objetivo", config["region_objetivo"]),
         ("periodo", "2023-2025"),
-        ("numerador_cobertura", "REM A02 sección B, suma anual de categorías Normal/Bajo peso/Sobrepeso/Obesidad"),
-        ("denominador", "Bases FONASA de población inscrita y validada en APS"),
-        ("grupos_etarios", "15-24, 25-34, 35-44, 45-54, 55-64, 65 y más"),
+        ("fuente_formula_iaaps_2025", "Diario Oficial Num. 44.132, 24-04-2025, CVE 2636798, indicador 6.1.A/6.1.B"),
+        ("numerador_iaaps_20_64", "REM A02 seccion A, EMP realizado por profesional, 20 a 64 anos por sexo"),
+        ("nota_numerador_iaaps_2023_2024", "A02 seccion A 2023-2024 no contiene desglose etario; para tendencia historica 20-64 se usa REM A02 seccion B como proxy"),
+        ("denominador_iaaps_mujeres_20_64", "Mujeres 20 a 64 inscritas validadas FONASA menos gestantes 20 a 54 en control REM Serie P seccion B"),
+        ("denominador_iaaps_hombres_20_64", "Hombres 20 a 64 inscritos validados FONASA"),
+        ("numerador_cobertura_operativa", "REM A02 sección B, suma anual de categorías Normal/Bajo peso/Sobrepeso/Obesidad"),
+        ("denominador_operativo", "Bases FONASA de población inscrita validada en APS"),
+        ("grupos_etarios", "15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65 y más"),
         ("factores_riesgo", "Glicemia alterada, colesterol elevado, tabaquismo, presión arterial elevada"),
     ]
     # Fecha de corte por ano: modificacion de cada archivo REM fuente
@@ -378,10 +604,12 @@ def write_workbook(
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     config = load_config()
-    numerador, profesional_raw, riesgo_raw, nutricion_raw, denominador, denominador_sex = load_inputs()
+    numerador, numerador_iaaps, profesional_raw, riesgo_raw, nutricion_raw, denominador, denominador_sex = load_inputs()
+    gestantes = load_gestantes_control(config)
 
     cobertura = build_cobertura(numerador, denominador)
     cobertura_sex = build_cobertura_sex(numerador, denominador_sex)
+    cobertura_iaaps, cobertura_empam = build_cobertura_iaaps(numerador_iaaps, denominador_sex, gestantes)
     profesional = build_professional_proportions(profesional_raw)
     riesgo = build_risk_prevalence(riesgo_raw, cobertura)
     nutricion = build_nutrition_distribution(nutricion_raw, cobertura)
@@ -393,6 +621,11 @@ def main() -> None:
     written_csvs = []
     for level, df in cobertura.items():
         written_csvs.append(safe_to_csv(df, OUTPUT_DIR / f"cobertura_empa_{level}_2023_2025.csv"))
+    for level, df in cobertura_iaaps.items():
+        written_csvs.append(safe_to_csv(df, OUTPUT_DIR / f"cobertura_empa_iaaps_20_64_{level}_2023_2025.csv"))
+    for level, df in cobertura_empam.items():
+        written_csvs.append(safe_to_csv(df, OUTPUT_DIR / f"cobertura_empam_65_mas_{level}_2023_2025.csv"))
+    written_csvs.append(safe_to_csv(gestantes, OUTPUT_DIR / "gestantes_control_20_54_establecimiento_2023_2025.csv"))
     for level, sex_dict in cobertura_sex.items():
         for sexo, df in sex_dict.items():
             written_csvs.append(safe_to_csv(df, OUTPUT_DIR / f"cobertura_empa_{level}_{sexo.lower()}_2023_2025.csv"))
@@ -436,6 +669,12 @@ def main() -> None:
         print(
             f"Mujeres Año {int(row['Ano'])}: numerador={row['total_15_mas_numerador']:.0f}, "
             f"denominador={row['total_15_mas_denominador']:.0f}, cobertura={row['total_15_mas_cobertura_pct']:.2f}%"
+        )
+    rm_iaaps = cobertura_iaaps["rm"].sort_values(["Ano", "sexo"])
+    for _, row in rm_iaaps.iterrows():
+        print(
+            f"IAAPS {row['sexo']} Año {int(row['Ano'])}: numerador={row['20_64_numerador']:.0f}, "
+            f"denominador={row['20_64_denominador']:.0f}, cobertura={row['20_64_cobertura_pct']:.2f}%"
         )
 
 

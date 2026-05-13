@@ -1,13 +1,13 @@
-﻿Ano,nivel_geografico,factor_riesgo,15_24_numerador,25_34_numerador,35_44_numerador,45_54_numerador,55_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_24,15_24_prevalencia_pct,25_34,25_34_prevalencia_pct,35_44,35_44_prevalencia_pct,45_54,45_54_prevalencia_pct,55_64,55_64_prevalencia_pct,65_mas,65_mas_prevalencia_pct,total_15_mas,total_15_mas_prevalencia_pct
-2023,rm,Colesterol elevado,0,0,0,0,0,0,480253,Mujer,0,,0,,0,,0,,0,,0,,51174,10.655633593126957
-2023,rm,Glicemia alterada,0,0,0,0,0,0,480253,Mujer,0,,0,,0,,0,,0,,0,,83980,17.48661642925708
-2023,rm,Presion arterial elevada,0,0,0,0,0,0,480253,Mujer,0,,0,,0,,0,,0,,0,,73837,15.374604635473386
-2023,rm,Tabaquismo,0,0,0,0,0,0,480253,Mujer,0,,0,,0,,0,,0,,0,,92352,19.229864259046796
-2024,rm,Colesterol elevado,0,0,0,0,0,0,535001,Mujer,0,,0,,0,,0,,0,,0,,53513,10.002411210446335
-2024,rm,Glicemia alterada,0,0,0,0,0,0,535001,Mujer,0,,0,,0,,0,,0,,0,,91589,17.119407253444386
-2024,rm,Presion arterial elevada,0,0,0,0,0,0,535001,Mujer,0,,0,,0,,0,,0,,0,,79052,14.776047147575424
-2024,rm,Tabaquismo,0,0,0,0,0,0,535001,Mujer,0,,0,,0,,0,,0,,0,,99744,18.64370346971314
-2025,rm,Colesterol elevado,0,0,0,0,0,0,689967,Mujer,0,,0,,0,,0,,0,,0,,79168,11.474171953151382
-2025,rm,Glicemia alterada,0,0,0,0,0,0,689967,Mujer,0,,0,,0,,0,,0,,0,,122462,17.748964805563165
-2025,rm,Presion arterial elevada,0,0,0,0,0,0,689967,Mujer,0,,0,,0,,0,,0,,0,,101160,14.661570770775995
-2025,rm,Tabaquismo,0,0,0,0,0,0,689967,Mujer,0,,0,,0,,0,,0,,0,,123075,17.83780963437382
+﻿Ano,nivel_geografico,factor_riesgo,15_19_numerador,20_24_numerador,25_29_numerador,30_34_numerador,35_39_numerador,40_44_numerador,45_49_numerador,50_54_numerador,55_59_numerador,60_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_19,15_19_prevalencia_pct,20_24,20_24_prevalencia_pct,25_29,25_29_prevalencia_pct,30_34,30_34_prevalencia_pct,35_39,35_39_prevalencia_pct,40_44,40_44_prevalencia_pct,45_49,45_49_prevalencia_pct,50_54,50_54_prevalencia_pct,55_59,55_59_prevalencia_pct,60_64,60_64_prevalencia_pct,65_mas,65_mas_prevalencia_pct,total_15_mas,total_15_mas_prevalencia_pct
+2023,rm,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,906483,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,97787,10.787516147572541
+2023,rm,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,906483,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,157882,17.416984102294254
+2023,rm,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,906483,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,132289,14.593654817575178
+2023,rm,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,906483,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,182705,20.15536970908445
+2024,rm,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,1009560,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,102464,10.149372003645151
+2024,rm,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,1009560,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,172751,17.111513926859224
+2024,rm,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,1009560,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,141051,13.971532152620943
+2024,rm,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,1009560,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,197196,19.532865802924047
+2025,rm,Colesterol elevado,0,0,0,0,0,0,0,0,0,0,0,1312033,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,152696,11.638121906994717
+2025,rm,Glicemia alterada,0,0,0,0,0,0,0,0,0,0,0,1312033,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,233474,17.794826806947693
+2025,rm,Presion arterial elevada,0,0,0,0,0,0,0,0,0,0,0,1312033,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,185493,14.13783037469332
+2025,rm,Tabaquismo,0,0,0,0,0,0,0,0,0,0,0,1312033,Mujer,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,243692,18.57361819405457

@@ -1,73 +1,73 @@
-﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,categoria_estado_nutricional,15_24_numerador,25_34_numerador,35_44_numerador,45_54_numerador,55_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_24,15_24_distribucion_pct,25_34,25_34_distribucion_pct,35_44,35_44_distribucion_pct,45_54,45_54_distribucion_pct,55_64,55_64_distribucion_pct,65_mas,65_mas_distribucion_pct,total_15_mas,total_15_mas_distribucion_pct
-2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Bajo peso,0,0,0,0,0,0,30933,Hombre,0,,0,,0,,0,,0,,0,,1732,5.5991982672227065
-2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Normal,0,0,0,0,0,0,30933,Hombre,0,,0,,0,,0,,0,,0,,10370,33.524068147286066
-2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Obesidad,0,0,0,0,0,0,30933,Hombre,0,,0,,0,,0,,0,,0,,8143,26.32463711893447
-2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Sobrepeso,0,0,0,0,0,0,30933,Hombre,0,,0,,0,,0,,0,,0,,10688,34.552096466556755
-2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Bajo peso,0,0,0,0,0,0,44473,Hombre,0,,0,,0,,0,,0,,0,,2169,4.877116452679154
-2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Normal,0,0,0,0,0,0,44473,Hombre,0,,0,,0,,0,,0,,0,,14541,32.696242664088324
-2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Obesidad,0,0,0,0,0,0,44473,Hombre,0,,0,,0,,0,,0,,0,,11876,26.703842781013197
-2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Sobrepeso,0,0,0,0,0,0,44473,Hombre,0,,0,,0,,0,,0,,0,,15887,35.72279810221932
-2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Bajo peso,0,0,0,0,0,0,27579,Hombre,0,,0,,0,,0,,0,,0,,1471,5.333768447006781
-2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Normal,0,0,0,0,0,0,27579,Hombre,0,,0,,0,,0,,0,,0,,9656,35.01214692338374
-2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Obesidad,0,0,0,0,0,0,27579,Hombre,0,,0,,0,,0,,0,,0,,6670,24.185068349106203
-2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Sobrepeso,0,0,0,0,0,0,27579,Hombre,0,,0,,0,,0,,0,,0,,9782,35.46901628050328
-2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Bajo peso,0,0,0,0,0,0,33792,Hombre,0,,0,,0,,0,,0,,0,,2380,7.043087121212121
-2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Normal,0,0,0,0,0,0,33792,Hombre,0,,0,,0,,0,,0,,0,,12887,38.136245265151516
-2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Obesidad,0,0,0,0,0,0,33792,Hombre,0,,0,,0,,0,,0,,0,,7318,21.656013257575758
-2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Sobrepeso,0,0,0,0,0,0,33792,Hombre,0,,0,,0,,0,,0,,0,,11207,33.16465435606061
-2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Bajo peso,0,0,0,0,0,0,49349,Hombre,0,,0,,0,,0,,0,,0,,2520,5.106486453626213
-2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Normal,0,0,0,0,0,0,49349,Hombre,0,,0,,0,,0,,0,,0,,16276,32.98141806318264
-2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Obesidad,0,0,0,0,0,0,49349,Hombre,0,,0,,0,,0,,0,,0,,12974,26.290299702121622
-2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Sobrepeso,0,0,0,0,0,0,49349,Hombre,0,,0,,0,,0,,0,,0,,17579,35.62179578106953
-2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Bajo peso,0,0,0,0,0,0,35722,Hombre,0,,0,,0,,0,,0,,0,,1974,5.526006382621354
-2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Normal,0,0,0,0,0,0,35722,Hombre,0,,0,,0,,0,,0,,0,,12526,35.06522591120318
-2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Obesidad,0,0,0,0,0,0,35722,Hombre,0,,0,,0,,0,,0,,0,,9037,25.298135602709813
-2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Sobrepeso,0,0,0,0,0,0,35722,Hombre,0,,0,,0,,0,,0,,0,,12185,34.11063210346565
-2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Bajo peso,0,0,0,0,0,0,38263,Hombre,0,,0,,0,,0,,0,,0,,2205,5.762747301570708
-2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Normal,0,0,0,0,0,0,38263,Hombre,0,,0,,0,,0,,0,,0,,12175,31.819250973525335
-2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Obesidad,0,0,0,0,0,0,38263,Hombre,0,,0,,0,,0,,0,,0,,10476,27.378930036850218
-2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Sobrepeso,0,0,0,0,0,0,38263,Hombre,0,,0,,0,,0,,0,,0,,13407,35.03907168805374
-2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Bajo peso,0,0,0,0,0,0,57046,Hombre,0,,0,,0,,0,,0,,0,,2908,5.097640500648599
-2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Normal,0,0,0,0,0,0,57046,Hombre,0,,0,,0,,0,,0,,0,,18062,31.66216737369842
-2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Obesidad,0,0,0,0,0,0,57046,Hombre,0,,0,,0,,0,,0,,0,,15775,27.653122041860957
-2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Sobrepeso,0,0,0,0,0,0,57046,Hombre,0,,0,,0,,0,,0,,0,,20301,35.58707008379203
-2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Bajo peso,0,0,0,0,0,0,34577,Hombre,0,,0,,0,,0,,0,,0,,1667,4.821123868467478
-2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Normal,0,0,0,0,0,0,34577,Hombre,0,,0,,0,,0,,0,,0,,11821,34.18746565636116
-2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Obesidad,0,0,0,0,0,0,34577,Hombre,0,,0,,0,,0,,0,,0,,8759,25.331868004743036
-2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Sobrepeso,0,0,0,0,0,0,34577,Hombre,0,,0,,0,,0,,0,,0,,12330,35.65954247042832
-2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Bajo peso,0,0,0,0,0,0,41542,Hombre,0,,0,,0,,0,,0,,0,,2620,6.306870155505272
-2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Normal,0,0,0,0,0,0,41542,Hombre,0,,0,,0,,0,,0,,0,,15000,36.108035241442394
-2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Obesidad,0,0,0,0,0,0,41542,Hombre,0,,0,,0,,0,,0,,0,,9523,22.923787973617063
-2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Sobrepeso,0,0,0,0,0,0,41542,Hombre,0,,0,,0,,0,,0,,0,,14399,34.661306629435266
-2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Bajo peso,0,0,0,0,0,0,65017,Hombre,0,,0,,0,,0,,0,,0,,3066,4.715689742682683
-2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Normal,0,0,0,0,0,0,65017,Hombre,0,,0,,0,,0,,0,,0,,20510,31.54559576726087
-2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Obesidad,0,0,0,0,0,0,65017,Hombre,0,,0,,0,,0,,0,,0,,17666,27.171355184028794
-2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Sobrepeso,0,0,0,0,0,0,65017,Hombre,0,,0,,0,,0,,0,,0,,23775,36.567359306027654
-2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Bajo peso,0,0,0,0,0,0,43735,Hombre,0,,0,,0,,0,,0,,0,,2458,5.620212644335201
-2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Normal,0,0,0,0,0,0,43735,Hombre,0,,0,,0,,0,,0,,0,,14865,33.98879615868297
-2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Obesidad,0,0,0,0,0,0,43735,Hombre,0,,0,,0,,0,,0,,0,,11473,26.232994169429517
-2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Sobrepeso,0,0,0,0,0,0,43735,Hombre,0,,0,,0,,0,,0,,0,,14939,34.157997027552305
-2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Bajo peso,0,0,0,0,0,0,53830,Hombre,0,,0,,0,,0,,0,,0,,2494,4.63310421697938
-2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Normal,0,0,0,0,0,0,53830,Hombre,0,,0,,0,,0,,0,,0,,15825,29.39810514582946
-2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Obesidad,0,0,0,0,0,0,53830,Hombre,0,,0,,0,,0,,0,,0,,17061,31.694222552480028
-2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Sobrepeso,0,0,0,0,0,0,53830,Hombre,0,,0,,0,,0,,0,,0,,18450,34.27456808471113
-2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Bajo peso,0,0,0,0,0,0,85988,Hombre,0,,0,,0,,0,,0,,0,,3314,3.85402614318277
-2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Normal,0,0,0,0,0,0,85988,Hombre,0,,0,,0,,0,,0,,0,,23673,27.530585663115787
-2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Obesidad,0,0,0,0,0,0,85988,Hombre,0,,0,,0,,0,,0,,0,,28173,32.76387402893427
-2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Sobrepeso,0,0,0,0,0,0,85988,Hombre,0,,0,,0,,0,,0,,0,,30828,35.85151416476718
-2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Bajo peso,0,0,0,0,0,0,48209,Hombre,0,,0,,0,,0,,0,,0,,2162,4.4846397975481755
-2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Normal,0,0,0,0,0,0,48209,Hombre,0,,0,,0,,0,,0,,0,,14628,30.34288203447489
-2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Obesidad,0,0,0,0,0,0,48209,Hombre,0,,0,,0,,0,,0,,0,,14359,29.784894936630092
-2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Sobrepeso,0,0,0,0,0,0,48209,Hombre,0,,0,,0,,0,,0,,0,,17060,35.387583231346845
-2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Bajo peso,0,0,0,0,0,0,52976,Hombre,0,,0,,0,,0,,0,,0,,2748,5.187254605859256
-2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Normal,0,0,0,0,0,0,52976,Hombre,0,,0,,0,,0,,0,,0,,16537,31.216022349743277
-2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Obesidad,0,0,0,0,0,0,52976,Hombre,0,,0,,0,,0,,0,,0,,15076,28.4581697372395
-2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Sobrepeso,0,0,0,0,0,0,52976,Hombre,0,,0,,0,,0,,0,,0,,18615,35.13855330715796
-2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Bajo peso,0,0,0,0,0,0,90433,Hombre,0,,0,,0,,0,,0,,0,,3717,4.110225249632324
-2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Normal,0,0,0,0,0,0,90433,Hombre,0,,0,,0,,0,,0,,0,,24373,26.951444715977573
-2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Obesidad,0,0,0,0,0,0,90433,Hombre,0,,0,,0,,0,,0,,0,,30023,33.19916402198312
-2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Sobrepeso,0,0,0,0,0,0,90433,Hombre,0,,0,,0,,0,,0,,0,,32320,35.739166012406976
-2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Bajo peso,0,0,0,0,0,0,60456,Hombre,0,,0,,0,,0,,0,,0,,2804,4.638083895725817
-2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Normal,0,0,0,0,0,0,60456,Hombre,0,,0,,0,,0,,0,,0,,17112,28.304882890035728
-2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Obesidad,0,0,0,0,0,0,60456,Hombre,0,,0,,0,,0,,0,,0,,19457,32.18373693264523
-2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Sobrepeso,0,0,0,0,0,0,60456,Hombre,0,,0,,0,,0,,0,,0,,21083,34.87329628159323
+﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,categoria_estado_nutricional,15_19_numerador,20_24_numerador,25_29_numerador,30_34_numerador,35_39_numerador,40_44_numerador,45_49_numerador,50_54_numerador,55_59_numerador,60_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_19,15_19_distribucion_pct,20_24,20_24_distribucion_pct,25_29,25_29_distribucion_pct,30_34,30_34_distribucion_pct,35_39,35_39_distribucion_pct,40_44,40_44_distribucion_pct,45_49,45_49_distribucion_pct,50_54,50_54_distribucion_pct,55_59,55_59_distribucion_pct,60_64,60_64_distribucion_pct,65_mas,65_mas_distribucion_pct,total_15_mas,total_15_mas_distribucion_pct
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,58268,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2916,5.004462140454452
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Normal,0,0,0,0,0,0,0,0,0,0,0,58268,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,19004,32.61481430630878
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Obesidad,0,0,0,0,0,0,0,0,0,0,0,58268,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,15868,27.232786435093022
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,58268,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,20480,35.14793711814375
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,83557,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3600,4.308436157353663
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Normal,0,0,0,0,0,0,0,0,0,0,0,83557,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,26526,31.74599375276757
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Obesidad,0,0,0,0,0,0,0,0,0,0,0,83557,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,23109,27.656569766746053
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,83557,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,30322,36.28900032313271
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,51943,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2461,4.7378857593901005
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Normal,0,0,0,0,0,0,0,0,0,0,0,51943,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,17782,34.233679225304655
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Obesidad,0,0,0,0,0,0,0,0,0,0,0,51943,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,13013,25.052461351866466
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,51943,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,18687,35.97597366343877
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,61712,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3811,6.175460202229712
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Normal,0,0,0,0,0,0,0,0,0,0,0,61712,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,22777,36.90854290899663
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Obesidad,0,0,0,0,0,0,0,0,0,0,0,61712,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,14107,22.85941145968369
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,61712,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,21017,34.056585429089964
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,93632,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4257,4.546522556390977
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Normal,0,0,0,0,0,0,0,0,0,0,0,93632,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,30163,32.21441387559808
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Obesidad,0,0,0,0,0,0,0,0,0,0,0,93632,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,25377,27.102913533834588
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,93632,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,33835,36.13615003417635
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,67194,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3391,5.046581540018455
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Normal,0,0,0,0,0,0,0,0,0,0,0,67194,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,22936,34.13400005952912
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Obesidad,0,0,0,0,0,0,0,0,0,0,0,67194,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,17613,26.21216180016073
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,67194,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,23254,34.60725660029169
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,72742,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3739,5.140084132963075
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Normal,0,0,0,0,0,0,0,0,0,0,0,72742,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,22632,31.112699678315142
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Obesidad,0,0,0,0,0,0,0,0,0,0,0,72742,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,20499,28.180418465260786
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,72742,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,25872,35.56679772346099
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,107910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4843,4.4879992586414605
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Normal,0,0,0,0,0,0,0,0,0,0,0,107910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,33207,30.77286627745343
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Obesidad,0,0,0,0,0,0,0,0,0,0,0,107910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,30832,28.57195811324252
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,107910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,39028,36.16717635066259
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,65251,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,2772,4.248210755390722
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Normal,0,0,0,0,0,0,0,0,0,0,0,65251,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,21661,33.19642610841213
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Obesidad,0,0,0,0,0,0,0,0,0,0,0,65251,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,17129,26.250938682932063
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,65251,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,23689,36.304424453265085
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,76525,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4188,5.472721332897746
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Normal,0,0,0,0,0,0,0,0,0,0,0,76525,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,26756,34.96373734073832
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Obesidad,0,0,0,0,0,0,0,0,0,0,0,76525,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,18368,24.002613524991833
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,76525,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,27213,35.5609278013721
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,124002,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5241,4.226544733149465
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Normal,0,0,0,0,0,0,0,0,0,0,0,124002,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,38244,30.84143804132192
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Obesidad,0,0,0,0,0,0,0,0,0,0,0,124002,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,34596,27.899550007257943
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,124002,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,45921,37.03246721827067
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,82531,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4166,5.0478002205231975
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Normal,0,0,0,0,0,0,0,0,0,0,0,82531,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,27410,33.21176285274624
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Obesidad,0,0,0,0,0,0,0,0,0,0,0,82531,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,22400,27.141316596188098
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,82531,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,28555,34.59912033054246
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,103246,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4238,4.104759506421556
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Normal,0,0,0,0,0,0,0,0,0,0,0,103246,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,29595,28.664548747651242
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Obesidad,0,0,0,0,0,0,0,0,0,0,0,103246,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,33578,32.52232532010925
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,103246,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,35835,34.70836642581795
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,164910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,5634,3.416408950336547
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Normal,0,0,0,0,0,0,0,0,0,0,0,164910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,44072,26.724880237705417
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Obesidad,0,0,0,0,0,0,0,0,0,0,0,164910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,55474,33.63895458128676
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,164910,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,59730,36.21975623067127
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,91803,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,3654,3.980262082938466
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Normal,0,0,0,0,0,0,0,0,0,0,0,91803,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,27024,29.436946505016177
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Obesidad,0,0,0,0,0,0,0,0,0,0,0,91803,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,28174,30.689628879230526
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,91803,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,32951,35.893162532814834
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,98945,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4315,4.361008641164283
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Normal,0,0,0,0,0,0,0,0,0,0,0,98945,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,29736,30.05305978068624
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Obesidad,0,0,0,0,0,0,0,0,0,0,0,98945,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,29445,29.75895699631108
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,98945,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,35449,35.82697458183839
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,174026,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,6371,3.660947214783998
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Normal,0,0,0,0,0,0,0,0,0,0,0,174026,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,45694,26.256996081045358
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Obesidad,0,0,0,0,0,0,0,0,0,0,0,174026,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,59207,34.021927757921226
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,174026,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,62754,36.06012894624941
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Bajo peso,0,0,0,0,0,0,0,0,0,0,0,115490,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,4767,4.127630097843969
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Normal,0,0,0,0,0,0,0,0,0,0,0,115490,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,31758,27.49848471729154
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Obesidad,0,0,0,0,0,0,0,0,0,0,0,115490,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,38242,33.11282362109274
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Sobrepeso,0,0,0,0,0,0,0,0,0,0,0,115490,Hombre,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,,40723,35.261061563771754

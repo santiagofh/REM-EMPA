@@ -31,7 +31,7 @@ SEXO_OPTIONS = ["Ambos sexos", "Hombre", "Mujer"]
 SEXO_FILE_MAP = {"Hombre": "hombre", "Mujer": "mujer"}
 
 SECTION_DESCRIPTIONS = {
-    "cobertura": "Cobertura anual de EMPA sobre población inscrita y validada.",
+    "cobertura": "Cobertura oficial IAAPS 20 a 64 años y vista referencial REM por tramo etario.",
     "nutricion": "Distribución del estado nutricional en personas con EMPA realizado.",
     "riesgo": "Prevalencia observada de factores de riesgo en personas con EMPA.",
     "profesional": "Participación por profesional que realiza el EMPA.",
@@ -48,12 +48,16 @@ LEVEL_ORDER = ["rm", "servicio_salud", "comuna", "establecimiento"]
 
 AGE_LABELS = {
     "total_15_mas": "15 y más",
-
-    "15_24": "15 a 24",
-    "25_34": "25 a 34",
-    "35_44": "35 a 44",
-    "45_54": "45 a 54",
-    "55_64": "55 a 64",
+    "15_19": "15 a 19",
+    "20_24": "20 a 24",
+    "25_29": "25 a 29",
+    "30_34": "30 a 34",
+    "35_39": "35 a 39",
+    "40_44": "40 a 44",
+    "45_49": "45 a 49",
+    "50_54": "50 a 54",
+    "55_59": "55 a 59",
+    "60_64": "60 a 64",
     "65_mas": "65 y más",
 }
 
@@ -61,6 +65,7 @@ AGE_ORDER = list(AGE_LABELS.keys())
 
 TEXT_TOKENS = (
     "nivel_geografico",
+    "sexo",
     "servicio_salud",
     "comuna",
     "establecimiento",
@@ -75,6 +80,12 @@ TEXT_TOKENS = (
 
 RM_LABEL = "Región Metropolitana"
 
+SOURCE_LINKS = {
+    "iaaps_2025": "https://www.diariooficial.interior.gob.cl/publicaciones/2025/04/24/44132/01/2636798.pdf",
+    "rem_a02": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/REM/2025/SERIE/Manual%20Series%20REM%202025%20-2026%20SERIE%20A%20-BS-BM-%20DV1.2.pdf",
+    "rem_p": "https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/REM/2025/SERIE/MANUAL_REM_P_2025_V1.1.pdf",
+}
+
 
 def _file_path(section: str, level: str, sexo: str | None = None) -> Path:
     filename = SECTION_FILES[section].format(level=level)
@@ -87,6 +98,10 @@ def _file_path(section: str, level: str, sexo: str | None = None) -> Path:
             filename,
         )
     return OUTPUT_DIR / filename
+
+
+def _iaaps_coverage_path(level: str) -> Path:
+    return OUTPUT_DIR / f"cobertura_empa_iaaps_20_64_{level}_2023_2025.csv"
 
 
 def _is_text_col(column: str) -> bool:
@@ -122,6 +137,15 @@ def load_section_data(section: str, level: str, sexo: str | None = None) -> pd.D
 
 
 @st.cache_data(show_spinner=False)
+def load_iaaps_coverage_data(level: str) -> pd.DataFrame:
+    path = _iaaps_coverage_path(level)
+    if not path.exists():
+        return pd.DataFrame()
+    df = pd.read_csv(path, low_memory=False, encoding="utf-8-sig")
+    return _normalize_frame(df)
+
+
+@st.cache_data(show_spinner=False)
 def load_metadata() -> pd.DataFrame:
     path = OUTPUT_DIR / "metadata_empa_2023_2025.csv"
     if not path.exists():
@@ -131,7 +155,7 @@ def load_metadata() -> pd.DataFrame:
 
 
 def list_years() -> list[int]:
-    df = load_section_data("cobertura", "rm")
+    df = load_iaaps_coverage_data("rm")
     if df.empty or "Ano" not in df.columns:
         return [2025, 2024, 2023]
     years = sorted({int(year) for year in df["Ano"].dropna().tolist()}, reverse=True)
@@ -523,7 +547,7 @@ def render_home_page() -> None:
 
 def render_metodologia_page() -> None:
     st.title("Metodología")
-    st.caption("Período cubierto por el dashboard REM EMPA en la Región Metropolitana.")
+    st.caption("Definición, fórmula y fuentes oficiales usadas para el cálculo EMPA.")
 
     metadata = load_metadata()
     if metadata.empty:
@@ -541,46 +565,279 @@ def render_metodologia_page() -> None:
         fechas.append(f"{year}: {fecha}")
     st.markdown(f"- **Fechas de corte**: {', '.join(fechas)}")
 
+    st.markdown("### Indicador oficial IAAPS 2025")
+    st.markdown(
+        f"""
+La fórmula oficial de cobertura EMPA está en el decreto IAAPS 2025 publicado en el Diario Oficial,
+Núm. 44.132, del 24 de abril de 2025, CVE 2636798, indicador N° 6.
+
+Fuente: [Diario Oficial, CVE 2636798]({SOURCE_LINKS["iaaps_2025"]}).
+        """
+    )
+
+    st.markdown("### Fórmula")
+    st.markdown(
+        """
+**Mujeres 20 a 64 años**
+
+```text
+Cobertura EMPA mujeres 20-64 =
+EMP mujeres 20-64 /
+(mujeres 20-64 inscritas validadas - gestantes 20-54 en control) * 100
+```
+
+**Hombres 20 a 64 años**
+
+```text
+Cobertura EMPA hombres 20-64 =
+EMP hombres 20-64 /
+hombres 20-64 inscritos validados * 100
+```
+        """
+    )
+
+    st.markdown("### Variables")
+    st.markdown(
+        """
+- **Numerador mujeres**: EMP realizados a mujeres de 20 a 64 años. Fuente: REM A02, Sección A.
+- **Numerador hombres**: EMP realizados a hombres de 20 a 64 años. Fuente: REM A02, Sección A.
+- **Denominador mujeres**: mujeres de 20 a 64 años inscritas validadas, menos gestantes de 20 a 54 años en control. Fuentes: FONASA y REM Serie P.
+- **Denominador hombres**: hombres de 20 a 64 años inscritos validados. Fuente: FONASA.
+- **Gestantes 20-54**: total de gestantes en control de 20 a 54 años. Fuente: REM Serie P, Sección B.
+        """
+    )
+
+    st.markdown("### Fuentes oficiales")
+    st.markdown(
+        f"""
+- **Fórmula IAAPS 2025**: [Diario Oficial, Núm. 44.132, CVE 2636798]({SOURCE_LINKS["iaaps_2025"]}).
+- **Numerador EMPA**: [Manual REM 2025-2026, Serie A, REM A02]({SOURCE_LINKS["rem_a02"]}).
+- **Gestantes en control**: [Manual REM 2025-2026, Serie P, Sección B]({SOURCE_LINKS["rem_p"]}).
+- **Población inscrita validada**: FONASA / proceso de certificación de población inscrita validada, citado como base del aporte estatal en el decreto IAAPS 2025.
+        """
+    )
+
+    st.markdown("### Implementación en este dashboard")
+    st.markdown(
+        f"""
+- **Cálculo IAAPS 20-64**: {meta.get("numerador_iaaps_20_64", "REM A02 Sección A, 20 a 64 años por sexo")}.
+- **Ajuste mujeres**: {meta.get("denominador_iaaps_mujeres_20_64", "Mujeres 20 a 64 inscritas validadas menos gestantes 20 a 54 en control")}.
+- **Hombres**: {meta.get("denominador_iaaps_hombres_20_64", "Hombres 20 a 64 inscritos validados")}.
+- **Nota histórica**: {meta.get("nota_numerador_iaaps_2023_2024", "Para 2023-2024 se documenta la fuente disponible según estructura REM de esos años")}.
+        """
+    )
+
+    st.info(
+        "Lectura práctica: el Manual REM identifica dónde se registra la producción del EMP; "
+        "la fórmula del indicador se cita desde el decreto IAAPS; el denominador base viene de FONASA; "
+        "y el descuento de embarazadas se obtiene desde REM Serie P."
+    )
+
 
 def render_cobertura_page() -> None:
     st.title("Dashboard REM EMPA · Cobertura")
-    st.caption("Cobertura anual de EMPA sobre población inscrita y validada.")
 
     years = list_years()
     with st.sidebar:
         st.header("Filtros")
-        year = st.selectbox("Año", years, index=0, key="cob_year")
+        coverage_mode = st.radio(
+            "Vista",
+            ["IAAPS oficial 20-64", "Referencial REM por tramo etario"],
+            index=0,
+            key="cob_mode",
+        )
+        year = st.selectbox("Año", years, index=0, key="cob_iaaps_year")
         level = st.selectbox(
             "Desagregación",
             LEVEL_ORDER,
             index=0,
             format_func=lambda value: LEVEL_LABELS[value],
-            key="cob_level",
+            key="cob_iaaps_level",
         )
-        age_key = st.selectbox(
-            "Grupo etario",
-            AGE_ORDER,
-            index=0,
-            format_func=lambda value: AGE_LABELS[value],
-            key="cob_age",
+        if coverage_mode == "IAAPS oficial 20-64":
+            sexo = st.selectbox(
+                "Sexo",
+                ["Mujer", "Hombre", "Ambos sexos"],
+                index=0,
+                key="cob_iaaps_sexo",
+            )
+            age_key = "20_64"
+        else:
+            sexo = "Ambos sexos"
+            age_key = st.selectbox(
+                "Grupo etario",
+                AGE_ORDER,
+                index=0,
+                format_func=lambda value: AGE_LABELS[value],
+                key="cob_ref_age",
+            )
+
+    if coverage_mode == "IAAPS oficial 20-64":
+        st.caption("Indicador oficial EMPA adulto: 20 a 64 años. Mujeres y hombres se reportan por separado; ambos sexos se muestra como agregado referencial.")
+        data = load_iaaps_coverage_data(level)
+        if data.empty:
+            st.error("No se encontró el archivo de cobertura IAAPS para el nivel seleccionado.")
+            st.stop()
+        if sexo == "Ambos sexos":
+            group_cols = [col for col in data.columns if col not in {"sexo", "20_64_numerador", "20_64_poblacion_inscrita_validada", "gestantes_20_54", "20_64_denominador", "20_64_cobertura_pct"}]
+            data = (
+                data.groupby(group_cols, dropna=False, as_index=False)[
+                    ["20_64_numerador", "20_64_poblacion_inscrita_validada", "gestantes_20_54", "20_64_denominador"]
+                ]
+                .sum()
+            )
+            data["sexo"] = "Ambos sexos"
+            data["20_64_cobertura_pct"] = (
+                data["20_64_numerador"] / data["20_64_denominador"] * 100
+            ).where(data["20_64_denominador"].gt(0))
+        else:
+            data = data[data["sexo"].astype(str).eq(sexo)].copy()
+        if data.empty:
+            st.error(f"No hay registros IAAPS 20-64 para sexo {sexo}.")
+            st.stop()
+
+        year_df = data[data["Ano"].eq(year)].copy()
+        with st.sidebar:
+            st.markdown("---")
+            filters = render_geo_filters(year_df, level, "cob_iaaps")
+
+        filtered_year = apply_geo_filters(year_df, filters)
+        filtered_all_years = apply_geo_filters(data, filters)
+
+        if filtered_year.empty:
+            filters = {
+                "servicio_salud": None,
+                "comuna": None,
+                "establecimiento": None,
+                "dependencia": None,
+                "tipo_establecimiento": None,
+            }
+            filtered_year = year_df.copy()
+            filtered_all_years = data.copy()
+            st.info("Se limpiaron filtros anteriores de la sesión porque no tenían registros IAAPS para esta vista.")
+        if filtered_year.empty:
+            st.warning("No hay registros IAAPS 20-64 para el año, sexo y nivel seleccionados.")
+            st.stop()
+
+        scope = selected_scope_label(level, filters)
+        num_col = "20_64_numerador"
+        den_col = "20_64_denominador"
+        pct_col = "20_64_cobertura_pct"
+        current = filtered_year[[num_col, den_col, pct_col, "20_64_poblacion_inscrita_validada", "gestantes_20_54"]].sum(numeric_only=True)
+        current[pct_col] = current[num_col] / current[den_col] * 100 if current[den_col] else pd.NA
+        trend = (
+            filtered_all_years.groupby("Ano", as_index=False, dropna=False)[[num_col, den_col]].sum()
+            if not filtered_all_years.empty
+            else pd.DataFrame(columns=["Ano", num_col, den_col])
         )
-        sexo = st.selectbox(
-            "Sexo",
-            SEXO_OPTIONS,
-            index=0,
-            key="cob_sexo",
+        trend[pct_col] = (trend[num_col] / trend[den_col] * 100).where(trend[den_col].gt(0))
+        previous_pct = previous_year_value(trend, year, pct_col)
+
+        c1, c2, c3 = st.columns(3)
+        c1.metric(f"Cobertura EMPA 20-64 {sexo}", format_pct(current.get(pct_col)), delta=format_pp_delta(current.get(pct_col), previous_pct))
+        c2.metric("Numerador 20-64", format_int(current.get(num_col)))
+        c3.metric("Denominador 20-64", format_int(current.get(den_col)))
+        st.caption("Esta vista usa la fórmula IAAPS 20-64. Los tramos etarios no corresponden al indicador oficial.")
+
+        left, right = st.columns([1.2, 1])
+        with left:
+            chart = make_line_chart(
+                trend[[col for col in ["Ano", pct_col] if col in trend.columns]].dropna(),
+                "Ano",
+                pct_col,
+                f"Evolución porcentual de la cobertura IAAPS 20-64: {sexo}",
+            )
+            st.altair_chart(chart, use_container_width=True)
+        with right:
+            formula_rows = [
+                {"Componente": "Población inscrita validada 20-64", "Valor": current.get("20_64_poblacion_inscrita_validada")},
+                {"Componente": "Gestantes 20-54 descontadas", "Valor": current.get("gestantes_20_54") if sexo in {"Mujer", "Ambos sexos"} else 0},
+                {"Componente": "Denominador final", "Valor": current.get(den_col)},
+            ]
+            st.markdown("### Denominador")
+            st.dataframe(display_table(pd.DataFrame(formula_rows), int_cols=["Valor"]), use_container_width=True, hide_index=True)
+
+        ranking_level = "servicio_salud" if level == "rm" else level
+        ranking_df = load_iaaps_coverage_data(ranking_level)
+        if sexo == "Ambos sexos":
+            group_cols = [col for col in ranking_df.columns if col not in {"sexo", "20_64_numerador", "20_64_poblacion_inscrita_validada", "gestantes_20_54", "20_64_denominador", "20_64_cobertura_pct"}]
+            ranking_df = (
+                ranking_df.groupby(group_cols, dropna=False, as_index=False)[
+                    ["20_64_numerador", "20_64_poblacion_inscrita_validada", "gestantes_20_54", "20_64_denominador"]
+                ]
+                .sum()
+            )
+            ranking_df["sexo"] = "Ambos sexos"
+            ranking_df["20_64_cobertura_pct"] = (
+                ranking_df["20_64_numerador"] / ranking_df["20_64_denominador"] * 100
+            ).where(ranking_df["20_64_denominador"].gt(0))
+        else:
+            ranking_df = ranking_df[ranking_df["sexo"].astype(str).eq(sexo)].copy()
+        ranking_df = ranking_df[ranking_df["Ano"].eq(year)].copy()
+        ranking_df = apply_geo_filters(ranking_df, filters)
+
+        view_cols = available_unit_columns(ranking_level)
+        ranking_cols = [col for col in view_cols if col in ranking_df.columns] + [num_col, den_col, pct_col]
+        ranking_view = ranking_df[ranking_cols].sort_values(pct_col, ascending=False)
+        ranking_view = rename_geo_columns(ranking_view).rename(
+            columns={
+                num_col: "Numerador",
+                den_col: "Denominador",
+                pct_col: "Cobertura (%)",
+            }
+        )
+        ranking_display = display_table(
+            ranking_view,
+            percent_cols=["Cobertura (%)"],
+            int_cols=["Numerador", "Denominador"],
         )
 
-    sexo_param = sexo if sexo != "Ambos sexos" else None
-    data = load_section_data("cobertura", level, sexo_param)
+        st.markdown("### Tabla Cobertura IAAPS 20-64")
+        st.dataframe(ranking_display, use_container_width=True, height=380, hide_index=True)
+
+        summary_table = pd.DataFrame(
+            [
+                {
+                    "Indicador": f"EMPA {sexo} 20-64",
+                    "Numerador": current.get(num_col),
+                    "Población inscrita validada": current.get("20_64_poblacion_inscrita_validada"),
+                    "Gestantes descontadas": current.get("gestantes_20_54") if sexo in {"Mujer", "Ambos sexos"} else 0,
+                    "Denominador": current.get(den_col),
+                    "Cobertura (%)": current.get(pct_col),
+                }
+            ]
+        )
+        summary_display = display_table(
+            summary_table,
+            percent_cols=["Cobertura (%)"],
+            int_cols=["Numerador", "Población inscrita validada", "Gestantes descontadas", "Denominador"],
+        )
+
+        with st.expander("Resumen fórmula IAAPS"):
+            st.dataframe(summary_display, use_container_width=True, hide_index=True)
+
+        render_download_button(
+            "cobertura_empa_iaaps",
+            year,
+            scope,
+            {
+                "ranking": ranking_view,
+                "resumen": summary_table,
+                "detalle_filtrado": filtered_year,
+            },
+        )
+        return
+
+    st.caption("Cobertura referencial REM basada en población inscrita y validada, disponible para ambos sexos y tramos etarios. No corresponde al indicador oficial IAAPS.")
+    data = load_section_data("cobertura", level, None)
     if data.empty:
-        st.error("No se encontró el archivo de cobertura para el nivel seleccionado.")
+        st.error("No se encontró el archivo de cobertura referencial para el nivel seleccionado.")
         st.stop()
 
     year_df = data[data["Ano"].eq(year)].copy()
     with st.sidebar:
         st.markdown("---")
-        filters = render_geo_filters(year_df, level, "cob")
+        filters = render_geo_filters(year_df, level, "cob_ref")
 
     filtered_year = apply_geo_filters(year_df, filters)
     filtered_all_years = apply_geo_filters(data, filters)
@@ -590,17 +847,25 @@ def render_cobertura_page() -> None:
         st.stop()
 
     scope = selected_scope_label(level, filters)
-    current = aggregate_coverage(filtered_year)
-    trend = aggregate_coverage_by_year(filtered_all_years)
+    num_col = f"{age_key}_numerador"
+    den_col = f"{age_key}_denominador"
+    pct_col = f"{age_key}_cobertura_pct"
 
-    num_col, den_col, pct_col = coverage_metric_cols(age_key)
+    current = filtered_year[[num_col, den_col]].sum(numeric_only=True)
+    current[pct_col] = current[num_col] / current[den_col] * 100 if current[den_col] else pd.NA
+    trend = (
+        filtered_all_years.groupby("Ano", as_index=False, dropna=False)[[num_col, den_col]].sum()
+        if not filtered_all_years.empty
+        else pd.DataFrame(columns=["Ano", num_col, den_col])
+    )
+    trend[pct_col] = (trend[num_col] / trend[den_col] * 100).where(trend[den_col].gt(0))
     previous_pct = previous_year_value(trend, year, pct_col)
 
     c1, c2, c3 = st.columns(3)
-    c1.metric("Cobertura EMPA", format_pct(current.get(pct_col)), delta=format_pp_delta(current.get(pct_col), previous_pct))
-    c2.metric("Numerador", format_int(current.get(num_col)))
-    c3.metric("Denominador", format_int(current.get(den_col)))
-    st.caption("pp: Variación en puntos porcentuales respecto al año anterior")
+    c1.metric(f"Cobertura {AGE_LABELS[age_key]} ambos sexos", format_pct(current.get(pct_col)), delta=format_pp_delta(current.get(pct_col), previous_pct))
+    c2.metric(f"Numerador {AGE_LABELS[age_key]}", format_int(current.get(num_col)))
+    c3.metric(f"Denominador {AGE_LABELS[age_key]}", format_int(current.get(den_col)))
+    st.caption("Uso sugerido: análisis descriptivo y monitoreo interno. Para IAAPS oficial, usa la vista 'IAAPS oficial 20-64'.")
 
     left, right = st.columns([1.2, 1])
     with left:
@@ -608,16 +873,19 @@ def render_cobertura_page() -> None:
             trend[[col for col in ["Ano", pct_col] if col in trend.columns]].dropna(),
             "Ano",
             pct_col,
-            f"Evolución porcentual de la cobertura en grupo etario: {AGE_LABELS[age_key]}",
+            f"Evolución porcentual de la cobertura referencial: {AGE_LABELS[age_key]}",
         )
         st.altair_chart(chart, use_container_width=True)
     with right:
-        age_profile = age_profile_from_coverage(current)
-        chart = make_bar_chart(age_profile, "Grupo etario", "Cobertura (%)", f"Cobertura porcentual por grupo etario, {year}")
-        st.altair_chart(chart, use_container_width=True)
+        summary_rows = [
+            {"Componente": f"Numerador {AGE_LABELS[age_key]}", "Valor": current.get(num_col)},
+            {"Componente": f"Denominador {AGE_LABELS[age_key]}", "Valor": current.get(den_col)},
+        ]
+        st.markdown("### Resumen")
+        st.dataframe(display_table(pd.DataFrame(summary_rows), int_cols=["Valor"]), use_container_width=True, hide_index=True)
 
     ranking_level = "servicio_salud" if level == "rm" else level
-    ranking_df = load_section_data("cobertura", ranking_level, sexo_param)
+    ranking_df = load_section_data("cobertura", ranking_level, None)
     ranking_df = ranking_df[ranking_df["Ano"].eq(year)].copy()
     ranking_df = apply_geo_filters(ranking_df, filters)
 
@@ -637,24 +905,30 @@ def render_cobertura_page() -> None:
         int_cols=["Numerador", "Denominador"],
     )
 
-    st.markdown("### Tabla EMPA Cobertura")
-    st.dataframe(ranking_display, use_container_width=True, height=380)
+    st.markdown("### Tabla Cobertura Referencial")
+    st.dataframe(ranking_display, use_container_width=True, height=380, hide_index=True)
 
     summary_table = pd.DataFrame(
-        {
-            "Grupo etario": [AGE_LABELS[item] for item in AGE_ORDER],
-            "Numerador": [current.get(f"{item}_numerador") for item in AGE_ORDER],
-            "Denominador": [current.get(f"{item}_denominador") for item in AGE_ORDER],
-            "Cobertura (%)": [current.get(f"{item}_cobertura_pct") for item in AGE_ORDER],
-        }
+        [
+            {
+                "Indicador": f"EMPA ambos sexos {AGE_LABELS[age_key]}",
+                "Numerador": current.get(num_col),
+                "Denominador": current.get(den_col),
+                "Cobertura (%)": current.get(pct_col),
+            }
+        ]
     )
-    summary_display = display_table(summary_table, percent_cols=["Cobertura (%)"], int_cols=["Numerador", "Denominador"])
+    summary_display = display_table(
+        summary_table,
+        percent_cols=["Cobertura (%)"],
+        int_cols=["Numerador", "Denominador"],
+    )
 
-    with st.expander("Resumen por grupo etario"):
-        st.dataframe(summary_display, use_container_width=True, height=320)
+    with st.expander("Resumen cobertura referencial"):
+        st.dataframe(summary_display, use_container_width=True, hide_index=True)
 
     render_download_button(
-        "cobertura_empa",
+        "cobertura_empa_referencial",
         year,
         scope,
         {
@@ -791,7 +1065,7 @@ def render_category_page(
 
     table_title = "Tabla Estados nutricionales" if section == "nutricion" else "Tabla Factores de riesgo"
     st.markdown(f"### {table_title}")
-    st.dataframe(ranking_display, use_container_width=True, height=380)
+    st.dataframe(ranking_display, use_container_width=True, height=380, hide_index=True)
 
     summary_columns = [category_col]
     summary_rename_map = {
@@ -826,7 +1100,7 @@ def render_category_page(
     )
 
     with st.expander("Resumen por categoría"):
-        st.dataframe(current_display, use_container_width=True, height=320)
+        st.dataframe(current_display, use_container_width=True, height=320, hide_index=True)
 
     render_download_button(
         f"{section}_empa",
@@ -947,7 +1221,7 @@ def render_professional_page() -> None:
     ranking_display = display_table(ranking_view, percent_cols=["Porcentaje"], int_cols=["Total EMPA"])
 
     st.markdown("### Tabla Profesionales")
-    st.dataframe(ranking_display, use_container_width=True, height=380)
+    st.dataframe(ranking_display, use_container_width=True, height=380, hide_index=True)
 
     summary_display = display_table(
         distribution.sort_values("Porcentaje", ascending=False),
@@ -955,7 +1229,7 @@ def render_professional_page() -> None:
         int_cols=["Total EMPA"],
     )
     with st.expander("Resumen por profesional"):
-        st.dataframe(summary_display, use_container_width=True, height=320)
+        st.dataframe(summary_display, use_container_width=True, height=320, hide_index=True)
 
     render_download_button(
         "profesional_empa",

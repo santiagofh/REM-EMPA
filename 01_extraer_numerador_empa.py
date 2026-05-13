@@ -12,6 +12,11 @@ DATA_DIR = ROOT / "data"
 OUTPUT_DIR = ROOT / "output"
 CONFIG_PATH = DATA_DIR / "diccionario_rem_empa_2023_2025.json"
 
+A02_HOMBRE_COLS = [f"Col{i:02d}" for i in range(2, 30, 2)]
+A02_MUJER_COLS = [f"Col{i:02d}" for i in range(3, 30, 2)]
+A02_PUEBLOS_ORIGINARIOS_COLS = ["Col30", "Col31"]
+A02_MIGRANTES_COLS = ["Col32", "Col33"]
+
 
 def load_config() -> dict:
     with CONFIG_PATH.open("r", encoding="utf-8") as file:
@@ -75,6 +80,37 @@ def age_group_sum(df: pd.DataFrame, columns: list[str], output_col: str) -> None
         df[output_col] = 0
         return
     df[output_col] = df[existing_cols].sum(axis=1)
+
+
+def add_a02_derived_columns(df: pd.DataFrame, config: dict, has_age_detail: bool = True) -> pd.DataFrame:
+    age_map = config["rem_a02"]["grupos_etarios_solicitados"]
+    sex_age_map = config["rem_a02"]["grupos_etarios_sexo"]
+
+    df["total_15_mas"] = df["Col01"]
+    if has_age_detail:
+        df["total_hombres"] = df[A02_HOMBRE_COLS].sum(axis=1)
+        df["total_mujeres"] = df[A02_MUJER_COLS].sum(axis=1)
+        df["pueblos_originarios"] = df[A02_PUEBLOS_ORIGINARIOS_COLS].sum(axis=1)
+        df["migrantes"] = df[A02_MIGRANTES_COLS].sum(axis=1)
+
+        for group_key, group_config in age_map.items():
+            age_group_sum(df, group_config["columns"], group_key)
+
+        for group_key, group_config in sex_age_map.items():
+            age_group_sum(df, group_config["hombres"], f"{group_key}_hombres")
+            age_group_sum(df, group_config["mujeres"], f"{group_key}_mujeres")
+    else:
+        df["total_hombres"] = df["Col02"]
+        df["total_mujeres"] = df["Col03"]
+        df["pueblos_originarios"] = df["Col04"]
+        df["migrantes"] = df["Col05"]
+        for group_key in age_map:
+            df[group_key] = 0
+        for group_key in sex_age_map:
+            df[f"{group_key}_hombres"] = 0
+            df[f"{group_key}_mujeres"] = 0
+
+    return df
 
 
 def load_year_data(year: str, serie_path: Path, valid_codes: set[str], region_code: str) -> pd.DataFrame:
@@ -168,7 +204,15 @@ def prepare_filtered_detail(config: dict) -> pd.DataFrame:
 
 def build_professional_output(detail: pd.DataFrame, config: dict) -> pd.DataFrame:
     professional_map = config["rem_a02"]["seccion_a_profesional"]["codigos"]
-    value_cols = ["Col01", "Col02", "Col03", "Col04", "Col05"]
+    age_map = config["rem_a02"]["grupos_etarios_solicitados"]
+    sex_age_map = config["rem_a02"]["grupos_etarios_sexo"]
+    value_cols = (
+        ["total_15_mas", "total_hombres", "total_mujeres"]
+        + list(age_map.keys())
+        + [f"{group}_hombres" for group in sex_age_map]
+        + [f"{group}_mujeres" for group in sex_age_map]
+        + ["pueblos_originarios", "migrantes"]
+    )
     geo_cols = [
         "Ano",
         "IdRegion",
@@ -191,16 +235,63 @@ def build_professional_output(detail: pd.DataFrame, config: dict) -> pd.DataFram
 
     df = detail[detail["CodigoPrestacion"].isin(professional_map)].copy()
     df["profesional"] = df["CodigoPrestacion"].map(professional_map)
+    years_with_age = set(config["rem_a02"]["seccion_a_profesional"].get("anos_con_desglose_etario", []))
+    with_age = df[df["Ano"].isin(years_with_age)].copy()
+    without_age = df[~df["Ano"].isin(years_with_age)].copy()
+    frames = []
+    if not with_age.empty:
+        frames.append(add_a02_derived_columns(with_age, config, has_age_detail=True))
+    if not without_age.empty:
+        frames.append(add_a02_derived_columns(without_age, config, has_age_detail=False))
+    df = pd.concat(frames, ignore_index=True) if frames else df
     out = df.groupby(geo_cols + ["profesional"], dropna=False, as_index=False)[value_cols].sum()
-    return out.rename(
-        columns={
-            "Col01": "total_ambos_sexos",
-            "Col02": "total_hombres",
-            "Col03": "total_mujeres",
-            "Col04": "pueblos_originarios",
-            "Col05": "migrantes",
-        }
-    )
+    return out.rename(columns={"total_15_mas": "total_ambos_sexos"})
+
+
+def build_iaaps_numerator_output(professional: pd.DataFrame, coverage: pd.DataFrame, config: dict) -> pd.DataFrame:
+    geo_cols = [
+        "Ano",
+        "IdRegion",
+        "IdServicio",
+        "IdComuna",
+        "IdEstablecimiento",
+        "codigo_madre_master",
+        "IdServicio_master",
+        "servicio_salud_master",
+        "dependencia_master",
+        "IdComuna_master",
+        "comuna_master",
+        "tipo_establecimiento_master",
+        "establecimiento_master",
+        "nivel_atencion_master",
+        "estado_funcionamiento_master",
+        "es_aps",
+        "sin_match_master",
+    ]
+    value_cols = [
+        "20_64_hombres",
+        "20_64_mujeres",
+        "65_mas_hombres",
+        "65_mas_mujeres",
+    ]
+    professional_years = set(config["rem_a02"]["seccion_a_profesional"].get("anos_con_desglose_etario", []))
+    professional_part = professional[professional["Ano"].isin(professional_years)]
+    coverage_part = coverage[~coverage["Ano"].isin(professional_years)]
+
+    frames = []
+    if not professional_part.empty:
+        prof = professional_part.groupby(geo_cols, dropna=False, as_index=False)[value_cols].sum()
+        prof["fuente_numerador_iaaps"] = "REM A02 Seccion A"
+        frames.append(prof)
+    if not coverage_part.empty:
+        cov = coverage_part.groupby(geo_cols, dropna=False, as_index=False)[value_cols].sum()
+        cov["fuente_numerador_iaaps"] = "REM A02 Seccion B proxy historica"
+        frames.append(cov)
+
+    out = pd.concat(frames, ignore_index=True) if frames else pd.DataFrame(columns=geo_cols + value_cols)
+    out["20_64_total"] = out["20_64_hombres"] + out["20_64_mujeres"]
+    out["65_mas_total"] = out["65_mas_hombres"] + out["65_mas_mujeres"]
+    return out
 
 
 def build_nutritional_output(detail: pd.DataFrame, config: dict) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -229,23 +320,26 @@ def build_nutritional_output(detail: pd.DataFrame, config: dict) -> tuple[pd.Dat
 
     df = detail[detail["CodigoPrestacion"].isin(category_map)].copy()
     df["categoria_estado_nutricional"] = df["CodigoPrestacion"].map(category_map)
-    df["total_15_mas"] = df["Col01"]
-    df["total_hombres"] = df["Col02"]
-    df["total_mujeres"] = df["Col03"]
-    for group_key, group_config in age_map.items():
-        age_group_sum(df, group_config["columns"], group_key)
+    df = add_a02_derived_columns(df, config)
 
-    requested_cols = ["total_15_mas", "total_hombres", "total_mujeres"] + list(age_map.keys()) + ["Col32", "Col33"]
+    requested_cols = [
+        "total_15_mas",
+        "total_hombres",
+        "total_mujeres",
+        *list(age_map.keys()),
+        *[f"{group}_hombres" for group in config["rem_a02"]["grupos_etarios_sexo"]],
+        *[f"{group}_mujeres" for group in config["rem_a02"]["grupos_etarios_sexo"]],
+        "pueblos_originarios",
+        "migrantes",
+    ]
     nutricion = (
         df.groupby(geo_cols + ["categoria_estado_nutricional"], dropna=False, as_index=False)[requested_cols]
         .sum()
-        .rename(columns={"Col32": "pueblos_originarios", "Col33": "migrantes"})
     )
 
     cobertura = (
         df.groupby(geo_cols, dropna=False, as_index=False)[requested_cols]
         .sum()
-        .rename(columns={"Col32": "pueblos_originarios", "Col33": "migrantes"})
     )
     return nutricion, cobertura
 
@@ -278,17 +372,21 @@ def build_risk_output(detail: pd.DataFrame, config: dict) -> pd.DataFrame:
 
     df = detail[detail["CodigoPrestacion"].isin(risk_map)].copy()
     df["factor_riesgo"] = df["CodigoPrestacion"].map(risk_map)
-    df["total_15_mas"] = df["Col01"]
-    df["total_hombres"] = df["Col02"]
-    df["total_mujeres"] = df["Col03"]
-    for group_key, group_config in age_map.items():
-        age_group_sum(df, group_config["columns"], group_key)
+    df = add_a02_derived_columns(df, config)
 
-    requested_cols = ["total_15_mas", "total_hombres", "total_mujeres"] + list(age_map.keys()) + ["Col32", "Col33"]
+    requested_cols = [
+        "total_15_mas",
+        "total_hombres",
+        "total_mujeres",
+        *list(age_map.keys()),
+        *[f"{group}_hombres" for group in config["rem_a02"]["grupos_etarios_sexo"]],
+        *[f"{group}_mujeres" for group in config["rem_a02"]["grupos_etarios_sexo"]],
+        "pueblos_originarios",
+        "migrantes",
+    ]
     return (
         df.groupby(geo_cols + ["factor_riesgo"], dropna=False, as_index=False)[requested_cols]
         .sum()
-        .rename(columns={"Col32": "pueblos_originarios", "Col33": "migrantes"})
     )
 
 
@@ -318,12 +416,14 @@ def main() -> None:
     detail = prepare_filtered_detail(config)
     professional = build_professional_output(detail, config)
     nutrition, coverage = build_nutritional_output(detail, config)
+    iaaps_numerator = build_iaaps_numerator_output(professional, coverage, config)
     risk = build_risk_output(detail, config)
     control = build_control_output(detail)
 
     outputs = {
         "rem_a02_empa_detalle_filtrado_2023_2025.csv": detail,
         "numerador_empa_profesional_establecimiento_2023_2025.csv": professional,
+        "numerador_empa_iaaps_establecimiento_2023_2025.csv": iaaps_numerator,
         "numerador_empa_estado_nutricional_establecimiento_2023_2025.csv": nutrition,
         "numerador_empa_cobertura_establecimiento_2023_2025.csv": coverage,
         "numerador_empa_factores_riesgo_establecimiento_2023_2025.csv": risk,
