@@ -721,6 +721,7 @@ def render_cobertura_page() -> None:
         c1.metric(f"Cobertura EMPA 20-64 {sexo}", format_pct(current.get(pct_col)), delta=format_pp_delta(current.get(pct_col), previous_pct))
         c2.metric("Numerador 20-64", format_int(current.get(num_col)))
         c3.metric("Denominador 20-64", format_int(current.get(den_col)))
+        st.caption("pp: Puntos porcentuales en relación al año anterior.")
         st.caption("Esta vista usa la fórmula IAAPS 20-64. Los tramos etarios no corresponden al indicador oficial.")
 
         left, right = st.columns([1.2, 1])
@@ -849,6 +850,7 @@ def render_cobertura_page() -> None:
     c1.metric(f"Cobertura {AGE_LABELS[age_key]} ambos sexos", format_pct(current.get(pct_col)), delta=format_pp_delta(current.get(pct_col), previous_pct))
     c2.metric(f"Numerador {AGE_LABELS[age_key]}", format_int(current.get(num_col)))
     c3.metric(f"Denominador {AGE_LABELS[age_key]}", format_int(current.get(den_col)))
+    st.caption("pp: Puntos porcentuales en relación al año anterior.")
     st.caption("Uso sugerido: análisis descriptivo y monitoreo interno. Para IAAPS oficial, usa la vista 'IAAPS oficial 20-64'.")
 
     left, right = st.columns([1.2, 1])
