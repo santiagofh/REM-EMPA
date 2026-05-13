@@ -600,7 +600,7 @@ def render_cobertura_page() -> None:
     c1.metric("Cobertura EMPA", format_pct(current.get(pct_col)), delta=format_pp_delta(current.get(pct_col), previous_pct))
     c2.metric("Numerador", format_int(current.get(num_col)))
     c3.metric("Denominador", format_int(current.get(den_col)))
-    st.caption("Variación en puntos porcentuales respecto al año anterior")
+    st.caption("pp: Variación en puntos porcentuales respecto al año anterior")
 
     left, right = st.columns([1.2, 1])
     with left:
@@ -750,7 +750,7 @@ def render_category_page(
     c1.metric(selected_category, format_pct(current_row.get(pct_col)), delta=format_pp_delta(current_row.get(pct_col), previous_pct))
     c2.metric("Casos observados", format_int(current_row.get(age_key)))
     c3.metric("Población evaluada", format_int(total_evaluados))
-    st.caption("Variación en puntos porcentuales respecto al año anterior")
+    st.caption("pp: Variación en puntos porcentuales respecto al año anterior")
 
     composition = current_summary[[category_col, age_key, pct_col]].copy().sort_values(pct_col, ascending=False)
     composition = composition.rename(columns={category_col: "Categoría", age_key: "Casos", pct_col: "Porcentaje"})
@@ -906,7 +906,7 @@ def render_professional_page() -> None:
     c1.metric(selected_professional, format_pct(current_row.get("proporcion_profesional_pct")), delta=format_pp_delta(current_row.get("proporcion_profesional_pct"), previous_pct))
     c2.metric("EMPA del profesional", format_int(current_row.get("total_ambos_sexos")))
     c3.metric("Total EMPA filtrados", format_int(total_empa))
-    st.caption("Variación en puntos porcentuales respecto al año anterior")
+    st.caption("pp: Variación en puntos porcentuales respecto al año anterior")
 
     distribution = current_summary.rename(
         columns={
