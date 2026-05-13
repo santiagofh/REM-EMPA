@@ -608,12 +608,12 @@ def render_cobertura_page() -> None:
             trend[[col for col in ["Ano", pct_col] if col in trend.columns]].dropna(),
             "Ano",
             pct_col,
-            f"Evolución {AGE_LABELS[age_key].lower()}",
+            f"Evolución porcentual de la cobertura en grupo etario: {AGE_LABELS[age_key]}",
         )
         st.altair_chart(chart, use_container_width=True)
     with right:
         age_profile = age_profile_from_coverage(current)
-        chart = make_bar_chart(age_profile, "Grupo etario", "Cobertura (%)", f"Perfil por edad · {year}")
+        chart = make_bar_chart(age_profile, "Grupo etario", "Cobertura (%)", f"Cobertura porcentual por grupo etario, {year}")
         st.altair_chart(chart, use_container_width=True)
 
     ranking_level = "servicio_salud" if level == "rm" else level
@@ -760,10 +760,10 @@ def render_category_page(
 
     left, right = st.columns([1.15, 1])
     with left:
-        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolución de {selected_category.lower()}")
+        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolución porcentual de {selected_category.lower()} en {title.lower()}")
         st.altair_chart(chart, use_container_width=True)
     with right:
-        chart = make_bar_chart(composition, "Categoría", "Porcentaje", f"Distribución {year}")
+        chart = make_bar_chart(composition, "Categoría", "Porcentaje", f"Distribución porcentual por categoría, {year}")
         st.altair_chart(chart, use_container_width=True)
 
     ranking_level = "servicio_salud" if level == "rm" else level
@@ -922,10 +922,10 @@ def render_professional_page() -> None:
 
     left, right = st.columns([1.15, 1])
     with left:
-        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolución de {selected_professional.lower()}")
+        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolución porcentual de participación de {selected_professional.lower()}")
         st.altair_chart(chart, use_container_width=True)
     with right:
-        chart = make_bar_chart(distribution, "Profesional", "Porcentaje", f"Participación {year}")
+        chart = make_bar_chart(distribution, "Profesional", "Porcentaje", f"Participación porcentual por profesional, {year}")
         st.altair_chart(chart, use_container_width=True)
 
     ranking_level = "servicio_salud" if level == "rm" else level
