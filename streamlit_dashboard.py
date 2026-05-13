@@ -2,7 +2,7 @@ from pathlib import Path
 
 import streamlit as st
 
-from dashboard_empa_pages import SECTIONS, render_home_page, render_section_page
+from dashboard_empa_pages import SECTIONS, render_home_page, render_section_page, render_metodologia_page
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -83,6 +83,7 @@ navigation = st.navigation(
         st.Page(page_nutricion, title=SECTIONS["nutricion"], icon=":material/balance:"),
         st.Page(page_riesgo, title=SECTIONS["riesgo"], icon=":material/favorite:"),
         st.Page(page_profesional, title=SECTIONS["profesional"], icon=":material/badge:"),
+        st.Page(render_metodologia_page, title=SECTIONS["metodologia"], icon=":material/info:"),
     ],
     position="sidebar",
     expanded=True,

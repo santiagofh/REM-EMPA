@@ -17,6 +17,7 @@ SECTIONS = {
     "nutricion": "Estado nutricional",
     "riesgo": "Factores de riesgo",
     "profesional": "Profesional que realiza EMPA",
+    "metodologia": "Metodologia",
 }
 
 SECTION_FILES = {
@@ -519,9 +520,38 @@ def render_home_page() -> None:
         """
     )
 
-    if not metadata.empty:
-        with st.expander("Metodologia y supuestos"):
-            st.dataframe(rename_geo_columns(metadata), use_container_width=True, height=300)
+
+def render_metodologia_page() -> None:
+    st.title("Metodologia")
+    st.caption("Descripcion de la metodologia utilizada para la construccion de indicadores REM EMPA en la Region Metropolitana, periodo 2023-2025.")
+
+    metadata = load_metadata()
+    if metadata.empty:
+        st.error("No se encontro el archivo de metadatos.")
+        st.stop()
+
+    meta = dict(zip(metadata["campo"].astype(str).str.strip(), metadata["valor"].astype(str).str.strip()))
+
+    st.markdown("### Periodo y alcance")
+    st.markdown(f"- **Region**: Metropolitana ({meta.get('region_objetivo', 'N/A')})")
+    st.markdown(f"- **Periodo**: {meta.get('periodo', 'N/A')}")
+    fechas = []
+    for year in ["2023", "2024", "2025"]:
+        fecha = meta.get(f"fecha_corte_{year}", "N/A")
+        fechas.append(f"{year}: {fecha}")
+    st.markdown(f"- **Fechas de corte**: {', '.join(fechas)}")
+
+    st.markdown("### Construccion de indicadores")
+    st.markdown(f"- **Numerador de cobertura**: {meta.get('numerador_cobertura', 'N/A')}.")
+    st.markdown(f"- **Denominador**: {meta.get('denominador', 'N/A')}.")
+    st.markdown(f"- **Grupos etarios considerados**: {meta.get('grupos_etarios', 'N/A')}.")
+    st.markdown(f"- **Factores de riesgo monitoreados**: {meta.get('factores_riesgo', 'N/A')}.")
+
+    st.markdown("### Notas metodologicas")
+    st.markdown("- La cobertura anual se calcula sumando los registros mensuales del REM A02 dentro de cada ano calendario.")
+    st.markdown("- El numerador de cobertura utiliza las categorias de la seccion B del REM A02 (Normal, Bajo peso, Sobrepeso, Obesidad), que corresponden al EMP con resultado de estado nutricional y entregan el desglose etario requerido.")
+    st.markdown("- El denominador se construye a partir de las bases de poblacion inscrita en APS de FONASA disponibles localmente, utilizadas como aproximacion operativa de la poblacion asignada.")
+    st.markdown("- Los establecimientos de atencion primaria se identifican mediante el maestro local de establecimientos, a traves del campo NivelAtencionEstabglosa.")
 
 
 def render_cobertura_page() -> None:
