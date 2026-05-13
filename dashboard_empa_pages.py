@@ -411,7 +411,7 @@ def make_line_chart(
     color_col: str | None = None,
 ) -> alt.Chart:
     encodings = {
-        "x": alt.X(f"{x_col}:O", title="Año"),
+        "x": alt.X(f"{x_col}:O", title="Año", axis=alt.Axis(labelAngle=-45)),
         "y": alt.Y(f"{y_col}:Q", title=None),
         "tooltip": [alt.Tooltip(f"{x_col}:O", title="Año"), alt.Tooltip(f"{y_col}:Q", title="Valor", format=".2f")],
     }
