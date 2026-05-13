@@ -31,10 +31,10 @@ SEXO_OPTIONS = ["Ambos sexos", "Hombre", "Mujer"]
 SEXO_FILE_MAP = {"Hombre": "hombre", "Mujer": "mujer"}
 
 SECTION_DESCRIPTIONS = {
-    "cobertura": "Cobertura anual de EMPA sobre poblacion asignada estimada.",
+    "cobertura": "Cobertura anual de EMPA sobre poblacion inscrita y validada.",
     "nutricion": "Distribucion del estado nutricional en personas con EMPA realizado.",
     "riesgo": "Prevalencia observada de factores de riesgo en personas con EMPA.",
-    "profesional": "Participacion relativa por profesional que realiza el EMPA.",
+    "profesional": "Participacion por profesional que realiza el EMPA.",
 }
 
 LEVEL_LABELS = {
@@ -410,9 +410,9 @@ def make_line_chart(
     color_col: str | None = None,
 ) -> alt.Chart:
     encodings = {
-        "x": alt.X(f"{x_col}:O", title="Ano"),
+        "x": alt.X(f"{x_col}:O", title="Año"),
         "y": alt.Y(f"{y_col}:Q", title=None),
-        "tooltip": [alt.Tooltip(f"{x_col}:O", title="Ano"), alt.Tooltip(f"{y_col}:Q", title="Valor", format=".2f")],
+        "tooltip": [alt.Tooltip(f"{x_col}:O", title="Año"), alt.Tooltip(f"{y_col}:Q", title="Valor", format=".2f")],
     }
     if color_col:
         encodings["color"] = alt.Color(f"{color_col}:N", title=None)
@@ -515,7 +515,7 @@ def render_home_page() -> None:
         """
 ### Como navegar
 - Usa el menu lateral para seleccionar la seccion de interes.
-- Filtra por ano, nivel geografico, grupo etario y sexo segun corresponda.
+- Filtra por año, nivel geografico, grupo etario y sexo segun corresponda.
 - Los graficos y tablas se actualizan automaticamente con los filtros aplicados.
         """
     )
@@ -548,20 +548,20 @@ def render_metodologia_page() -> None:
     st.markdown(f"- **Factores de riesgo monitoreados**: {meta.get('factores_riesgo', 'N/A')}.")
 
     st.markdown("### Notas metodologicas")
-    st.markdown("- La cobertura anual se calcula sumando los registros mensuales del REM A02 dentro de cada ano calendario.")
+    st.markdown("- La cobertura anual se calcula sumando los registros mensuales del REM A02 dentro de cada año calendario.")
     st.markdown("- El numerador de cobertura utiliza las categorias de la seccion B del REM A02 (Normal, Bajo peso, Sobrepeso, Obesidad), que corresponden al EMP con resultado de estado nutricional y entregan el desglose etario requerido.")
-    st.markdown("- El denominador se construye a partir de las bases de poblacion inscrita en APS de FONASA disponibles localmente, utilizadas como aproximacion operativa de la poblacion asignada.")
+    st.markdown("- El denominador se construye a partir de las bases de poblacion inscrita en APS de FONASA disponibles localmente, utilizadas como aproximacion operativa de la poblacion inscrita y validada.")
     st.markdown("- Los establecimientos de atencion primaria se identifican mediante el maestro local de establecimientos, a traves del campo NivelAtencionEstabglosa.")
 
 
 def render_cobertura_page() -> None:
     st.title("Dashboard REM EMPA · Cobertura")
-    st.caption("Cobertura anual de EMPA sobre poblacion asignada aproximada.")
+    st.caption("Cobertura anual de EMPA sobre poblacion inscrita y validada.")
 
     years = list_years()
     with st.sidebar:
         st.header("Filtros")
-        year = st.selectbox("Ano", years, index=0, key="cob_year")
+        year = st.selectbox("Año", years, index=0, key="cob_year")
         level = st.selectbox(
             "Desagregacion",
             LEVEL_ORDER,
@@ -689,7 +689,7 @@ def render_category_page(
     years = list_years()
     with st.sidebar:
         st.header("Filtros")
-        year = st.selectbox("Ano", years, index=0, key=f"{section}_year")
+        year = st.selectbox("Año", years, index=0, key=f"{section}_year")
         level = st.selectbox(
             "Desagregacion",
             LEVEL_ORDER,
@@ -859,7 +859,7 @@ def render_professional_page() -> None:
     years = list_years()
     with st.sidebar:
         st.header("Filtros")
-        year = st.selectbox("Ano", years, index=0, key="prof_year")
+        year = st.selectbox("Año", years, index=0, key="prof_year")
         level = st.selectbox(
             "Desagregacion",
             LEVEL_ORDER,

@@ -321,7 +321,7 @@ def metadata_frame(config: dict) -> pd.DataFrame:
         ("region_objetivo", config["region_objetivo"]),
         ("periodo", "2023-2025"),
         ("numerador_cobertura", "REM A02 seccion B, suma anual de categorias Normal/Bajo peso/Sobrepeso/Obesidad"),
-        ("denominador", "Bases FONASA de poblacion inscrita en APS disponibles localmente, usadas como aproximacion operativa de poblacion asignada"),
+        ("denominador", "Bases FONASA de poblacion inscrita en APS disponibles localmente, usadas como aproximacion operativa de poblacion inscrita y validada"),
         ("grupos_etarios", "15-24, 25-34, 35-44, 45-54, 55-64, 65 y mas"),
         ("factores_riesgo", "Glicemia alterada, colesterol elevado, tabaquismo, presion arterial elevada"),
     ]
@@ -421,7 +421,7 @@ def main() -> None:
     rm = cobertura["rm"].sort_values("Ano")
     for _, row in rm.iterrows():
         print(
-            f"Ano {int(row['Ano'])}: numerador={row['total_15_mas_numerador']:.0f}, "
+            f"Año {int(row['Ano'])}: numerador={row['total_15_mas_numerador']:.0f}, "
             f"denominador={row['total_15_mas_denominador']:.0f}, cobertura={row['total_15_mas_cobertura_pct']:.2f}%"
         )
     # Print sex cobertura for rm level
@@ -429,12 +429,12 @@ def main() -> None:
     rm_sex_m = cobertura_sex["rm"]["Mujer"].sort_values("Ano")
     for _, row in rm_sex_h.iterrows():
         print(
-            f"Hombres Ano {int(row['Ano'])}: numerador={row['total_15_mas_numerador']:.0f}, "
+            f"Hombres Año {int(row['Ano'])}: numerador={row['total_15_mas_numerador']:.0f}, "
             f"denominador={row['total_15_mas_denominador']:.0f}, cobertura={row['total_15_mas_cobertura_pct']:.2f}%"
         )
     for _, row in rm_sex_m.iterrows():
         print(
-            f"Mujeres Ano {int(row['Ano'])}: numerador={row['total_15_mas_numerador']:.0f}, "
+            f"Mujeres Año {int(row['Ano'])}: numerador={row['total_15_mas_numerador']:.0f}, "
             f"denominador={row['total_15_mas_denominador']:.0f}, cobertura={row['total_15_mas_cobertura_pct']:.2f}%"
         )
 
