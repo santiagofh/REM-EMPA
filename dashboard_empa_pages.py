@@ -508,8 +508,8 @@ def render_home_page() -> None:
         st.markdown("**Fecha de corte:** " + " | ".join(fechas))
 
     st.markdown("### Informacion disponible")
-    for key, label in SECTIONS.items():
-        st.markdown(f"- **{label}**: {SECTION_DESCRIPTIONS[key]}")
+    for key in [k for k in SECTIONS if k != "metodologia"]:
+        st.markdown(f"- **{SECTIONS[key]}**: {SECTION_DESCRIPTIONS[key]}")
 
     st.markdown(
         """
