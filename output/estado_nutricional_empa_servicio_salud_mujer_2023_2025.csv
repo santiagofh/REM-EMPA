@@ -1,0 +1,73 @@
+﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,categoria_estado_nutricional,15_24_numerador,25_34_numerador,35_44_numerador,45_54_numerador,55_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_24,15_24_distribucion_pct,25_34,25_34_distribucion_pct,35_44,35_44_distribucion_pct,45_54,45_54_distribucion_pct,55_64,55_64_distribucion_pct,65_mas,65_mas_distribucion_pct,total_15_mas,total_15_mas_distribucion_pct
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Bajo peso,0,0,0,0,0,0,67565,Mujer,0,,0,,0,,0,,0,,0,,3208,4.748020424776142
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Normal,0,0,0,0,0,0,67565,Mujer,0,,0,,0,,0,,0,,0,,18042,26.70317472063938
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Obesidad,0,0,0,0,0,0,67565,Mujer,0,,0,,0,,0,,0,,0,,24614,36.43010434396507
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Sobrepeso,0,0,0,0,0,0,67565,Mujer,0,,0,,0,,0,,0,,0,,21701,32.118700510619405
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Bajo peso,0,0,0,0,0,0,90951,Mujer,0,,0,,0,,0,,0,,0,,4059,4.4628426295477786
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Normal,0,0,0,0,0,0,90951,Mujer,0,,0,,0,,0,,0,,0,,24653,27.105804224252623
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Obesidad,0,0,0,0,0,0,90951,Mujer,0,,0,,0,,0,,0,,0,,32941,36.21840331607129
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Sobrepeso,0,0,0,0,0,0,90951,Mujer,0,,0,,0,,0,,0,,0,,29298,32.21294983012831
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Bajo peso,0,0,0,0,0,0,58293,Mujer,0,,0,,0,,0,,0,,0,,3073,5.271644965947884
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Normal,0,0,0,0,0,0,58293,Mujer,0,,0,,0,,0,,0,,0,,17687,30.34155044344947
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Obesidad,0,0,0,0,0,0,58293,Mujer,0,,0,,0,,0,,0,,0,,18503,31.741375465321735
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Sobrepeso,0,0,0,0,0,0,58293,Mujer,0,,0,,0,,0,,0,,0,,19030,32.645429125280906
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Bajo peso,0,0,0,0,0,0,73556,Mujer,0,,0,,0,,0,,0,,0,,5516,7.4990483441187665
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Normal,0,0,0,0,0,0,73556,Mujer,0,,0,,0,,0,,0,,0,,24961,33.934689216379354
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Obesidad,0,0,0,0,0,0,73556,Mujer,0,,0,,0,,0,,0,,0,,20536,27.91886453858285
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Sobrepeso,0,0,0,0,0,0,73556,Mujer,0,,0,,0,,0,,0,,0,,22543,30.647397900919028
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Bajo peso,0,0,0,0,0,0,107330,Mujer,0,,0,,0,,0,,0,,0,,4582,4.269076679399982
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Normal,0,0,0,0,0,0,107330,Mujer,0,,0,,0,,0,,0,,0,,28448,26.505170968042485
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Obesidad,0,0,0,0,0,0,107330,Mujer,0,,0,,0,,0,,0,,0,,39027,36.36168825118792
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Sobrepeso,0,0,0,0,0,0,107330,Mujer,0,,0,,0,,0,,0,,0,,35273,32.86406410136961
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Bajo peso,0,0,0,0,0,0,82558,Mujer,0,,0,,0,,0,,0,,0,,3860,4.675500860001454
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Normal,0,0,0,0,0,0,82558,Mujer,0,,0,,0,,0,,0,,0,,22398,27.130017684536934
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Obesidad,0,0,0,0,0,0,82558,Mujer,0,,0,,0,,0,,0,,0,,30013,36.353836090990576
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Sobrepeso,0,0,0,0,0,0,82558,Mujer,0,,0,,0,,0,,0,,0,,26287,31.840645364471037
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Bajo peso,0,0,0,0,0,0,73182,Mujer,0,,0,,0,,0,,0,,0,,3598,4.91650952419994
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Normal,0,0,0,0,0,0,73182,Mujer,0,,0,,0,,0,,0,,0,,19271,26.332978054712907
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Obesidad,0,0,0,0,0,0,73182,Mujer,0,,0,,0,,0,,0,,0,,26706,36.492580142658035
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Sobrepeso,0,0,0,0,0,0,73182,Mujer,0,,0,,0,,0,,0,,0,,23607,32.257932278429124
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Bajo peso,0,0,0,0,0,0,102712,Mujer,0,,0,,0,,0,,0,,0,,4826,4.69857465534699
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Normal,0,0,0,0,0,0,102712,Mujer,0,,0,,0,,0,,0,,0,,26940,26.228678245969313
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Obesidad,0,0,0,0,0,0,102712,Mujer,0,,0,,0,,0,,0,,0,,38608,37.58859724277592
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Sobrepeso,0,0,0,0,0,0,102712,Mujer,0,,0,,0,,0,,0,,0,,32338,31.484149855907784
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Bajo peso,0,0,0,0,0,0,67912,Mujer,0,,0,,0,,0,,0,,0,,3374,4.968194133584639
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Normal,0,0,0,0,0,0,67912,Mujer,0,,0,,0,,0,,0,,0,,20342,29.953469195429378
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Obesidad,0,0,0,0,0,0,67912,Mujer,0,,0,,0,,0,,0,,0,,22193,32.67905524796796
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Sobrepeso,0,0,0,0,0,0,67912,Mujer,0,,0,,0,,0,,0,,0,,22003,32.399281423018024
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Bajo peso,0,0,0,0,0,0,82746,Mujer,0,,0,,0,,0,,0,,0,,6139,7.419089744519372
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Normal,0,0,0,0,0,0,82746,Mujer,0,,0,,0,,0,,0,,0,,27775,33.56657723636188
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Obesidad,0,0,0,0,0,0,82746,Mujer,0,,0,,0,,0,,0,,0,,23414,28.296231842022575
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Sobrepeso,0,0,0,0,0,0,82746,Mujer,0,,0,,0,,0,,0,,0,,25418,30.718101177096173
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Bajo peso,0,0,0,0,0,0,117140,Mujer,0,,0,,0,,0,,0,,0,,5403,4.612429571452963
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Normal,0,0,0,0,0,0,117140,Mujer,0,,0,,0,,0,,0,,0,,30530,26.062830800751236
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Obesidad,0,0,0,0,0,0,117140,Mujer,0,,0,,0,,0,,0,,0,,43037,36.739798531671504
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Sobrepeso,0,0,0,0,0,0,117140,Mujer,0,,0,,0,,0,,0,,0,,38170,32.5849410961243
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Bajo peso,0,0,0,0,0,0,91309,Mujer,0,,0,,0,,0,,0,,0,,4449,4.872466021969356
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Normal,0,0,0,0,0,0,91309,Mujer,0,,0,,0,,0,,0,,0,,24468,26.796920347391822
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Obesidad,0,0,0,0,0,0,91309,Mujer,0,,0,,0,,0,,0,,0,,33472,36.65794171439836
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Sobrepeso,0,0,0,0,0,0,91309,Mujer,0,,0,,0,,0,,0,,0,,28920,31.672671916240457
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Bajo peso,0,0,0,0,0,0,91730,Mujer,0,,0,,0,,0,,0,,0,,4069,4.4358443257385805
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Normal,0,0,0,0,0,0,91730,Mujer,0,,0,,0,,0,,0,,0,,21194,23.104763981249317
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Obesidad,0,0,0,0,0,0,91730,Mujer,0,,0,,0,,0,,0,,0,,37850,41.26240052327483
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Sobrepeso,0,0,0,0,0,0,91730,Mujer,0,,0,,0,,0,,0,,0,,28617,31.19699116973727
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Bajo peso,0,0,0,0,0,0,139624,Mujer,0,,0,,0,,0,,0,,0,,5296,3.7930441757863975
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Normal,0,0,0,0,0,0,139624,Mujer,0,,0,,0,,0,,0,,0,,31853,22.81341316679081
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Obesidad,0,0,0,0,0,0,139624,Mujer,0,,0,,0,,0,,0,,0,,58986,42.24631868446686
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Sobrepeso,0,0,0,0,0,0,139624,Mujer,0,,0,,0,,0,,0,,0,,43489,31.14722397295594
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Bajo peso,0,0,0,0,0,0,93295,Mujer,0,,0,,0,,0,,0,,0,,4092,4.386087142933705
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Normal,0,0,0,0,0,0,93295,Mujer,0,,0,,0,,0,,0,,0,,24348,26.0978616217375
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Obesidad,0,0,0,0,0,0,93295,Mujer,0,,0,,0,,0,,0,,0,,34807,37.30853743501795
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Sobrepeso,0,0,0,0,0,0,93295,Mujer,0,,0,,0,,0,,0,,0,,30048,32.20751380031084
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Bajo peso,0,0,0,0,0,0,100089,Mujer,0,,0,,0,,0,,0,,0,,6790,6.783962273576518
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Normal,0,0,0,0,0,0,100089,Mujer,0,,0,,0,,0,,0,,0,,29541,29.514731888619128
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Obesidad,0,0,0,0,0,0,100089,Mujer,0,,0,,0,,0,,0,,0,,33325,33.2953671232603
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Sobrepeso,0,0,0,0,0,0,100089,Mujer,0,,0,,0,,0,,0,,0,,30433,30.405938714544057
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Bajo peso,0,0,0,0,0,0,148261,Mujer,0,,0,,0,,0,,0,,0,,6081,4.101550643797087
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Normal,0,0,0,0,0,0,148261,Mujer,0,,0,,0,,0,,0,,0,,33125,22.342355710537497
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Obesidad,0,0,0,0,0,0,148261,Mujer,0,,0,,0,,0,,0,,0,,62392,42.08254362239564
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Sobrepeso,0,0,0,0,0,0,148261,Mujer,0,,0,,0,,0,,0,,0,,46663,31.473550023269777
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Bajo peso,0,0,0,0,0,0,116968,Mujer,0,,0,,0,,0,,0,,0,,4934,4.218247725873743
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Normal,0,0,0,0,0,0,116968,Mujer,0,,0,,0,,0,,0,,0,,26986,23.071267355174065
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Obesidad,0,0,0,0,0,0,116968,Mujer,0,,0,,0,,0,,0,,0,,48401,41.37969359140962
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Sobrepeso,0,0,0,0,0,0,116968,Mujer,0,,0,,0,,0,,0,,0,,36647,31.330791327542574

@@ -1,0 +1,73 @@
+﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,factor_riesgo,15_24_numerador,25_34_numerador,35_44_numerador,45_54_numerador,55_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_24,15_24_prevalencia_pct,25_34,25_34_prevalencia_pct,35_44,35_44_prevalencia_pct,45_54,45_54_prevalencia_pct,55_64,55_64_prevalencia_pct,65_mas,65_mas_prevalencia_pct,total_15_mas,total_15_mas_prevalencia_pct
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Colesterol elevado,0,0,0,0,0,0,30933,Hombre,0,,0,,0,,0,,0,,0,,3597,11.628358064203278
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Glicemia alterada,0,0,0,0,0,0,30933,Hombre,0,,0,,0,,0,,0,,0,,5305,17.14996928846216
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Presion arterial elevada,0,0,0,0,0,0,30933,Hombre,0,,0,,0,,0,,0,,0,,6917,22.36123234086574
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tabaquismo,0,0,0,0,0,0,30933,Hombre,0,,0,,0,,0,,0,,0,,7159,23.143568357417646
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Colesterol elevado,0,0,0,0,0,0,44473,Hombre,0,,0,,0,,0,,0,,0,,4908,11.035909428192387
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Glicemia alterada,0,0,0,0,0,0,44473,Hombre,0,,0,,0,,0,,0,,0,,12062,27.12207406741169
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Presion arterial elevada,0,0,0,0,0,0,44473,Hombre,0,,0,,0,,0,,0,,0,,11455,25.757200998358552
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tabaquismo,0,0,0,0,0,0,44473,Hombre,0,,0,,0,,0,,0,,0,,9765,21.95714253592067
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Colesterol elevado,0,0,0,0,0,0,27579,Hombre,0,,0,,0,,0,,0,,0,,2589,9.387577504623083
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Glicemia alterada,0,0,0,0,0,0,27579,Hombre,0,,0,,0,,0,,0,,0,,9935,36.023786214148444
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Presion arterial elevada,0,0,0,0,0,0,27579,Hombre,0,,0,,0,,0,,0,,0,,6365,23.0791544290946
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Tabaquismo,0,0,0,0,0,0,27579,Hombre,0,,0,,0,,0,,0,,0,,5710,20.704158961528698
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Colesterol elevado,0,0,0,0,0,0,33792,Hombre,0,,0,,0,,0,,0,,0,,1391,4.116358901515151
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Glicemia alterada,0,0,0,0,0,0,33792,Hombre,0,,0,,0,,0,,0,,0,,3121,9.235913825757576
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Presion arterial elevada,0,0,0,0,0,0,33792,Hombre,0,,0,,0,,0,,0,,0,,6992,20.69128787878788
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tabaquismo,0,0,0,0,0,0,33792,Hombre,0,,0,,0,,0,,0,,0,,5947,17.59883996212121
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Colesterol elevado,0,0,0,0,0,0,49349,Hombre,0,,0,,0,,0,,0,,0,,3480,7.051814626436199
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Glicemia alterada,0,0,0,0,0,0,49349,Hombre,0,,0,,0,,0,,0,,0,,10646,21.57287888305741
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Presion arterial elevada,0,0,0,0,0,0,49349,Hombre,0,,0,,0,,0,,0,,0,,11700,23.708687106121705
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tabaquismo,0,0,0,0,0,0,49349,Hombre,0,,0,,0,,0,,0,,0,,12421,25.169709619242536
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Colesterol elevado,0,0,0,0,0,0,35722,Hombre,0,,0,,0,,0,,0,,0,,2112,5.912322938245339
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Glicemia alterada,0,0,0,0,0,0,35722,Hombre,0,,0,,0,,0,,0,,0,,6448,18.05050109176418
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Presion arterial elevada,0,0,0,0,0,0,35722,Hombre,0,,0,,0,,0,,0,,0,,7244,20.278819774928618
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tabaquismo,0,0,0,0,0,0,35722,Hombre,0,,0,,0,,0,,0,,0,,7624,21.34259000055988
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Colesterol elevado,0,0,0,0,0,0,38263,Hombre,0,,0,,0,,0,,0,,0,,4447,11.622193764210856
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Glicemia alterada,0,0,0,0,0,0,38263,Hombre,0,,0,,0,,0,,0,,0,,7771,20.309437315422212
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Presion arterial elevada,0,0,0,0,0,0,38263,Hombre,0,,0,,0,,0,,0,,0,,7288,19.047121239840052
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tabaquismo,0,0,0,0,0,0,38263,Hombre,0,,0,,0,,0,,0,,0,,8421,22.008206361236702
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Colesterol elevado,0,0,0,0,0,0,57046,Hombre,0,,0,,0,,0,,0,,0,,6078,10.654559478315745
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Glicemia alterada,0,0,0,0,0,0,57046,Hombre,0,,0,,0,,0,,0,,0,,15259,26.748588858114502
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Presion arterial elevada,0,0,0,0,0,0,57046,Hombre,0,,0,,0,,0,,0,,0,,13828,24.2400869473758
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tabaquismo,0,0,0,0,0,0,57046,Hombre,0,,0,,0,,0,,0,,0,,12745,22.341619044280055
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Colesterol elevado,0,0,0,0,0,0,34577,Hombre,0,,0,,0,,0,,0,,0,,3084,8.91922376145993
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Glicemia alterada,0,0,0,0,0,0,34577,Hombre,0,,0,,0,,0,,0,,0,,10786,31.194146397894556
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Presion arterial elevada,0,0,0,0,0,0,34577,Hombre,0,,0,,0,,0,,0,,0,,7865,22.74633426844434
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Tabaquismo,0,0,0,0,0,0,34577,Hombre,0,,0,,0,,0,,0,,0,,7425,21.473812071608293
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Colesterol elevado,0,0,0,0,0,0,41542,Hombre,0,,0,,0,,0,,0,,0,,1449,3.4880362043233353
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Glicemia alterada,0,0,0,0,0,0,41542,Hombre,0,,0,,0,,0,,0,,0,,5336,12.844831736555776
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Presion arterial elevada,0,0,0,0,0,0,41542,Hombre,0,,0,,0,,0,,0,,0,,7774,18.71359106446488
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tabaquismo,0,0,0,0,0,0,41542,Hombre,0,,0,,0,,0,,0,,0,,7122,17.14409513263685
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Colesterol elevado,0,0,0,0,0,0,65017,Hombre,0,,0,,0,,0,,0,,0,,4048,6.22606395250473
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Glicemia alterada,0,0,0,0,0,0,65017,Hombre,0,,0,,0,,0,,0,,0,,11740,18.05681590968516
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Presion arterial elevada,0,0,0,0,0,0,65017,Hombre,0,,0,,0,,0,,0,,0,,14575,22.417213959425997
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tabaquismo,0,0,0,0,0,0,65017,Hombre,0,,0,,0,,0,,0,,0,,16313,25.090360982512266
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Colesterol elevado,0,0,0,0,0,0,43735,Hombre,0,,0,,0,,0,,0,,0,,2260,5.167485995198354
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Glicemia alterada,0,0,0,0,0,0,43735,Hombre,0,,0,,0,,0,,0,,0,,6242,14.272321938950498
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Presion arterial elevada,0,0,0,0,0,0,43735,Hombre,0,,0,,0,,0,,0,,0,,9297,21.25757402538013
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tabaquismo,0,0,0,0,0,0,43735,Hombre,0,,0,,0,,0,,0,,0,,10630,24.305476163255975
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Colesterol elevado,0,0,0,0,0,0,53830,Hombre,0,,0,,0,,0,,0,,0,,4727,8.781348690321382
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Glicemia alterada,0,0,0,0,0,0,53830,Hombre,0,,0,,0,,0,,0,,0,,10791,20.046442504179826
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Presion arterial elevada,0,0,0,0,0,0,53830,Hombre,0,,0,,0,,0,,0,,0,,11044,20.51644064647966
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tabaquismo,0,0,0,0,0,0,53830,Hombre,0,,0,,0,,0,,0,,0,,11565,21.484302433587217
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Colesterol elevado,0,0,0,0,0,0,85988,Hombre,0,,0,,0,,0,,0,,0,,9429,10.965483555845001
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Glicemia alterada,0,0,0,0,0,0,85988,Hombre,0,,0,,0,,0,,0,,0,,21836,25.39424105689166
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Presion arterial elevada,0,0,0,0,0,0,85988,Hombre,0,,0,,0,,0,,0,,0,,17293,20.110945713355353
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tabaquismo,0,0,0,0,0,0,85988,Hombre,0,,0,,0,,0,,0,,0,,17455,20.29934409452482
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Colesterol elevado,0,0,0,0,0,0,48209,Hombre,0,,0,,0,,0,,0,,0,,5335,11.066398390342053
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Glicemia alterada,0,0,0,0,0,0,48209,Hombre,0,,0,,0,,0,,0,,0,,16972,35.20504470119687
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Presion arterial elevada,0,0,0,0,0,0,48209,Hombre,0,,0,,0,,0,,0,,0,,12291,25.495239478105745
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Tabaquismo,0,0,0,0,0,0,48209,Hombre,0,,0,,0,,0,,0,,0,,10148,21.050011408658133
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Colesterol elevado,0,0,0,0,0,0,52976,Hombre,0,,0,,0,,0,,0,,0,,2612,4.930534581697373
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Glicemia alterada,0,0,0,0,0,0,52976,Hombre,0,,0,,0,,0,,0,,0,,5919,11.172983992751433
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Presion arterial elevada,0,0,0,0,0,0,52976,Hombre,0,,0,,0,,0,,0,,0,,8494,16.03367562669888
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tabaquismo,0,0,0,0,0,0,52976,Hombre,0,,0,,0,,0,,0,,0,,9463,17.86280579885231
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Colesterol elevado,0,0,0,0,0,0,90433,Hombre,0,,0,,0,,0,,0,,0,,7084,7.833423639600588
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Glicemia alterada,0,0,0,0,0,0,90433,Hombre,0,,0,,0,,0,,0,,0,,17399,19.239658089414263
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Presion arterial elevada,0,0,0,0,0,0,90433,Hombre,0,,0,,0,,0,,0,,0,,21247,23.494741963663706
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tabaquismo,0,0,0,0,0,0,90433,Hombre,0,,0,,0,,0,,0,,0,,21848,24.15932237125828
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Colesterol elevado,0,0,0,0,0,0,60456,Hombre,0,,0,,0,,0,,0,,0,,4242,7.016673283048829
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Glicemia alterada,0,0,0,0,0,0,60456,Hombre,0,,0,,0,,0,,0,,0,,8758,14.486568744210665
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Presion arterial elevada,0,0,0,0,0,0,60456,Hombre,0,,0,,0,,0,,0,,0,,12853,21.260089982797407
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tabaquismo,0,0,0,0,0,0,60456,Hombre,0,,0,,0,,0,,0,,0,,12167,20.12538044197433

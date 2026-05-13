@@ -1,0 +1,625 @@
+﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,IdComuna_master,comuna_master,factor_riesgo,15_24_numerador,25_34_numerador,35_44_numerador,45_54_numerador,55_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_24,15_24_prevalencia_pct,25_34,25_34_prevalencia_pct,35_44,35_44_prevalencia_pct,45_54,45_54_prevalencia_pct,55_64,55_64_prevalencia_pct,65_mas,65_mas_prevalencia_pct,total_15_mas,total_15_mas_prevalencia_pct
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Colesterol elevado,0,0,0,0,0,0,5997,Hombre,0,,0,,0,,0,,0,,0,,509,8.487577121894281
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Glicemia alterada,0,0,0,0,0,0,5997,Hombre,0,,0,,0,,0,,0,,0,,866,14.440553610138402
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Presion arterial elevada,0,0,0,0,0,0,5997,Hombre,0,,0,,0,,0,,0,,0,,1555,25.92963148240787
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Tabaquismo,0,0,0,0,0,0,5997,Hombre,0,,0,,0,,0,,0,,0,,1429,23.828580957145242
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Colesterol elevado,0,0,0,0,0,0,4029,Hombre,0,,0,,0,,0,,0,,0,,424,10.523703152146934
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Glicemia alterada,0,0,0,0,0,0,4029,Hombre,0,,0,,0,,0,,0,,0,,1577,39.14122611069744
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Presion arterial elevada,0,0,0,0,0,0,4029,Hombre,0,,0,,0,,0,,0,,0,,1259,31.248448746587243
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Tabaquismo,0,0,0,0,0,0,4029,Hombre,0,,0,,0,,0,,0,,0,,1103,27.376520228344503
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Colesterol elevado,0,0,0,0,0,0,2143,Hombre,0,,0,,0,,0,,0,,0,,63,2.9398040130657956
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Glicemia alterada,0,0,0,0,0,0,2143,Hombre,0,,0,,0,,0,,0,,0,,112,5.226318245450303
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Presion arterial elevada,0,0,0,0,0,0,2143,Hombre,0,,0,,0,,0,,0,,0,,447,20.858609426038264
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Tabaquismo,0,0,0,0,0,0,2143,Hombre,0,,0,,0,,0,,0,,0,,303,14.139057396173587
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Colesterol elevado,0,0,0,0,0,0,4959,Hombre,0,,0,,0,,0,,0,,0,,371,7.481347045775358
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Glicemia alterada,0,0,0,0,0,0,4959,Hombre,0,,0,,0,,0,,0,,0,,620,12.502520669489817
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Presion arterial elevada,0,0,0,0,0,0,4959,Hombre,0,,0,,0,,0,,0,,0,,1125,22.686025408348456
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Tabaquismo,0,0,0,0,0,0,4959,Hombre,0,,0,,0,,0,,0,,0,,1168,23.553135712845332
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Colesterol elevado,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,850,15.539305301645337
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Glicemia alterada,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,1137,20.786106032906766
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Presion arterial elevada,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,1677,30.6581352833638
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Tabaquismo,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,1320,24.131627056672762
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Colesterol elevado,0,0,0,0,0,0,5245,Hombre,0,,0,,0,,0,,0,,0,,1122,21.39180171591992
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Glicemia alterada,0,0,0,0,0,0,5245,Hombre,0,,0,,0,,0,,0,,0,,597,11.382268827454718
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Presion arterial elevada,0,0,0,0,0,0,5245,Hombre,0,,0,,0,,0,,0,,0,,192,3.6606291706387037
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Tabaquismo,0,0,0,0,0,0,5245,Hombre,0,,0,,0,,0,,0,,0,,980,18.684461391801715
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Colesterol elevado,0,0,0,0,0,0,2752,Hombre,0,,0,,0,,0,,0,,0,,255,9.265988372093023
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Glicemia alterada,0,0,0,0,0,0,2752,Hombre,0,,0,,0,,0,,0,,0,,382,13.880813953488373
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Presion arterial elevada,0,0,0,0,0,0,2752,Hombre,0,,0,,0,,0,,0,,0,,622,22.601744186046513
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Tabaquismo,0,0,0,0,0,0,2752,Hombre,0,,0,,0,,0,,0,,0,,797,28.960755813953487
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Colesterol elevado,0,0,0,0,0,0,338,Hombre,0,,0,,0,,0,,0,,0,,3,0.8875739644970414
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Glicemia alterada,0,0,0,0,0,0,338,Hombre,0,,0,,0,,0,,0,,0,,14,4.142011834319527
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Presion arterial elevada,0,0,0,0,0,0,338,Hombre,0,,0,,0,,0,,0,,0,,40,11.834319526627219
+2023,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Tabaquismo,0,0,0,0,0,0,338,Hombre,0,,0,,0,,0,,0,,0,,59,17.45562130177515
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Colesterol elevado,0,0,0,0,0,0,3494,Hombre,0,,0,,0,,0,,0,,0,,273,7.813394390383515
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Glicemia alterada,0,0,0,0,0,0,3494,Hombre,0,,0,,0,,0,,0,,0,,718,20.54951345163137
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Presion arterial elevada,0,0,0,0,0,0,3494,Hombre,0,,0,,0,,0,,0,,0,,1094,31.310818546078995
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Tabaquismo,0,0,0,0,0,0,3494,Hombre,0,,0,,0,,0,,0,,0,,698,19.977103606182027
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Colesterol elevado,0,0,0,0,0,0,5812,Hombre,0,,0,,0,,0,,0,,0,,687,11.820371644872678
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Glicemia alterada,0,0,0,0,0,0,5812,Hombre,0,,0,,0,,0,,0,,0,,1257,21.627666896077084
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Presion arterial elevada,0,0,0,0,0,0,5812,Hombre,0,,0,,0,,0,,0,,0,,1502,25.843083275980728
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Tabaquismo,0,0,0,0,0,0,5812,Hombre,0,,0,,0,,0,,0,,0,,1322,22.746042670337232
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Colesterol elevado,0,0,0,0,0,0,9602,Hombre,0,,0,,0,,0,,0,,0,,1575,16.402832743178504
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Glicemia alterada,0,0,0,0,0,0,9602,Hombre,0,,0,,0,,0,,0,,0,,4392,45.740470735263486
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Presion arterial elevada,0,0,0,0,0,0,9602,Hombre,0,,0,,0,,0,,0,,0,,2699,28.10872734846907
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Tabaquismo,0,0,0,0,0,0,9602,Hombre,0,,0,,0,,0,,0,,0,,2281,23.755467610914394
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Colesterol elevado,0,0,0,0,0,0,4329,Hombre,0,,0,,0,,0,,0,,0,,159,3.6729036729036726
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Glicemia alterada,0,0,0,0,0,0,4329,Hombre,0,,0,,0,,0,,0,,0,,378,8.731808731808732
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Presion arterial elevada,0,0,0,0,0,0,4329,Hombre,0,,0,,0,,0,,0,,0,,894,20.65142065142065
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Tabaquismo,0,0,0,0,0,0,4329,Hombre,0,,0,,0,,0,,0,,0,,644,14.876414876414875
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Colesterol elevado,0,0,0,0,0,0,5143,Hombre,0,,0,,0,,0,,0,,0,,470,9.138635037915613
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Glicemia alterada,0,0,0,0,0,0,5143,Hombre,0,,0,,0,,0,,0,,0,,1198,23.29379739451682
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Presion arterial elevada,0,0,0,0,0,0,5143,Hombre,0,,0,,0,,0,,0,,0,,1344,26.132607427571457
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Tabaquismo,0,0,0,0,0,0,5143,Hombre,0,,0,,0,,0,,0,,0,,1122,21.816060664981528
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Colesterol elevado,0,0,0,0,0,0,3823,Hombre,0,,0,,0,,0,,0,,0,,356,9.312058592728224
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Glicemia alterada,0,0,0,0,0,0,3823,Hombre,0,,0,,0,,0,,0,,0,,693,18.127125294271515
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Presion arterial elevada,0,0,0,0,0,0,3823,Hombre,0,,0,,0,,0,,0,,0,,837,21.893800680094166
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Tabaquismo,0,0,0,0,0,0,3823,Hombre,0,,0,,0,,0,,0,,0,,818,21.396808788909233
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Colesterol elevado,0,0,0,0,0,0,547,Hombre,0,,0,,0,,0,,0,,0,,27,4.93601462522852
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Glicemia alterada,0,0,0,0,0,0,547,Hombre,0,,0,,0,,0,,0,,0,,50,9.140767824497258
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Presion arterial elevada,0,0,0,0,0,0,547,Hombre,0,,0,,0,,0,,0,,0,,89,16.270566727605118
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Tabaquismo,0,0,0,0,0,0,547,Hombre,0,,0,,0,,0,,0,,0,,102,18.647166361974406
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Colesterol elevado,0,0,0,0,0,0,321,Hombre,0,,0,,0,,0,,0,,0,,2,0.6230529595015576
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Glicemia alterada,0,0,0,0,0,0,321,Hombre,0,,0,,0,,0,,0,,0,,45,14.018691588785046
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Presion arterial elevada,0,0,0,0,0,0,321,Hombre,0,,0,,0,,0,,0,,0,,65,20.24922118380062
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Tabaquismo,0,0,0,0,0,0,321,Hombre,0,,0,,0,,0,,0,,0,,67,20.87227414330218
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Colesterol elevado,0,0,0,0,0,0,817,Hombre,0,,0,,0,,0,,0,,0,,45,5.507955936352509
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Glicemia alterada,0,0,0,0,0,0,817,Hombre,0,,0,,0,,0,,0,,0,,249,30.47735618115055
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Presion arterial elevada,0,0,0,0,0,0,817,Hombre,0,,0,,0,,0,,0,,0,,274,33.53733170134639
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Tabaquismo,0,0,0,0,0,0,817,Hombre,0,,0,,0,,0,,0,,0,,187,22.88861689106487
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Colesterol elevado,0,0,0,0,0,0,618,Hombre,0,,0,,0,,0,,0,,0,,73,11.812297734627832
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Glicemia alterada,0,0,0,0,0,0,618,Hombre,0,,0,,0,,0,,0,,0,,67,10.841423948220065
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Presion arterial elevada,0,0,0,0,0,0,618,Hombre,0,,0,,0,,0,,0,,0,,126,20.388349514563107
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Tabaquismo,0,0,0,0,0,0,618,Hombre,0,,0,,0,,0,,0,,0,,76,12.297734627831716
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Colesterol elevado,0,0,0,0,0,0,2149,Hombre,0,,0,,0,,0,,0,,0,,373,17.35691019078641
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Glicemia alterada,0,0,0,0,0,0,2149,Hombre,0,,0,,0,,0,,0,,0,,931,43.32247557003257
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Presion arterial elevada,0,0,0,0,0,0,2149,Hombre,0,,0,,0,,0,,0,,0,,565,26.29129827826896
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Tabaquismo,0,0,0,0,0,0,2149,Hombre,0,,0,,0,,0,,0,,0,,504,23.452768729641694
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Colesterol elevado,0,0,0,0,0,0,1252,Hombre,0,,0,,0,,0,,0,,0,,112,8.945686900958465
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Glicemia alterada,0,0,0,0,0,0,1252,Hombre,0,,0,,0,,0,,0,,0,,320,25.559105431309902
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Presion arterial elevada,0,0,0,0,0,0,1252,Hombre,0,,0,,0,,0,,0,,0,,291,23.242811501597444
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Tabaquismo,0,0,0,0,0,0,1252,Hombre,0,,0,,0,,0,,0,,0,,400,31.948881789137378
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Colesterol elevado,0,0,0,0,0,0,1319,Hombre,0,,0,,0,,0,,0,,0,,124,9.401061410159212
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Glicemia alterada,0,0,0,0,0,0,1319,Hombre,0,,0,,0,,0,,0,,0,,396,30.022744503411676
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Presion arterial elevada,0,0,0,0,0,0,1319,Hombre,0,,0,,0,,0,,0,,0,,345,26.156178923426836
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Tabaquismo,0,0,0,0,0,0,1319,Hombre,0,,0,,0,,0,,0,,0,,298,22.592873388931007
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Colesterol elevado,0,0,0,0,0,0,2029,Hombre,0,,0,,0,,0,,0,,0,,46,2.2671266633809757
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Glicemia alterada,0,0,0,0,0,0,2029,Hombre,0,,0,,0,,0,,0,,0,,145,7.146377525874816
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Presion arterial elevada,0,0,0,0,0,0,2029,Hombre,0,,0,,0,,0,,0,,0,,500,24.642681123706257
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Tabaquismo,0,0,0,0,0,0,2029,Hombre,0,,0,,0,,0,,0,,0,,430,21.19270576638738
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Colesterol elevado,0,0,0,0,0,0,3218,Hombre,0,,0,,0,,0,,0,,0,,586,18.210068365444375
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Glicemia alterada,0,0,0,0,0,0,3218,Hombre,0,,0,,0,,0,,0,,0,,1223,38.004972032318214
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Presion arterial elevada,0,0,0,0,0,0,3218,Hombre,0,,0,,0,,0,,0,,0,,830,25.79241765071473
+2023,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Tabaquismo,0,0,0,0,0,0,3218,Hombre,0,,0,,0,,0,,0,,0,,816,25.357364822871347
+2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Colesterol elevado,0,0,0,0,0,0,9315,Hombre,0,,0,,0,,0,,0,,0,,1051,11.28287707997853
+2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Glicemia alterada,0,0,0,0,0,0,9315,Hombre,0,,0,,0,,0,,0,,0,,2015,21.631776704240472
+2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Presion arterial elevada,0,0,0,0,0,0,9315,Hombre,0,,0,,0,,0,,0,,0,,1442,15.480407944176061
+2023,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Tabaquismo,0,0,0,0,0,0,9315,Hombre,0,,0,,0,,0,,0,,0,,1840,19.753086419753085
+2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Colesterol elevado,0,0,0,0,0,0,1606,Hombre,0,,0,,0,,0,,0,,0,,151,9.402241594022415
+2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Glicemia alterada,0,0,0,0,0,0,1606,Hombre,0,,0,,0,,0,,0,,0,,609,37.92029887920299
+2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Presion arterial elevada,0,0,0,0,0,0,1606,Hombre,0,,0,,0,,0,,0,,0,,484,30.136986301369863
+2023,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Tabaquismo,0,0,0,0,0,0,1606,Hombre,0,,0,,0,,0,,0,,0,,299,18.617683686176836
+2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Colesterol elevado,0,0,0,0,0,0,3028,Hombre,0,,0,,0,,0,,0,,0,,301,9.940554821664465
+2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Glicemia alterada,0,0,0,0,0,0,3028,Hombre,0,,0,,0,,0,,0,,0,,1318,43.52708058124175
+2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Presion arterial elevada,0,0,0,0,0,0,3028,Hombre,0,,0,,0,,0,,0,,0,,853,28.170409511228534
+2023,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Tabaquismo,0,0,0,0,0,0,3028,Hombre,0,,0,,0,,0,,0,,0,,700,23.11756935270806
+2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Colesterol elevado,0,0,0,0,0,0,13630,Hombre,0,,0,,0,,0,,0,,0,,1086,7.967718268525312
+2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Glicemia alterada,0,0,0,0,0,0,13630,Hombre,0,,0,,0,,0,,0,,0,,5993,43.96918561995598
+2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Presion arterial elevada,0,0,0,0,0,0,13630,Hombre,0,,0,,0,,0,,0,,0,,3586,26.30961115187087
+2023,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Tabaquismo,0,0,0,0,0,0,13630,Hombre,0,,0,,0,,0,,0,,0,,2871,21.06382978723404
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Colesterol elevado,0,0,0,0,0,0,2068,Hombre,0,,0,,0,,0,,0,,0,,83,4.013539651837524
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Glicemia alterada,0,0,0,0,0,0,2068,Hombre,0,,0,,0,,0,,0,,0,,188,9.090909090909092
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Presion arterial elevada,0,0,0,0,0,0,2068,Hombre,0,,0,,0,,0,,0,,0,,582,28.1431334622824
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Tabaquismo,0,0,0,0,0,0,2068,Hombre,0,,0,,0,,0,,0,,0,,491,23.74274661508704
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Colesterol elevado,0,0,0,0,0,0,4204,Hombre,0,,0,,0,,0,,0,,0,,104,2.47383444338725
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Glicemia alterada,0,0,0,0,0,0,4204,Hombre,0,,0,,0,,0,,0,,0,,127,3.0209324452902
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Presion arterial elevada,0,0,0,0,0,0,4204,Hombre,0,,0,,0,,0,,0,,0,,208,4.9476688867745
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Tabaquismo,0,0,0,0,0,0,4204,Hombre,0,,0,,0,,0,,0,,0,,321,7.635585156993339
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Colesterol elevado,0,0,0,0,0,0,1361,Hombre,0,,0,,0,,0,,0,,0,,137,10.066127847171199
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Glicemia alterada,0,0,0,0,0,0,1361,Hombre,0,,0,,0,,0,,0,,0,,173,12.711241734019104
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Presion arterial elevada,0,0,0,0,0,0,1361,Hombre,0,,0,,0,,0,,0,,0,,195,14.327700220426157
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Tabaquismo,0,0,0,0,0,0,1361,Hombre,0,,0,,0,,0,,0,,0,,189,13.886847905951505
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Colesterol elevado,0,0,0,0,0,0,6739,Hombre,0,,0,,0,,0,,0,,0,,368,5.460750853242321
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Glicemia alterada,0,0,0,0,0,0,6739,Hombre,0,,0,,0,,0,,0,,0,,1497,22.21397833506455
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Presion arterial elevada,0,0,0,0,0,0,6739,Hombre,0,,0,,0,,0,,0,,0,,1466,21.75396943166642
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Tabaquismo,0,0,0,0,0,0,6739,Hombre,0,,0,,0,,0,,0,,0,,1058,15.699658703071673
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Colesterol elevado,0,0,0,0,0,0,4319,Hombre,0,,0,,0,,0,,0,,0,,93,2.153276221347534
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Glicemia alterada,0,0,0,0,0,0,4319,Hombre,0,,0,,0,,0,,0,,0,,334,7.733271590645983
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Presion arterial elevada,0,0,0,0,0,0,4319,Hombre,0,,0,,0,,0,,0,,0,,559,12.94281083584163
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Tabaquismo,0,0,0,0,0,0,4319,Hombre,0,,0,,0,,0,,0,,0,,570,13.197499421162306
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Colesterol elevado,0,0,0,0,0,0,9921,Hombre,0,,0,,0,,0,,0,,0,,329,3.3161979639149277
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Glicemia alterada,0,0,0,0,0,0,9921,Hombre,0,,0,,0,,0,,0,,0,,155,1.5623425057957867
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Presion arterial elevada,0,0,0,0,0,0,9921,Hombre,0,,0,,0,,0,,0,,0,,2706,27.275476262473543
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Tabaquismo,0,0,0,0,0,0,9921,Hombre,0,,0,,0,,0,,0,,0,,2378,23.969357927628263
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Colesterol elevado,0,0,0,0,0,0,4141,Hombre,0,,0,,0,,0,,0,,0,,170,4.105288577638252
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Glicemia alterada,0,0,0,0,0,0,4141,Hombre,0,,0,,0,,0,,0,,0,,359,8.669403525718424
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Presion arterial elevada,0,0,0,0,0,0,4141,Hombre,0,,0,,0,,0,,0,,0,,1042,25.16300410528858
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Tabaquismo,0,0,0,0,0,0,4141,Hombre,0,,0,,0,,0,,0,,0,,758,18.30475730499879
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Colesterol elevado,0,0,0,0,0,0,1039,Hombre,0,,0,,0,,0,,0,,0,,107,10.298363811357074
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Glicemia alterada,0,0,0,0,0,0,1039,Hombre,0,,0,,0,,0,,0,,0,,288,27.718960538979786
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Presion arterial elevada,0,0,0,0,0,0,1039,Hombre,0,,0,,0,,0,,0,,0,,234,22.52165543792108
+2023,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Tabaquismo,0,0,0,0,0,0,1039,Hombre,0,,0,,0,,0,,0,,0,,182,17.51684311838306
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Colesterol elevado,0,0,0,0,0,0,8606,Hombre,0,,0,,0,,0,,0,,0,,545,6.332791075993494
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Glicemia alterada,0,0,0,0,0,0,8606,Hombre,0,,0,,0,,0,,0,,0,,1350,15.686730188240764
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Presion arterial elevada,0,0,0,0,0,0,8606,Hombre,0,,0,,0,,0,,0,,0,,2350,27.306530327678363
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Tabaquismo,0,0,0,0,0,0,8606,Hombre,0,,0,,0,,0,,0,,0,,2352,27.329769927957237
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Colesterol elevado,0,0,0,0,0,0,3636,Hombre,0,,0,,0,,0,,0,,0,,336,9.24092409240924
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Glicemia alterada,0,0,0,0,0,0,3636,Hombre,0,,0,,0,,0,,0,,0,,1366,37.56875687568757
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Presion arterial elevada,0,0,0,0,0,0,3636,Hombre,0,,0,,0,,0,,0,,0,,956,26.292629262926294
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Tabaquismo,0,0,0,0,0,0,3636,Hombre,0,,0,,0,,0,,0,,0,,737,20.26952695269527
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Colesterol elevado,0,0,0,0,0,0,3010,Hombre,0,,0,,0,,0,,0,,0,,181,6.013289036544851
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Glicemia alterada,0,0,0,0,0,0,3010,Hombre,0,,0,,0,,0,,0,,0,,326,10.830564784053157
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Presion arterial elevada,0,0,0,0,0,0,3010,Hombre,0,,0,,0,,0,,0,,0,,565,18.77076411960133
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Tabaquismo,0,0,0,0,0,0,3010,Hombre,0,,0,,0,,0,,0,,0,,764,25.382059800664454
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Colesterol elevado,0,0,0,0,0,0,6269,Hombre,0,,0,,0,,0,,0,,0,,289,4.609985643643324
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Glicemia alterada,0,0,0,0,0,0,6269,Hombre,0,,0,,0,,0,,0,,0,,1077,17.17977348859467
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Presion arterial elevada,0,0,0,0,0,0,6269,Hombre,0,,0,,0,,0,,0,,0,,1335,21.295262402297016
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Tabaquismo,0,0,0,0,0,0,6269,Hombre,0,,0,,0,,0,,0,,0,,1466,23.38490987398309
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Colesterol elevado,0,0,0,0,0,0,4722,Hombre,0,,0,,0,,0,,0,,0,,690,14.612452350698856
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Glicemia alterada,0,0,0,0,0,0,4722,Hombre,0,,0,,0,,0,,0,,0,,1887,39.96188055908513
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Presion arterial elevada,0,0,0,0,0,0,4722,Hombre,0,,0,,0,,0,,0,,0,,1049,22.215163066497247
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Tabaquismo,0,0,0,0,0,0,4722,Hombre,0,,0,,0,,0,,0,,0,,1235,26.154171961033462
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Colesterol elevado,0,0,0,0,0,0,4586,Hombre,0,,0,,0,,0,,0,,0,,190,4.143044047099869
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Glicemia alterada,0,0,0,0,0,0,4586,Hombre,0,,0,,0,,0,,0,,0,,452,9.856083733100741
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Presion arterial elevada,0,0,0,0,0,0,4586,Hombre,0,,0,,0,,0,,0,,0,,1165,25.403401657217618
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Tabaquismo,0,0,0,0,0,0,4586,Hombre,0,,0,,0,,0,,0,,0,,1034,22.546881814217183
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Colesterol elevado,0,0,0,0,0,0,9459,Hombre,0,,0,,0,,0,,0,,0,,469,4.958240828840258
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Glicemia alterada,0,0,0,0,0,0,9459,Hombre,0,,0,,0,,0,,0,,0,,2056,21.73591288719738
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Presion arterial elevada,0,0,0,0,0,0,9459,Hombre,0,,0,,0,,0,,0,,0,,1742,18.416323078549528
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Tabaquismo,0,0,0,0,0,0,9459,Hombre,0,,0,,0,,0,,0,,0,,2306,24.378898403636747
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Colesterol elevado,0,0,0,0,0,0,4322,Hombre,0,,0,,0,,0,,0,,0,,93,2.151781582600648
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Glicemia alterada,0,0,0,0,0,0,4322,Hombre,0,,0,,0,,0,,0,,0,,1393,32.23044886626562
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Presion arterial elevada,0,0,0,0,0,0,4322,Hombre,0,,0,,0,,0,,0,,0,,1052,24.340583063396576
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Tabaquismo,0,0,0,0,0,0,4322,Hombre,0,,0,,0,,0,,0,,0,,1183,27.371587228135123
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Colesterol elevado,0,0,0,0,0,0,1050,Hombre,0,,0,,0,,0,,0,,0,,81,7.7142857142857135
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Glicemia alterada,0,0,0,0,0,0,1050,Hombre,0,,0,,0,,0,,0,,0,,229,21.80952380952381
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Presion arterial elevada,0,0,0,0,0,0,1050,Hombre,0,,0,,0,,0,,0,,0,,239,22.76190476190476
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Tabaquismo,0,0,0,0,0,0,1050,Hombre,0,,0,,0,,0,,0,,0,,237,22.57142857142857
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Colesterol elevado,0,0,0,0,0,0,3689,Hombre,0,,0,,0,,0,,0,,0,,606,16.427216047709408
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Glicemia alterada,0,0,0,0,0,0,3689,Hombre,0,,0,,0,,0,,0,,0,,510,13.82488479262673
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Presion arterial elevada,0,0,0,0,0,0,3689,Hombre,0,,0,,0,,0,,0,,0,,1247,33.80319869883437
+2023,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Tabaquismo,0,0,0,0,0,0,3689,Hombre,0,,0,,0,,0,,0,,0,,1107,30.008132285172135
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Colesterol elevado,0,0,0,0,0,0,10074,Hombre,0,,0,,0,,0,,0,,0,,1013,10.055588644034147
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Glicemia alterada,0,0,0,0,0,0,10074,Hombre,0,,0,,0,,0,,0,,0,,1810,17.967043875322613
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Presion arterial elevada,0,0,0,0,0,0,10074,Hombre,0,,0,,0,,0,,0,,0,,2334,23.168552709946397
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Tabaquismo,0,0,0,0,0,0,10074,Hombre,0,,0,,0,,0,,0,,0,,1734,17.212626563430614
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Colesterol elevado,0,0,0,0,0,0,4380,Hombre,0,,0,,0,,0,,0,,0,,44,1.004566210045662
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Glicemia alterada,0,0,0,0,0,0,4380,Hombre,0,,0,,0,,0,,0,,0,,55,1.2557077625570776
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Presion arterial elevada,0,0,0,0,0,0,4380,Hombre,0,,0,,0,,0,,0,,0,,631,14.406392694063927
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Tabaquismo,0,0,0,0,0,0,4380,Hombre,0,,0,,0,,0,,0,,0,,865,19.748858447488583
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Colesterol elevado,0,0,0,0,0,0,5232,Hombre,0,,0,,0,,0,,0,,0,,199,3.8035168195718656
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Glicemia alterada,0,0,0,0,0,0,5232,Hombre,0,,0,,0,,0,,0,,0,,768,14.678899082568808
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Presion arterial elevada,0,0,0,0,0,0,5232,Hombre,0,,0,,0,,0,,0,,0,,1643,31.40290519877676
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Tabaquismo,0,0,0,0,0,0,5232,Hombre,0,,0,,0,,0,,0,,0,,1343,25.66896024464832
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Colesterol elevado,0,0,0,0,0,0,3349,Hombre,0,,0,,0,,0,,0,,0,,61,1.821439235592714
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Glicemia alterada,0,0,0,0,0,0,3349,Hombre,0,,0,,0,,0,,0,,0,,909,27.14243057629143
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Presion arterial elevada,0,0,0,0,0,0,3349,Hombre,0,,0,,0,,0,,0,,0,,894,26.694535682293225
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Tabaquismo,0,0,0,0,0,0,3349,Hombre,0,,0,,0,,0,,0,,0,,650,19.408778739922365
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Colesterol elevado,0,0,0,0,0,0,11481,Hombre,0,,0,,0,,0,,0,,0,,744,6.480271753331592
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Glicemia alterada,0,0,0,0,0,0,11481,Hombre,0,,0,,0,,0,,0,,0,,2579,22.46320006968034
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Presion arterial elevada,0,0,0,0,0,0,11481,Hombre,0,,0,,0,,0,,0,,0,,1421,12.37697064715617
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Tabaquismo,0,0,0,0,0,0,11481,Hombre,0,,0,,0,,0,,0,,0,,2748,23.93519728246668
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Colesterol elevado,0,0,0,0,0,0,1145,Hombre,0,,0,,0,,0,,0,,0,,48,4.192139737991266
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Glicemia alterada,0,0,0,0,0,0,1145,Hombre,0,,0,,0,,0,,0,,0,,327,28.558951965065503
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Presion arterial elevada,0,0,0,0,0,0,1145,Hombre,0,,0,,0,,0,,0,,0,,317,27.685589519650655
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Tabaquismo,0,0,0,0,0,0,1145,Hombre,0,,0,,0,,0,,0,,0,,272,23.75545851528384
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Colesterol elevado,0,0,0,0,0,0,61,Hombre,0,,0,,0,,0,,0,,0,,3,4.918032786885246
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Glicemia alterada,0,0,0,0,0,0,61,Hombre,0,,0,,0,,0,,0,,0,,0,0.0
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Presion arterial elevada,0,0,0,0,0,0,61,Hombre,0,,0,,0,,0,,0,,0,,4,6.557377049180328
+2023,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Tabaquismo,0,0,0,0,0,0,61,Hombre,0,,0,,0,,0,,0,,0,,12,19.672131147540984
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Colesterol elevado,0,0,0,0,0,0,8408,Hombre,0,,0,,0,,0,,0,,0,,1050,12.488106565176023
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Glicemia alterada,0,0,0,0,0,0,8408,Hombre,0,,0,,0,,0,,0,,0,,1658,19.719314938154138
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Presion arterial elevada,0,0,0,0,0,0,8408,Hombre,0,,0,,0,,0,,0,,0,,1674,19.909609895337773
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Tabaquismo,0,0,0,0,0,0,8408,Hombre,0,,0,,0,,0,,0,,0,,2025,24.08420551855376
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Colesterol elevado,0,0,0,0,0,0,4379,Hombre,0,,0,,0,,0,,0,,0,,452,10.321991322219686
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Glicemia alterada,0,0,0,0,0,0,4379,Hombre,0,,0,,0,,0,,0,,0,,2703,61.726421557433206
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Presion arterial elevada,0,0,0,0,0,0,4379,Hombre,0,,0,,0,,0,,0,,0,,1395,31.85658826216031
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Tabaquismo,0,0,0,0,0,0,4379,Hombre,0,,0,,0,,0,,0,,0,,1233,28.157113496232018
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Colesterol elevado,0,0,0,0,0,0,2832,Hombre,0,,0,,0,,0,,0,,0,,123,4.343220338983051
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Glicemia alterada,0,0,0,0,0,0,2832,Hombre,0,,0,,0,,0,,0,,0,,215,7.59180790960452
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Presion arterial elevada,0,0,0,0,0,0,2832,Hombre,0,,0,,0,,0,,0,,0,,510,18.008474576271187
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Tabaquismo,0,0,0,0,0,0,2832,Hombre,0,,0,,0,,0,,0,,0,,291,10.27542372881356
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Colesterol elevado,0,0,0,0,0,0,6546,Hombre,0,,0,,0,,0,,0,,0,,370,5.652306752215093
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Glicemia alterada,0,0,0,0,0,0,6546,Hombre,0,,0,,0,,0,,0,,0,,694,10.601894286587228
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Presion arterial elevada,0,0,0,0,0,0,6546,Hombre,0,,0,,0,,0,,0,,0,,1297,19.813626642224257
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Tabaquismo,0,0,0,0,0,0,6546,Hombre,0,,0,,0,,0,,0,,0,,1529,23.35777574091048
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Colesterol elevado,0,0,0,0,0,0,5081,Hombre,0,,0,,0,,0,,0,,0,,728,14.32788821098209
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Glicemia alterada,0,0,0,0,0,0,5081,Hombre,0,,0,,0,,0,,0,,0,,987,19.425309978350718
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Presion arterial elevada,0,0,0,0,0,0,5081,Hombre,0,,0,,0,,0,,0,,0,,1285,25.290297185593385
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Tabaquismo,0,0,0,0,0,0,5081,Hombre,0,,0,,0,,0,,0,,0,,1108,21.80673095847274
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Colesterol elevado,0,0,0,0,0,0,6656,Hombre,0,,0,,0,,0,,0,,0,,1390,20.88341346153846
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Glicemia alterada,0,0,0,0,0,0,6656,Hombre,0,,0,,0,,0,,0,,0,,991,14.888822115384615
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Presion arterial elevada,0,0,0,0,0,0,6656,Hombre,0,,0,,0,,0,,0,,0,,280,4.206730769230769
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Tabaquismo,0,0,0,0,0,0,6656,Hombre,0,,0,,0,,0,,0,,0,,1038,15.594951923076922
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Colesterol elevado,0,0,0,0,0,0,3884,Hombre,0,,0,,0,,0,,0,,0,,326,8.393408856848609
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Glicemia alterada,0,0,0,0,0,0,3884,Hombre,0,,0,,0,,0,,0,,0,,478,12.306900102986612
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Presion arterial elevada,0,0,0,0,0,0,3884,Hombre,0,,0,,0,,0,,0,,0,,777,20.005149330587024
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Tabaquismo,0,0,0,0,0,0,3884,Hombre,0,,0,,0,,0,,0,,0,,1093,28.14109165808445
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Colesterol elevado,0,0,0,0,0,0,477,Hombre,0,,0,,0,,0,,0,,0,,8,1.6771488469601679
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Glicemia alterada,0,0,0,0,0,0,477,Hombre,0,,0,,0,,0,,0,,0,,45,9.433962264150944
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Presion arterial elevada,0,0,0,0,0,0,477,Hombre,0,,0,,0,,0,,0,,0,,70,14.675052410901468
+2024,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Tabaquismo,0,0,0,0,0,0,477,Hombre,0,,0,,0,,0,,0,,0,,104,21.80293501048218
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Colesterol elevado,0,0,0,0,0,0,5036,Hombre,0,,0,,0,,0,,0,,0,,371,7.366957903097697
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Glicemia alterada,0,0,0,0,0,0,5036,Hombre,0,,0,,0,,0,,0,,0,,1017,20.194598888006354
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Presion arterial elevada,0,0,0,0,0,0,5036,Hombre,0,,0,,0,,0,,0,,0,,1320,26.21127879269261
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Tabaquismo,0,0,0,0,0,0,5036,Hombre,0,,0,,0,,0,,0,,0,,1115,22.140587768069896
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Colesterol elevado,0,0,0,0,0,0,7172,Hombre,0,,0,,0,,0,,0,,0,,762,10.624651422197434
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Glicemia alterada,0,0,0,0,0,0,7172,Hombre,0,,0,,0,,0,,0,,0,,1542,21.50027886224205
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Presion arterial elevada,0,0,0,0,0,0,7172,Hombre,0,,0,,0,,0,,0,,0,,1923,26.81260457334077
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Tabaquismo,0,0,0,0,0,0,7172,Hombre,0,,0,,0,,0,,0,,0,,1549,21.5978806469604
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Colesterol elevado,0,0,0,0,0,0,12102,Hombre,0,,0,,0,,0,,0,,0,,2053,16.964138158981985
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Glicemia alterada,0,0,0,0,0,0,12102,Hombre,0,,0,,0,,0,,0,,0,,6010,49.66121302264089
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Presion arterial elevada,0,0,0,0,0,0,12102,Hombre,0,,0,,0,,0,,0,,0,,3120,25.780862667327714
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Tabaquismo,0,0,0,0,0,0,12102,Hombre,0,,0,,0,,0,,0,,0,,2816,23.268881176665012
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Colesterol elevado,0,0,0,0,0,0,5621,Hombre,0,,0,,0,,0,,0,,0,,188,3.3446006048745773
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Glicemia alterada,0,0,0,0,0,0,5621,Hombre,0,,0,,0,,0,,0,,0,,419,7.454189645970468
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Presion arterial elevada,0,0,0,0,0,0,5621,Hombre,0,,0,,0,,0,,0,,0,,1030,18.324141611812845
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Tabaquismo,0,0,0,0,0,0,5621,Hombre,0,,0,,0,,0,,0,,0,,963,17.132182885607545
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Colesterol elevado,0,0,0,0,0,0,6090,Hombre,0,,0,,0,,0,,0,,0,,547,8.981937602627257
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Glicemia alterada,0,0,0,0,0,0,6090,Hombre,0,,0,,0,,0,,0,,0,,1397,22.939244663382592
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Presion arterial elevada,0,0,0,0,0,0,6090,Hombre,0,,0,,0,,0,,0,,0,,1429,23.464696223316913
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Tabaquismo,0,0,0,0,0,0,6090,Hombre,0,,0,,0,,0,,0,,0,,1383,22.70935960591133
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Colesterol elevado,0,0,0,0,0,0,5230,Hombre,0,,0,,0,,0,,0,,0,,341,6.520076481835564
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Glicemia alterada,0,0,0,0,0,0,5230,Hombre,0,,0,,0,,0,,0,,0,,729,13.938814531548758
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Presion arterial elevada,0,0,0,0,0,0,5230,Hombre,0,,0,,0,,0,,0,,0,,1229,23.49904397705545
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Tabaquismo,0,0,0,0,0,0,5230,Hombre,0,,0,,0,,0,,0,,0,,1171,22.390057361376673
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Colesterol elevado,0,0,0,0,0,0,661,Hombre,0,,0,,0,,0,,0,,0,,26,3.9334341906202726
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Glicemia alterada,0,0,0,0,0,0,661,Hombre,0,,0,,0,,0,,0,,0,,90,13.61573373676248
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Presion arterial elevada,0,0,0,0,0,0,661,Hombre,0,,0,,0,,0,,0,,0,,156,23.600605143721634
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Tabaquismo,0,0,0,0,0,0,661,Hombre,0,,0,,0,,0,,0,,0,,156,23.600605143721634
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Colesterol elevado,0,0,0,0,0,0,493,Hombre,0,,0,,0,,0,,0,,0,,24,4.86815415821501
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Glicemia alterada,0,0,0,0,0,0,493,Hombre,0,,0,,0,,0,,0,,0,,59,11.967545638945234
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Presion arterial elevada,0,0,0,0,0,0,493,Hombre,0,,0,,0,,0,,0,,0,,128,25.963488843813387
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Tabaquismo,0,0,0,0,0,0,493,Hombre,0,,0,,0,,0,,0,,0,,114,23.123732251521297
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Colesterol elevado,0,0,0,0,0,0,643,Hombre,0,,0,,0,,0,,0,,0,,52,8.087091757387247
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Glicemia alterada,0,0,0,0,0,0,643,Hombre,0,,0,,0,,0,,0,,0,,160,24.883359253499222
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Presion arterial elevada,0,0,0,0,0,0,643,Hombre,0,,0,,0,,0,,0,,0,,178,27.682737169517885
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Tabaquismo,0,0,0,0,0,0,643,Hombre,0,,0,,0,,0,,0,,0,,114,17.729393468118197
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Colesterol elevado,0,0,0,0,0,0,783,Hombre,0,,0,,0,,0,,0,,0,,19,2.4265644955300125
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Glicemia alterada,0,0,0,0,0,0,783,Hombre,0,,0,,0,,0,,0,,0,,75,9.578544061302683
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Presion arterial elevada,0,0,0,0,0,0,783,Hombre,0,,0,,0,,0,,0,,0,,139,17.752234993614305
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Tabaquismo,0,0,0,0,0,0,783,Hombre,0,,0,,0,,0,,0,,0,,109,13.92081736909323
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Colesterol elevado,0,0,0,0,0,0,2934,Hombre,0,,0,,0,,0,,0,,0,,570,19.427402862985684
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Glicemia alterada,0,0,0,0,0,0,2934,Hombre,0,,0,,0,,0,,0,,0,,1280,43.62644853442399
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Presion arterial elevada,0,0,0,0,0,0,2934,Hombre,0,,0,,0,,0,,0,,0,,739,25.187457396046355
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Tabaquismo,0,0,0,0,0,0,2934,Hombre,0,,0,,0,,0,,0,,0,,761,25.937286980231768
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Colesterol elevado,0,0,0,0,0,0,1733,Hombre,0,,0,,0,,0,,0,,0,,220,12.694748990190421
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Glicemia alterada,0,0,0,0,0,0,1733,Hombre,0,,0,,0,,0,,0,,0,,376,21.696480092325444
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Presion arterial elevada,0,0,0,0,0,0,1733,Hombre,0,,0,,0,,0,,0,,0,,397,22.908251586843623
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Tabaquismo,0,0,0,0,0,0,1733,Hombre,0,,0,,0,,0,,0,,0,,479,27.639930755914598
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Colesterol elevado,0,0,0,0,0,0,1692,Hombre,0,,0,,0,,0,,0,,0,,151,8.92434988179669
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Glicemia alterada,0,0,0,0,0,0,1692,Hombre,0,,0,,0,,0,,0,,0,,409,24.1725768321513
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Presion arterial elevada,0,0,0,0,0,0,1692,Hombre,0,,0,,0,,0,,0,,0,,411,24.29078014184397
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Tabaquismo,0,0,0,0,0,0,1692,Hombre,0,,0,,0,,0,,0,,0,,367,21.6903073286052
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Colesterol elevado,0,0,0,0,0,0,2532,Hombre,0,,0,,0,,0,,0,,0,,81,3.1990521327014214
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Glicemia alterada,0,0,0,0,0,0,2532,Hombre,0,,0,,0,,0,,0,,0,,82,3.238546603475513
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Presion arterial elevada,0,0,0,0,0,0,2532,Hombre,0,,0,,0,,0,,0,,0,,642,25.355450236966824
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Tabaquismo,0,0,0,0,0,0,2532,Hombre,0,,0,,0,,0,,0,,0,,490,19.352290679304897
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Colesterol elevado,0,0,0,0,0,0,4324,Hombre,0,,0,,0,,0,,0,,0,,673,15.564292321924144
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Glicemia alterada,0,0,0,0,0,0,4324,Hombre,0,,0,,0,,0,,0,,0,,1614,37.32654949121184
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Presion arterial elevada,0,0,0,0,0,0,4324,Hombre,0,,0,,0,,0,,0,,0,,987,22.82608695652174
+2024,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Tabaquismo,0,0,0,0,0,0,4324,Hombre,0,,0,,0,,0,,0,,0,,1158,26.780758556891765
+2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Colesterol elevado,0,0,0,0,0,0,11153,Hombre,0,,0,,0,,0,,0,,0,,1021,9.154487581816552
+2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Glicemia alterada,0,0,0,0,0,0,11153,Hombre,0,,0,,0,,0,,0,,0,,2078,18.631758271317132
+2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Presion arterial elevada,0,0,0,0,0,0,11153,Hombre,0,,0,,0,,0,,0,,0,,1622,14.543172240652739
+2024,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Tabaquismo,0,0,0,0,0,0,11153,Hombre,0,,0,,0,,0,,0,,0,,2376,21.30368510714606
+2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Colesterol elevado,0,0,0,0,0,0,2739,Hombre,0,,0,,0,,0,,0,,0,,270,9.857612267250822
+2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Glicemia alterada,0,0,0,0,0,0,2739,Hombre,0,,0,,0,,0,,0,,0,,678,24.75355969331873
+2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Presion arterial elevada,0,0,0,0,0,0,2739,Hombre,0,,0,,0,,0,,0,,0,,800,29.207740051113547
+2024,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Tabaquismo,0,0,0,0,0,0,2739,Hombre,0,,0,,0,,0,,0,,0,,617,22.526469514421322
+2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Colesterol elevado,0,0,0,0,0,0,3671,Hombre,0,,0,,0,,0,,0,,0,,320,8.71697085262871
+2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Glicemia alterada,0,0,0,0,0,0,3671,Hombre,0,,0,,0,,0,,0,,0,,661,18.00599291746118
+2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Presion arterial elevada,0,0,0,0,0,0,3671,Hombre,0,,0,,0,,0,,0,,0,,945,25.742304549169166
+2024,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Tabaquismo,0,0,0,0,0,0,3671,Hombre,0,,0,,0,,0,,0,,0,,823,22.418959411604465
+2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Colesterol elevado,0,0,0,0,0,0,17014,Hombre,0,,0,,0,,0,,0,,0,,1473,8.657576113788645
+2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Glicemia alterada,0,0,0,0,0,0,17014,Hombre,0,,0,,0,,0,,0,,0,,7369,43.31139061948983
+2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Presion arterial elevada,0,0,0,0,0,0,17014,Hombre,0,,0,,0,,0,,0,,0,,4498,26.437051839661457
+2024,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Tabaquismo,0,0,0,0,0,0,17014,Hombre,0,,0,,0,,0,,0,,0,,3609,21.211943105677676
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Colesterol elevado,0,0,0,0,0,0,2764,Hombre,0,,0,,0,,0,,0,,0,,85,3.075253256150506
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Glicemia alterada,0,0,0,0,0,0,2764,Hombre,0,,0,,0,,0,,0,,0,,144,5.209840810419681
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Presion arterial elevada,0,0,0,0,0,0,2764,Hombre,0,,0,,0,,0,,0,,0,,640,23.154848046309695
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Tabaquismo,0,0,0,0,0,0,2764,Hombre,0,,0,,0,,0,,0,,0,,621,22.46743849493488
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Colesterol elevado,0,0,0,0,0,0,5110,Hombre,0,,0,,0,,0,,0,,0,,137,2.681017612524462
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Glicemia alterada,0,0,0,0,0,0,5110,Hombre,0,,0,,0,,0,,0,,0,,147,2.8767123287671232
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Presion arterial elevada,0,0,0,0,0,0,5110,Hombre,0,,0,,0,,0,,0,,0,,233,4.559686888454012
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Tabaquismo,0,0,0,0,0,0,5110,Hombre,0,,0,,0,,0,,0,,0,,352,6.8884540117416835
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Colesterol elevado,0,0,0,0,0,0,1877,Hombre,0,,0,,0,,0,,0,,0,,369,19.659030367607887
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Glicemia alterada,0,0,0,0,0,0,1877,Hombre,0,,0,,0,,0,,0,,0,,612,32.605221097496006
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Presion arterial elevada,0,0,0,0,0,0,1877,Hombre,0,,0,,0,,0,,0,,0,,284,15.130527437400106
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Tabaquismo,0,0,0,0,0,0,1877,Hombre,0,,0,,0,,0,,0,,0,,276,14.704315396909962
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Colesterol elevado,0,0,0,0,0,0,7926,Hombre,0,,0,,0,,0,,0,,0,,187,2.3593237446379005
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Glicemia alterada,0,0,0,0,0,0,7926,Hombre,0,,0,,0,,0,,0,,0,,1957,24.690890739338887
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Presion arterial elevada,0,0,0,0,0,0,7926,Hombre,0,,0,,0,,0,,0,,0,,1738,21.92783245016402
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Tabaquismo,0,0,0,0,0,0,7926,Hombre,0,,0,,0,,0,,0,,0,,1444,18.218521322230632
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Colesterol elevado,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,112,2.047531992687386
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Glicemia alterada,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,607,11.09689213893967
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Presion arterial elevada,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,890,16.270566727605118
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Tabaquismo,0,0,0,0,0,0,5470,Hombre,0,,0,,0,,0,,0,,0,,982,17.952468007312614
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Colesterol elevado,0,0,0,0,0,0,12492,Hombre,0,,0,,0,,0,,0,,0,,247,1.9772654498879283
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Glicemia alterada,0,0,0,0,0,0,12492,Hombre,0,,0,,0,,0,,0,,0,,1107,8.861671469740633
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Presion arterial elevada,0,0,0,0,0,0,12492,Hombre,0,,0,,0,,0,,0,,0,,2583,20.67723342939481
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Tabaquismo,0,0,0,0,0,0,12492,Hombre,0,,0,,0,,0,,0,,0,,2378,19.03618315722062
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Colesterol elevado,0,0,0,0,0,0,4620,Hombre,0,,0,,0,,0,,0,,0,,172,3.722943722943723
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Glicemia alterada,0,0,0,0,0,0,4620,Hombre,0,,0,,0,,0,,0,,0,,365,7.900432900432901
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Presion arterial elevada,0,0,0,0,0,0,4620,Hombre,0,,0,,0,,0,,0,,0,,1102,23.852813852813853
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Tabaquismo,0,0,0,0,0,0,4620,Hombre,0,,0,,0,,0,,0,,0,,831,17.98701298701299
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Colesterol elevado,0,0,0,0,0,0,1283,Hombre,0,,0,,0,,0,,0,,0,,140,10.911925175370225
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Glicemia alterada,0,0,0,0,0,0,1283,Hombre,0,,0,,0,,0,,0,,0,,397,30.94310210444271
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Presion arterial elevada,0,0,0,0,0,0,1283,Hombre,0,,0,,0,,0,,0,,0,,304,23.694466095089634
+2024,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Tabaquismo,0,0,0,0,0,0,1283,Hombre,0,,0,,0,,0,,0,,0,,238,18.550272798129384
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Colesterol elevado,0,0,0,0,0,0,11080,Hombre,0,,0,,0,,0,,0,,0,,580,5.234657039711191
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Glicemia alterada,0,0,0,0,0,0,11080,Hombre,0,,0,,0,,0,,0,,0,,1342,12.111913357400722
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Presion arterial elevada,0,0,0,0,0,0,11080,Hombre,0,,0,,0,,0,,0,,0,,2642,23.84476534296029
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Tabaquismo,0,0,0,0,0,0,11080,Hombre,0,,0,,0,,0,,0,,0,,2894,26.11913357400722
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Colesterol elevado,0,0,0,0,0,0,4727,Hombre,0,,0,,0,,0,,0,,0,,263,5.563782525914957
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Glicemia alterada,0,0,0,0,0,0,4727,Hombre,0,,0,,0,,0,,0,,0,,774,16.374021578167973
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Presion arterial elevada,0,0,0,0,0,0,4727,Hombre,0,,0,,0,,0,,0,,0,,1120,23.6936746350751
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Tabaquismo,0,0,0,0,0,0,4727,Hombre,0,,0,,0,,0,,0,,0,,1029,21.76856357097525
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Colesterol elevado,0,0,0,0,0,0,4102,Hombre,0,,0,,0,,0,,0,,0,,238,5.802047781569966
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Glicemia alterada,0,0,0,0,0,0,4102,Hombre,0,,0,,0,,0,,0,,0,,452,11.019015114578254
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Presion arterial elevada,0,0,0,0,0,0,4102,Hombre,0,,0,,0,,0,,0,,0,,733,17.86933203315456
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Tabaquismo,0,0,0,0,0,0,4102,Hombre,0,,0,,0,,0,,0,,0,,1070,26.084836665041443
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Colesterol elevado,0,0,0,0,0,0,8240,Hombre,0,,0,,0,,0,,0,,0,,297,3.604368932038835
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Glicemia alterada,0,0,0,0,0,0,8240,Hombre,0,,0,,0,,0,,0,,0,,1300,15.776699029126215
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Presion arterial elevada,0,0,0,0,0,0,8240,Hombre,0,,0,,0,,0,,0,,0,,1780,21.601941747572813
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Tabaquismo,0,0,0,0,0,0,8240,Hombre,0,,0,,0,,0,,0,,0,,1958,23.762135922330096
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Colesterol elevado,0,0,0,0,0,0,5523,Hombre,0,,0,,0,,0,,0,,0,,760,13.760637334781823
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Glicemia alterada,0,0,0,0,0,0,5523,Hombre,0,,0,,0,,0,,0,,0,,1894,34.292956726416804
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Presion arterial elevada,0,0,0,0,0,0,5523,Hombre,0,,0,,0,,0,,0,,0,,1180,21.365200072424408
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Tabaquismo,0,0,0,0,0,0,5523,Hombre,0,,0,,0,,0,,0,,0,,1504,27.231577041462973
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Colesterol elevado,0,0,0,0,0,0,5828,Hombre,0,,0,,0,,0,,0,,0,,256,4.392587508579273
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Glicemia alterada,0,0,0,0,0,0,5828,Hombre,0,,0,,0,,0,,0,,0,,727,12.474262182566918
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Presion arterial elevada,0,0,0,0,0,0,5828,Hombre,0,,0,,0,,0,,0,,0,,1396,23.953328757721344
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Tabaquismo,0,0,0,0,0,0,5828,Hombre,0,,0,,0,,0,,0,,0,,1232,21.13932738503775
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Colesterol elevado,0,0,0,0,0,0,12473,Hombre,0,,0,,0,,0,,0,,0,,719,5.764451214623588
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Glicemia alterada,0,0,0,0,0,0,12473,Hombre,0,,0,,0,,0,,0,,0,,2076,16.64395093401748
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Presion arterial elevada,0,0,0,0,0,0,12473,Hombre,0,,0,,0,,0,,0,,0,,2251,18.046981479996795
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Tabaquismo,0,0,0,0,0,0,12473,Hombre,0,,0,,0,,0,,0,,0,,2811,22.536679227130602
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Colesterol elevado,0,0,0,0,0,0,5876,Hombre,0,,0,,0,,0,,0,,0,,110,1.8720217835262083
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Glicemia alterada,0,0,0,0,0,0,5876,Hombre,0,,0,,0,,0,,0,,0,,1936,32.94758339006126
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Presion arterial elevada,0,0,0,0,0,0,5876,Hombre,0,,0,,0,,0,,0,,0,,1526,25.97004765146358
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Tabaquismo,0,0,0,0,0,0,5876,Hombre,0,,0,,0,,0,,0,,0,,1700,28.931245745405036
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Colesterol elevado,0,0,0,0,0,0,1385,Hombre,0,,0,,0,,0,,0,,0,,223,16.101083032490976
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Glicemia alterada,0,0,0,0,0,0,1385,Hombre,0,,0,,0,,0,,0,,0,,410,29.602888086642597
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Presion arterial elevada,0,0,0,0,0,0,1385,Hombre,0,,0,,0,,0,,0,,0,,311,22.454873646209386
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Tabaquismo,0,0,0,0,0,0,1385,Hombre,0,,0,,0,,0,,0,,0,,328,23.68231046931408
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Colesterol elevado,0,0,0,0,0,0,5783,Hombre,0,,0,,0,,0,,0,,0,,602,10.409821891751687
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Glicemia alterada,0,0,0,0,0,0,5783,Hombre,0,,0,,0,,0,,0,,0,,829,14.335120179837455
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Presion arterial elevada,0,0,0,0,0,0,5783,Hombre,0,,0,,0,,0,,0,,0,,1636,28.289814974926507
+2024,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Tabaquismo,0,0,0,0,0,0,5783,Hombre,0,,0,,0,,0,,0,,0,,1787,30.900916479335983
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Colesterol elevado,0,0,0,0,0,0,13946,Hombre,0,,0,,0,,0,,0,,0,,1260,9.034848702136813
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Glicemia alterada,0,0,0,0,0,0,13946,Hombre,0,,0,,0,,0,,0,,0,,1692,12.132511114298007
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Presion arterial elevada,0,0,0,0,0,0,13946,Hombre,0,,0,,0,,0,,0,,0,,3433,24.616377455901333
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Tabaquismo,0,0,0,0,0,0,13946,Hombre,0,,0,,0,,0,,0,,0,,2700,19.36039007600746
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Colesterol elevado,0,0,0,0,0,0,5336,Hombre,0,,0,,0,,0,,0,,0,,42,0.7871064467766117
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Glicemia alterada,0,0,0,0,0,0,5336,Hombre,0,,0,,0,,0,,0,,0,,47,0.8808095952023988
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Presion arterial elevada,0,0,0,0,0,0,5336,Hombre,0,,0,,0,,0,,0,,0,,1076,20.164917541229386
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Tabaquismo,0,0,0,0,0,0,5336,Hombre,0,,0,,0,,0,,0,,0,,2163,40.535982008995504
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Colesterol elevado,0,0,0,0,0,0,6717,Hombre,0,,0,,0,,0,,0,,0,,212,3.156170909632276
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Glicemia alterada,0,0,0,0,0,0,6717,Hombre,0,,0,,0,,0,,0,,0,,833,12.40136965907399
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Presion arterial elevada,0,0,0,0,0,0,6717,Hombre,0,,0,,0,,0,,0,,0,,1872,27.869584635998212
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Tabaquismo,0,0,0,0,0,0,6717,Hombre,0,,0,,0,,0,,0,,0,,1698,25.279142474318895
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Colesterol elevado,0,0,0,0,0,0,4701,Hombre,0,,0,,0,,0,,0,,0,,140,2.9780897681344394
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Glicemia alterada,0,0,0,0,0,0,4701,Hombre,0,,0,,0,,0,,0,,0,,1187,25.24994681982557
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Presion arterial elevada,0,0,0,0,0,0,4701,Hombre,0,,0,,0,,0,,0,,0,,1240,26.37736651776218
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Tabaquismo,0,0,0,0,0,0,4701,Hombre,0,,0,,0,,0,,0,,0,,941,20.017017655817913
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Colesterol elevado,0,0,0,0,0,0,11617,Hombre,0,,0,,0,,0,,0,,0,,530,4.562279418094172
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Glicemia alterada,0,0,0,0,0,0,11617,Hombre,0,,0,,0,,0,,0,,0,,2172,18.696737539812343
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Presion arterial elevada,0,0,0,0,0,0,11617,Hombre,0,,0,,0,,0,,0,,0,,1341,11.543427735215632
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Tabaquismo,0,0,0,0,0,0,11617,Hombre,0,,0,,0,,0,,0,,0,,2775,23.887406387191184
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Colesterol elevado,0,0,0,0,0,0,1323,Hombre,0,,0,,0,,0,,0,,0,,69,5.215419501133787
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Glicemia alterada,0,0,0,0,0,0,1323,Hombre,0,,0,,0,,0,,0,,0,,301,22.75132275132275
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Presion arterial elevada,0,0,0,0,0,0,1323,Hombre,0,,0,,0,,0,,0,,0,,325,24.56538170823885
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Tabaquismo,0,0,0,0,0,0,1323,Hombre,0,,0,,0,,0,,0,,0,,333,25.170068027210885
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Colesterol elevado,0,0,0,0,0,0,95,Hombre,0,,0,,0,,0,,0,,0,,7,7.368421052631578
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Glicemia alterada,0,0,0,0,0,0,95,Hombre,0,,0,,0,,0,,0,,0,,10,10.526315789473683
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Presion arterial elevada,0,0,0,0,0,0,95,Hombre,0,,0,,0,,0,,0,,0,,10,10.526315789473683
+2024,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Tabaquismo,0,0,0,0,0,0,95,Hombre,0,,0,,0,,0,,0,,0,,20,21.052631578947366
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Colesterol elevado,0,0,0,0,0,0,10924,Hombre,0,,0,,0,,0,,0,,0,,957,8.76052727938484
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Glicemia alterada,0,0,0,0,0,0,10924,Hombre,0,,0,,0,,0,,0,,0,,1692,15.488831929696081
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Presion arterial elevada,0,0,0,0,0,0,10924,Hombre,0,,0,,0,,0,,0,,0,,2347,21.484804101061883
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,Tabaquismo,0,0,0,0,0,0,10924,Hombre,0,,0,,0,,0,,0,,0,,2677,24.505675576711827
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Colesterol elevado,0,0,0,0,0,0,6665,Hombre,0,,0,,0,,0,,0,,0,,523,7.846961740435108
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Glicemia alterada,0,0,0,0,0,0,6665,Hombre,0,,0,,0,,0,,0,,0,,4506,67.60690172543136
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Presion arterial elevada,0,0,0,0,0,0,6665,Hombre,0,,0,,0,,0,,0,,0,,2040,30.607651912978245
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,Tabaquismo,0,0,0,0,0,0,6665,Hombre,0,,0,,0,,0,,0,,0,,1757,26.3615903975994
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Colesterol elevado,0,0,0,0,0,0,4050,Hombre,0,,0,,0,,0,,0,,0,,152,3.753086419753086
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Glicemia alterada,0,0,0,0,0,0,4050,Hombre,0,,0,,0,,0,,0,,0,,337,8.320987654320987
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Presion arterial elevada,0,0,0,0,0,0,4050,Hombre,0,,0,,0,,0,,0,,0,,730,18.02469135802469
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13108,Independencia,Tabaquismo,0,0,0,0,0,0,4050,Hombre,0,,0,,0,,0,,0,,0,,558,13.777777777777779
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Colesterol elevado,0,0,0,0,0,0,9479,Hombre,0,,0,,0,,0,,0,,0,,512,5.401413651229032
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Glicemia alterada,0,0,0,0,0,0,9479,Hombre,0,,0,,0,,0,,0,,0,,1104,11.646798185462602
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Presion arterial elevada,0,0,0,0,0,0,9479,Hombre,0,,0,,0,,0,,0,,0,,1957,20.64563772549847
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,Tabaquismo,0,0,0,0,0,0,9479,Hombre,0,,0,,0,,0,,0,,0,,2050,21.626753876991245
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Colesterol elevado,0,0,0,0,0,0,8719,Hombre,0,,0,,0,,0,,0,,0,,1171,13.43043927055855
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Glicemia alterada,0,0,0,0,0,0,8719,Hombre,0,,0,,0,,0,,0,,0,,1552,17.800206445693316
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Presion arterial elevada,0,0,0,0,0,0,8719,Hombre,0,,0,,0,,0,,0,,0,,2201,25.24372061016172
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,Tabaquismo,0,0,0,0,0,0,8719,Hombre,0,,0,,0,,0,,0,,0,,1946,22.319073288221126
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Colesterol elevado,0,0,0,0,0,0,7150,Hombre,0,,0,,0,,0,,0,,0,,745,10.41958041958042
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Glicemia alterada,0,0,0,0,0,0,7150,Hombre,0,,0,,0,,0,,0,,0,,539,7.538461538461538
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Presion arterial elevada,0,0,0,0,0,0,7150,Hombre,0,,0,,0,,0,,0,,0,,209,2.923076923076923
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13301,Colina,Tabaquismo,0,0,0,0,0,0,7150,Hombre,0,,0,,0,,0,,0,,0,,887,12.405594405594405
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Colesterol elevado,0,0,0,0,0,0,6219,Hombre,0,,0,,0,,0,,0,,0,,655,10.532239909953368
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Glicemia alterada,0,0,0,0,0,0,6219,Hombre,0,,0,,0,,0,,0,,0,,983,15.806399742723912
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Presion arterial elevada,0,0,0,0,0,0,6219,Hombre,0,,0,,0,,0,,0,,0,,1430,22.994050490432546
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13302,Lampa,Tabaquismo,0,0,0,0,0,0,6219,Hombre,0,,0,,0,,0,,0,,0,,1556,25.020099694484642
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Colesterol elevado,0,0,0,0,0,0,624,Hombre,0,,0,,0,,0,,0,,0,,12,1.9230769230769231
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Glicemia alterada,0,0,0,0,0,0,624,Hombre,0,,0,,0,,0,,0,,0,,78,12.5
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Presion arterial elevada,0,0,0,0,0,0,624,Hombre,0,,0,,0,,0,,0,,0,,130,20.833333333333336
+2025,comuna,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,Tabaquismo,0,0,0,0,0,0,624,Hombre,0,,0,,0,,0,,0,,0,,134,21.474358974358974
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Colesterol elevado,0,0,0,0,0,0,7839,Hombre,0,,0,,0,,0,,0,,0,,657,8.381171067738231
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Glicemia alterada,0,0,0,0,0,0,7839,Hombre,0,,0,,0,,0,,0,,0,,1873,23.89335374410001
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Presion arterial elevada,0,0,0,0,0,0,7839,Hombre,0,,0,,0,,0,,0,,0,,1955,24.939405536420463
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,Tabaquismo,0,0,0,0,0,0,7839,Hombre,0,,0,,0,,0,,0,,0,,1539,19.63260619977038
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Colesterol elevado,0,0,0,0,0,0,10151,Hombre,0,,0,,0,,0,,0,,0,,1761,17.348044527632744
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Glicemia alterada,0,0,0,0,0,0,10151,Hombre,0,,0,,0,,0,,0,,0,,3477,34.2527829770466
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Presion arterial elevada,0,0,0,0,0,0,10151,Hombre,0,,0,,0,,0,,0,,0,,2639,25.997438675992512
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,Tabaquismo,0,0,0,0,0,0,10151,Hombre,0,,0,,0,,0,,0,,0,,2424,23.87942074672446
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Colesterol elevado,0,0,0,0,0,0,18757,Hombre,0,,0,,0,,0,,0,,0,,2554,13.616249933358212
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Glicemia alterada,0,0,0,0,0,0,18757,Hombre,0,,0,,0,,0,,0,,0,,6192,33.01167564109399
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Presion arterial elevada,0,0,0,0,0,0,18757,Hombre,0,,0,,0,,0,,0,,0,,2921,15.57285280162073
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,Tabaquismo,0,0,0,0,0,0,18757,Hombre,0,,0,,0,,0,,0,,0,,3937,20.989497254358373
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Colesterol elevado,0,0,0,0,0,0,7772,Hombre,0,,0,,0,,0,,0,,0,,337,4.336078229541945
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Glicemia alterada,0,0,0,0,0,0,7772,Hombre,0,,0,,0,,0,,0,,0,,888,11.425630468347915
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Presion arterial elevada,0,0,0,0,0,0,7772,Hombre,0,,0,,0,,0,,0,,0,,1328,17.086978898610397
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,Tabaquismo,0,0,0,0,0,0,7772,Hombre,0,,0,,0,,0,,0,,0,,1244,16.00617601646938
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Colesterol elevado,0,0,0,0,0,0,9188,Hombre,0,,0,,0,,0,,0,,0,,1210,13.169351327818893
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Glicemia alterada,0,0,0,0,0,0,9188,Hombre,0,,0,,0,,0,,0,,0,,2584,28.123639529821503
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Presion arterial elevada,0,0,0,0,0,0,9188,Hombre,0,,0,,0,,0,,0,,0,,2243,24.412276882890726
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13128,Renca,Tabaquismo,0,0,0,0,0,0,9188,Hombre,0,,0,,0,,0,,0,,0,,1859,20.23291249455812
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Colesterol elevado,0,0,0,0,0,0,6929,Hombre,0,,0,,0,,0,,0,,0,,484,6.985134940106798
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Glicemia alterada,0,0,0,0,0,0,6929,Hombre,0,,0,,0,,0,,0,,0,,1022,14.74960311733295
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Presion arterial elevada,0,0,0,0,0,0,6929,Hombre,0,,0,,0,,0,,0,,0,,1378,19.887429643527206
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,Tabaquismo,0,0,0,0,0,0,6929,Hombre,0,,0,,0,,0,,0,,0,,1493,21.547120796651754
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Colesterol elevado,0,0,0,0,0,0,961,Hombre,0,,0,,0,,0,,0,,0,,92,9.573361082206034
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Glicemia alterada,0,0,0,0,0,0,961,Hombre,0,,0,,0,,0,,0,,0,,203,21.12382934443288
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Presion arterial elevada,0,0,0,0,0,0,961,Hombre,0,,0,,0,,0,,0,,0,,250,26.014568158168572
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,Tabaquismo,0,0,0,0,0,0,961,Hombre,0,,0,,0,,0,,0,,0,,191,19.87513007284079
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Colesterol elevado,0,0,0,0,0,0,517,Hombre,0,,0,,0,,0,,0,,0,,29,5.609284332688588
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Glicemia alterada,0,0,0,0,0,0,517,Hombre,0,,0,,0,,0,,0,,0,,101,19.535783365570598
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Presion arterial elevada,0,0,0,0,0,0,517,Hombre,0,,0,,0,,0,,0,,0,,98,18.95551257253385
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,Tabaquismo,0,0,0,0,0,0,517,Hombre,0,,0,,0,,0,,0,,0,,69,13.346228239845262
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Colesterol elevado,0,0,0,0,0,0,1308,Hombre,0,,0,,0,,0,,0,,0,,130,9.938837920489297
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Glicemia alterada,0,0,0,0,0,0,1308,Hombre,0,,0,,0,,0,,0,,0,,330,25.229357798165136
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Presion arterial elevada,0,0,0,0,0,0,1308,Hombre,0,,0,,0,,0,,0,,0,,367,28.05810397553517
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,Tabaquismo,0,0,0,0,0,0,1308,Hombre,0,,0,,0,,0,,0,,0,,251,19.189602446483182
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Colesterol elevado,0,0,0,0,0,0,1270,Hombre,0,,0,,0,,0,,0,,0,,43,3.385826771653543
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Glicemia alterada,0,0,0,0,0,0,1270,Hombre,0,,0,,0,,0,,0,,0,,154,12.125984251968504
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Presion arterial elevada,0,0,0,0,0,0,1270,Hombre,0,,0,,0,,0,,0,,0,,173,13.622047244094487
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,Tabaquismo,0,0,0,0,0,0,1270,Hombre,0,,0,,0,,0,,0,,0,,45,3.543307086614173
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Colesterol elevado,0,0,0,0,0,0,5259,Hombre,0,,0,,0,,0,,0,,0,,784,14.907777143943715
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Glicemia alterada,0,0,0,0,0,0,5259,Hombre,0,,0,,0,,0,,0,,0,,1522,28.940863281992772
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Presion arterial elevada,0,0,0,0,0,0,5259,Hombre,0,,0,,0,,0,,0,,0,,664,12.625974519870697
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,Tabaquismo,0,0,0,0,0,0,5259,Hombre,0,,0,,0,,0,,0,,0,,1120,21.296824491348165
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Colesterol elevado,0,0,0,0,0,0,2317,Hombre,0,,0,,0,,0,,0,,0,,239,10.315062580923607
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Glicemia alterada,0,0,0,0,0,0,2317,Hombre,0,,0,,0,,0,,0,,0,,711,30.686232196806213
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Presion arterial elevada,0,0,0,0,0,0,2317,Hombre,0,,0,,0,,0,,0,,0,,681,29.39145446698317
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,Tabaquismo,0,0,0,0,0,0,2317,Hombre,0,,0,,0,,0,,0,,0,,535,23.090202848511005
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Colesterol elevado,0,0,0,0,0,0,2687,Hombre,0,,0,,0,,0,,0,,0,,243,9.043542984741347
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Glicemia alterada,0,0,0,0,0,0,2687,Hombre,0,,0,,0,,0,,0,,0,,521,19.389653889095644
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Presion arterial elevada,0,0,0,0,0,0,2687,Hombre,0,,0,,0,,0,,0,,0,,589,21.920357275772236
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,Tabaquismo,0,0,0,0,0,0,2687,Hombre,0,,0,,0,,0,,0,,0,,586,21.80870859694827
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Colesterol elevado,0,0,0,0,0,0,4526,Hombre,0,,0,,0,,0,,0,,0,,168,3.7118868758285464
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Glicemia alterada,0,0,0,0,0,0,4526,Hombre,0,,0,,0,,0,,0,,0,,200,4.418912947414936
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Presion arterial elevada,0,0,0,0,0,0,4526,Hombre,0,,0,,0,,0,,0,,0,,510,11.268228015908086
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,Tabaquismo,0,0,0,0,0,0,4526,Hombre,0,,0,,0,,0,,0,,0,,583,12.881131241714538
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Colesterol elevado,0,0,0,0,0,0,6507,Hombre,0,,0,,0,,0,,0,,0,,698,10.726909482096204
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Glicemia alterada,0,0,0,0,0,0,6507,Hombre,0,,0,,0,,0,,0,,0,,2058,31.627478100507144
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Presion arterial elevada,0,0,0,0,0,0,6507,Hombre,0,,0,,0,,0,,0,,0,,1497,23.005993545412633
+2025,comuna,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,Tabaquismo,0,0,0,0,0,0,6507,Hombre,0,,0,,0,,0,,0,,0,,1579,24.266174888581528
+2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Colesterol elevado,0,0,0,0,0,0,15649,Hombre,0,,0,,0,,0,,0,,0,,1756,11.221164291648028
+2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Glicemia alterada,0,0,0,0,0,0,15649,Hombre,0,,0,,0,,0,,0,,0,,3075,19.649817879736727
+2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Presion arterial elevada,0,0,0,0,0,0,15649,Hombre,0,,0,,0,,0,,0,,0,,2431,15.534538948175602
+2025,comuna,11,Servicio de Salud Metropolitano Central,13101,Santiago,Tabaquismo,0,0,0,0,0,0,15649,Hombre,0,,0,,0,,0,,0,,0,,3534,22.582912646175473
+2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Colesterol elevado,0,0,0,0,0,0,4687,Hombre,0,,0,,0,,0,,0,,0,,718,15.318967356518028
+2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Glicemia alterada,0,0,0,0,0,0,4687,Hombre,0,,0,,0,,0,,0,,0,,1363,29.080435246426283
+2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Presion arterial elevada,0,0,0,0,0,0,4687,Hombre,0,,0,,0,,0,,0,,0,,1340,28.589716236398548
+2025,comuna,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,Tabaquismo,0,0,0,0,0,0,4687,Hombre,0,,0,,0,,0,,0,,0,,917,19.56475357371453
+2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Colesterol elevado,0,0,0,0,0,0,5388,Hombre,0,,0,,0,,0,,0,,0,,427,7.925018559762435
+2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Glicemia alterada,0,0,0,0,0,0,5388,Hombre,0,,0,,0,,0,,0,,0,,878,16.29547141796585
+2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Presion arterial elevada,0,0,0,0,0,0,5388,Hombre,0,,0,,0,,0,,0,,0,,1487,27.598366740905718
+2025,comuna,11,Servicio de Salud Metropolitano Central,13106,Estación Central,Tabaquismo,0,0,0,0,0,0,5388,Hombre,0,,0,,0,,0,,0,,0,,1058,19.6362286562732
+2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Colesterol elevado,0,0,0,0,0,0,22485,Hombre,0,,0,,0,,0,,0,,0,,2434,10.82499444073827
+2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Glicemia alterada,0,0,0,0,0,0,22485,Hombre,0,,0,,0,,0,,0,,0,,11656,51.83900378029798
+2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Presion arterial elevada,0,0,0,0,0,0,22485,Hombre,0,,0,,0,,0,,0,,0,,7033,31.278630197909717
+2025,comuna,11,Servicio de Salud Metropolitano Central,13119,Maipú,Tabaquismo,0,0,0,0,0,0,22485,Hombre,0,,0,,0,,0,,0,,0,,4639,20.631532132532797
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Colesterol elevado,0,0,0,0,0,0,3627,Hombre,0,,0,,0,,0,,0,,0,,188,5.18334711883099
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Glicemia alterada,0,0,0,0,0,0,3627,Hombre,0,,0,,0,,0,,0,,0,,338,9.31899641577061
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Presion arterial elevada,0,0,0,0,0,0,3627,Hombre,0,,0,,0,,0,,0,,0,,862,23.766197959746346
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,Tabaquismo,0,0,0,0,0,0,3627,Hombre,0,,0,,0,,0,,0,,0,,799,22.029225255031708
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Colesterol elevado,0,0,0,0,0,0,6243,Hombre,0,,0,,0,,0,,0,,0,,147,2.3546371936568957
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Glicemia alterada,0,0,0,0,0,0,6243,Hombre,0,,0,,0,,0,,0,,0,,144,2.3065833733781833
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Presion arterial elevada,0,0,0,0,0,0,6243,Hombre,0,,0,,0,,0,,0,,0,,198,3.1715521383950023
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,Tabaquismo,0,0,0,0,0,0,6243,Hombre,0,,0,,0,,0,,0,,0,,495,7.928880345987506
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Colesterol elevado,0,0,0,0,0,0,2249,Hombre,0,,0,,0,,0,,0,,0,,511,22.72120942641174
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Glicemia alterada,0,0,0,0,0,0,2249,Hombre,0,,0,,0,,0,,0,,0,,885,39.35082258781681
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Presion arterial elevada,0,0,0,0,0,0,2249,Hombre,0,,0,,0,,0,,0,,0,,412,18.319253001333927
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,Tabaquismo,0,0,0,0,0,0,2249,Hombre,0,,0,,0,,0,,0,,0,,286,12.716763005780345
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Colesterol elevado,0,0,0,0,0,0,9791,Hombre,0,,0,,0,,0,,0,,0,,511,5.219078745786947
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Glicemia alterada,0,0,0,0,0,0,9791,Hombre,0,,0,,0,,0,,0,,0,,1868,19.078745786947195
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Presion arterial elevada,0,0,0,0,0,0,9791,Hombre,0,,0,,0,,0,,0,,0,,2295,23.439893780002045
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13118,Macul,Tabaquismo,0,0,0,0,0,0,9791,Hombre,0,,0,,0,,0,,0,,0,,1990,20.32478807067715
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Colesterol elevado,0,0,0,0,0,0,7675,Hombre,0,,0,,0,,0,,0,,0,,376,4.899022801302932
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Glicemia alterada,0,0,0,0,0,0,7675,Hombre,0,,0,,0,,0,,0,,0,,891,11.609120521172638
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Presion arterial elevada,0,0,0,0,0,0,7675,Hombre,0,,0,,0,,0,,0,,0,,1230,16.026058631921824
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,Tabaquismo,0,0,0,0,0,0,7675,Hombre,0,,0,,0,,0,,0,,0,,1664,21.680781758957654
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Colesterol elevado,0,0,0,0,0,0,16094,Hombre,0,,0,,0,,0,,0,,0,,343,2.13122902945197
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Glicemia alterada,0,0,0,0,0,0,16094,Hombre,0,,0,,0,,0,,0,,0,,1007,6.256990182676773
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Presion arterial elevada,0,0,0,0,0,0,16094,Hombre,0,,0,,0,,0,,0,,0,,2000,12.426991425375917
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,Tabaquismo,0,0,0,0,0,0,16094,Hombre,0,,0,,0,,0,,0,,0,,3088,19.187274760780415
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Colesterol elevado,0,0,0,0,0,0,5489,Hombre,0,,0,,0,,0,,0,,0,,406,7.396611404627437
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Glicemia alterada,0,0,0,0,0,0,5489,Hombre,0,,0,,0,,0,,0,,0,,622,11.331754417926762
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Presion arterial elevada,0,0,0,0,0,0,5489,Hombre,0,,0,,0,,0,,0,,0,,1314,23.938786664237565
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,Tabaquismo,0,0,0,0,0,0,5489,Hombre,0,,0,,0,,0,,0,,0,,911,16.596830023683733
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Colesterol elevado,0,0,0,0,0,0,1808,Hombre,0,,0,,0,,0,,0,,0,,130,7.1902654867256635
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Glicemia alterada,0,0,0,0,0,0,1808,Hombre,0,,0,,0,,0,,0,,0,,164,9.070796460176991
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Presion arterial elevada,0,0,0,0,0,0,1808,Hombre,0,,0,,0,,0,,0,,0,,183,10.121681415929205
+2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Tabaquismo,0,0,0,0,0,0,1808,Hombre,0,,0,,0,,0,,0,,0,,230,12.721238938053098
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Colesterol elevado,0,0,0,0,0,0,15318,Hombre,0,,0,,0,,0,,0,,0,,857,5.594725159942551
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Glicemia alterada,0,0,0,0,0,0,15318,Hombre,0,,0,,0,,0,,0,,0,,1980,12.925969447708576
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Presion arterial elevada,0,0,0,0,0,0,15318,Hombre,0,,0,,0,,0,,0,,0,,4016,26.21752186969578
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Tabaquismo,0,0,0,0,0,0,15318,Hombre,0,,0,,0,,0,,0,,0,,4206,27.45789267528398
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Colesterol elevado,0,0,0,0,0,0,6654,Hombre,0,,0,,0,,0,,0,,0,,610,9.16741809437932
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Glicemia alterada,0,0,0,0,0,0,6654,Hombre,0,,0,,0,,0,,0,,0,,2265,34.039675383228136
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Presion arterial elevada,0,0,0,0,0,0,6654,Hombre,0,,0,,0,,0,,0,,0,,1611,24.211000901713255
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Tabaquismo,0,0,0,0,0,0,6654,Hombre,0,,0,,0,,0,,0,,0,,1497,22.49774571686204
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Colesterol elevado,0,0,0,0,0,0,6680,Hombre,0,,0,,0,,0,,0,,0,,398,5.958083832335329
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Glicemia alterada,0,0,0,0,0,0,6680,Hombre,0,,0,,0,,0,,0,,0,,848,12.694610778443113
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Presion arterial elevada,0,0,0,0,0,0,6680,Hombre,0,,0,,0,,0,,0,,0,,1275,19.08682634730539
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Tabaquismo,0,0,0,0,0,0,6680,Hombre,0,,0,,0,,0,,0,,0,,1778,26.616766467065865
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Colesterol elevado,0,0,0,0,0,0,11022,Hombre,0,,0,,0,,0,,0,,0,,474,4.3004899292324446
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Glicemia alterada,0,0,0,0,0,0,11022,Hombre,0,,0,,0,,0,,0,,0,,2057,18.6626746506986
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Presion arterial elevada,0,0,0,0,0,0,11022,Hombre,0,,0,,0,,0,,0,,0,,2433,22.074033750680456
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Tabaquismo,0,0,0,0,0,0,11022,Hombre,0,,0,,0,,0,,0,,0,,2598,23.57103973870441
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Colesterol elevado,0,0,0,0,0,0,7736,Hombre,0,,0,,0,,0,,0,,0,,1273,16.455532574974146
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Glicemia alterada,0,0,0,0,0,0,7736,Hombre,0,,0,,0,,0,,0,,0,,2378,30.739400206825234
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Presion arterial elevada,0,0,0,0,0,0,7736,Hombre,0,,0,,0,,0,,0,,0,,1954,25.258531540847983
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Tabaquismo,0,0,0,0,0,0,7736,Hombre,0,,0,,0,,0,,0,,0,,2016,26.059979317476735
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Colesterol elevado,0,0,0,0,0,0,8103,Hombre,0,,0,,0,,0,,0,,0,,540,6.664198445020363
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Glicemia alterada,0,0,0,0,0,0,8103,Hombre,0,,0,,0,,0,,0,,0,,1250,15.426385289398988
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Presion arterial elevada,0,0,0,0,0,0,8103,Hombre,0,,0,,0,,0,,0,,0,,1503,18.548685671973345
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Tabaquismo,0,0,0,0,0,0,8103,Hombre,0,,0,,0,,0,,0,,0,,1669,20.597309638405527
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Colesterol elevado,0,0,0,0,0,0,17587,Hombre,0,,0,,0,,0,,0,,0,,1094,6.220503781202024
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Glicemia alterada,0,0,0,0,0,0,17587,Hombre,0,,0,,0,,0,,0,,0,,3289,18.701313470176835
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Presion arterial elevada,0,0,0,0,0,0,17587,Hombre,0,,0,,0,,0,,0,,0,,4334,24.64320236538352
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Tabaquismo,0,0,0,0,0,0,17587,Hombre,0,,0,,0,,0,,0,,0,,3637,20.680047762551883
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Colesterol elevado,0,0,0,0,0,0,7581,Hombre,0,,0,,0,,0,,0,,0,,361,4.761904761904762
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Glicemia alterada,0,0,0,0,0,0,7581,Hombre,0,,0,,0,,0,,0,,0,,1105,14.575913467880227
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Presion arterial elevada,0,0,0,0,0,0,7581,Hombre,0,,0,,0,,0,,0,,0,,1553,20.48542408653212
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Tabaquismo,0,0,0,0,0,0,7581,Hombre,0,,0,,0,,0,,0,,0,,1907,25.154992745020444
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Colesterol elevado,0,0,0,0,0,0,2009,Hombre,0,,0,,0,,0,,0,,0,,283,14.08661025385764
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Glicemia alterada,0,0,0,0,0,0,2009,Hombre,0,,0,,0,,0,,0,,0,,534,26.580388252862118
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Presion arterial elevada,0,0,0,0,0,0,2009,Hombre,0,,0,,0,,0,,0,,0,,493,24.539571926331508
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Tabaquismo,0,0,0,0,0,0,2009,Hombre,0,,0,,0,,0,,0,,0,,379,18.865107018417124
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Colesterol elevado,0,0,0,0,0,0,7743,Hombre,0,,0,,0,,0,,0,,0,,1194,15.420379697791553
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Glicemia alterada,0,0,0,0,0,0,7743,Hombre,0,,0,,0,,0,,0,,0,,1693,21.864910241508458
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Presion arterial elevada,0,0,0,0,0,0,7743,Hombre,0,,0,,0,,0,,0,,0,,2075,26.79839855353222
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Tabaquismo,0,0,0,0,0,0,7743,Hombre,0,,0,,0,,0,,0,,0,,2161,27.909079168281025
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Colesterol elevado,0,0,0,0,0,0,20553,Hombre,0,,0,,0,,0,,0,,0,,1801,8.762711039750888
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Glicemia alterada,0,0,0,0,0,0,20553,Hombre,0,,0,,0,,0,,0,,0,,2940,14.30448109764998
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Presion arterial elevada,0,0,0,0,0,0,20553,Hombre,0,,0,,0,,0,,0,,0,,4936,24.015958740816426
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Tabaquismo,0,0,0,0,0,0,20553,Hombre,0,,0,,0,,0,,0,,0,,4046,19.685690653432587
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Colesterol elevado,0,0,0,0,0,0,7689,Hombre,0,,0,,0,,0,,0,,0,,345,4.486929379633242
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Glicemia alterada,0,0,0,0,0,0,7689,Hombre,0,,0,,0,,0,,0,,0,,250,3.2513981011835087
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Presion arterial elevada,0,0,0,0,0,0,7689,Hombre,0,,0,,0,,0,,0,,0,,1168,15.190531928729353
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,Tabaquismo,0,0,0,0,0,0,7689,Hombre,0,,0,,0,,0,,0,,0,,1587,20.639875146312914
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Colesterol elevado,0,0,0,0,0,0,9655,Hombre,0,,0,,0,,0,,0,,0,,443,4.58829621957535
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Glicemia alterada,0,0,0,0,0,0,9655,Hombre,0,,0,,0,,0,,0,,0,,956,9.901605385810461
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Presion arterial elevada,0,0,0,0,0,0,9655,Hombre,0,,0,,0,,0,,0,,0,,2378,24.62972553081305
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,Tabaquismo,0,0,0,0,0,0,9655,Hombre,0,,0,,0,,0,,0,,0,,2114,21.895390989124806
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Colesterol elevado,0,0,0,0,0,0,6694,Hombre,0,,0,,0,,0,,0,,0,,192,2.868240215118016
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Glicemia alterada,0,0,0,0,0,0,6694,Hombre,0,,0,,0,,0,,0,,0,,1689,25.231550642366297
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Presion arterial elevada,0,0,0,0,0,0,6694,Hombre,0,,0,,0,,0,,0,,0,,1577,23.55841051688079
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,Tabaquismo,0,0,0,0,0,0,6694,Hombre,0,,0,,0,,0,,0,,0,,1223,18.270092620256946
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Colesterol elevado,0,0,0,0,0,0,13414,Hombre,0,,0,,0,,0,,0,,0,,1104,8.230207246160727
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Glicemia alterada,0,0,0,0,0,0,13414,Hombre,0,,0,,0,,0,,0,,0,,2753,20.523333830326525
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Presion arterial elevada,0,0,0,0,0,0,13414,Hombre,0,,0,,0,,0,,0,,0,,2556,19.05471895035038
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,Tabaquismo,0,0,0,0,0,0,13414,Hombre,0,,0,,0,,0,,0,,0,,2809,20.94080811092888
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Colesterol elevado,0,0,0,0,0,0,2345,Hombre,0,,0,,0,,0,,0,,0,,340,14.498933901918976
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Glicemia alterada,0,0,0,0,0,0,2345,Hombre,0,,0,,0,,0,,0,,0,,162,6.908315565031983
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Presion arterial elevada,0,0,0,0,0,0,2345,Hombre,0,,0,,0,,0,,0,,0,,230,9.808102345415778
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,Tabaquismo,0,0,0,0,0,0,2345,Hombre,0,,0,,0,,0,,0,,0,,364,15.522388059701491
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Colesterol elevado,0,0,0,0,0,0,106,Hombre,0,,0,,0,,0,,0,,0,,17,16.037735849056602
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Glicemia alterada,0,0,0,0,0,0,106,Hombre,0,,0,,0,,0,,0,,0,,8,7.547169811320755
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Presion arterial elevada,0,0,0,0,0,0,106,Hombre,0,,0,,0,,0,,0,,0,,8,7.547169811320755
+2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,Tabaquismo,0,0,0,0,0,0,106,Hombre,0,,0,,0,,0,,0,,0,,24,22.641509433962266

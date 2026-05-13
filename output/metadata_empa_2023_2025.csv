@@ -1,0 +1,14 @@
+﻿campo,valor
+region_objetivo,13
+fecha_corte_2025,25-02-2026
+fecha_corte_2024,24-01-2025
+fecha_corte_2023,19-06-2024
+periodo,2023-2025
+numerador_cobertura,"REM A02 seccion B, suma anual de categorias Normal/Bajo peso/Sobrepeso/Obesidad"
+denominador,"Bases FONASA de poblacion inscrita en APS disponibles localmente, usadas como aproximacion operativa de poblacion asignada"
+grupos_etarios,"15-24, 25-34, 35-44, 45-54, 55-64, 65 y mas"
+factores_riesgo,"Glicemia alterada, colesterol elevado, tabaquismo, presion arterial elevada"
+supuesto_1,El numerador anual se obtiene sumando los registros mensuales REM A02 del ano calendario.
+supuesto_2,"La cobertura usa como numerador la suma de categorias de la seccion B, ya que corresponde al EMP con resultado de estado nutricional y entrega el desglose etario necesario."
+supuesto_3,"Para 2023, 2024 y 2025 el denominador se construye con bases FONASA de poblacion inscrita en APS disponibles localmente, usadas como aproximacion operativa a la poblacion asignada."
+supuesto_4,Los establecimientos APS se identifican con el maestro local de establecimientos y el campo NivelAtencionEstabglosa.

@@ -1,0 +1,109 @@
+﻿Ano,nivel_geografico,IdServicio_master,servicio_salud_master,profesional,total_ambos_sexos,proporcion_profesional_pct
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Enfermera/o,60319,61.23942861203895
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Matrona/on,2290,2.324943906921023
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Medico/a,941,0.9553590464684203
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Nutricionista,12315,12.502918870625502
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Otro profesional capacitado en EMP y EMPAM,10260,10.416560910484582
+2023,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tecnico en enfermeria,12372,12.560788653461527
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Enfermera/o,63344,46.8029140990971
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Matrona/on,2510,1.8545610379630861
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Medico/a,274,0.2024500894031417
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Nutricionista,3093,2.285321629649333
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Otro profesional capacitado en EMP y EMPAM,2476,1.8294394940225505
+2023,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tecnico en enfermeria,63645,47.025313649864785
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Enfermera/o,39285,45.719572655540816
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Matrona/on,2672,3.1096524916788866
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Medico/a,706,0.8216372227265321
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Nutricionista,8257,9.609431371179852
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Otro profesional capacitado en EMP y EMPAM,18318,21.318343691083026
+2023,servicio_salud,11,Servicio de Salud Metropolitano Central,Tecnico en enfermeria,16688,19.42136256779089
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Enfermera/o,69313,64.56549886821979
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Matrona/on,8822,8.217748921781412
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Medico/a,1057,0.9846022002179724
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Nutricionista,11639,10.841802278464504
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Otro profesional capacitado en EMP y EMPAM,10243,9.541419429359218
+2023,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tecnico en enfermeria,6279,5.848928301957095
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Enfermera/o,40052,25.608204446206273
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Matrona/on,8274,5.290179855885118
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Medico/a,2916,1.864414365453348
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Nutricionista,9990,6.38734551127536
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Otro profesional capacitado en EMP y EMPAM,35455,22.669002512739524
+2023,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tecnico en enfermeria,59716,38.180853308440376
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Enfermera/o,46502,39.30521511283915
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Matrona/on,8695,7.349336488885132
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Medico/a,1298,1.0971177415264983
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Nutricionista,22091,18.672132533175557
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Otro profesional capacitado en EMP y EMPAM,32103,27.13464626827825
+2023,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tecnico en enfermeria,7621,6.44155185529541
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Enfermera/o,63335,56.825624691579556
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Matrona/on,2494,2.237674397738998
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Medico/a,659,0.5912700192902965
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Nutricionista,13676,12.270423040689067
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Otro profesional capacitado en EMP y EMPAM,15347,13.769682831636088
+2024,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tecnico en enfermeria,15944,14.30532501906599
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Enfermera/o,69947,43.78309693411285
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Matrona/on,3107,1.9448165350092015
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Medico/a,635,0.3974761827263736
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Nutricionista,3134,1.9617170971093778
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Otro profesional capacitado en EMP y EMPAM,1692,1.0591018916110617
+2024,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tecnico en enfermeria,81243,50.85379135943114
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Enfermera/o,45275,44.178058799996094
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Matrona/on,4318,4.213381731604266
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Medico/a,635,0.6196149605300392
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Nutricionista,11426,11.149166203175161
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Otro profesional capacitado en EMP y EMPAM,19557,19.08316501273382
+2024,servicio_salud,11,Servicio de Salud Metropolitano Central,Tecnico en enfermeria,21272,20.75661329196062
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Enfermera/o,79187,63.71250643666323
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Matrona/on,8416,6.771369721936147
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Medico/a,598,0.48114057672502575
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Nutricionista,14256,11.470133882595263
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Otro profesional capacitado en EMP y EMPAM,13667,10.996234552008238
+2024,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tecnico en enfermeria,8164,6.56861483007209
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Enfermera/o,47141,25.880034257103958
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Matrona/on,6656,3.6540910887610347
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Medico/a,2777,1.5245509245026132
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Nutricionista,10376,5.696341516974835
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Otro profesional capacitado en EMP y EMPAM,32378,17.77526461416839
+2024,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tecnico en enfermeria,82824,45.469717598489176
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Enfermera/o,53394,39.24759636588163
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Matrona/on,8740,6.424392108435506
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Medico/a,1976,1.452471259298462
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Nutricionista,25326,18.616035988356707
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Otro profesional capacitado en EMP y EMPAM,35270,25.925435888389046
+2024,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tecnico en enfermeria,11338,8.334068389638647
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Enfermera/o,67744,46.53993858244997
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Matrona/on,3540,2.4319701018816855
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Medico/a,2860,1.964812003215147
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Nutricionista,18826,12.933409361023902
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Otro profesional capacitado en EMP y EMPAM,20012,13.748188044874658
+2025,servicio_salud,9,Servicio de Salud Metropolitano Norte,Tecnico en enfermeria,32579,22.38168190655464
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Enfermera/o,90630,40.17020144937172
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Matrona/on,4765,2.11200496420894
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Medico/a,4243,1.8806373689692617
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Nutricionista,9368,4.152206191964187
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Otro profesional capacitado en EMP y EMPAM,2412,1.0690778538660994
+2025,servicio_salud,10,Servicio de Salud Metropolitano Occidente,Tecnico en enfermeria,114197,50.61587217161979
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Enfermera/o,56140,39.67379014020805
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Matrona/on,7836,5.537652645861601
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Medico/a,1687,1.1921924468566258
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Nutricionista,21559,15.23561171415649
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Otro profesional capacitado en EMP y EMPAM,14988,10.591926729986431
+2025,servicio_salud,11,Servicio de Salud Metropolitano Central,Tecnico en enfermeria,39294,27.7688263229308
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Enfermera/o,89953,58.76131746384291
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Matrona/on,9125,5.960857579597863
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Medico/a,2752,1.7977293215400896
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Nutricionista,21208,13.854012881984817
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Otro profesional capacitado en EMP y EMPAM,19265,12.584758495446884
+2025,servicio_salud,12,Servicio de Salud Metropolitano Oriente,Tecnico en enfermeria,10779,7.041324257587436
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Enfermera/o,62171,26.046318717688756
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Matrona/on,7267,3.044483732309987
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Medico/a,9707,4.066713030071975
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Nutricionista,17803,7.458503355760933
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Otro profesional capacitado en EMP y EMPAM,31893,13.361458603902904
+2025,servicio_salud,13,Servicio de Salud Metropolitano Sur,Tecnico en enfermeria,109853,46.02252256026544
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Enfermera/o,60018,33.82210400559024
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Matrona/on,8714,4.910623717963167
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Medico/a,4966,2.7985032572188535
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Nutricionista,31069,17.508396636837002
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Otro profesional capacitado en EMP y EMPAM,39382,22.19304375267678
+2025,servicio_salud,14,Servicio de Salud Metropolitano Sur Oriente,Tecnico en enfermeria,33303,18.76732862971395

@@ -1,0 +1,13 @@
+﻿Ano,nivel_geografico,factor_riesgo,15_24_numerador,25_34_numerador,35_44_numerador,45_54_numerador,55_64_numerador,65_mas_numerador,total_15_mas_numerador,sexo,15_24,15_24_prevalencia_pct,25_34,25_34_prevalencia_pct,35_44,35_44_prevalencia_pct,45_54,45_54_prevalencia_pct,55_64,55_64_prevalencia_pct,65_mas,65_mas_prevalencia_pct,total_15_mas,total_15_mas_prevalencia_pct
+2023,rm,Colesterol elevado,0,0,0,0,0,0,221848,Hombre,0,,0,,0,,0,,0,,0,,18077,8.148371858209224
+2023,rm,Glicemia alterada,0,0,0,0,0,0,221848,Hombre,0,,0,,0,,0,,0,,0,,47517,21.41871912300314
+2023,rm,Presion arterial elevada,0,0,0,0,0,0,221848,Hombre,0,,0,,0,,0,,0,,0,,50673,22.84131477407955
+2023,rm,Tabaquismo,0,0,0,0,0,0,221848,Hombre,0,,0,,0,,0,,0,,0,,48626,21.918610940824347
+2024,rm,Colesterol elevado,0,0,0,0,0,0,280180,Hombre,0,,0,,0,,0,,0,,0,,21366,7.625811978014134
+2024,rm,Glicemia alterada,0,0,0,0,0,0,280180,Hombre,0,,0,,0,,0,,0,,0,,57134,20.39189092726105
+2024,rm,Presion arterial elevada,0,0,0,0,0,0,280180,Hombre,0,,0,,0,,0,,0,,0,,60627,21.63858947819259
+2024,rm,Tabaquismo,0,0,0,0,0,0,280180,Hombre,0,,0,,0,,0,,0,,0,,62656,22.362766792776075
+2025,rm,Colesterol elevado,0,0,0,0,0,0,391892,Hombre,0,,0,,0,,0,,0,,0,,33429,8.530156267543099
+2025,rm,Glicemia alterada,0,0,0,0,0,0,391892,Hombre,0,,0,,0,,0,,0,,0,,81675,20.841201147254857
+2025,rm,Presion arterial elevada,0,0,0,0,0,0,391892,Hombre,0,,0,,0,,0,,0,,0,,83222,21.23595276249579
+2025,rm,Tabaquismo,0,0,0,0,0,0,391892,Hombre,0,,0,,0,,0,,0,,0,,82646,21.088973492696965
