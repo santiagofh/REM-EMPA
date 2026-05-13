@@ -523,7 +523,7 @@ def render_home_page() -> None:
 
 def render_metodologia_page() -> None:
     st.title("Metodología")
-    st.caption("Descripción de la metodología utilizada para la construcción de indicadores REM EMPA en la Región Metropolitana, período 2023-2025.")
+    st.caption("Período cubierto por el dashboard REM EMPA en la Región Metropolitana.")
 
     metadata = load_metadata()
     if metadata.empty:
@@ -540,18 +540,6 @@ def render_metodologia_page() -> None:
         fecha = meta.get(f"fecha_corte_{year}", "N/A")
         fechas.append(f"{year}: {fecha}")
     st.markdown(f"- **Fechas de corte**: {', '.join(fechas)}")
-
-    st.markdown("### Construcción de indicadores")
-    st.markdown(f"- **Numerador de cobertura**: {meta.get('numerador_cobertura', 'N/A')}.")
-    st.markdown(f"- **Denominador**: {meta.get('denominador', 'N/A')}.")
-    st.markdown(f"- **Grupos etarios considerados**: {meta.get('grupos_etarios', 'N/A')}.")
-    st.markdown(f"- **Factores de riesgo monitoreados**: {meta.get('factores_riesgo', 'N/A')}.")
-
-    st.markdown("### Notas metodológicas")
-    st.markdown("- La cobertura anual se calcula sumando los registros mensuales del REM A02 dentro de cada año calendario.")
-    st.markdown("- El numerador de cobertura utiliza las categorías de la sección B del REM A02 (Normal, Bajo peso, Sobrepeso, Obesidad), que corresponden al EMP con resultado de estado nutricional y entregan el desglose etario requerido.")
-    st.markdown("- El denominador se construye a partir de las bases de población inscrita y validada en APS de FONASA.")
-    st.markdown("- Los establecimientos de atención primaria se identifican mediante el maestro local de establecimientos, no mediante la base de establecimientos del DEIS.")
 
 
 def render_cobertura_page() -> None:
