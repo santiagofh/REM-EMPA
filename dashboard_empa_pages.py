@@ -418,6 +418,8 @@ def summarize_professional_by_year(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def previous_year_value(trend_df: pd.DataFrame, year: int, value_col: str) -> float | None:
+    if trend_df.empty or "Ano" not in trend_df.columns or value_col not in trend_df.columns:
+        return None
     previous = trend_df.loc[trend_df["Ano"].lt(year), ["Ano", value_col]].sort_values("Ano")
     if previous.empty:
         return None
@@ -995,6 +997,19 @@ def render_category_page(
         st.stop()
     current_row = current_row.iloc[0]
 
+    available_age_keys = [
+        key
+        for key in AGE_ORDER
+        if key in current_summary.columns and f"{key}_numerador" in current_summary.columns
+    ]
+    if age_key not in available_age_keys:
+        fallback_age_key = "total_15_mas" if "total_15_mas" in available_age_keys else (available_age_keys[0] if available_age_keys else None)
+        if fallback_age_key is None:
+            st.warning("No hay columnas etarias disponibles para la combinación seleccionada.")
+            st.stop()
+        age_key = fallback_age_key
+        st.info(f"Se ajustó el grupo etario a {AGE_LABELS.get(age_key, age_key)} porque el tramo seleccionado no está disponible en esta fuente.")
+
     scope = selected_scope_label(level, filters)
     pct_col = f"{age_key}{pct_suffix}"
     total_pct_col = f"total_15_mas{pct_suffix}"
@@ -1012,10 +1027,19 @@ def render_category_page(
     c3.metric("Población evaluada", format_int(total_evaluados))
     st.caption("pp: Variación en puntos porcentuales respecto al año anterior")
 
-    composition = current_summary[[category_col, age_key, pct_col]].copy().sort_values(pct_col, ascending=False)
+    composition_cols = [col for col in [category_col, age_key, pct_col] if col in current_summary.columns]
+    composition = current_summary[composition_cols].copy()
+    if pct_col not in composition.columns:
+        composition[pct_col] = pd.NA
+    if age_key not in composition.columns:
+        composition[age_key] = pd.NA
+    composition = composition.sort_values(pct_col, ascending=False)
     composition = composition.rename(columns={category_col: "Categoría", age_key: "Casos", pct_col: "Porcentaje"})
 
-    trend_chart_df = trend_summary[trend_summary[category_col].astype(str) == selected_category][["Ano", pct_col]].dropna()
+    trend_chart_source = trend_summary[trend_summary[category_col].astype(str) == selected_category].copy()
+    if pct_col not in trend_chart_source.columns:
+        trend_chart_source[pct_col] = pd.NA
+    trend_chart_df = trend_chart_source[["Ano", pct_col]].dropna()
     trend_chart_df = trend_chart_df.rename(columns={pct_col: "Porcentaje"})
 
     left, right = st.columns([1.15, 1])
@@ -1034,8 +1058,16 @@ def render_category_page(
 
     ranking_pct_col = f"{age_key}{pct_suffix}"
     ranking_cols = [col for col in available_unit_columns(ranking_level) if col in ranking_df.columns]
-    ranking_cols += [age_key, f"{age_key}_numerador", ranking_pct_col]
-    ranking_view = ranking_df[ranking_cols].sort_values(ranking_pct_col, ascending=False)
+    ranking_cols += [col for col in [age_key, f"{age_key}_numerador", ranking_pct_col] if col in ranking_df.columns]
+    ranking_view = ranking_df[ranking_cols].copy()
+    if ranking_pct_col not in ranking_view.columns:
+        ranking_view[ranking_pct_col] = pd.NA
+    if age_key not in ranking_view.columns:
+        ranking_view[age_key] = pd.NA
+    numerador_age_col = f"{age_key}_numerador"
+    if numerador_age_col not in ranking_view.columns:
+        ranking_view[numerador_age_col] = pd.NA
+    ranking_view = ranking_view.sort_values(ranking_pct_col, ascending=False)
     ranking_view = rename_geo_columns(ranking_view).rename(
         columns={
             age_key: "Casos",
