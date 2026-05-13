@@ -617,22 +617,6 @@ hombres 20-64 inscritos validados * 100
         """
     )
 
-    st.markdown("### Implementación en este dashboard")
-    st.markdown(
-        f"""
-- **Cálculo IAAPS 20-64**: {meta.get("numerador_iaaps_20_64", "REM A02 Sección A, 20 a 64 años por sexo")}.
-- **Ajuste mujeres**: {meta.get("denominador_iaaps_mujeres_20_64", "Mujeres 20 a 64 inscritas validadas menos gestantes 20 a 54 en control")}.
-- **Hombres**: {meta.get("denominador_iaaps_hombres_20_64", "Hombres 20 a 64 inscritos validados")}.
-- **Nota histórica**: {meta.get("nota_numerador_iaaps_2023_2024", "Para 2023-2024 se documenta la fuente disponible según estructura REM de esos años")}.
-        """
-    )
-
-    st.info(
-        "Lectura práctica: el Manual REM identifica dónde se registra la producción del EMP; "
-        "la fórmula del indicador se cita desde el decreto IAAPS; el denominador base viene de FONASA; "
-        "y el descuento de embarazadas se obtiene desde REM Serie P."
-    )
-
 
 def render_cobertura_page() -> None:
     st.title("Dashboard REM EMPA · Cobertura")
