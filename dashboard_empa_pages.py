@@ -389,32 +389,67 @@ def summarize_category_by_year(df: pd.DataFrame, category_col: str, pct_suffix: 
 
 
 def summarize_professional_section(df: pd.DataFrame) -> pd.DataFrame:
-    if df.empty:
+    if df.empty or "profesional" not in df.columns:
         return pd.DataFrame(columns=["profesional", "total_ambos_sexos", "proporcion_profesional_pct"])
-    out = (
-        df.groupby("profesional", as_index=False, dropna=False)["total_ambos_sexos"]
-        .sum()
-        .sort_values("total_ambos_sexos", ascending=False)
-    )
-    total = out["total_ambos_sexos"].sum()
-    if total > 0:
-        out["proporcion_profesional_pct"] = out["total_ambos_sexos"] / total * 100
-    else:
-        out["proporcion_profesional_pct"] = pd.NA
+    if "total_ambos_sexos" in df.columns:
+        working = df.copy()
+        working["total_ambos_sexos"] = pd.to_numeric(working["total_ambos_sexos"], errors="coerce")
+        out = (
+            working.groupby("profesional", as_index=False, dropna=False)["total_ambos_sexos"]
+            .sum(min_count=1)
+            .sort_values("total_ambos_sexos", ascending=False, na_position="last")
+        )
+        total = pd.to_numeric(out["total_ambos_sexos"], errors="coerce").sum(min_count=1)
+        if pd.notna(total) and float(total) > 0:
+            out["proporcion_profesional_pct"] = out["total_ambos_sexos"] / float(total) * 100
+        else:
+            out["proporcion_profesional_pct"] = pd.NA
+        return out
+
+    if "proporcion_profesional_pct" in df.columns:
+        working = df.copy()
+        working["proporcion_profesional_pct"] = pd.to_numeric(working["proporcion_profesional_pct"], errors="coerce")
+        out = (
+            working.groupby("profesional", as_index=False, dropna=False)["proporcion_profesional_pct"]
+            .mean()
+            .sort_values("proporcion_profesional_pct", ascending=False, na_position="last")
+        )
+        out["total_ambos_sexos"] = pd.NA
+        return out[["profesional", "total_ambos_sexos", "proporcion_profesional_pct"]]
+
+    out = df[["profesional"]].drop_duplicates().copy()
+    out["total_ambos_sexos"] = pd.NA
+    out["proporcion_profesional_pct"] = pd.NA
     return out
 
 
 def summarize_professional_by_year(df: pd.DataFrame) -> pd.DataFrame:
-    if df.empty or "Ano" not in df.columns:
+    if df.empty or "Ano" not in df.columns or "profesional" not in df.columns:
         return pd.DataFrame(columns=["Ano", "profesional", "total_ambos_sexos", "proporcion_profesional_pct"])
-    out = (
-        df.groupby(["Ano", "profesional"], as_index=False, dropna=False)["total_ambos_sexos"]
-        .sum()
-        .sort_values(["Ano", "total_ambos_sexos"], ascending=[True, False])
-    )
-    total_by_year = out.groupby("Ano")["total_ambos_sexos"].transform("sum")
-    out["proporcion_profesional_pct"] = (out["total_ambos_sexos"] / total_by_year * 100).where(total_by_year.gt(0))
-    return out
+    if "total_ambos_sexos" in df.columns:
+        working = df.copy()
+        working["total_ambos_sexos"] = pd.to_numeric(working["total_ambos_sexos"], errors="coerce")
+        out = (
+            working.groupby(["Ano", "profesional"], as_index=False, dropna=False)["total_ambos_sexos"]
+            .sum(min_count=1)
+            .sort_values(["Ano", "total_ambos_sexos"], ascending=[True, False], na_position="last")
+        )
+        total_by_year = out.groupby("Ano")["total_ambos_sexos"].transform("sum")
+        out["proporcion_profesional_pct"] = (out["total_ambos_sexos"] / total_by_year * 100).where(total_by_year.gt(0))
+        return out
+
+    if "proporcion_profesional_pct" in df.columns:
+        working = df.copy()
+        working["proporcion_profesional_pct"] = pd.to_numeric(working["proporcion_profesional_pct"], errors="coerce")
+        out = (
+            working.groupby(["Ano", "profesional"], as_index=False, dropna=False)["proporcion_profesional_pct"]
+            .mean()
+            .sort_values(["Ano", "proporcion_profesional_pct"], ascending=[True, False], na_position="last")
+        )
+        out["total_ambos_sexos"] = pd.NA
+        return out[["Ano", "profesional", "total_ambos_sexos", "proporcion_profesional_pct"]]
+
+    return pd.DataFrame(columns=["Ano", "profesional", "total_ambos_sexos", "proporcion_profesional_pct"])
 
 
 def previous_year_value(trend_df: pd.DataFrame, year: int, value_col: str) -> float | None:
@@ -1192,7 +1227,7 @@ def render_professional_page() -> None:
         "proporcion_profesional_pct",
     )
 
-    total_empa = current_summary["total_ambos_sexos"].sum()
+    total_empa = pd.to_numeric(current_summary.get("total_ambos_sexos"), errors="coerce").sum(min_count=1)
 
     c1, c2, c3 = st.columns(3)
     c1.metric(selected_professional, format_pct(current_row.get("proporcion_profesional_pct")), delta=format_pp_delta(current_row.get("proporcion_profesional_pct"), previous_pct))
@@ -1227,8 +1262,13 @@ def render_professional_page() -> None:
     ranking_df = ranking_df[ranking_df["profesional"].astype(str) == selected_professional].copy()
 
     ranking_cols = [col for col in available_unit_columns(ranking_level) if col in ranking_df.columns]
-    ranking_cols += ["total_ambos_sexos", "proporcion_profesional_pct"]
-    ranking_view = ranking_df[ranking_cols].sort_values("proporcion_profesional_pct", ascending=False)
+    ranking_cols += [col for col in ["total_ambos_sexos", "proporcion_profesional_pct"] if col in ranking_df.columns]
+    ranking_view = ranking_df[ranking_cols].copy()
+    if "total_ambos_sexos" not in ranking_view.columns:
+        ranking_view["total_ambos_sexos"] = pd.NA
+    if "proporcion_profesional_pct" not in ranking_view.columns:
+        ranking_view["proporcion_profesional_pct"] = pd.NA
+    ranking_view = ranking_view.sort_values("proporcion_profesional_pct", ascending=False)
     ranking_view = ranking_view.rename(
         columns={
             "total_ambos_sexos": "Total EMPA",
