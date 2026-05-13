@@ -763,7 +763,7 @@ def render_category_page(
         chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolución porcentual de {title.lower()}: {selected_category.lower()}")
         st.altair_chart(chart, use_container_width=True)
     with right:
-        chart = make_bar_chart(composition, "Categoría", "Porcentaje", f"Distribución porcentual por categoría, {year}")
+        chart = make_bar_chart(composition, "Categoría", "Porcentaje", f"Distribución porcentual por {title.lower()}, {year}")
         st.altair_chart(chart, use_container_width=True)
 
     ranking_level = "servicio_salud" if level == "rm" else level
