@@ -760,7 +760,7 @@ def render_category_page(
 
     left, right = st.columns([1.15, 1])
     with left:
-        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolución porcentual de {selected_category.lower()} en {title.lower()}")
+        chart = make_line_chart(trend_chart_df, "Ano", "Porcentaje", f"Evolución porcentual de {title.lower()}: {selected_category.lower()}")
         st.altair_chart(chart, use_container_width=True)
     with right:
         chart = make_bar_chart(composition, "Categoría", "Porcentaje", f"Distribución porcentual por categoría, {year}")
