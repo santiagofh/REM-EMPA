@@ -1,19 +1,19 @@
-﻿Ano,nivel_geografico,profesional,proporcion_profesional_pct,sexo
-2023,rm,Enfermera/o,43.518640042498674,Mujer
-2023,rm,Matrona/on,6.423965917731738,Mujer
-2023,rm,Medico/a,0.9633032301073924,Mujer
-2023,rm,Nutricionista,9.785110881951606,Mujer
-2023,rm,Otro profesional capacitado en EMP y EMPAM,15.032238575877837,Mujer
-2023,rm,Tecnico en enfermeria,24.276741351832758,Mujer
-2024,rm,Enfermera/o,42.747859330927746,Mujer
-2024,rm,Matrona/on,5.589353683145509,Mujer
-2024,rm,Medico/a,0.8342402514854479,Mujer
-2024,rm,Nutricionista,9.759061559052974,Mujer
-2024,rm,Otro profesional capacitado en EMP y EMPAM,14.05458682800165,Mujer
-2024,rm,Tecnico en enfermeria,27.014898347386673,Mujer
-2025,rm,Enfermera/o,36.80493576869872,Mujer
-2025,rm,Matrona/on,5.492300246559786,Mujer
-2025,rm,Medico/a,2.3844274820796385,Mujer
-2025,rm,Nutricionista,11.501347123405651,Mujer
-2025,rm,Otro profesional capacitado en EMP y EMPAM,11.3731512779571,Mujer
-2025,rm,Tecnico en enfermeria,32.44383810129911,Mujer
+﻿Ano,nivel_geografico,profesional,total_ambos_sexos,proporcion_profesional_pct,sexo
+2023,rm,Enfermera/o,208896,43.518640042498674,Mujer
+2023,rm,Matrona/on,30836,6.423965917731738,Mujer
+2023,rm,Medico/a,4624,0.9633032301073924,Mujer
+2023,rm,Nutricionista,46970,9.785110881951606,Mujer
+2023,rm,Otro profesional capacitado en EMP y EMPAM,72157,15.032238575877837,Mujer
+2023,rm,Tecnico en enfermeria,116532,24.276741351832758,Mujer
+2024,rm,Enfermera/o,228999,42.747859330927746,Mujer
+2024,rm,Matrona/on,29942,5.589353683145509,Mujer
+2024,rm,Medico/a,4469,0.8342402514854479,Mujer
+2024,rm,Nutricionista,52279,9.759061559052974,Mujer
+2024,rm,Otro profesional capacitado en EMP y EMPAM,75290,14.05458682800165,Mujer
+2024,rm,Tecnico en enfermeria,144718,27.014898347386673,Mujer
+2025,rm,Enfermera/o,482901,36.80493576869872,Mujer
+2025,rm,Matrona/on,72062,5.492300246559786,Mujer
+2025,rm,Medico/a,31285,2.3844274820796385,Mujer
+2025,rm,Nutricionista,150904,11.501347123405651,Mujer
+2025,rm,Otro profesional capacitado en EMP y EMPAM,149222,11.3731512779571,Mujer
+2025,rm,Tecnico en enfermeria,425681,32.44383810129911,Mujer

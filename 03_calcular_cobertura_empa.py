@@ -442,11 +442,10 @@ def build_professional_proportions_sex(profesional: pd.DataFrame) -> dict[str, d
         outputs[level] = {}
         for sexo, sex_col in sex_map.items():
             agg = aggregate_by_level(profesional, level, [sex_col], ["profesional"])
-            agg = agg.rename(columns={sex_col: "sex_count"})
-            totals = agg.groupby(geo_columns(level), dropna=False)["sex_count"].transform("sum")
-            agg["proporcion_profesional_pct"] = (agg["sex_count"] / totals * 100).where(totals.gt(0))
+            agg = agg.rename(columns={sex_col: "total_ambos_sexos"})
+            totals = agg.groupby(geo_columns(level), dropna=False)["total_ambos_sexos"].transform("sum")
+            agg["proporcion_profesional_pct"] = (agg["total_ambos_sexos"] / totals * 100).where(totals.gt(0))
             agg["sexo"] = sexo
-            agg = agg.drop(columns=["sex_count"])
             outputs[level][sexo] = agg.sort_values(geo_columns(level) + ["profesional"])
     return outputs
 

@@ -1,19 +1,19 @@
-﻿Ano,nivel_geografico,profesional,proporcion_profesional_pct,sexo
-2023,rm,Enfermera/o,49.55186871646905,Hombre
-2023,rm,Matrona/on,1.0910238492403408,Hombre
-2023,rm,Medico/a,1.1577476218385105,Hombre
-2023,rm,Nutricionista,9.202019746629999,Hombre
-2023,rm,Otro profesional capacitado en EMP y EMPAM,16.544790586538028,Hombre
-2023,rm,Tecnico en enfermeria,22.452549479284073,Hombre
-2024,rm,Enfermera/o,46.09109837140983,Hombre
-2024,rm,Matrona/on,1.3508599298365704,Hombre
-2024,rm,Medico/a,1.0021819115256267,Hombre
-2024,rm,Nutricionista,9.23925444225778,Hombre
-2024,rm,Otro profesional capacitado en EMP y EMPAM,15.19708508028864,Hombre
-2024,rm,Tecnico en enfermeria,27.119520264681558,Hombre
-2025,rm,Enfermera/o,39.068199004390195,Hombre
-2025,rm,Matrona/on,1.384394631295709,Hombre
-2025,rm,Medico/a,2.7909673661230805,Hombre
-2025,rm,Nutricionista,11.022651058269627,Hombre
-2025,rm,Otro profesional capacitado en EMP y EMPAM,11.792204530211654,Hombre
-2025,rm,Tecnico en enfermeria,33.941583409709736,Hombre
+﻿Ano,nivel_geografico,profesional,total_ambos_sexos,proporcion_profesional_pct,sexo
+2023,rm,Enfermera/o,109911,49.55186871646905,Hombre
+2023,rm,Matrona/on,2420,1.0910238492403408,Hombre
+2023,rm,Medico/a,2568,1.1577476218385105,Hombre
+2023,rm,Nutricionista,20411,9.202019746629999,Hombre
+2023,rm,Otro profesional capacitado en EMP y EMPAM,36698,16.544790586538028,Hombre
+2023,rm,Tecnico en enfermeria,49802,22.452549479284073,Hombre
+2024,rm,Enfermera/o,129280,46.09109837140983,Hombre
+2024,rm,Matrona/on,3789,1.3508599298365704,Hombre
+2024,rm,Medico/a,2811,1.0021819115256267,Hombre
+2024,rm,Nutricionista,25915,9.23925444225778,Hombre
+2024,rm,Otro profesional capacitado en EMP y EMPAM,42626,15.19708508028864,Hombre
+2024,rm,Tecnico en enfermeria,76067,27.119520264681558,Hombre
+2025,rm,Enfermera/o,292420,39.068199004390195,Hombre
+2025,rm,Matrona/on,10362,1.384394631295709,Hombre
+2025,rm,Medico/a,20890,2.7909673661230805,Hombre
+2025,rm,Nutricionista,82503,11.022651058269627,Hombre
+2025,rm,Otro profesional capacitado en EMP y EMPAM,88263,11.792204530211654,Hombre
+2025,rm,Tecnico en enfermeria,254048,33.941583409709736,Hombre
