@@ -668,7 +668,7 @@ def render_cobertura_page() -> None:
         st.header("Filtros")
         coverage_mode = st.radio(
             "Vista",
-            ["IAAPS oficial 20-64", "Referencial REM por tramo etario"],
+            ["20 a 64 años", "15 años o más (Referencial)"],
             index=0,
             key="cob_mode",
         )
@@ -680,7 +680,7 @@ def render_cobertura_page() -> None:
             format_func=lambda value: LEVEL_LABELS[value],
             key="cob_iaaps_level",
         )
-        if coverage_mode == "IAAPS oficial 20-64":
+        if coverage_mode == "20 a 64 años":
             sexo = st.selectbox(
                 "Sexo",
                 ["Mujer", "Hombre", "Ambos sexos"],
@@ -698,7 +698,7 @@ def render_cobertura_page() -> None:
                 key="cob_ref_age",
             )
 
-    if coverage_mode == "IAAPS oficial 20-64":
+    if coverage_mode == "20 a 64 años":
         st.caption("Indicador oficial EMPA adulto: 20 a 64 años. Mujeres y hombres se reportan por separado; ambos sexos se muestra como agregado referencial.")
         data = load_iaaps_coverage_data(level)
         if data.empty:
@@ -893,7 +893,7 @@ def render_cobertura_page() -> None:
     c2.metric(f"Numerador {AGE_LABELS[age_key]}", format_int(current.get(num_col)))
     c3.metric(f"Denominador {AGE_LABELS[age_key]}", format_int(current.get(den_col)))
     st.caption("pp: Puntos porcentuales en relación al año anterior.")
-    st.caption("Uso sugerido: análisis descriptivo y monitoreo interno. Para IAAPS oficial, usa la vista 'IAAPS oficial 20-64'.")
+    st.caption("Uso sugerido: análisis descriptivo y monitoreo interno. Para IAAPS oficial, usa la vista '20 a 64 años'.")
 
     left, right = st.columns([1.2, 1])
     with left:
