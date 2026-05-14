@@ -12,10 +12,10 @@ DATA_DIR = ROOT / "data"
 OUTPUT_DIR = ROOT / "output"
 CONFIG_PATH = DATA_DIR / "diccionario_rem_empa_2023_2025.json"
 
-A02_HOMBRE_COLS = [f"Col{i:02d}" for i in range(2, 30, 2)]
-A02_MUJER_COLS = [f"Col{i:02d}" for i in range(3, 30, 2)]
-A02_PUEBLOS_ORIGINARIOS_COLS = ["Col30", "Col31"]
-A02_MIGRANTES_COLS = ["Col32", "Col33"]
+A02_HOMBRE_COLS = [f"Col{i:02d}" for i in range(4, 31, 2)]
+A02_MUJER_COLS = [f"Col{i:02d}" for i in range(5, 32, 2)]
+A02_PUEBLOS_ORIGINARIOS_COLS = []
+A02_MIGRANTES_COLS = []
 
 
 def load_config() -> dict:
@@ -88,8 +88,8 @@ def add_a02_derived_columns(df: pd.DataFrame, config: dict, has_age_detail: bool
 
     df["total_15_mas"] = df["Col01"]
     if has_age_detail:
-        df["total_hombres"] = df[A02_HOMBRE_COLS].sum(axis=1)
-        df["total_mujeres"] = df[A02_MUJER_COLS].sum(axis=1)
+        df["total_hombres"] = df["Col02"]
+        df["total_mujeres"] = df["Col03"]
         df["pueblos_originarios"] = df[A02_PUEBLOS_ORIGINARIOS_COLS].sum(axis=1)
         df["migrantes"] = df[A02_MIGRANTES_COLS].sum(axis=1)
 

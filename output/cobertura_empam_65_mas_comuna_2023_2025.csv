@@ -1,157 +1,157 @@
 ﻿Ano,IdServicio_master,servicio_salud_master,IdComuna_master,comuna_master,nivel_geografico,65_mas_numerador,65_mas_denominador,65_mas_cobertura_pct
-2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,4272,16617.0,25.70861166275501
-2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,5482,20208.0,27.127870150435474
-2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,9352,25987.0,35.98722438142148
-2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,5428,14473.0,37.50431838596006
-2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,5434,17360.0,31.30184331797235
-2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,3520,16124.0,21.830811213098485
-2023,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,459,970.0,47.319587628865975
-2023,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,488,289.0,168.85813148788927
-2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,870,2120.0,41.0377358490566
-2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,344,1781.0,19.3149915777653
-2023,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,2149,7489.0,28.695419949258916
-2023,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,1136,4009.0,28.33624345223248
-2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,1384,4311.0,32.10392020412897
-2023,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,2301,6401.0,35.94750820184346
-2023,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,3324,10706.0,31.0480104614235
-2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,9983,34066.0,29.30487876475078
-2023,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,2076,8064.0,25.744047619047617
-2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,3079,11597.0,26.549969819780976
-2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,17151,46906.0,36.564618598899926
-2023,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,2728,8921.0,30.579531442663377
-2023,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,5538,21564.0,25.681691708402894
-2023,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,2022,5643.0,35.83200425305689
-2023,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,6555,20175.0,32.4907063197026
-2023,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,5621,20688.0,27.170340293890177
-2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,11484,28733.0,39.96798106706574
-2023,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,5281,17382.0,30.3820043723392
-2023,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,1702,5102.0,33.359466875735
-2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,8865,23161.0,38.27554941496481
-2023,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,4035,12344.0,32.68794556059624
-2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,3380,13204.0,25.598303544380492
-2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,6438,17430.0,36.936316695352836
-2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,4858,14850.0,32.71380471380471
-2023,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,5287,15103.0,35.006290141031585
-2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,9877,29598.0,33.37049800662207
-2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,4245,10494.0,40.45168667810177
-2023,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,1014,2455.0,41.30346232179226
-2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,3150,8154.0,38.63134657836645
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,15345,56317.0,27.247545146225825
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,5128,19586.0,26.18196671091596
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,6607,19413.0,34.03389481275434
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,3400,12510.0,27.17825739408473
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,14900,50735.0,29.36828619296344
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,1196,3400.0,35.17647058823529
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,94,339.0,27.728613569321535
-2023,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,6754,20962.0,32.22020799542029
-2023,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,4049,9968.0,40.619983948635635
-2023,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,2710,11584.0,23.394337016574585
-2023,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,5622,14547.0,38.64714374097752
-2023,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,6571,18943.0,34.68827535237291
-2023,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,4087,9919.0,41.2037503780623
-2023,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,2361,6598.0,35.78357077902395
-2023,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,296,1876.0,15.778251599147122
-2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,4995,16891.0,29.571961399561896
-2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,6210,20494.0,30.301551673660583
-2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,10823,27237.0,39.736388001615445
-2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,5910,14837.0,39.83285030666577
-2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,5909,18147.0,32.5618559541522
-2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,4646,17063.0,27.228506124362656
-2024,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,549,1033.0,53.14617618586641
-2024,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,655,517.0,126.69245647969052
-2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,703,2300.0,30.56521739130435
-2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,369,1866.0,19.774919614147908
-2024,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,2547,7950.0,32.0377358490566
-2024,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,1456,4248.0,34.27495291902072
-2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,1607,4582.0,35.07202095154954
-2024,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,2724,6799.0,40.06471539932343
-2024,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,3923,11184.0,35.07689556509299
-2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,11624,35576.0,32.67371261524623
-2024,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,2874,8517.0,33.7442761535752
-2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,3263,11938.0,27.332886580666777
-2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,18678,50470.0,37.00812363780464
-2024,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,3143,9194.0,34.185338264085274
-2024,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,6177,22198.0,27.826831246058205
-2024,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,2598,6040.0,43.01324503311258
-2024,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,7291,21557.0,33.82196038409797
-2024,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,6575,22371.0,29.390729068883825
-2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,12251,28998.0,42.24774122353266
-2024,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,5704,17901.0,31.86414166806324
-2024,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,1919,5228.0,36.706197398622805
-2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,9952,23846.0,41.73446280298583
-2024,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,4775,12489.0,38.233645608135156
-2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,4054,13685.0,29.62367555717939
-2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,7441,18010.0,41.315935591338146
-2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,5604,15414.0,36.356558972362784
-2024,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,6279,15910.0,39.465744814582024
-2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,10946,30979.0,35.333613092740244
-2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,5013,11106.0,45.13776337115073
-2024,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,1081,2634.0,41.040242976461656
-2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,3741,8788.0,42.56941283568503
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,17604,59104.0,29.784786139685977
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,6139,19918.0,30.821367607189476
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,7460,20053.0,37.2014162469456
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,4255,12640.0,33.662974683544306
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,14556,54636.0,26.641774654074236
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,1387,3629.0,38.21989528795812
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,108,344.0,31.3953488372093
-2024,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,8046,19559.0,41.137072447466636
-2024,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,4270,10284.0,41.52080902372617
-2024,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,2891,12356.0,23.397539656846874
-2024,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,6388,15928.0,40.10547463586138
-2024,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,5668,19746.0,28.704547756507647
-2024,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,4475,10845.0,41.26325495620101
-2024,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,3230,7211.0,44.79267785327971
-2024,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,492,2043.0,24.082232011747433
-2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,7372,17347.0,42.49726177437021
-2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,8555,20901.0,40.93105593033826
-2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,15983,28691.0,55.70736467881914
-2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,7116,15319.0,46.452118284483326
-2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,9005,18927.0,47.57753473873303
-2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,6218,18060.0,34.4296788482835
-2025,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,784,1131.0,69.31918656056587
-2025,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,627,556.0,112.76978417266189
-2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,1186,2481.0,47.803305118903666
-2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,750,1985.0,37.78337531486146
-2025,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,4003,8447.0,47.38960577719901
-2025,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,2145,4552.0,47.12214411247803
-2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,2111,4861.0,43.427278337790575
-2025,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,3626,7221.0,50.21465171028944
-2025,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,5699,11646.0,48.93525674051176
-2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,14586,37493.0,38.903261942229214
-2025,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,4927,9129.0,53.9708620878519
-2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,5227,12483.0,41.87294720820315
-2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,25704,55150.0,46.60743427017226
-2025,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,3932,9523.0,41.289509608316706
-2025,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,7949,23192.0,34.27474991376337
-2025,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,3297,6420.0,51.35514018691589
-2025,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,9217,21852.0,42.179205564708035
-2025,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,9278,23813.0,38.96191156091211
-2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,14638,29766.0,49.17691325673587
-2025,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,6264,18468.0,33.91812865497076
-2025,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,2635,5410.0,48.70609981515712
-2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,12835,24566.0,52.24700805992022
-2025,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,6122,12991.0,47.124932645677774
-2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,6430,14375.0,44.7304347826087
-2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,10130,18599.0,54.46529383300177
-2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,7269,15925.0,45.645211930926216
-2025,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,8803,16847.0,52.252626580400076
-2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,15255,32483.0,46.963026814025795
-2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,5737,11771.0,48.738424942655676
-2025,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,1644,2812.0,58.46372688477952
-2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,5595,9404.0,59.495959166312204
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,23134,61933.0,37.35326885505304
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,8887,20468.0,43.41899550517881
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,10150,20984.0,48.37018680899733
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,5680,12995.0,43.709118891881495
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,15556,58502.0,26.590543913028615
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,2181,3840.0,56.796875
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,114,358.0,31.843575418994412
-2025,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,10537,20226.0,52.09631167803816
-2025,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,5364,10652.0,50.35674051821254
-2025,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,4246,12902.0,32.90962641450938
-2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,9192,17393.0,52.84884723739436
-2025,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,8282,20622.0,40.16099311414993
-2025,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,5390,11553.0,46.65454860209469
-2025,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,4570,7789.0,58.67248684041597
-2025,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,566,2220.0,25.495495495495497
+2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,5373,16617.0,32.33435638201841
+2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,7108,20208.0,35.17418844022169
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,10434,25987.0,40.15084465309578
+2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,7280,14473.0,50.30055966282042
+2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,6523,17360.0,37.574884792626726
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,4389,16124.0,27.220292731332172
+2023,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,561,970.0,57.83505154639176
+2023,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,604,289.0,208.99653979238755
+2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,1074,2120.0,50.66037735849057
+2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,392,1781.0,22.01010668163953
+2023,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,2623,7489.0,35.02470289758312
+2023,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,1370,4009.0,34.17311050137191
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,1664,4311.0,38.59893296218975
+2023,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,2759,6401.0,43.1026402124668
+2023,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,4068,10706.0,37.997384644124786
+2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,11628,34066.0,34.13374038630893
+2023,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,2669,8064.0,33.09771825396825
+2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,3939,11597.0,33.96568077951194
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,19181,46906.0,40.89242314416066
+2023,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,3861,8921.0,43.27990135635019
+2023,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,8371,21564.0,38.81932851048043
+2023,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,2441,5643.0,43.25713273081694
+2023,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,8709,20175.0,43.16728624535316
+2023,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,7737,20688.0,37.398491879350345
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,14132,28733.0,49.18386524205617
+2023,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,7235,17382.0,41.623518582441605
+2023,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,2245,5102.0,44.00235201881615
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,10713,23161.0,46.25447951297439
+2023,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,5007,12344.0,40.56221646143875
+2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,3729,13204.0,28.241441987276584
+2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,7634,17430.0,43.798049340218014
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,6340,14850.0,42.69360269360269
+2023,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,6359,15103.0,42.1042177050917
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,10981,29598.0,37.100479762146094
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,5088,10494.0,48.484848484848484
+2023,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,1140,2455.0,46.435845213849284
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,3370,8154.0,41.329408879077754
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,18806,56317.0,33.39311397979296
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,5820,19586.0,29.715102624323496
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,7319,19413.0,37.70154020501726
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,4223,12510.0,33.75699440447642
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,16688,50735.0,32.89248053611905
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,1404,3400.0,41.294117647058826
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,101,339.0,29.793510324483773
+2023,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,9170,20962.0,43.74582577998283
+2023,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,4908,9968.0,49.23756019261637
+2023,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,3696,11584.0,31.906077348066297
+2023,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,5975,14547.0,41.073760912903005
+2023,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,8546,18943.0,45.11429023913847
+2023,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,4355,9919.0,43.90563564875492
+2023,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,2714,6598.0,41.13367687177933
+2023,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,349,1876.0,18.603411513859275
+2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,6087,16891.0,36.036942750577225
+2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,7727,20494.0,37.7037181614131
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,11632,27237.0,42.706612328817414
+2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,7697,14837.0,51.87706409651547
+2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,6937,18147.0,38.226704138425085
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,5778,17063.0,33.86274394889527
+2024,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,704,1033.0,68.15101645692158
+2024,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,807,517.0,156.09284332688588
+2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,853,2300.0,37.086956521739125
+2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,415,1866.0,22.240085744908896
+2024,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,3076,7950.0,38.69182389937107
+2024,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,1828,4248.0,43.03201506591337
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,1940,4582.0,42.33958969882147
+2024,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,3159,6799.0,46.46271510516252
+2024,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,4726,11184.0,42.25679542203147
+2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,13656,35576.0,38.385428378682256
+2024,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,3644,8517.0,42.785018198896324
+2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,4216,11938.0,35.31579829117105
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,21322,50470.0,42.246879334257976
+2024,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,4577,9194.0,49.782466826191
+2024,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,9416,22198.0,42.41823587710605
+2024,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,2933,6040.0,48.55960264900662
+2024,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,9406,21557.0,43.63315860277404
+2024,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,9052,22371.0,40.46309954852264
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,14697,28998.0,50.68280571073868
+2024,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,7967,17901.0,44.505893525501364
+2024,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,2461,5228.0,47.0734506503443
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,11664,23846.0,48.91386396041265
+2024,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,6079,12489.0,48.67483385379134
+2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,4590,13685.0,33.54037267080746
+2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,8594,18010.0,47.71793448084398
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,7318,15414.0,47.476320228363825
+2024,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,7663,15910.0,48.16467630421119
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,11930,30979.0,38.50995835888828
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,5811,11106.0,52.32306861156132
+2024,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,1039,2634.0,39.4457099468489
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,3894,8788.0,44.310423304506145
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,21678,59104.0,36.67772062804548
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,7108,19918.0,35.68631388693644
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,8606,20053.0,42.91627187951927
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,5212,12640.0,41.234177215189874
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,16368,54636.0,29.95826927300681
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,1599,3629.0,44.06172499311105
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,125,344.0,36.337209302325576
+2024,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,9908,19559.0,50.65698655350478
+2024,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,5315,10284.0,51.68222481524699
+2024,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,3796,12356.0,30.72191647782454
+2024,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,6363,15928.0,39.948518332496235
+2024,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,7330,19746.0,37.12144231743138
+2024,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,4763,10845.0,43.91885661595205
+2024,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,3642,7211.0,50.506171127444176
+2024,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,599,2043.0,29.319627998042098
+2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,7490,17347.0,43.177494667665876
+2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,8763,20901.0,41.926223625663845
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,14275,28691.0,49.75427834512565
+2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,7770,15319.0,50.72132645734055
+2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,8304,18927.0,43.873831035029326
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,6693,18060.0,37.05980066445183
+2025,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,846,1131.0,74.80106100795756
+2025,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,699,556.0,125.71942446043165
+2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,1149,2481.0,46.31197097944377
+2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,756,1985.0,38.085642317380355
+2025,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,4027,8447.0,47.67373031845626
+2025,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,2178,4552.0,47.847100175746924
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,2227,4861.0,45.813618596996506
+2025,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,3551,7221.0,49.17601440243733
+2025,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,5502,11646.0,47.24368882019577
+2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,15557,37493.0,41.4930787080255
+2025,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,4435,9129.0,48.581443750684635
+2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,5748,12483.0,46.04662340783465
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,24671,55150.0,44.73436083408885
+2025,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,4643,9523.0,48.75564422975953
+2025,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,10043,23192.0,43.3037254225595
+2025,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,3293,6420.0,51.292834890965736
+2025,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,10343,21852.0,47.33205198608823
+2025,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,10909,23813.0,45.81111157770966
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,14984,29766.0,50.33931331048848
+2025,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,7798,18468.0,42.22438813082088
+2025,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,2896,5410.0,53.530499075785585
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,12760,24566.0,51.94170805177888
+2025,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,6571,12991.0,50.581171580324835
+2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,5673,14375.0,39.46434782608696
+2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,9510,18599.0,51.13178127856336
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,7662,15925.0,48.11302982731554
+2025,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,9014,16847.0,53.505075087552676
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,14617,32483.0,44.99892251331465
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,5628,11771.0,47.812420355110014
+2025,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,1379,2812.0,49.0398293029872
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,4761,9404.0,50.62739259889408
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,24555,61933.0,39.647683787318556
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,8279,20468.0,40.44850498338871
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,9845,20984.0,46.916698436904305
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,5901,12995.0,45.40977298961139
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,14426,58502.0,24.658986017572047
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,2045,3840.0,53.255208333333336
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,117,358.0,32.68156424581006
+2025,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,11224,20226.0,55.49292989221794
+2025,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,5682,10652.0,53.34209538114908
+2025,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,5018,12902.0,38.89319485351108
+2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,7191,17393.0,41.34421893865348
+2025,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,8786,20622.0,42.604984967510426
+2025,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,5087,11553.0,44.03185319830347
+2025,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,4303,7789.0,55.244575683656436
+2025,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,629,2220.0,28.333333333333332

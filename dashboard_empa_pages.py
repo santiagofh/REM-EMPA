@@ -107,7 +107,12 @@ def _iaaps_coverage_path(level: str) -> Path:
 def _is_text_col(column: str) -> bool:
     if column.startswith("Id"):
         return True
-    return any(token in column for token in TEXT_TOKENS)
+    if column in TEXT_TOKENS:
+        return True
+    if column.endswith("_master"):
+        prefix = column[:-len("_master")]
+        return prefix in TEXT_TOKENS
+    return False
 
 
 def _clean_text(series: pd.Series) -> pd.Series:
@@ -1170,6 +1175,10 @@ def render_category_page(
 def render_professional_page() -> None:
     st.title("Dashboard REM EMPA · Profesional que realiza EMPA")
     st.caption(SECTION_DESCRIPTIONS["profesional"])
+
+    if st.sidebar.button("Limpiar caché", key="prof_clear_cache"):
+        st.cache_data.clear()
+        st.rerun()
 
     years = list_years()
     with st.sidebar:

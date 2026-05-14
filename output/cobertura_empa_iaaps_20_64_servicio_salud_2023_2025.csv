@@ -1,37 +1,37 @@
 ﻿Ano,IdServicio_master,servicio_salud_master,nivel_geografico,sexo,20_64_numerador,20_64_poblacion_inscrita_validada,gestantes_20_54,20_64_denominador,20_64_cobertura_pct
-2023,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Hombre,21822,314853.0,0.0,314853.0,6.930853445893797
-2023,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Mujer,52307,359936.0,5153.0,354783.0,14.743378346764077
-2023,11,Servicio de Salud Metropolitano Central,servicio_salud,Hombre,12760,158634.0,0.0,158634.0,8.04367285701678
-2023,11,Servicio de Salud Metropolitano Central,servicio_salud,Mujer,31170,234157.0,3364.0,230793.0,13.505608922281004
-2023,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Hombre,13762,168337.0,0.0,168337.0,8.175267469421458
-2023,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Mujer,34318,228767.0,2008.0,226759.0,15.134129185611156
-2023,13,Servicio de Salud Metropolitano Sur,servicio_salud,Hombre,25178,302556.0,0.0,302556.0,8.321765226933197
-2023,13,Servicio de Salud Metropolitano Sur,servicio_salud,Mujer,65070,347481.0,4280.0,343201.0,18.95973496580721
-2023,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Hombre,14458,327226.0,0.0,327226.0,4.41835306485426
-2023,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Mujer,44926,377919.0,5447.0,372472.0,12.061577783027987
-2023,9,Servicio de Salud Metropolitano Norte,servicio_salud,Hombre,15051,207053.0,0.0,207053.0,7.269153308573167
-2023,9,Servicio de Salud Metropolitano Norte,servicio_salud,Mujer,40434,252450.0,0.0,252450.0,16.01663695781343
-2024,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Hombre,30443,328238.0,0.0,328238.0,9.274672646067792
-2024,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Mujer,59261,374327.0,4595.0,369732.0,16.02809602631095
-2024,11,Servicio de Salud Metropolitano Central,servicio_salud,Hombre,17305,171852.0,0.0,171852.0,10.069711146800737
-2024,11,Servicio de Salud Metropolitano Central,servicio_salud,Mujer,37304,251723.0,3464.0,248259.0,15.026242754542634
-2024,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Hombre,18972,177883.0,0.0,177883.0,10.665437394242282
-2024,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Mujer,39198,239657.0,1882.0,237775.0,16.48533277257912
-2024,13,Servicio de Salud Metropolitano Sur,servicio_salud,Hombre,35831,315708.0,0.0,315708.0,11.34941148149556
-2024,13,Servicio de Salud Metropolitano Sur,servicio_salud,Mujer,69666,360861.0,4362.0,356499.0,19.541709794417375
-2024,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Hombre,19680,339469.0,0.0,339469.0,5.79728929592982
-2024,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Mujer,49754,389628.0,4401.0,385227.0,12.915501769086799
-2024,9,Servicio de Salud Metropolitano Norte,servicio_salud,Hombre,20517,220990.0,0.0,220990.0,9.284130503642698
-2024,9,Servicio de Salud Metropolitano Norte,servicio_salud,Mujer,44431,268438.0,0.0,268438.0,16.55168046252766
-2025,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Hombre,48873,338664.0,0.0,338664.0,14.431117567854864
-2025,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Mujer,82317,384097.0,4529.0,379568.0,21.687023142098386
-2025,11,Servicio de Salud Metropolitano Central,servicio_salud,Hombre,25031,185050.0,0.0,185050.0,13.52661442853283
-2025,11,Servicio de Salud Metropolitano Central,servicio_salud,Mujer,52653,269527.0,3230.0,266297.0,19.772284329151287
-2025,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Hombre,25679,185193.0,0.0,185193.0,13.86607485164126
-2025,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Mujer,47977,247442.0,2028.0,245414.0,19.54941445883283
-2025,13,Servicio de Salud Metropolitano Sur,servicio_salud,Hombre,51420,324714.0,0.0,324714.0,15.83547367837543
-2025,13,Servicio de Salud Metropolitano Sur,servicio_salud,Mujer,87458,370277.0,4217.0,366060.0,23.891711741244603
-2025,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Hombre,30450,348607.0,0.0,348607.0,8.734764362161403
-2025,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Mujer,65614,396822.0,4659.0,392163.0,16.731308155027374
-2025,9,Servicio de Salud Metropolitano Norte,servicio_salud,Hombre,30177,232009.0,0.0,232009.0,13.00682301117629
-2025,9,Servicio de Salud Metropolitano Norte,servicio_salud,Mujer,54481,281200.0,0.0,281200.0,19.374466571834994
+2023,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Hombre,23018,314853.0,0.0,314853.0,7.310713253486548
+2023,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Mujer,54016,359936.0,5153.0,354783.0,15.225081246846663
+2023,11,Servicio de Salud Metropolitano Central,servicio_salud,Hombre,14011,158634.0,0.0,158634.0,8.832280595584805
+2023,11,Servicio de Salud Metropolitano Central,servicio_salud,Mujer,33629,234157.0,3364.0,230793.0,14.571065846884437
+2023,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Hombre,14773,168337.0,0.0,168337.0,8.775848446865513
+2023,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Mujer,36473,228767.0,2008.0,226759.0,16.084477352607834
+2023,13,Servicio de Salud Metropolitano Sur,servicio_salud,Hombre,26848,302556.0,0.0,302556.0,8.873729160882613
+2023,13,Servicio de Salud Metropolitano Sur,servicio_salud,Mujer,68107,347481.0,4280.0,343201.0,19.844639147321832
+2023,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Hombre,15527,327226.0,0.0,327226.0,4.745038597177486
+2023,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Mujer,47008,377919.0,5447.0,372472.0,12.620545973925557
+2023,9,Servicio de Salud Metropolitano Norte,servicio_salud,Hombre,16160,207053.0,0.0,207053.0,7.8047649635600544
+2023,9,Servicio de Salud Metropolitano Norte,servicio_salud,Mujer,42102,252450.0,0.0,252450.0,16.677361853832444
+2024,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Hombre,32075,328238.0,0.0,328238.0,9.771872848360031
+2024,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Mujer,61157,374327.0,4595.0,369732.0,16.540899895059123
+2024,11,Servicio de Salud Metropolitano Central,servicio_salud,Hombre,18692,171852.0,0.0,171852.0,10.876800968275028
+2024,11,Servicio de Salud Metropolitano Central,servicio_salud,Mujer,39858,251723.0,3464.0,248259.0,16.05500706923012
+2024,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Hombre,20585,177883.0,0.0,177883.0,11.572213196314433
+2024,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Mujer,42063,239657.0,1882.0,237775.0,17.69025339081064
+2024,13,Servicio de Salud Metropolitano Sur,servicio_salud,Hombre,38797,315708.0,0.0,315708.0,12.288887199564154
+2024,13,Servicio de Salud Metropolitano Sur,servicio_salud,Mujer,73388,360861.0,4362.0,356499.0,20.58575199369423
+2024,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Hombre,20975,339469.0,0.0,339469.0,6.178767427953657
+2024,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Mujer,51696,389628.0,4401.0,385227.0,13.41962012008504
+2024,9,Servicio de Salud Metropolitano Norte,servicio_salud,Hombre,22474,220990.0,0.0,220990.0,10.169690936241459
+2024,9,Servicio de Salud Metropolitano Norte,servicio_salud,Mujer,46820,268438.0,0.0,268438.0,17.44164388052362
+2025,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Hombre,55592,338664.0,0.0,338664.0,16.4150898825975
+2025,10,Servicio de Salud Metropolitano Occidente,servicio_salud,Mujer,91056,384097.0,4529.0,379568.0,23.989377397462377
+2025,11,Servicio de Salud Metropolitano Central,servicio_salud,Hombre,28505,185050.0,0.0,185050.0,15.403944879762227
+2025,11,Servicio de Salud Metropolitano Central,servicio_salud,Mujer,59120,269527.0,3230.0,266297.0,22.200775825488083
+2025,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Hombre,30569,185193.0,0.0,185193.0,16.50656342302355
+2025,12,Servicio de Salud Metropolitano Oriente,servicio_salud,Mujer,56411,247442.0,2028.0,245414.0,22.986056215211846
+2025,13,Servicio de Salud Metropolitano Sur,servicio_salud,Hombre,60482,324714.0,0.0,324714.0,18.62623724261966
+2025,13,Servicio de Salud Metropolitano Sur,servicio_salud,Mujer,99333,370277.0,4217.0,366060.0,27.135715456482544
+2025,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Hombre,35873,348607.0,0.0,348607.0,10.290384300946338
+2025,14,Servicio de Salud Metropolitano Sur Oriente,servicio_salud,Mujer,74363,396822.0,4659.0,392163.0,18.962268240502038
+2025,9,Servicio de Salud Metropolitano Norte,servicio_salud,Hombre,35292,232009.0,0.0,232009.0,15.211478865044029
+2025,9,Servicio de Salud Metropolitano Norte,servicio_salud,Mujer,61394,281200.0,0.0,281200.0,21.83285917496444

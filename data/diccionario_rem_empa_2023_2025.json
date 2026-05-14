@@ -81,145 +81,143 @@
     },
     "columnas_etarias": {
       "Col01": "total_ambos_sexos",
-      "Col02": "15_19_hombres",
-      "Col03": "15_19_mujeres",
-      "Col04": "20_24_hombres",
-      "Col05": "20_24_mujeres",
-      "Col06": "25_29_hombres",
-      "Col07": "25_29_mujeres",
-      "Col08": "30_34_hombres",
-      "Col09": "30_34_mujeres",
-      "Col10": "35_39_hombres",
-      "Col11": "35_39_mujeres",
-      "Col12": "40_44_hombres",
-      "Col13": "40_44_mujeres",
-      "Col14": "45_49_hombres",
-      "Col15": "45_49_mujeres",
-      "Col16": "50_54_hombres",
-      "Col17": "50_54_mujeres",
-      "Col18": "55_59_hombres",
-      "Col19": "55_59_mujeres",
-      "Col20": "60_64_hombres",
-      "Col21": "60_64_mujeres",
-      "Col22": "65_69_hombres",
-      "Col23": "65_69_mujeres",
-      "Col24": "70_74_hombres",
-      "Col25": "70_74_mujeres",
-      "Col26": "75_79_hombres",
-      "Col27": "75_79_mujeres",
-      "Col28": "80_mas_hombres",
-      "Col29": "80_mas_mujeres",
-      "Col30": "pueblos_originarios_hombres",
-      "Col31": "pueblos_originarios_mujeres",
-      "Col32": "migrantes_hombres",
-      "Col33": "migrantes_mujeres"
+      "Col02": "total_hombres",
+      "Col03": "total_mujeres",
+      "Col04": "15_19_hombres",
+      "Col05": "15_19_mujeres",
+      "Col06": "20_24_hombres",
+      "Col07": "20_24_mujeres",
+      "Col08": "25_29_hombres",
+      "Col09": "25_29_mujeres",
+      "Col10": "30_34_hombres",
+      "Col11": "30_34_mujeres",
+      "Col12": "35_39_hombres",
+      "Col13": "35_39_mujeres",
+      "Col14": "40_44_hombres",
+      "Col15": "40_44_mujeres",
+      "Col16": "45_49_hombres",
+      "Col17": "45_49_mujeres",
+      "Col18": "50_54_hombres",
+      "Col19": "50_54_mujeres",
+      "Col20": "55_59_hombres",
+      "Col21": "55_59_mujeres",
+      "Col22": "60_64_hombres",
+      "Col23": "60_64_mujeres",
+      "Col24": "65_69_hombres",
+      "Col25": "65_69_mujeres",
+      "Col26": "70_74_hombres",
+      "Col27": "70_74_mujeres",
+      "Col28": "75_79_hombres",
+      "Col29": "75_79_mujeres",
+      "Col30": "80_mas_hombres",
+      "Col31": "80_mas_mujeres"
     },
     "grupos_etarios_solicitados": {
       "15_19": {
         "label": "15 a 19",
-        "columns": ["Col02", "Col03"]
+        "columns": ["Col04", "Col05"]
       },
       "20_24": {
         "label": "20 a 24",
-        "columns": ["Col04", "Col05"]
+        "columns": ["Col06", "Col07"]
       },
       "25_29": {
         "label": "25 a 29",
-        "columns": ["Col06", "Col07"]
+        "columns": ["Col08", "Col09"]
       },
       "30_34": {
         "label": "30 a 34",
-        "columns": ["Col08", "Col09"]
+        "columns": ["Col10", "Col11"]
       },
       "35_39": {
         "label": "35 a 39",
-        "columns": ["Col10", "Col11"]
+        "columns": ["Col12", "Col13"]
       },
       "40_44": {
         "label": "40 a 44",
-        "columns": ["Col12", "Col13"]
+        "columns": ["Col14", "Col15"]
       },
       "45_49": {
         "label": "45 a 49",
-        "columns": ["Col14", "Col15"]
+        "columns": ["Col16", "Col17"]
       },
       "50_54": {
         "label": "50 a 54",
-        "columns": ["Col16", "Col17"]
+        "columns": ["Col18", "Col19"]
       },
       "55_59": {
         "label": "55 a 59",
-        "columns": ["Col18", "Col19"]
+        "columns": ["Col20", "Col21"]
       },
       "60_64": {
         "label": "60 a 64",
-        "columns": ["Col20", "Col21"]
+        "columns": ["Col22", "Col23"]
       },
       "65_mas": {
         "label": "65 y mas",
-        "columns": ["Col22", "Col23", "Col24", "Col25", "Col26", "Col27", "Col28", "Col29"]
+        "columns": ["Col24", "Col25", "Col26", "Col27", "Col28", "Col29", "Col30", "Col31"]
       }
     },
     "grupos_etarios_sexo": {
       "15_19": {
         "label": "15 a 19",
-        "hombres": ["Col02"],
-        "mujeres": ["Col03"]
-      },
-      "20_24": {
-        "label": "20 a 24",
         "hombres": ["Col04"],
         "mujeres": ["Col05"]
       },
-      "25_29": {
-        "label": "25 a 29",
+      "20_24": {
+        "label": "20 a 24",
         "hombres": ["Col06"],
         "mujeres": ["Col07"]
       },
-      "30_34": {
-        "label": "30 a 34",
+      "25_29": {
+        "label": "25 a 29",
         "hombres": ["Col08"],
         "mujeres": ["Col09"]
       },
-      "35_39": {
-        "label": "35 a 39",
+      "30_34": {
+        "label": "30 a 34",
         "hombres": ["Col10"],
         "mujeres": ["Col11"]
       },
-      "40_44": {
-        "label": "40 a 44",
+      "35_39": {
+        "label": "35 a 39",
         "hombres": ["Col12"],
         "mujeres": ["Col13"]
       },
-      "45_49": {
-        "label": "45 a 49",
+      "40_44": {
+        "label": "40 a 44",
         "hombres": ["Col14"],
         "mujeres": ["Col15"]
       },
-      "50_54": {
-        "label": "50 a 54",
+      "45_49": {
+        "label": "45 a 49",
         "hombres": ["Col16"],
         "mujeres": ["Col17"]
       },
-      "55_59": {
-        "label": "55 a 59",
+      "50_54": {
+        "label": "50 a 54",
         "hombres": ["Col18"],
         "mujeres": ["Col19"]
       },
-      "60_64": {
-        "label": "60 a 64",
+      "55_59": {
+        "label": "55 a 59",
         "hombres": ["Col20"],
         "mujeres": ["Col21"]
       },
+      "60_64": {
+        "label": "60 a 64",
+        "hombres": ["Col22"],
+        "mujeres": ["Col23"]
+      },
       "20_64": {
         "label": "20 a 64",
-        "hombres": ["Col04", "Col06", "Col08", "Col10", "Col12", "Col14", "Col16", "Col18", "Col20"],
-        "mujeres": ["Col05", "Col07", "Col09", "Col11", "Col13", "Col15", "Col17", "Col19", "Col21"]
+        "hombres": ["Col06", "Col08", "Col10", "Col12", "Col14", "Col16", "Col18", "Col20", "Col22"],
+        "mujeres": ["Col07", "Col09", "Col11", "Col13", "Col15", "Col17", "Col19", "Col21", "Col23"]
       },
       "65_mas": {
         "label": "65 y mas",
-        "hombres": ["Col22", "Col24", "Col26", "Col28"],
-        "mujeres": ["Col23", "Col25", "Col27", "Col29"]
+        "hombres": ["Col24", "Col26", "Col28", "Col30"],
+        "mujeres": ["Col25", "Col27", "Col29", "Col31"]
       }
     }
   },
