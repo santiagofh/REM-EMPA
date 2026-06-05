@@ -1,35 +1,35 @@
 {
   "region_objetivo": "13",
   "input_paths": {
-    "maestro_establecimientos": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\ESTABLECIMIENTOS\\establecimientos_20260424.csv",
+    "maestro_establecimientos": "D:\\DATA\\ESTABLECIMIENTOS\\establecimientos_20260424.csv",
     "series_a": {
-      "2023": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2023\\Datos\\SerieA2023.txt",
-      "2024": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2024\\Datos\\SerieA2024.csv",
-      "2025": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2025\\Datos\\SerieA2025.csv"
+      "2023": "D:\\DATA\\REM\\REM_2023\\Datos\\SerieA2023.txt",
+      "2024": "D:\\DATA\\REM\\REM_2024\\Datos\\SerieA2024.csv",
+      "2025": "D:\\DATA\\REM\\REM_2025\\Datos\\SerieA2025.csv"
     },
     "series_p": {
-      "2023": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2023\\Datos\\SerieP2023.txt",
-      "2024": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2024\\Datos\\SerieP2024.csv",
-      "2025": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2025\\Datos\\SerieP2025.csv"
+      "2023": "D:\\DATA\\REM\\REM_2023\\Datos\\SerieP2023.txt",
+      "2024": "D:\\DATA\\REM\\REM_2024\\Datos\\SerieP2024.csv",
+      "2025": "D:\\DATA\\REM\\REM_2025\\Datos\\SerieP2025.csv"
     },
     "diccionarios_sa": {
-      "2023": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2023\\Diccionarios\\DICCIONARIO CODIGOS SA_23_V1.4.xlsm",
-      "2024": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2024\\Diccionarios\\DICCIONARIO CODIGOS SA_24_V1.1.xlsm",
-      "2025": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2025\\Diccionarios\\DICCIONARIO CODIGOS SA_25_V1.5.xlsm"
+      "2023": "D:\\DATA\\REM\\REM_2023\\Diccionarios\\DICCIONARIO CODIGOS SA_23_V1.4.xlsm",
+      "2024": "D:\\DATA\\REM\\REM_2024\\Diccionarios\\DICCIONARIO CODIGOS SA_24_V1.1.xlsm",
+      "2025": "D:\\DATA\\REM\\REM_2025\\Diccionarios\\DICCIONARIO CODIGOS SA_25_V1.5.xlsm"
     },
     "denominadores_fonasa": {
       "2023": {
-        "path": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\FONASA\\Población Inscrita\\2023 - T5385_Poblacion_Inscrita_RM.xlsx",
+        "path": "D:\\DATA\\FONASA\\Población Inscrita\\2023 - T5385_Poblacion_Inscrita_RM.xlsx",
         "sheets": ["Municipales", "Otras", "Servicio Salud"],
         "skiprows": 3
       },
       "2024": {
-        "path": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\FONASA\\Población Inscrita\\2024 - Copia de T6603_Inscritos.xlsx",
+        "path": "D:\\DATA\\FONASA\\Población Inscrita\\2024 - Copia de T6603_Inscritos.xlsx",
         "sheets": ["Respuesta M", "Respuesta S"],
         "skiprows": 3
       },
       "2025": {
-        "path": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\FONASA\\Poblacion fonasa inscrita x comuna\\INSCRITOS\\Datos FONASA\\Inscritos 2024 (Base pago 2025)\\T8009_Inscritos_RM.xlsx",
+        "path": "D:\\DATA\\FONASA\\Poblacion fonasa inscrita x comuna\\INSCRITOS\\Datos FONASA\\Inscritos 2024 (Base pago 2025)\\T8009_Inscritos_RM.xlsx",
         "sheets": ["Respuesta"],
         "skiprows": 2
       }

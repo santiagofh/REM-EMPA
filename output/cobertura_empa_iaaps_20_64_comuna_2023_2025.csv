@@ -283,14 +283,14 @@
 2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Mujer,7101,23598.0,305.0,23293.0,30.48555359979393
 2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Hombre,11719,98458.0,0.0,98458.0,11.902537122427837
 2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Mujer,23800,117733.0,1161.0,116572.0,20.416566585457915
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Hombre,4581,45895.0,0.0,45895.0,9.9814794639939
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Mujer,9316,45439.0,484.0,44955.0,20.72294516738961
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Hombre,5586,49219.0,0.0,49219.0,11.349275686218736
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Mujer,10782,51457.0,752.0,50705.0,21.264175130657726
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Hombre,3477,45895.0,0.0,45895.0,7.575988669789738
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Mujer,7585,45439.0,402.0,45037.0,16.841707929036126
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Hombre,5339,49219.0,0.0,49219.0,10.847436965399542
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Mujer,10254,51457.0,752.0,50705.0,20.222857706340598
 2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Hombre,4383,25377.0,0.0,25377.0,17.271545099893604
 2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Mujer,8253,26583.0,290.0,26293.0,31.388582512455788
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Hombre,8139,121301.0,0.0,121301.0,6.709755072093388
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Mujer,20329,146630.0,1859.0,144771.0,14.042176955329452
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Hombre,7010,121301.0,0.0,121301.0,5.779012539055738
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Mujer,18199,146630.0,1859.0,144771.0,12.570887815929984
 2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Hombre,1407,7657.0,0.0,7657.0,18.375342823560143
 2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Mujer,1748,8049.0,67.0,7982.0,21.899273365071412
 2025,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Hombre,58,700.0,0.0,700.0,8.285714285714285
@@ -301,8 +301,8 @@
 2025,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Mujer,5959,25212.0,0.0,25212.0,23.635570363319054
 2025,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Hombre,2326,21981.0,0.0,21981.0,10.581866157135709
 2025,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Mujer,5773,36324.0,0.0,36324.0,15.893073450060566
-2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Hombre,6813,47480.0,0.0,47480.0,14.349199663016007
-2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Mujer,13734,60556.0,0.0,60556.0,22.67983354250611
+2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Hombre,6880,47480.0,0.0,47480.0,14.490311710193765
+2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Mujer,13800,60556.0,0.0,60556.0,22.78882356826739
 2025,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Hombre,5420,37389.0,0.0,37389.0,14.496242210275751
 2025,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Mujer,9342,46927.0,0.0,46927.0,19.9075159289961
 2025,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Hombre,5075,39878.0,0.0,39878.0,12.726315261547722
