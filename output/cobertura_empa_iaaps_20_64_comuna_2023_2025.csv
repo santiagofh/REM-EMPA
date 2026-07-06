@@ -1,313 +1,313 @@
 ﻿Ano,IdServicio_master,servicio_salud_master,IdComuna_master,comuna_master,nivel_geografico,sexo,20_64_numerador,20_64_poblacion_inscrita_validada,gestantes_20_54,20_64_denominador,20_64_cobertura_pct
-2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Hombre,1579,38235.0,0.0,38235.0,4.129724074800575
-2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Mujer,5079,40872.0,583.0,40289.0,12.60641862543126
-2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Hombre,3230,36678.0,0.0,36678.0,8.806368940509298
-2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Mujer,8019,43582.0,426.0,43156.0,18.5814255259987
-2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Hombre,5571,59842.0,0.0,59842.0,9.309515056314963
-2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Mujer,11632,69705.0,760.0,68945.0,16.87141924722605
-2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Hombre,1532,25967.0,0.0,25967.0,5.89979589478954
-2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Mujer,4392,31425.0,636.0,30789.0,14.264834843612977
-2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Hombre,2615,37621.0,0.0,37621.0,6.950905079609793
-2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Mujer,7086,43929.0,691.0,43238.0,16.38836208890328
-2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Hombre,2064,32961.0,0.0,32961.0,6.261945936106307
-2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Mujer,4646,37007.0,602.0,36405.0,12.761983244059882
-2023,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Hombre,295,2382.0,0.0,2382.0,12.384550797649034
-2023,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Mujer,404,2237.0,40.0,2197.0,18.38871187983614
-2023,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Hombre,97,256.0,0.0,256.0,37.890625
-2023,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Mujer,318,572.0,132.0,440.0,72.27272727272728
-2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Hombre,349,4424.0,0.0,4424.0,7.88878842676311
-2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Mujer,630,4753.0,58.0,4695.0,13.418530351437699
-2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Hombre,441,3751.0,0.0,3751.0,11.756864836043722
-2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Mujer,263,3851.0,42.0,3809.0,6.904699396166973
-2023,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Hombre,1189,16273.0,0.0,16273.0,7.306581453942113
-2023,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Mujer,2588,18596.0,324.0,18272.0,14.163747810858144
-2023,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Hombre,752,9941.0,0.0,9941.0,7.564631324816416
-2023,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Mujer,1346,10237.0,161.0,10076.0,13.358475585549822
-2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Hombre,646,10136.0,0.0,10136.0,6.373322809786898
-2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Mujer,1265,10432.0,141.0,10291.0,12.292294237683413
-2023,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Hombre,961,13915.0,0.0,13915.0,6.906216313330937
-2023,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Mujer,2722,17203.0,243.0,16960.0,16.04952830188679
-2023,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Hombre,1697,22471.0,0.0,22471.0,7.551955854212096
-2023,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Mujer,3626,25535.0,314.0,25221.0,14.37690813211213
-2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Hombre,5251,58314.0,0.0,58314.0,9.004698700140617
-2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Mujer,10802,87878.0,1335.0,86543.0,12.4816565175693
-2023,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Hombre,635,11031.0,0.0,11031.0,5.756504396700208
-2023,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Mujer,1873,15204.0,225.0,14979.0,12.504172508178115
-2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Hombre,1569,21945.0,0.0,21945.0,7.149692412850308
-2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Mujer,4292,32438.0,612.0,31826.0,13.485829196254635
-2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Hombre,6556,67344.0,0.0,67344.0,9.735091470658114
-2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Mujer,16662,98637.0,1192.0,97445.0,17.098876289188773
-2023,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Hombre,740,9914.0,0.0,9914.0,7.464192051644139
-2023,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Mujer,1855,14115.0,91.0,14024.0,13.227324586423276
-2023,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Hombre,1367,16020.0,0.0,16020.0,8.533083645443195
-2023,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Mujer,3923,28624.0,139.0,28485.0,13.772160786378794
-2023,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Hombre,497,10265.0,0.0,10265.0,4.84169508037019
-2023,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Mujer,1784,17917.0,119.0,17798.0,10.023598157096302
-2023,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Hombre,3654,34758.0,0.0,34758.0,10.512687726566545
-2023,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Mujer,7059,39888.0,310.0,39578.0,17.835666279246045
-2023,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Hombre,1845,18100.0,0.0,18100.0,10.193370165745856
-2023,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Mujer,5134,26190.0,246.0,25944.0,19.78877582485353
-2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Hombre,4496,61703.0,0.0,61703.0,7.286517673370825
-2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Mujer,11249,69505.0,923.0,68582.0,16.402262984456563
-2023,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Hombre,1773,14909.0,0.0,14909.0,11.892145683815144
-2023,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Mujer,3780,24083.0,156.0,23927.0,15.79805240941196
-2023,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Hombre,401,2668.0,0.0,2668.0,15.029985007496252
-2023,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Mujer,1689,8445.0,24.0,8421.0,20.057000356252228
-2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Hombre,4715,52792.0,0.0,52792.0,8.93127746628277
-2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Mujer,12350,57325.0,658.0,56667.0,21.7939894471209
-2023,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Hombre,1833,17396.0,0.0,17396.0,10.536905035640377
-2023,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Mujer,4624,22895.0,288.0,22607.0,20.453841730437475
-2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Hombre,1787,28897.0,0.0,28897.0,6.184032944596325
-2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Mujer,4429,31493.0,369.0,31124.0,14.230176069913893
-2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Hombre,3095,32978.0,0.0,32978.0,9.385044575171326
-2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Mujer,8152,36036.0,348.0,35688.0,22.84241201524322
-2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Hombre,2390,27131.0,0.0,27131.0,8.809111348641775
-2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Mujer,5613,29829.0,278.0,29551.0,18.99428107339853
-2023,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Hombre,2440,22426.0,0.0,22426.0,10.880228306430038
-2023,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Mujer,6522,31057.0,368.0,30689.0,21.2519143667112
-2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Hombre,5376,67989.0,0.0,67989.0,7.907161452587919
-2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Mujer,14649,80936.0,1177.0,79759.0,18.36657932020211
-2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Hombre,2425,26853.0,0.0,26853.0,9.030648344691468
-2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Mujer,5960,30217.0,413.0,29804.0,19.997315796537375
-2023,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Hombre,591,5437.0,0.0,5437.0,10.869965054257863
-2023,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Mujer,1301,6073.0,59.0,6014.0,21.63285666777519
-2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Hombre,2196,20657.0,0.0,20657.0,10.630778912717238
-2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Mujer,4507,21620.0,322.0,21298.0,21.161611418912575
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Hombre,3360,90311.0,0.0,90311.0,3.720477018303418
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Mujer,13851,109469.0,1613.0,107856.0,12.842122830440589
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Hombre,2156,46697.0,0.0,46697.0,4.616998950682056
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Mujer,6240,46873.0,533.0,46340.0,13.465688390159688
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Hombre,2315,47172.0,0.0,47172.0,4.907572288645807
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Mujer,6732,50391.0,804.0,49587.0,13.576138907374915
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Hombre,1810,23260.0,0.0,23260.0,7.781599312123817
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Mujer,4888,24772.0,378.0,24394.0,20.03771419201443
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Hombre,5346,112161.0,0.0,112161.0,4.7663626394201195
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Mujer,14309,138103.0,1987.0,136116.0,10.512357107173294
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Hombre,519,6932.0,0.0,6932.0,7.487016733987304
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Mujer,868,7377.0,83.0,7294.0,11.900191938579654
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Hombre,21,693.0,0.0,693.0,3.0303030303030303
-2023,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Mujer,120,934.0,49.0,885.0,13.559322033898304
-2023,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Hombre,2633,31783.0,0.0,31783.0,8.284302929238901
-2023,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Mujer,5770,37919.0,0.0,37919.0,15.216646008597273
-2023,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Hombre,2194,20851.0,0.0,20851.0,10.52227710901156
-2023,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Mujer,5346,23591.0,0.0,23591.0,22.66118434996397
-2023,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Hombre,934,18610.0,0.0,18610.0,5.018807092960774
-2023,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Mujer,2477,30917.0,0.0,30917.0,8.011773457968108
-2023,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Hombre,2736,42343.0,0.0,42343.0,6.461516661549725
-2023,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Mujer,8713,54810.0,0.0,54810.0,15.896734172596242
-2023,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Hombre,2407,33574.0,0.0,33574.0,7.16923810091142
-2023,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Mujer,6411,42365.0,0.0,42365.0,15.132774696093474
-2023,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Hombre,3471,35101.0,0.0,35101.0,9.88860716218911
-2023,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Mujer,8001,33999.0,0.0,33999.0,23.53304508956146
-2023,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Hombre,1598,20560.0,0.0,20560.0,7.772373540856031
-2023,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Mujer,4954,24280.0,0.0,24280.0,20.40362438220758
-2023,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Hombre,187,4231.0,0.0,4231.0,4.419758922240605
-2023,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Mujer,430,4569.0,0.0,4569.0,9.411249726417159
-2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Hombre,2776,39019.0,0.0,39019.0,7.11448268792127
-2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Mujer,6338,41839.0,492.0,41347.0,15.328802573342685
-2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Hombre,4311,37944.0,0.0,37944.0,11.361480075901328
-2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Mujer,8440,44621.0,401.0,44220.0,19.086386250565354
-2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Hombre,7473,62004.0,0.0,62004.0,12.052448229146506
-2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Mujer,13292,71447.0,627.0,70820.0,18.76870940412313
-2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Hombre,2556,27293.0,0.0,27293.0,9.365038654600081
-2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Mujer,4838,33268.0,587.0,32681.0,14.803708576848933
-2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Hombre,3179,39851.0,0.0,39851.0,7.977215126345638
-2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Mujer,7317,46175.0,732.0,45443.0,16.101489778403717
-2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Hombre,2888,34246.0,0.0,34246.0,8.433101676108159
-2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Mujer,5691,38644.0,538.0,38106.0,14.934655959691387
-2024,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Hombre,343,2526.0,0.0,2526.0,13.578780680918449
-2024,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Mujer,467,2489.0,29.0,2460.0,18.983739837398375
-2024,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Hombre,168,465.0,0.0,465.0,36.12903225806451
-2024,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Mujer,495,975.0,100.0,875.0,56.57142857142857
-2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Hombre,258,4583.0,0.0,4583.0,5.6295003272965305
-2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Mujer,505,4971.0,45.0,4926.0,10.251725537961835
-2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Hombre,597,4145.0,0.0,4145.0,14.402895054282267
-2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Mujer,490,4292.0,69.0,4223.0,11.603125739995264
-2024,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Hombre,1836,16943.0,0.0,16943.0,10.83633358909284
-2024,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Mujer,3177,19369.0,241.0,19128.0,16.609159347553327
-2024,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Hombre,1043,10352.0,0.0,10352.0,10.07534775888717
-2024,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Mujer,1620,10539.0,149.0,10390.0,15.591915303176132
-2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Hombre,884,10611.0,0.0,10611.0,8.33097728772029
-2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Mujer,1423,10858.0,112.0,10746.0,13.242136608970782
-2024,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Hombre,1246,14789.0,0.0,14789.0,8.425180877679356
-2024,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Mujer,2932,18385.0,251.0,18134.0,16.168523216058233
-2024,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Hombre,2517,23467.0,0.0,23467.0,10.725699919035241
-2024,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Mujer,4132,26455.0,222.0,26233.0,15.751153127739869
-2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Hombre,6362,64436.0,0.0,64436.0,9.873362716493887
-2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Mujer,14052,97255.0,1463.0,95792.0,14.669283447469518
-2024,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Hombre,1324,12345.0,0.0,12345.0,10.724989874443095
-2024,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Mujer,2679,16816.0,269.0,16547.0,16.19024596603614
-2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Hombre,2080,23683.0,0.0,23683.0,8.782671114301397
-2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Mujer,5594,34705.0,539.0,34166.0,16.37300240004683
-2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Hombre,8926,71388.0,0.0,71388.0,12.503501989129825
-2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Mujer,17533,102947.0,1193.0,101754.0,17.230772254653377
-2024,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Hombre,1192,10299.0,0.0,10299.0,11.573939217399747
-2024,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Mujer,2403,14597.0,98.0,14499.0,16.573556797020483
-2024,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Hombre,1889,16838.0,0.0,16838.0,11.218672051312508
-2024,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Mujer,4603,29394.0,148.0,29246.0,15.738904465567941
-2024,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Hombre,931,10578.0,0.0,10578.0,8.801285687275477
-2024,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Mujer,2521,18308.0,129.0,18179.0,13.867649485670277
-2024,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Hombre,4653,37848.0,0.0,37848.0,12.293912492073558
-2024,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Mujer,8625,43200.0,255.0,42945.0,20.08382815228781
-2024,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Hombre,2536,20018.0,0.0,20018.0,12.668598261564593
-2024,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Mujer,6143,29156.0,169.0,28987.0,21.192258598682166
-2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Hombre,6826,63284.0,0.0,63284.0,10.786296694267113
-2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Mujer,11924,70680.0,895.0,69785.0,17.08676649709823
-2024,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Hombre,1961,16145.0,0.0,16145.0,12.146175286466399
-2024,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Mujer,3911,25699.0,162.0,25537.0,15.31503308924306
-2024,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Hombre,597,2873.0,0.0,2873.0,20.779672815871912
-2024,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Mujer,1933,8623.0,26.0,8597.0,22.484587646853555
-2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Hombre,6690,54120.0,0.0,54120.0,12.361419068736142
-2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Mujer,12920,58437.0,599.0,57838.0,22.338255126387494
-2024,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Hombre,2576,18776.0,0.0,18776.0,13.719642096293141
-2024,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Mujer,5758,24787.0,357.0,24430.0,23.56938190749079
-2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Hombre,2427,29656.0,0.0,29656.0,8.183841381170758
-2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Mujer,5037,32004.0,375.0,31629.0,15.925258465332448
-2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Hombre,4516,33535.0,0.0,33535.0,13.466527508573131
-2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Mujer,7944,36398.0,336.0,36062.0,22.028728301258944
-2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Hombre,2867,28254.0,0.0,28254.0,10.147235789622707
-2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Mujer,6177,30873.0,450.0,30423.0,20.303717582092496
-2024,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Hombre,3171,24690.0,0.0,24690.0,12.84325637910085
-2024,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Mujer,7145,34469.0,445.0,34024.0,20.99988243592758
-2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Hombre,7945,71295.0,0.0,71295.0,11.143838978890527
-2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Mujer,15500,83380.0,1051.0,82329.0,18.8269018207436
-2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Hombre,3644,28098.0,0.0,28098.0,12.968894583244358
-2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Mujer,6042,31446.0,376.0,31070.0,19.44641132925652
-2024,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Hombre,930,5687.0,0.0,5687.0,16.35308598558115
-2024,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Mujer,1495,6206.0,60.0,6146.0,24.3247640741946
-2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Hombre,4031,21597.0,0.0,21597.0,18.66462934666852
-2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Mujer,5370,22861.0,313.0,22548.0,23.8158594997339
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Hombre,6148,95092.0,0.0,95092.0,6.465317797501367
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Mujer,17209,114465.0,1030.0,113435.0,15.170802662317625
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Hombre,2603,46581.0,0.0,46581.0,5.588115325991284
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Mujer,6326,46324.0,506.0,45818.0,13.806800820638177
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Hombre,3264,48254.0,0.0,48254.0,6.764206076180212
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Mujer,7197,50943.0,650.0,50293.0,14.31014256457161
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Hombre,2728,24517.0,0.0,24517.0,11.126973120691765
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Mujer,5662,25948.0,296.0,25652.0,22.07235303290192
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Hombre,5586,116909.0,0.0,116909.0,4.7780752551129515
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Mujer,14044,143151.0,1799.0,141352.0,9.935480219593638
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Hombre,603,7424.0,0.0,7424.0,8.122306034482758
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Mujer,1144,7860.0,77.0,7783.0,14.698702299884363
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Hombre,43,692.0,0.0,692.0,6.213872832369942
-2024,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Mujer,114,937.0,43.0,894.0,12.751677852348994
-2024,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Hombre,4662,32462.0,0.0,32462.0,14.361407183784117
-2024,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Mujer,6608,38645.0,0.0,38645.0,17.099236641221374
-2024,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Hombre,2408,21797.0,0.0,21797.0,11.047391842914163
-2024,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Mujer,4908,24493.0,0.0,24493.0,20.038378312170824
-2024,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Hombre,1564,20465.0,0.0,20465.0,7.642316149523578
-2024,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Mujer,3781,34001.0,0.0,34001.0,11.120261168789153
-2024,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Hombre,4110,45011.0,0.0,45011.0,9.131101286352225
-2024,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Mujer,10998,57792.0,0.0,57792.0,19.03031561461794
-2024,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Hombre,2484,35687.0,0.0,35687.0,6.960517835626419
-2024,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Mujer,6042,44903.0,0.0,44903.0,13.455671113288645
-2024,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Hombre,4739,38766.0,0.0,38766.0,12.224629830263634
-2024,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Mujer,8446,37555.0,0.0,37555.0,22.489681800026627
-2024,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Hombre,2316,22320.0,0.0,22320.0,10.376344086021504
-2024,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Mujer,5719,26213.0,0.0,26213.0,21.817418837981155
-2024,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Hombre,191,4482.0,0.0,4482.0,4.261490406068719
-2024,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Mujer,318,4836.0,0.0,4836.0,6.575682382133994
-2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Hombre,4995,39557.0,0.0,39557.0,12.627347877746036
-2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Mujer,9283,42241.0,526.0,41715.0,22.253386072156296
-2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Hombre,6895,38767.0,0.0,38767.0,17.78574560837826
-2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Mujer,10620,45279.0,405.0,44874.0,23.66626554352186
-2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Hombre,12883,63295.0,0.0,63295.0,20.353898412196855
-2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Mujer,20268,72384.0,687.0,71697.0,28.268965228670655
-2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Hombre,4576,28331.0,0.0,28331.0,16.151918393279445
-2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Mujer,6871,34419.0,547.0,33872.0,20.28519130845536
-2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Hombre,5470,41230.0,0.0,41230.0,13.267038564152317
-2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Mujer,10943,47020.0,590.0,46430.0,23.568813267284085
-2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Hombre,4136,35776.0,0.0,35776.0,11.5608228980322
-2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Mujer,8329,40691.0,554.0,40137.0,20.7514263647009
-2025,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Hombre,573,2709.0,0.0,2709.0,21.15171650055371
-2025,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Mujer,677,2742.0,52.0,2690.0,25.16728624535316
-2025,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Hombre,216,571.0,0.0,571.0,37.828371278458846
-2025,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Mujer,539,1060.0,124.0,936.0,57.58547008547008
-2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Hombre,790,4700.0,0.0,4700.0,16.80851063829787
-2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Mujer,1146,5147.0,49.0,5098.0,22.479403687720676
-2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Hombre,923,4494.0,0.0,4494.0,20.53849577214063
-2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Mujer,866,4644.0,64.0,4580.0,18.90829694323144
-2025,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Hombre,3681,17347.0,0.0,17347.0,21.219807459503084
-2025,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Mujer,4490,19782.0,211.0,19571.0,22.94210822134791
-2025,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Hombre,1450,10788.0,0.0,10788.0,13.440860215053762
-2025,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Mujer,2054,10840.0,126.0,10714.0,19.171177898077282
-2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Hombre,1683,11093.0,0.0,11093.0,15.171729919769225
-2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Mujer,2298,11304.0,149.0,11155.0,20.6006275212909
-2025,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Hombre,2956,15761.0,0.0,15761.0,18.75515512975065
-2025,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Mujer,6171,19575.0,237.0,19338.0,31.91126279863481
-2025,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Hombre,4365,24245.0,0.0,24245.0,18.003712105588782
-2025,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Mujer,6501,26969.0,208.0,26761.0,24.29281416987407
-2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Hombre,9169,69399.0,0.0,69399.0,13.212005936684967
-2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Mujer,19011,104673.0,1290.0,103383.0,18.388903398044164
-2025,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Hombre,2959,13527.0,0.0,13527.0,21.874768980557405
-2025,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Mujer,5293,18214.0,279.0,17935.0,29.51212712573181
-2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Hombre,3146,25518.0,0.0,25518.0,12.328552394388275
-2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Mujer,8086,38099.0,542.0,37557.0,21.52994115610938
-2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Hombre,13231,76606.0,0.0,76606.0,17.271493094535675
-2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Mujer,26730,108541.0,1119.0,107422.0,24.88317104503733
-2025,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Hombre,2017,10762.0,0.0,10762.0,18.74186954097751
-2025,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Mujer,3442,14984.0,107.0,14877.0,23.13638502386234
-2025,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Hombre,2880,17669.0,0.0,17669.0,16.299733997396572
-2025,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Mujer,6982,30239.0,136.0,30103.0,23.193701624422815
-2025,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Hombre,1129,10836.0,0.0,10836.0,10.418973791066815
-2025,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Mujer,3305,18483.0,120.0,18363.0,17.998148450688888
-2025,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Hombre,6190,39397.0,0.0,39397.0,15.711856232708074
-2025,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Mujer,9802,44125.0,291.0,43834.0,22.361637085367523
-2025,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Hombre,4126,22022.0,0.0,22022.0,18.735809644900552
-2025,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Mujer,7913,32309.0,293.0,32016.0,24.71576711644178
-2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Hombre,10364,64095.0,0.0,64095.0,16.169748030267574
-2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Mujer,16491,71287.0,882.0,70405.0,23.42305234003267
-2025,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Hombre,2929,17265.0,0.0,17265.0,16.964958007529685
-2025,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Mujer,5397,27131.0,174.0,26957.0,20.020773824980527
-2025,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Hombre,934,3147.0,0.0,3147.0,29.679059421671433
-2025,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Mujer,3079,8884.0,25.0,8859.0,34.75561575798623
-2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Hombre,10530,55032.0,0.0,55032.0,19.134321849105977
-2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Mujer,16592,58732.0,608.0,58124.0,28.545867455784187
-2025,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Hombre,4276,19700.0,0.0,19700.0,21.705583756345177
-2025,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Mujer,7329,26106.0,274.0,25832.0,28.37178693093837
-2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Hombre,4603,29973.0,0.0,29973.0,15.3571547726287
-2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Mujer,7625,32224.0,323.0,31901.0,23.902072035359392
-2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Hombre,6822,34068.0,0.0,34068.0,20.024656569214514
-2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Mujer,10634,36606.0,326.0,36280.0,29.310915104740904
-2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Hombre,4883,29003.0,0.0,29003.0,16.836189359721406
-2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Mujer,9298,32261.0,466.0,31795.0,29.243591759710647
-2025,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Hombre,4988,26613.0,0.0,26613.0,18.74271972344343
-2025,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Mujer,10552,37119.0,447.0,36672.0,28.773996509598604
-2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Hombre,11952,73038.0,0.0,73038.0,16.364084449190834
-2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Mujer,19553,84734.0,1055.0,83679.0,23.3666750319674
-2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Hombre,5349,29121.0,0.0,29121.0,18.368187905635107
-2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Mujer,8775,32488.0,340.0,32148.0,27.295632698768195
-2025,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Hombre,1473,5856.0,0.0,5856.0,25.153688524590162
-2025,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Mujer,1874,6409.0,73.0,6336.0,29.577020202020204
-2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Hombre,5606,22310.0,0.0,22310.0,25.12774540564769
-2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Mujer,7101,23598.0,305.0,23293.0,30.48555359979393
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Hombre,11719,98458.0,0.0,98458.0,11.902537122427837
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Mujer,23800,117733.0,1161.0,116572.0,20.416566585457915
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Hombre,3477,45895.0,0.0,45895.0,7.575988669789738
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Mujer,7585,45439.0,402.0,45037.0,16.841707929036126
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Hombre,5339,49219.0,0.0,49219.0,10.847436965399542
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Mujer,10254,51457.0,752.0,50705.0,20.222857706340598
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Hombre,4383,25377.0,0.0,25377.0,17.271545099893604
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Mujer,8253,26583.0,290.0,26293.0,31.388582512455788
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Hombre,7010,121301.0,0.0,121301.0,5.779012539055738
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Mujer,18199,146630.0,1859.0,144771.0,12.570887815929984
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Hombre,1407,7657.0,0.0,7657.0,18.375342823560143
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Mujer,1748,8049.0,67.0,7982.0,21.899273365071412
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Hombre,58,700.0,0.0,700.0,8.285714285714285
-2025,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Mujer,135,931.0,46.0,885.0,15.254237288135593
-2025,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Hombre,6605,34071.0,0.0,34071.0,19.385988083707552
-2025,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Mujer,9814,40229.0,0.0,40229.0,24.395336697407345
-2025,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Hombre,4385,22506.0,0.0,22506.0,19.483693237358928
-2025,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Mujer,5959,25212.0,0.0,25212.0,23.635570363319054
-2025,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Hombre,2326,21981.0,0.0,21981.0,10.581866157135709
-2025,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Mujer,5773,36324.0,0.0,36324.0,15.893073450060566
-2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Hombre,6880,47480.0,0.0,47480.0,14.490311710193765
-2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Mujer,13800,60556.0,0.0,60556.0,22.78882356826739
-2025,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Hombre,5420,37389.0,0.0,37389.0,14.496242210275751
-2025,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Mujer,9342,46927.0,0.0,46927.0,19.9075159289961
-2025,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Hombre,5075,39878.0,0.0,39878.0,12.726315261547722
-2025,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Mujer,9185,38983.0,0.0,38983.0,23.56155247159018
-2025,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Hombre,4333,23798.0,0.0,23798.0,18.207412387595596
-2025,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Mujer,7142,27690.0,0.0,27690.0,25.792704947634526
-2025,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Hombre,335,4906.0,0.0,4906.0,6.828373420301672
-2025,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Mujer,445,5279.0,0.0,5279.0,8.429626823261982
+2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Hombre,1579.0,38235.0,0.0,38235.0,4.129724074800575
+2023,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Mujer,5079.0,40872.0,583.0,40289.0,12.60641862543126
+2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Hombre,3230.0,36678.0,0.0,36678.0,8.806368940509298
+2023,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Mujer,8019.0,43582.0,426.0,43156.0,18.5814255259987
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Hombre,5571.0,59842.0,0.0,59842.0,9.309515056314963
+2023,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Mujer,11632.0,69705.0,760.0,68945.0,16.87141924722605
+2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Hombre,1532.0,25967.0,0.0,25967.0,5.89979589478954
+2023,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Mujer,4392.0,31425.0,636.0,30789.0,14.264834843612977
+2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Hombre,2615.0,37621.0,0.0,37621.0,6.950905079609793
+2023,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Mujer,7086.0,43929.0,691.0,43238.0,16.38836208890328
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Hombre,2064.0,32961.0,0.0,32961.0,6.261945936106307
+2023,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Mujer,4646.0,37007.0,602.0,36405.0,12.761983244059882
+2023,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Hombre,295.0,2382.0,0.0,2382.0,12.384550797649034
+2023,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Mujer,404.0,2237.0,40.0,2197.0,18.38871187983614
+2023,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Hombre,97.0,256.0,0.0,256.0,37.890625
+2023,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Mujer,318.0,572.0,132.0,440.0,72.27272727272728
+2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Hombre,349.0,4424.0,0.0,4424.0,7.88878842676311
+2023,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Mujer,630.0,4753.0,58.0,4695.0,13.418530351437699
+2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Hombre,441.0,3751.0,0.0,3751.0,11.756864836043722
+2023,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Mujer,263.0,3851.0,42.0,3809.0,6.904699396166973
+2023,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Hombre,1189.0,16273.0,0.0,16273.0,7.306581453942113
+2023,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Mujer,2588.0,18596.0,324.0,18272.0,14.163747810858144
+2023,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Hombre,752.0,9941.0,0.0,9941.0,7.564631324816416
+2023,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Mujer,1346.0,10237.0,161.0,10076.0,13.358475585549822
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Hombre,646.0,10136.0,0.0,10136.0,6.373322809786898
+2023,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Mujer,1265.0,10432.0,141.0,10291.0,12.292294237683413
+2023,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Hombre,961.0,13915.0,0.0,13915.0,6.906216313330937
+2023,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Mujer,2722.0,17203.0,243.0,16960.0,16.04952830188679
+2023,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Hombre,1697.0,22471.0,0.0,22471.0,7.551955854212096
+2023,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Mujer,3626.0,25535.0,314.0,25221.0,14.37690813211213
+2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Hombre,5251.0,58314.0,0.0,58314.0,9.004698700140617
+2023,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Mujer,10802.0,87878.0,1335.0,86543.0,12.4816565175693
+2023,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Hombre,635.0,11031.0,0.0,11031.0,5.756504396700208
+2023,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Mujer,1873.0,15204.0,225.0,14979.0,12.504172508178115
+2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Hombre,1569.0,21945.0,0.0,21945.0,7.149692412850308
+2023,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Mujer,4292.0,32438.0,612.0,31826.0,13.485829196254635
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Hombre,6556.0,67344.0,0.0,67344.0,9.735091470658114
+2023,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Mujer,16662.0,98637.0,1192.0,97445.0,17.098876289188773
+2023,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Hombre,740.0,9914.0,0.0,9914.0,7.464192051644139
+2023,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Mujer,1855.0,14115.0,91.0,14024.0,13.227324586423276
+2023,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Hombre,1367.0,16020.0,0.0,16020.0,8.533083645443195
+2023,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Mujer,3923.0,28624.0,139.0,28485.0,13.772160786378794
+2023,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Hombre,497.0,10265.0,0.0,10265.0,4.84169508037019
+2023,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Mujer,1784.0,17917.0,119.0,17798.0,10.023598157096302
+2023,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Hombre,3654.0,34758.0,0.0,34758.0,10.512687726566545
+2023,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Mujer,7059.0,39888.0,310.0,39578.0,17.835666279246045
+2023,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Hombre,1845.0,18100.0,0.0,18100.0,10.193370165745856
+2023,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Mujer,5134.0,26190.0,246.0,25944.0,19.78877582485353
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Hombre,4496.0,61703.0,0.0,61703.0,7.286517673370825
+2023,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Mujer,11249.0,69505.0,923.0,68582.0,16.402262984456563
+2023,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Hombre,1773.0,14909.0,0.0,14909.0,11.892145683815144
+2023,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Mujer,3780.0,24083.0,156.0,23927.0,15.79805240941196
+2023,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Hombre,401.0,2668.0,0.0,2668.0,15.029985007496252
+2023,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Mujer,1689.0,8445.0,24.0,8421.0,20.057000356252228
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Hombre,4715.0,52792.0,0.0,52792.0,8.93127746628277
+2023,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Mujer,12350.0,57325.0,658.0,56667.0,21.7939894471209
+2023,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Hombre,1833.0,17396.0,0.0,17396.0,10.536905035640377
+2023,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Mujer,4624.0,22895.0,288.0,22607.0,20.453841730437475
+2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Hombre,1787.0,28897.0,0.0,28897.0,6.184032944596325
+2023,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Mujer,4429.0,31493.0,369.0,31124.0,14.230176069913893
+2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Hombre,3095.0,32978.0,0.0,32978.0,9.385044575171326
+2023,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Mujer,8152.0,36036.0,348.0,35688.0,22.84241201524322
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Hombre,2390.0,27131.0,0.0,27131.0,8.809111348641775
+2023,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Mujer,5613.0,29829.0,278.0,29551.0,18.99428107339853
+2023,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Hombre,2440.0,22426.0,0.0,22426.0,10.880228306430038
+2023,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Mujer,6522.0,31057.0,368.0,30689.0,21.2519143667112
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Hombre,5376.0,67989.0,0.0,67989.0,7.907161452587919
+2023,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Mujer,14649.0,80936.0,1177.0,79759.0,18.36657932020211
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Hombre,2425.0,26853.0,0.0,26853.0,9.030648344691468
+2023,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Mujer,5960.0,30217.0,413.0,29804.0,19.997315796537375
+2023,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Hombre,591.0,5437.0,0.0,5437.0,10.869965054257863
+2023,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Mujer,1301.0,6073.0,59.0,6014.0,21.63285666777519
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Hombre,2196.0,20657.0,0.0,20657.0,10.630778912717238
+2023,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Mujer,4507.0,21620.0,322.0,21298.0,21.161611418912575
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Hombre,3360.0,90311.0,0.0,90311.0,3.720477018303418
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Mujer,13851.0,109469.0,1613.0,107856.0,12.842122830440589
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Hombre,2156.0,46697.0,0.0,46697.0,4.616998950682056
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Mujer,6240.0,46873.0,533.0,46340.0,13.465688390159688
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Hombre,2315.0,47172.0,0.0,47172.0,4.907572288645807
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Mujer,6732.0,50391.0,804.0,49587.0,13.576138907374915
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Hombre,1810.0,23260.0,0.0,23260.0,7.781599312123817
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Mujer,4888.0,24772.0,378.0,24394.0,20.03771419201443
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Hombre,5346.0,112161.0,0.0,112161.0,4.7663626394201195
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Mujer,14309.0,138103.0,1987.0,136116.0,10.512357107173294
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Hombre,519.0,6932.0,0.0,6932.0,7.487016733987304
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Mujer,868.0,7377.0,83.0,7294.0,11.900191938579654
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Hombre,21.0,693.0,0.0,693.0,3.0303030303030303
+2023,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Mujer,120.0,934.0,49.0,885.0,13.559322033898304
+2023,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Hombre,2633.0,31783.0,0.0,31783.0,8.284302929238901
+2023,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Mujer,5770.0,37919.0,0.0,37919.0,15.216646008597273
+2023,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Hombre,2194.0,20851.0,0.0,20851.0,10.52227710901156
+2023,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Mujer,5346.0,23591.0,0.0,23591.0,22.66118434996397
+2023,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Hombre,934.0,18610.0,0.0,18610.0,5.018807092960774
+2023,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Mujer,2477.0,30917.0,0.0,30917.0,8.011773457968108
+2023,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Hombre,2736.0,42343.0,0.0,42343.0,6.461516661549725
+2023,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Mujer,8713.0,54810.0,0.0,54810.0,15.896734172596242
+2023,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Hombre,2407.0,33574.0,0.0,33574.0,7.16923810091142
+2023,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Mujer,6411.0,42365.0,0.0,42365.0,15.132774696093474
+2023,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Hombre,3471.0,35101.0,0.0,35101.0,9.88860716218911
+2023,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Mujer,8001.0,33999.0,0.0,33999.0,23.53304508956146
+2023,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Hombre,1598.0,20560.0,0.0,20560.0,7.772373540856031
+2023,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Mujer,4954.0,24280.0,0.0,24280.0,20.40362438220758
+2023,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Hombre,187.0,4231.0,0.0,4231.0,4.419758922240605
+2023,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Mujer,430.0,4569.0,0.0,4569.0,9.411249726417159
+2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Hombre,2776.0,39019.0,0.0,39019.0,7.11448268792127
+2024,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Mujer,6338.0,41839.0,492.0,41347.0,15.328802573342685
+2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Hombre,4311.0,37944.0,0.0,37944.0,11.361480075901328
+2024,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Mujer,8440.0,44621.0,401.0,44220.0,19.086386250565354
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Hombre,7473.0,62004.0,0.0,62004.0,12.052448229146506
+2024,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Mujer,13292.0,71447.0,627.0,70820.0,18.76870940412313
+2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Hombre,2556.0,27293.0,0.0,27293.0,9.365038654600081
+2024,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Mujer,4838.0,33268.0,587.0,32681.0,14.803708576848933
+2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Hombre,3179.0,39851.0,0.0,39851.0,7.977215126345638
+2024,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Mujer,7317.0,46175.0,732.0,45443.0,16.101489778403717
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Hombre,2888.0,34246.0,0.0,34246.0,8.433101676108159
+2024,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Mujer,5691.0,38644.0,538.0,38106.0,14.934655959691387
+2024,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Hombre,343.0,2526.0,0.0,2526.0,13.578780680918449
+2024,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Mujer,467.0,2489.0,29.0,2460.0,18.983739837398375
+2024,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Hombre,168.0,465.0,0.0,465.0,36.12903225806451
+2024,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Mujer,495.0,975.0,100.0,875.0,56.57142857142857
+2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Hombre,258.0,4583.0,0.0,4583.0,5.6295003272965305
+2024,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Mujer,505.0,4971.0,45.0,4926.0,10.251725537961835
+2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Hombre,597.0,4145.0,0.0,4145.0,14.402895054282267
+2024,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Mujer,490.0,4292.0,69.0,4223.0,11.603125739995264
+2024,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Hombre,1836.0,16943.0,0.0,16943.0,10.83633358909284
+2024,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Mujer,3177.0,19369.0,241.0,19128.0,16.609159347553327
+2024,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Hombre,1043.0,10352.0,0.0,10352.0,10.07534775888717
+2024,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Mujer,1620.0,10539.0,149.0,10390.0,15.591915303176132
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Hombre,884.0,10611.0,0.0,10611.0,8.33097728772029
+2024,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Mujer,1423.0,10858.0,112.0,10746.0,13.242136608970782
+2024,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Hombre,1246.0,14789.0,0.0,14789.0,8.425180877679356
+2024,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Mujer,2932.0,18385.0,251.0,18134.0,16.168523216058233
+2024,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Hombre,2517.0,23467.0,0.0,23467.0,10.725699919035241
+2024,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Mujer,4132.0,26455.0,222.0,26233.0,15.751153127739869
+2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Hombre,6362.0,64436.0,0.0,64436.0,9.873362716493887
+2024,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Mujer,14052.0,97255.0,1463.0,95792.0,14.669283447469518
+2024,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Hombre,1324.0,12345.0,0.0,12345.0,10.724989874443095
+2024,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Mujer,2679.0,16816.0,269.0,16547.0,16.19024596603614
+2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Hombre,2080.0,23683.0,0.0,23683.0,8.782671114301397
+2024,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Mujer,5594.0,34705.0,539.0,34166.0,16.37300240004683
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Hombre,8926.0,71388.0,0.0,71388.0,12.503501989129825
+2024,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Mujer,17533.0,102947.0,1193.0,101754.0,17.230772254653377
+2024,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Hombre,1192.0,10299.0,0.0,10299.0,11.573939217399747
+2024,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Mujer,2403.0,14597.0,98.0,14499.0,16.573556797020483
+2024,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Hombre,1889.0,16838.0,0.0,16838.0,11.218672051312508
+2024,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Mujer,4603.0,29394.0,148.0,29246.0,15.738904465567941
+2024,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Hombre,931.0,10578.0,0.0,10578.0,8.801285687275477
+2024,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Mujer,2521.0,18308.0,129.0,18179.0,13.867649485670277
+2024,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Hombre,4653.0,37848.0,0.0,37848.0,12.293912492073558
+2024,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Mujer,8625.0,43200.0,255.0,42945.0,20.08382815228781
+2024,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Hombre,2536.0,20018.0,0.0,20018.0,12.668598261564593
+2024,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Mujer,6143.0,29156.0,169.0,28987.0,21.192258598682166
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Hombre,6826.0,63284.0,0.0,63284.0,10.786296694267113
+2024,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Mujer,11924.0,70680.0,895.0,69785.0,17.08676649709823
+2024,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Hombre,1961.0,16145.0,0.0,16145.0,12.146175286466399
+2024,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Mujer,3911.0,25699.0,162.0,25537.0,15.31503308924306
+2024,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Hombre,597.0,2873.0,0.0,2873.0,20.779672815871912
+2024,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Mujer,1933.0,8623.0,26.0,8597.0,22.484587646853555
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Hombre,6690.0,54120.0,0.0,54120.0,12.361419068736142
+2024,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Mujer,12920.0,58437.0,599.0,57838.0,22.338255126387494
+2024,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Hombre,2576.0,18776.0,0.0,18776.0,13.719642096293141
+2024,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Mujer,5758.0,24787.0,357.0,24430.0,23.56938190749079
+2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Hombre,2427.0,29656.0,0.0,29656.0,8.183841381170758
+2024,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Mujer,5037.0,32004.0,375.0,31629.0,15.925258465332448
+2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Hombre,4516.0,33535.0,0.0,33535.0,13.466527508573131
+2024,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Mujer,7944.0,36398.0,336.0,36062.0,22.028728301258944
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Hombre,2867.0,28254.0,0.0,28254.0,10.147235789622707
+2024,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Mujer,6177.0,30873.0,450.0,30423.0,20.303717582092496
+2024,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Hombre,3171.0,24690.0,0.0,24690.0,12.84325637910085
+2024,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Mujer,7145.0,34469.0,445.0,34024.0,20.99988243592758
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Hombre,7945.0,71295.0,0.0,71295.0,11.143838978890527
+2024,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Mujer,15500.0,83380.0,1051.0,82329.0,18.8269018207436
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Hombre,3644.0,28098.0,0.0,28098.0,12.968894583244358
+2024,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Mujer,6042.0,31446.0,376.0,31070.0,19.44641132925652
+2024,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Hombre,930.0,5687.0,0.0,5687.0,16.35308598558115
+2024,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Mujer,1495.0,6206.0,60.0,6146.0,24.3247640741946
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Hombre,4031.0,21597.0,0.0,21597.0,18.66462934666852
+2024,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Mujer,5370.0,22861.0,313.0,22548.0,23.8158594997339
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Hombre,6148.0,95092.0,0.0,95092.0,6.465317797501367
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Mujer,17209.0,114465.0,1030.0,113435.0,15.170802662317625
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Hombre,2603.0,46581.0,0.0,46581.0,5.588115325991284
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Mujer,6326.0,46324.0,506.0,45818.0,13.806800820638177
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Hombre,3264.0,48254.0,0.0,48254.0,6.764206076180212
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Mujer,7197.0,50943.0,650.0,50293.0,14.31014256457161
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Hombre,2728.0,24517.0,0.0,24517.0,11.126973120691765
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Mujer,5662.0,25948.0,296.0,25652.0,22.07235303290192
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Hombre,5586.0,116909.0,0.0,116909.0,4.7780752551129515
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Mujer,14044.0,143151.0,1799.0,141352.0,9.935480219593638
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Hombre,603.0,7424.0,0.0,7424.0,8.122306034482758
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Mujer,1144.0,7860.0,77.0,7783.0,14.698702299884363
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Hombre,43.0,692.0,0.0,692.0,6.213872832369942
+2024,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Mujer,114.0,937.0,43.0,894.0,12.751677852348994
+2024,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Hombre,4662.0,32462.0,0.0,32462.0,14.361407183784117
+2024,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Mujer,6608.0,38645.0,0.0,38645.0,17.099236641221374
+2024,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Hombre,2408.0,21797.0,0.0,21797.0,11.047391842914163
+2024,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Mujer,4908.0,24493.0,0.0,24493.0,20.038378312170824
+2024,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Hombre,1564.0,20465.0,0.0,20465.0,7.642316149523578
+2024,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Mujer,3781.0,34001.0,0.0,34001.0,11.120261168789153
+2024,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Hombre,4110.0,45011.0,0.0,45011.0,9.131101286352225
+2024,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Mujer,10998.0,57792.0,0.0,57792.0,19.03031561461794
+2024,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Hombre,2484.0,35687.0,0.0,35687.0,6.960517835626419
+2024,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Mujer,6042.0,44903.0,0.0,44903.0,13.455671113288645
+2024,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Hombre,4739.0,38766.0,0.0,38766.0,12.224629830263634
+2024,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Mujer,8446.0,37555.0,0.0,37555.0,22.489681800026627
+2024,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Hombre,2316.0,22320.0,0.0,22320.0,10.376344086021504
+2024,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Mujer,5719.0,26213.0,0.0,26213.0,21.817418837981155
+2024,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Hombre,191.0,4482.0,0.0,4482.0,4.261490406068719
+2024,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Mujer,318.0,4836.0,0.0,4836.0,6.575682382133994
+2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Hombre,4995.0,39557.0,0.0,39557.0,12.627347877746036
+2025,10,Servicio de Salud Metropolitano Occidente,13103,Cerro Navia,comuna,Mujer,9283.0,42241.0,526.0,41715.0,22.253386072156296
+2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Hombre,6895.0,38767.0,0.0,38767.0,17.78574560837826
+2025,10,Servicio de Salud Metropolitano Occidente,13117,Lo Prado,comuna,Mujer,10620.0,45279.0,405.0,44874.0,23.66626554352186
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Hombre,12883.0,63295.0,0.0,63295.0,20.353898412196855
+2025,10,Servicio de Salud Metropolitano Occidente,13124,Pudahuel,comuna,Mujer,20268.0,72384.0,687.0,71697.0,28.268965228670655
+2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Hombre,4576.0,28331.0,0.0,28331.0,16.151918393279445
+2025,10,Servicio de Salud Metropolitano Occidente,13126,Quinta Normal,comuna,Mujer,6871.0,34419.0,547.0,33872.0,20.28519130845536
+2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Hombre,5470.0,41230.0,0.0,41230.0,13.267038564152317
+2025,10,Servicio de Salud Metropolitano Occidente,13128,Renca,comuna,Mujer,10943.0,47020.0,590.0,46430.0,23.568813267284085
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Hombre,4136.0,35776.0,0.0,35776.0,11.5608228980322
+2025,10,Servicio de Salud Metropolitano Occidente,13501,Melipilla,comuna,Mujer,8329.0,40691.0,554.0,40137.0,20.7514263647009
+2025,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Hombre,573.0,2709.0,0.0,2709.0,21.15171650055371
+2025,10,Servicio de Salud Metropolitano Occidente,13502,Alhué,comuna,Mujer,677.0,2742.0,52.0,2690.0,25.16728624535316
+2025,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Hombre,216.0,571.0,0.0,571.0,37.828371278458846
+2025,10,Servicio de Salud Metropolitano Occidente,13503,Curacaví,comuna,Mujer,539.0,1060.0,124.0,936.0,57.58547008547008
+2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Hombre,790.0,4700.0,0.0,4700.0,16.80851063829787
+2025,10,Servicio de Salud Metropolitano Occidente,13504,Maria Pinto,comuna,Mujer,1146.0,5147.0,49.0,5098.0,22.479403687720676
+2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Hombre,923.0,4494.0,0.0,4494.0,20.53849577214063
+2025,10,Servicio de Salud Metropolitano Occidente,13505,San Pedro,comuna,Mujer,866.0,4644.0,64.0,4580.0,18.90829694323144
+2025,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Hombre,3681.0,17347.0,0.0,17347.0,21.219807459503084
+2025,10,Servicio de Salud Metropolitano Occidente,13601,Talagante,comuna,Mujer,4490.0,19782.0,211.0,19571.0,22.94210822134791
+2025,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Hombre,1450.0,10788.0,0.0,10788.0,13.440860215053762
+2025,10,Servicio de Salud Metropolitano Occidente,13602,El Monte,comuna,Mujer,2054.0,10840.0,126.0,10714.0,19.171177898077282
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Hombre,1683.0,11093.0,0.0,11093.0,15.171729919769225
+2025,10,Servicio de Salud Metropolitano Occidente,13603,Isla de Maipo,comuna,Mujer,2298.0,11304.0,149.0,11155.0,20.6006275212909
+2025,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Hombre,2956.0,15761.0,0.0,15761.0,18.75515512975065
+2025,10,Servicio de Salud Metropolitano Occidente,13604,Padre Hurtado,comuna,Mujer,6171.0,19575.0,237.0,19338.0,31.91126279863481
+2025,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Hombre,4365.0,24245.0,0.0,24245.0,18.003712105588782
+2025,10,Servicio de Salud Metropolitano Occidente,13605,Peñaflor,comuna,Mujer,6501.0,26969.0,208.0,26761.0,24.29281416987407
+2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Hombre,9169.0,69399.0,0.0,69399.0,13.212005936684967
+2025,11,Servicio de Salud Metropolitano Central,13101,Santiago,comuna,Mujer,19011.0,104673.0,1290.0,103383.0,18.388903398044164
+2025,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Hombre,2959.0,13527.0,0.0,13527.0,21.874768980557405
+2025,11,Servicio de Salud Metropolitano Central,13102,Cerrillos,comuna,Mujer,5293.0,18214.0,279.0,17935.0,29.51212712573181
+2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Hombre,3146.0,25518.0,0.0,25518.0,12.328552394388275
+2025,11,Servicio de Salud Metropolitano Central,13106,Estación Central,comuna,Mujer,8086.0,38099.0,542.0,37557.0,21.52994115610938
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Hombre,13231.0,76606.0,0.0,76606.0,17.271493094535675
+2025,11,Servicio de Salud Metropolitano Central,13119,Maipú,comuna,Mujer,26730.0,108541.0,1119.0,107422.0,24.88317104503733
+2025,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Hombre,2017.0,10762.0,0.0,10762.0,18.74186954097751
+2025,12,Servicio de Salud Metropolitano Oriente,13113,La Reina,comuna,Mujer,3442.0,14984.0,107.0,14877.0,23.13638502386234
+2025,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Hombre,2880.0,17669.0,0.0,17669.0,16.299733997396572
+2025,12,Servicio de Salud Metropolitano Oriente,13114,Las Condes,comuna,Mujer,6982.0,30239.0,136.0,30103.0,23.193701624422815
+2025,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Hombre,1129.0,10836.0,0.0,10836.0,10.418973791066815
+2025,12,Servicio de Salud Metropolitano Oriente,13115,Lo Barnechea,comuna,Mujer,3305.0,18483.0,120.0,18363.0,17.998148450688888
+2025,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Hombre,6190.0,39397.0,0.0,39397.0,15.711856232708074
+2025,12,Servicio de Salud Metropolitano Oriente,13118,Macul,comuna,Mujer,9802.0,44125.0,291.0,43834.0,22.361637085367523
+2025,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Hombre,4126.0,22022.0,0.0,22022.0,18.735809644900552
+2025,12,Servicio de Salud Metropolitano Oriente,13120,Ñuñoa,comuna,Mujer,7913.0,32309.0,293.0,32016.0,24.71576711644178
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Hombre,10364.0,64095.0,0.0,64095.0,16.169748030267574
+2025,12,Servicio de Salud Metropolitano Oriente,13122,Peñalolén,comuna,Mujer,16491.0,71287.0,882.0,70405.0,23.42305234003267
+2025,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Hombre,2929.0,17265.0,0.0,17265.0,16.964958007529685
+2025,12,Servicio de Salud Metropolitano Oriente,13123,Providencia,comuna,Mujer,5397.0,27131.0,174.0,26957.0,20.020773824980527
+2025,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Hombre,934.0,3147.0,0.0,3147.0,29.679059421671433
+2025,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,comuna,Mujer,3079.0,8884.0,25.0,8859.0,34.75561575798623
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Hombre,3212.0,55032.0,0.0,55032.0,5.836604157581044
+2025,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,comuna,Mujer,4470.0,58732.0,608.0,58124.0,7.690454889546487
+2025,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Hombre,0.0,19700.0,0.0,19700.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,comuna,Mujer,0.0,26106.0,274.0,25832.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Hombre,0.0,29973.0,0.0,29973.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,comuna,Mujer,0.0,32224.0,323.0,31901.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Hombre,0.0,34068.0,0.0,34068.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,comuna,Mujer,0.0,36606.0,326.0,36280.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Hombre,0.0,29003.0,0.0,29003.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,comuna,Mujer,0.0,32261.0,466.0,31795.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Hombre,0.0,26613.0,0.0,26613.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,comuna,Mujer,0.0,37119.0,447.0,36672.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Hombre,5778.0,73038.0,0.0,73038.0,7.910950464141954
+2025,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,comuna,Mujer,10544.0,84734.0,1055.0,83679.0,12.600532989160959
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Hombre,0.0,29121.0,0.0,29121.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13402,Buin,comuna,Mujer,0.0,32488.0,340.0,32148.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Hombre,0.0,5856.0,0.0,5856.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,comuna,Mujer,0.0,6409.0,72.0,6337.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Hombre,0.0,22310.0,0.0,22310.0,0.0
+2025,13,Servicio de Salud Metropolitano Sur,13404,Paine,comuna,Mujer,0.0,23598.0,305.0,23293.0,0.0
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Hombre,11719.0,98458.0,0.0,98458.0,11.902537122427837
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,comuna,Mujer,23800.0,117733.0,1161.0,116572.0,20.416566585457915
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Hombre,3477.0,45895.0,0.0,45895.0,7.575988669789738
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13111,La Granja,comuna,Mujer,7585.0,45439.0,402.0,45037.0,16.841707929036126
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Hombre,5339.0,49219.0,0.0,49219.0,10.847436965399542
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13112,La Pintana,comuna,Mujer,10254.0,51457.0,752.0,50705.0,20.222857706340598
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Hombre,4383.0,25377.0,0.0,25377.0,17.271545099893604
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13131,San Ramón,comuna,Mujer,8253.0,26583.0,290.0,26293.0,31.388582512455788
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Hombre,7010.0,121301.0,0.0,121301.0,5.779012539055738
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13201,Puente Alto,comuna,Mujer,18199.0,146630.0,1859.0,144771.0,12.570887815929984
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Hombre,1407.0,7657.0,0.0,7657.0,18.375342823560143
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13202,Pirque,comuna,Mujer,1748.0,8049.0,67.0,7982.0,21.899273365071412
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Hombre,58.0,700.0,0.0,700.0,8.285714285714285
+2025,14,Servicio de Salud Metropolitano Sur Oriente,13203,San José de Maipo,comuna,Mujer,135.0,931.0,46.0,885.0,15.254237288135593
+2025,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Hombre,6605.0,34071.0,0.0,34071.0,19.385988083707552
+2025,9,Servicio de Salud Metropolitano Norte,13104,Conchalí,comuna,Mujer,9814.0,40229.0,0.0,40229.0,24.395336697407345
+2025,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Hombre,4385.0,22506.0,0.0,22506.0,19.483693237358928
+2025,9,Servicio de Salud Metropolitano Norte,13107,Huechuraba,comuna,Mujer,5959.0,25212.0,0.0,25212.0,23.635570363319054
+2025,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Hombre,2326.0,21981.0,0.0,21981.0,10.581866157135709
+2025,9,Servicio de Salud Metropolitano Norte,13108,Independencia,comuna,Mujer,5773.0,36324.0,0.0,36324.0,15.893073450060566
+2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Hombre,6880.0,47480.0,0.0,47480.0,14.490311710193765
+2025,9,Servicio de Salud Metropolitano Norte,13125,Quilicura,comuna,Mujer,13800.0,60556.0,0.0,60556.0,22.78882356826739
+2025,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Hombre,5420.0,37389.0,0.0,37389.0,14.496242210275751
+2025,9,Servicio de Salud Metropolitano Norte,13127,Recoleta,comuna,Mujer,9342.0,46927.0,0.0,46927.0,19.9075159289961
+2025,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Hombre,5075.0,39878.0,0.0,39878.0,12.726315261547722
+2025,9,Servicio de Salud Metropolitano Norte,13301,Colina,comuna,Mujer,9185.0,38983.0,0.0,38983.0,23.56155247159018
+2025,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Hombre,4333.0,23798.0,0.0,23798.0,18.207412387595596
+2025,9,Servicio de Salud Metropolitano Norte,13302,Lampa,comuna,Mujer,7142.0,27690.0,0.0,27690.0,25.792704947634526
+2025,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Hombre,335.0,4906.0,0.0,4906.0,6.828373420301672
+2025,9,Servicio de Salud Metropolitano Norte,13303,Tiltil,comuna,Mujer,445.0,5279.0,0.0,5279.0,8.429626823261982

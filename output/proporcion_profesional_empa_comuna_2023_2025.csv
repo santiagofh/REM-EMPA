@@ -728,66 +728,18 @@
 2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Medico/a,9,0.13024602026049203
 2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Nutricionista,239,3.4587554269175107
 2025,comuna,12,Servicio de Salud Metropolitano Oriente,13132,Vitacura,Otro profesional capacitado en EMP y EMPAM,829,11.997105643994212
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Enfermera/o,6338,15.877151231243266
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Matrona/on,1088,2.7255191763320723
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Medico/a,588,1.4729827901500538
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Nutricionista,2831,7.091861018562589
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Otro profesional capacitado en EMP y EMPAM,15452,38.7083844785691
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Tecnico en enfermeria,13622,34.124101305142915
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Enfermera/o,3470,19.09110915492958
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Matrona/on,20,0.11003521126760564
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Medico/a,267,1.4689700704225352
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Nutricionista,2973,16.35673415492958
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Otro profesional capacitado en EMP y EMPAM,1524,8.38468309859155
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13109,La Cisterna,Tecnico en enfermeria,9922,54.58846830985915
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Enfermera/o,7569,42.26602635693545
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Matrona/on,689,3.8474424838061205
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Medico/a,2411,13.463256645074829
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Nutricionista,1013,5.656689747598839
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Otro profesional capacitado en EMP y EMPAM,850,4.746482019209292
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13116,Lo Espejo,Tecnico en enfermeria,5376,30.020102747375475
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Enfermera/o,4277,15.248859098687964
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Matrona/on,1699,6.0574729035938395
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Medico/a,139,0.49557900741585853
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Nutricionista,3834,13.669423844837421
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Otro profesional capacitado en EMP y EMPAM,6827,24.34041642897889
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13121,Pedro Aguirre Cerda,Tecnico en enfermeria,11272,40.18824871648602
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Enfermera/o,8237,37.534745955798584
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Matrona/on,1804,8.220551378446116
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Medico/a,3571,16.272499430394166
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Nutricionista,1105,5.035315561631351
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Otro profesional capacitado en EMP y EMPAM,1,0.00455684666210982
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13129,San Joaquín,Tecnico en enfermeria,7227,32.932330827067666
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Enfermera/o,10584,43.10499307648448
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Matrona/on,1391,5.665064755233363
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Medico/a,331,1.3480491976867313
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Nutricionista,2482,10.108332654557302
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Otro profesional capacitado en EMP y EMPAM,1432,5.832043658874317
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13130,San Miguel,Tecnico en enfermeria,8334,33.9415166571638
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Enfermera/o,13310,28.814513335642534
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Matrona/on,243,0.5260651195012124
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Medico/a,301,0.6516279875303083
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Nutricionista,1707,3.6954450987183924
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Otro profesional capacitado en EMP y EMPAM,1235,2.67362313820575
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Tecnico en enfermeria,29396,63.638725320401804
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Enfermera/o,4851,24.553322872905806
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Matrona/on,219,1.108467884800324
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Medico/a,1884,9.535860707597307
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Nutricionista,799,4.0441362555043785
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Otro profesional capacitado en EMP y EMPAM,2107,10.664574581161107
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13402,Buin,Tecnico en enfermeria,9897,50.09363769803108
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Enfermera/o,917,19.399196107467738
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Matrona/on,9,0.1903955997461392
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Medico/a,55,1.1635286651152952
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Nutricionista,584,12.354558916860588
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Otro profesional capacitado en EMP y EMPAM,393,8.313941188914745
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13403,Calera de Tango,Tecnico en enfermeria,2769,58.5783795218955
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Enfermera/o,2618,14.987405541561714
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Matrona/on,105,0.6010991527364323
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Medico/a,160,0.9159606136936113
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Nutricionista,475,2.719258071902908
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Otro profesional capacitado en EMP y EMPAM,2072,11.861689947332264
-2025,comuna,13,Servicio de Salud Metropolitano Sur,13404,Paine,Tecnico en enfermeria,12038,68.91458667277307
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Enfermera/o,1841,15.91734393913194
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Matrona/on,612,5.291371260591388
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Medico/a,55,0.4755317309355006
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Nutricionista,1024,8.853536226871867
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Otro profesional capacitado en EMP y EMPAM,2940,25.419332526370397
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13105,El Bosque,Tecnico en enfermeria,5094,44.04288431609891
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Enfermera/o,6367,27.16296928327645
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Matrona/on,224,0.955631399317406
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Medico/a,234,0.9982935153583619
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Nutricionista,1376,5.870307167235495
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Otro profesional capacitado en EMP y EMPAM,520,2.218430034129693
+2025,comuna,13,Servicio de Salud Metropolitano Sur,13401,San Bernardo,Tecnico en enfermeria,14719,62.794368600682596
 2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Enfermera/o,24919,41.36276869449747
 2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Matrona/on,3072,5.099178355050212
 2025,comuna,14,Servicio de Salud Metropolitano Sur Oriente,13110,La Florida,Medico/a,1081,1.7943397792347913
